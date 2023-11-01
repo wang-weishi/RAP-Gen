@@ -1,0 +1,100 @@
+[PATCH] if(name.globalSets == 1 && name.localSets == 0 && name.aliasingGets > 0){
+[PATCH] if(name.type == Name.Type.ALIASING_GET && name.aliasingGets > 0){
+[PATCH] if(name.globalSet == 1 && name.localSets == 0 && name.aliasingGets > 0){
+[PATCH] if( name.globalSets == 1 && name.localSets == 0 && name.aliasingGets > 0){
+[PATCH] if(name. globalSets == 1 && name.localSets == 0 && name.aliasingGets > 0){
+[PATCH] if(name.globalsets == 1 && name.localSets == 0 && name.aliasingGets > 0){
+[PATCH] if(name.type == Name.Type.ALIASING_GET && name.scope == namespace){
+[PATCH] if(name.isGlobal() && name.localSets == 0 && name.aliasingGets > 0){
+[PATCH] if(name.globalSets == 1 && name.localsets == 0 && name.aliasingGets > 0){
+[PATCH] if(name.type == Name.Type.ALIASING_GETELEM && name.aliasingGets > 0){
+[PATCH] if(name.isAliased() && name.localSets == 0 && name.aliasingGets > 0){
+[PATCH] if(name.scope == namespace && name.localSets == 0 && name.aliasingGets > 0){
+[PATCH] if(name.globalSets == 0 && name.localSets == 0 && name.aliasingGets > 0){
+[PATCH] if(name.globals == null || name.localSets == 0 && name.aliasingGets > 0){
+[PATCH] if(name.globalSets ==1 && name.localSets == 0 && name.aliasingGets > 0){
+[PATCH] if(name.globalSets == 1 && name.LocalSets == 0 && name.aliasingGets > 0){
+[PATCH] if(name.global Sets == 1 && name.localSets == 0 && name.aliasingGets > 0){
+[PATCH] if(name.globalSets == 1 && name.localSets == 0 && name.aliasingGets > 0){
+[PATCH] if(name.isAliases() && name.localSets == 0 && name.aliasingGets > 0){
+[PATCH] if(name.isNamespace() && name.localSets == 0 && name.aliasingGets > 0){
+[PATCH] if(name.localSets == 1 && name.globalSets == 0 && name.aliasingGets > 0){
+[PATCH] if(name.globalSets == 1 && name.localSet == 0 && name.aliasingGets > 0){
+[PATCH] if(name.isAutoboxes() && name.localSets == 0 && name.aliasingGets > 0){
+[PATCH] if(name.globalSets == 1 && name. localSets == 0 && name.aliasingGets > 0){
+[PATCH] if(name.isLvalue() && name.localSets == 0 && name.aliasingGets > 0){
+[PATCH] if(name.isAlias() && name.localSets == 0 && name.aliasingGets > 0){
+[PATCH] if(parent.globalSets == 1 && name.localSets == 0 && name.aliasingGets > 0){
+[PATCH] if(name.global == null && name.localSets == 0 && name.aliasingGets > 0){
+[PATCH] if(name.globalSets == 1 && name.localSets == 0 && name.aliasingGet > 0){
+[PATCH] if(name.type == Name.Type.ALIASING_GET && name.scope.isLocal()){
+[PATCH] if(name.isExtern() && name.localSets == 0 && name.aliasingGets > 0){
+[PATCH] if(name.globalSets == 1 && name.localSets == 0 && name. aliasingGets > 0){
+[PATCH] if(name.state == Name.State.ALIASING_GET && name.aliasingGets > 0){
+[PATCH] if(name.globalSets == 1 && name.localSets == 0 && name.aliasingGets> 0){
+[PATCH] if(name.type == Name.Type.ALIASING_GETELEM){
+[PATCH] if(name.type == Type.ALIASING_GET && name.aliasingGets > 0){
+[PATCH] if(name.localSets == 1 && name.aliasingGets > 0){
+[PATCH] if(name.isLvalue() || name.isLocal()){
+[PATCH] if(name.aliasingGets > 0){
+[PATCH] if(name.type == Name.Type.ALIASING_GET){
+[PATCH] if(globalSets == 1 && name.localSets == 0 && name.aliasingGets > 0){
+[PATCH] if(name.isLvalue() || name.isAliasingGets > 0){
+[PATCH] if(name.type == Name.Type.ALIASING_GET && name.scope == null){
+[PATCH] if(name.globalSets == 1 && name.localSets == 0 && name.aliasingGets >0){
+[PATCH] if(name.type == Name.Type.ALIASING_GET && name.store == null){
+[PATCH] if(name.globalSets == 1 && name.localSets == 0 && name.aliasingGets < 1){
+[PATCH] if(name.type == Name.Type.ALIASING_GET && name.namespace == namespace){
+[PATCH] if(name.isLvalue() && name.type == Name.Type.ALIASING_GET){
+[PATCH] if(name.isLvalue() || name.isAlias()){
+[PATCH] if(name.globalSets == 1 && name.localSets == 0 && name.aliasingGet == 0){
+[PATCH] if(name.type == Name.Type.ALIASING_GET || name.type == Name.Type.LOCAL){
+[PATCH] if(name.isLocal() && name.aliasingGets > 0){
+[PATCH] if(name.isCollection() && name.aliasingGets > 0){
+[PATCH] if(name.isStatement() && name.aliasingGets > 0){
+[PATCH] if(name.globalSets == 1 && name.aliasingGets > 0){
+[PATCH] if(name.isNested() && name.aliasingGets > 0){
+[PATCH] if(name.isAliasingGets > 0){
+[PATCH] if(name.isLvalue() || name.isIndexedProperty()){
+[PATCH] if(scope.isGlobal() && name.aliasingGets > 0){
+[PATCH] if(name.globalSets == 1 && name.localSets == 0 && name.aliasingGets > 0){
+[PATCH] if(name.inExterns &&(name.aliasingGets > 0 || name.localSets == 0)) {
+[PATCH] if(name.isLvalue() || name.isSet()){
+[PATCH] if(name.isLvalue() || name.isLocalValue()){
+[PATCH] if(name.scope == namespace.getNameNode()){
+[PATCH] if(name.isAliasingGets()){
+[PATCH] if(name.isLvalue() || name.isTransient()){
+[PATCH] if(name.isLocal()){
+[PATCH] if(name.scope == namespace.getRootNode()){
+[PATCH] if(name.type == Type.ALIASING_GET){
+[PATCH] if(name.autoboxesTo()!= null){
+[PATCH] if(name.isAlias()){
+[PATCH] if(name.scope == namespace.getName()){
+[PATCH] if(name.isReferenced()){
+[PATCH] if(name.isQuotedString()){
+[PATCH] if(name.isQuotedName()){
+[PATCH] if(name.isaliasingGets > 0){
+[PATCH] if(name.addAliasingGets > 0){
+[PATCH] if(name.isExtern()){
+[PATCH] if(isAliasingDeclaration(name)) {
+[PATCH] if(name.isPropertyInExterns()){
+[PATCH] if(name.isArithmetic()){
+[PATCH] if(name.isAliasingGet()){
+[PATCH] if(name.scope == namespace){
+[PATCH] if(name.scope == namespace.getName();
+[PATCH] if(name.isAssignmentOp()){
+[PATCH] if(name.isQuoted()){
+[PATCH] if(name.isNested()){
+[PATCH] if(name.isAliases()){
+[PATCH] if(name.isDot()){
+[PATCH] if(name.props!= null){
+[PATCH] if(name.isInline()){
+[PATCH] if(name.hasReferences()){
+[PATCH] if(name.node == null){
+[PATCH] if(name.hasAliases()){
+[PATCH] if(scope.isLocal()){
+[PATCH] ;
+[PATCH] if
+
+);
+;

@@ -1,0 +1,100 @@
+[PATCH] if(markers!= null){ if(marker == null){ throw new IllegalArgumentException(""); }
+[PATCH] marker.setPaint(this.domainMarkerPaint);
+[PATCH] marker.setPaint(this.domainDomainMarkers.get(index));
+[PATCH] if(markers.isEmpty()){ if(!notify){ throw new IllegalArgumentException(""); }
+[PATCH] if(markers!= null){ if(!notify){ throw new IllegalArgumentException(""); }
+[PATCH] if(markers!= null){ if(marker == null){ return false; }
+[PATCH] markers.remove(marker);
+[PATCH] marker.setPaint(this.backgroundDomainMarkers.get(index));
+[PATCH] if(markers!= null){ if(!markers.isEmpty()){ return false; }
+[PATCH] if(markers.isEmpty()){ if(!notify){ return false; }
+[PATCH] marker.setStroke(this.backgroundRangeMarkers.get(index));
+[PATCH] while(markers.size() > 0){ markers.remove(0);
+[PATCH] if(marker!= null){ if(markers.size() == 0){ return false; }
+[PATCH] marker.setStroke(this.backgroundDomainMarkers.get(index));
+[PATCH] if(markers!= null){ if(!notification){ throw new IllegalArgumentException(""); }
+[PATCH] Validate.notNull(markers);
+[PATCH] if(markers!= null){ if(marker == null){ markers.remove(0); }
+[PATCH] if(markers.isEmpty()){ if(!notification){ throw new IllegalArgumentException(""); }
+[PATCH] marker.setStroke(this.domainCrosshairStroke);
+[PATCH] if(marker!= null){ if(markers == null){ throw new IllegalArgumentException(""); }
+[PATCH] marker.setPaint(this.domainDomainMarkers.remove(index));
+[PATCH] marker.setPaint(null); marker.setStroke(null);
+[PATCH] if(markers!= null){ if(marker == null){ markers.clear(); }
+[PATCH] Collections.sort(markers);
+[PATCH] marker.setStroke(this.getItemStroke(index));
+[PATCH] if(markers == null){ if(!notify){ throw new IllegalArgumentException(""); }
+[PATCH] if(marker!= null){ if(markers == null){ markers.clear(); }
+[PATCH] marker.setPaint(this.domainDomainMarkerPaint);
+[PATCH] while(markers.size() > 1){ markers.remove(0);
+[PATCH] markers.remove(0, index);
+[PATCH] marker.setStroke(this.getDomainMarkerStroke(index));
+[PATCH] marker.setPaint(this.domainMarkerPaint); markers.remove(0);
+[PATCH] marker.setPaint(this.domainDomainMarkers[index].getPaint());
+[PATCH] if(markers!= null){ if(!notify){ return false; }
+[PATCH] if(markers.isEmpty()){ throw new IllegalArgumentException(""); }
+[PATCH] marker.setPaint(null);
+[PATCH] marker.setStroke(this.getMarkerStroke(index));
+[PATCH] marker.setStroke(this.domainMarkerStroke);
+[PATCH] marker.setPaint(this.domainLabelPaint);
+[PATCH] marker.setStroke(this.getDomainStroke(index));
+[PATCH] markers.clear();
+[PATCH] marker.setPaint(this.domainDomainLinePaint);
+[PATCH] marker.setPaint(this.domainLinePaint);
+[PATCH] marker.setPaint(Color.black);
+[PATCH] marker.setPaint(this.defaultDomainMarkerPaint);
+[PATCH] marker.setPaint(this.domainOutlinesPaint);
+[PATCH] marker.setStroke(this.legendItems[index]);
+[PATCH] marker.setStroke(this.defaultStroke);
+[PATCH] marker.setPaint(this.domainAreaPaint);
+[PATCH] Preconditions.checkNotNull(markers);
+[PATCH] Arrays.sort(markers);
+[PATCH] marker.setStroke(this.domainStroke);
+[PATCH] removeMarker(marker);
+[PATCH] this.backgroundRangeMarkers.remove(marker);
+[PATCH] markers.remove(0);
+[PATCH] markers.remove(index, marker);
+[PATCH] markers.remove(0, marker);
+[PATCH] markers.remove(marker);
+[PATCH] markers.remove(index, null);
+[PATCH] marker.setStroke(null);
+[PATCH] markers.remove(0, layer);
+[PATCH] marker.removeChangeListener(this);
+[PATCH] marked.remove(marker);
+[PATCH] Validate.notEmpty(markers);
+[PATCH] markers.remove(index, layer);
+[PATCH] assert(markers!= null);
+[PATCH] Collections.reverse(markers);
+[PATCH] removeAllAnnotations(markers);
+[PATCH] removeUnusedAnnotations(markers);
+[PATCH] return!markers.isEmpty();
+[PATCH] marking.remove(marker);
+[PATCH] marker.setAll(markers);
+[PATCH] Validate.notNull(marker);
+[PATCH] marker.setVisible(false);
+[PATCH] marker.setVisible(true);
+[PATCH] marker.detachFromParent();
+[PATCH] markers.remove(layer);
+[PATCH] removeAll(markers);
+[PATCH] markers.add(marker);
+[PATCH] markers.remove(index);
+[PATCH] removeAllMarker(marker);
+[PATCH] mark(marker);
+[PATCH] markAll(markers);
+[PATCH] markers.clear();
+[PATCH] Markers.remove(marker);
+[PATCH] entities.remove(marker);
+[PATCH] removeAllMarker(markers);
+[PATCH] markers.trim(index);
+[PATCH] RemoveMarker(marker);
+[PATCH] markers.trim();
+[PATCH] marker.clear();
+[PATCH] prune(markers);
+[PATCH] clean(markers);
+[PATCH] marker.reset();
+[PATCH] ;
+
+);
+;
+*/
+());

@@ -1,0 +1,100 @@
+[PATCH] while(len < len){ len = len + 1;
+[PATCH] while(len < len){ len = Math.min(len + 1, len);
+[PATCH] while(len < len){ len = Math.min(len + 1, len); }
+[PATCH] _currentSegment = Arrays.copyOf(curr, len + 1);
+[PATCH] while(len < _currentSize){ len = len + 1;
+[PATCH] while(len <(_currentSize - 1): len = _currentSize - 1);
+[PATCH] while(len < len){ _currentSegment = Arrays.copyOf(curr, 0);
+[PATCH] while(len <(_currentSize - 1)* len +=(len >> 1));
+[PATCH] while(len <(len - 1)) { len = len + 1;
+[PATCH] while(len < _currentSize){ curr = Arrays.copyOf(curr, 0);
+[PATCH] while(len <(len + 1)) { len = len + 1; }
+[PATCH] while(len <(len + 1)) { len = len + 1;
+[PATCH] while(len < len){ len = len + 1; }
+[PATCH] while(len <(len - 1)) { len = len + 1; }
+[PATCH] while(len < len){ len = Arrays.min(len + 1, len);
+[PATCH] while(len < MAX_SEGMENT_LEN){ len = len + 1;
+[PATCH] _currentSegment = Arrays.copyOf(curr, len);
+[PATCH] while(len <(_currentSize - 1)) { len = len + 1; }
+[PATCH] while(len < len){ curr = Arrays.copyOf(curr, 0);
+[PATCH] while(len <(_currentSize - 1)) { len = len + 1;
+[PATCH] if(len < MIN_SEGMENT_LEN){ ensureCapacity(len + 1); }
+[PATCH] _currentSegment = Arrays.copyOf(curr, len + MIN_SEGMENT_LEN);
+[PATCH] while(len < len){ curr[len++] =(char)(len >> 1);
+[PATCH] while(len < len){ curr[len++] =(char)0;
+[PATCH] while(len < _currentSize){ curr[len++] =(char)0;
+[PATCH] while(len < len){ _currentSegment = Arrays.copyOf(curr, null);
+[PATCH] while(len < MIN_SEGMENT_LEN){ len = len + 1;
+[PATCH] len = Math.min(len, len + 1);
+[PATCH] while(len < len){ len = Arrays.min(len + 1, len); }
+[PATCH] while(len <(_currentSize - 1): len +=(len >> 1);
+[PATCH] while(len < len){ curr = Arrays.copyOf(curr, 0); }
+[PATCH] len = Math.min(len + len, MAX_SEGMENT_LEN);
+[PATCH] len = Math.min(len, MIN_SEGMENT_LEN);
+[PATCH] while(len < MAX_SEGMENT_LEN + 1){ len = len + 1; }
+[PATCH] while(len < len){ ensureCapacity(len + 1);
+[PATCH] while(len < _currentSize){ curr = Arrays.copyOf(curr, len);
+[PATCH] while(len < _currentSize){ curr[len++] = '1';
+[PATCH] while(len < len){ curr[len++] =(char)(len - 1);
+[PATCH] while(len < len){ len = Math.min(len, len + 1);
+[PATCH] while(len <(_currentSize - 1): len +=(len >> 1));
+[PATCH] while(len <(len + 1), len = len - 1);
+[PATCH] _currentSegment = Arrays.copyOf(curr, len - 1);
+[PATCH] while(len <(_currentSize - 1)* len +=(len >> 1);
+[PATCH] while(len < len - MIN_SEGMENT_LEN){ len = len + 1;
+[PATCH] len = Math.min(len + 1, len - 1);
+[PATCH] while(len < len){ --len; }
+[PATCH] while(len < len){ curr[len++] = '1';
+[PATCH] while(len < len){ len += Math.min(1, len + 1);
+[PATCH] while(len < len){ cur = Arrays.copyOf(curr, 0);
+[PATCH] while(len < len){ len = Arrays.min(len, len + 1);
+[PATCH] _currentSegment = Arrays.copyOf(curr, 0);
+[PATCH] while(len < len){ len = len - 1;
+[PATCH] len = Math.min(len, MIN_SEGMENT_LEN + 1);
+[PATCH] while(len < len){ len = Math.min(len, len + 1); }
+[PATCH] while(len <(_currentSize - 1)) { len +=(len >> 1); }
+[PATCH] while(len < 0){ len = len + 1;
+[PATCH] while(len < len){ len = Math.max(len + 1, 0); }
+[PATCH] while(len < _currentSize){ len = len + 1; }
+[PATCH] _currentSegment = Arrays.copyOf(curr, len+1);
+[PATCH] len = Math.min(len + 1, len);
+[PATCH] while(len < len){ len += Math.min(1, len - 1);
+[PATCH] len = Math.min(len, MAX_SEGMENT_LEN + 1);
+[PATCH] while(len < MAX_SEGMENT_LEN){ len = len + 1; }
+[PATCH] _currentSegment = Arrays.copyOf(0, len);
+[PATCH] _currentSegment = Arrays.copyOf(curr, null);
+[PATCH] while(len <(len >> 1)) { len = len + 1;
+[PATCH] while(len < _currentSize){ curr[len++] = 0;
+[PATCH] while(len < _currentSize){ curr = Arrays.copyOf(curr, null);
+[PATCH] while(len < len){ len += 1;
+[PATCH] while(len > len){ len = len - 1;
+[PATCH] _currentSegment = Arrays.copyOfRange(curr, 0, len);
+[PATCH] while(len < len){ len = Math.min(len+1, len);
+[PATCH] while(len < len){ cur = Arrays.copyOf(curr, 0); }
+[PATCH] while(len < MIN_SEGMENT_LEN){ len = len + 1; }
+[PATCH] while(len < len){ ++len; }
+[PATCH] while(len < _currentSize){ len = 0;
+[PATCH] while(len < len + 1){ len = len + 1;
+[PATCH] len = Math.min(len, MAX_SEGMENT_LEN);
+[PATCH] while(len < len){ curr[len++] = 0;
+[PATCH] len = Math.max(len + 1, len - 1);
+[PATCH] while(len < _currentSize){ expandCurrentSegment();
+[PATCH] while(len < len + 1){ len = len + 1; }
+[PATCH] while(len < len){ len = length + 1;
+[PATCH] while(len < _currentSize){ ++len; }
+[PATCH] while(len < len){ len -= 1;
+[PATCH] while(len < len){ --len;
+[PATCH] while(len < len){ len = len+1;
+[PATCH] while(len < _currentSize){ --len; }
+[PATCH] while(len < len){ _expand(1);
+[PATCH] while(len < len){ expandCurrentSegment();
+[PATCH] while(len < len){ len = 0;
+[PATCH] while(len < len){ ++len;
+[PATCH] while(len < len){ expandSegment();
+[PATCH] while(len < len){ }
+[PATCH] expand(len + 1);
+[PATCH] while(len < len){
+[PATCH] expand(len);
+[PATCH] --len;
+[PATCH] clearSegments();
+[PATCH] size();

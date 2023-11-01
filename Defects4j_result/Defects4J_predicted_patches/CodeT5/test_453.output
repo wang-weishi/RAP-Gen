@@ -1,0 +1,100 @@
+[PATCH]
+[PATCH] else if(actualTypeArgument instanceof TypeVariable<?>){
+[PATCH] } else if(actualTypeArgument instanceof TypeVariable<?>){
+[PATCH] } else if(actualTypeArgument instanceof TypeVariable<?>){
+[PATCH] else if(actualTypeArgument instanceof TypeVariable<?>){
+[PATCH] if(actualTypeArgument instanceof TypeVariable<?>){
+[PATCH] if(wildcard.equals(actualTypeArgument)) {
+[PATCH] else if(actualTypeArgument instanceof Class<?>){
+[PATCH] _registerWantedTypeParameters(actualTypeArgument);
+[PATCH] result = contextualActualTypeParameters.get(typeParameter);
+[PATCH] contextualActualTypeParameters.put(typeParameter, null);
+[PATCH] if(wildcard.equals( actualTypeArgument)) {
+[PATCH] else if(actualTypeArgument instanceof Class<?>){
+[PATCH] } else if(actualTypeArgument instanceof Class<?>){
+[PATCH] else if(actualTypeArgument instanceof UnionType){
+[PATCH] else if(actualTypeArgument instanceof TypeVariable<?>){
+[PATCH] currentExploredClass = classType.getRawType();
+[PATCH] typeVariable.setActualTypeArguments(actualTypeArguments[i]);
+[PATCH] (( WildcardType)actualTypeArgument).wildcard = true;
+[PATCH] (new TypeVarBoundedType(actualTypeArgument));
+[PATCH] Preconditions.checkNotNull(actualTypeArgument);
+[PATCH] if(wildcard.equals(actualTypeArgument)) {
+[PATCH] if(actualTypeArgument instanceof Class<?>){
+[PATCH] if(actualTypeArgument instanceof TypeVariable<?>){
+[PATCH] NotGenericReturnTypeSupport.registerTypeVariablesOn( classType);
+[PATCH] NotGenericReturnTypeSupport.registerTypeVariablesOn(className);
+[PATCH] _registerWantedTypeVariablesOn(classType);
+[PATCH] (( WildcardType)actualTypeArgument).wildcard = null;
+[PATCH] e.throw_exception(ILLEGAL_TYPE);
+[PATCH] super.registerTypeVariablesOn(actualTypeArgument);
+[PATCH] else if(actualTypeArgument instanceof UnionType){
+[PATCH] } else if(actualTypeArgument instanceof Class<?>){
+[PATCH] } else if(actualTypeArgument instanceof UnionType){
+[PATCH] while(actualTypeArgument instanceof TypeVariable<?>){
+[PATCH] (( WildcardType)actualTypeArgument).wildcard = false;
+[PATCH] _registerTypeVariablesOn(actualTypeArgument);
+[PATCH] else if(actualTypeArgument instanceof WildcardType){
+[PATCH] ( new TypeVarBoundedType(actualTypeArgument));
+[PATCH] if(wildcard.equals( actualTypeArgument)) {
+[PATCH] elseif(actualTypeArgument instanceof TypeVariable<?>){
+[PATCH] super.registerTypeVariablesOn(classType);
+[PATCH] } else if(actualTypeArgument instanceof UnionType){
+[PATCH] super.registerTypeVariablesOn( classType);
+[PATCH] else if(actualTypeArgument instanceof WildcardType){
+[PATCH] if(actualTypeArgument instanceof Class<?>){
+[PATCH] typeVariable.setMaximumFractionDigits(-1);
+[PATCH] while(actualTypeArgument instanceof TypeVariable<?>){
+[PATCH] if(actualTypeArgument instanceof UnionType){
+[PATCH] if(actualTypeArgument instanceof WildcardType){
+[PATCH] typeVariable.setBounds(actualTypeArgument);
+[PATCH] while(actualTypeArgument instanceof WildcardType){
+[PATCH] else if(actualTypeArgument instanceof TypeVariableDefinition){
+[PATCH] while(actualTypeArgument instanceof WildcardType){
+[PATCH] else if(actualTypeArgument instanceof ParameterizedType){
+[PATCH] e.checkNotNull(actualTypeArgument);
+[PATCH] if(actualTypeArgument instanceof WildcardType){
+[PATCH] if(actualTypeArgument instanceof UnionType){
+[PATCH] Preconditions.checkNotNull(wildcard);
+[PATCH] if(actualTypeArgument instanceof ParameterizedType){
+[PATCH] if(wildcard instanceof WildcardType){
+[PATCH] checkNotNull( actualTypeArgument);
+[PATCH] if(wildcard instanceof WildcardType){
+[PATCH] valueOf( actualTypeArgument);
+[PATCH] checkNotNull(actualTypeArgument);
+[PATCH] @SuppressWarnings("resource")
+[PATCH] @SuppressWarnings("resource")
+[PATCH] if(wildcard!= null){
+[PATCH] if(wildcard == null){
+[PATCH] if(wildcard!= null){
+[PATCH] throw new IllegalStateException("");
+[PATCH] throw new IllegalArgumentException("");
+[PATCH] checkNotNull(wildcard);
+[PATCH] _throwInternal();
+[PATCH] enhancer
+[PATCH] alphabetic
+[PATCH] ofTypeParameters
+[PATCH] Enhancer
+[PATCH] valueOf(
+[PATCH]
+[PATCH] continue;
+[PATCH] NOP
+[PATCH] return;
+[PATCH] typeVariable
+[PATCH] (
+[PATCH] this.
+[PATCH] ForInitializer
+[PATCH] valueOf
+[PATCH] seal
+[PATCH] this.
+[PATCH] 2
+[PATCH] #
+[PATCH] ;
+[PATCH] 1
+[PATCH] //
+[PATCH] //
+[PATCH],
+[PATCH] ""
+[PATCH]!
+[PATCH] e
+[PATCH] +

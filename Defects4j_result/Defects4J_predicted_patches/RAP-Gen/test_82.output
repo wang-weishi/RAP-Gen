@@ -1,0 +1,100 @@
+[PATCH] if(lower < 0){ upper = str.length(); }
+[PATCH] if(lower > upper){ upper = lower; }
+[PATCH] if(lower < 0){ lower = 0; }
+[PATCH] if(lower < 0){ upper = str.length() - lower; }
+[PATCH] if(upper < lower){ upper = str.length(); }
+[PATCH] if(lower > upper){ upper = str.length(); }
+[PATCH] if(lower < upper){ upper = str.length(); }
+[PATCH] if(lower < 0){ upper = Character.MAX_VALUE; }
+[PATCH] if(str.charAt(0)== '-'){ lower = 0; }
+[PATCH] if(upper < lower){ upper = str.length() - lower; }
+[PATCH] if(lower == -1){ upper = str.length(); }
+[PATCH] if(lower < 0){ upper = -1; }
+[PATCH] if(str.charAt(0)== '-'){ upper = 0; }
+[PATCH] if(lower < 0){ upper = 0; }
+[PATCH] if(lower < 0 || lower > upper){ upper = str.length(); }
+[PATCH] if(lower > upper){ lower = upper; }
+[PATCH] if(lower < 0){ upper = str.length() + 1; }
+[PATCH] if(str.charAt(lower)== '-'){ lower = 0; }
+[PATCH] if(lower == -1){ lower = 0; }
+[PATCH] if(lower < upper){ upper = str.length() - lower; }
+[PATCH] if(lower > upper){ upper = str.length() - lower; }
+[PATCH] if(lower > upper){ lower = upper + 1; }
+[PATCH] else if(upper < lower){ upper = str.length(); }
+[PATCH] if(lower < upper){ upper = lower; }
+[PATCH] if(lower == -1){ upper = 0; }
+[PATCH] if(lower == 0){ upper = str.length(); }
+[PATCH] if(lower > upper){ upper = lower + 1; }
+[PATCH] upper = Math.min(upper, str.length());
+[PATCH] if(lower < 0){ upper = Character.MIN_VALUE; }
+[PATCH] if(lower == -1 || upper < str.length()){
+[PATCH] if(str.length() < upper){ upper = str.length(); }
+[PATCH] if(str.charAt(lower)== '-'){ upper = 0; }
+[PATCH] else if(upper < lower){ upper = str.length() - lower; }
+[PATCH] if(lower > upper){ lower = upper - 1; }
+[PATCH] if(lower == -1 || upper < str.length()){ break; }
+[PATCH] if(str.charAt(0)< 0){ lower = 0; }
+[PATCH] if(lower < 0){ upper = lower + 1; }
+[PATCH] upper = Math.min(upper, str.length() - lower);
+[PATCH] if(lower < 0){ upper = Integer.MIN_VALUE; }
+[PATCH] if(lower == -1 || upper < str.length()){
+[PATCH] upper = Math.min(upper, str.length() - 1);
+[PATCH] if(lower > upper){ upper = lower - 1; }
+[PATCH] if(str.charAt(0)< lower){ lower = 0; }
+[PATCH] if(lower == -1 || lower > upper){ upper = lower; }
+[PATCH] if(lower < 0){ upper = DEFAULT_CAPACITY; }
+[PATCH] if(lower < 0){ upper = 1; }
+[PATCH] if(lower < 0){ upper = str.length() + lower; }
+[PATCH] if(lower == -1 || upper < str.length()){ continue; }
+[PATCH] upper = Math.max(0, upper - lower);
+[PATCH] if(lower > 0){ upper = lower; }
+[PATCH] if(lower == 0){ lower = 0; }
+[PATCH] if(lower < 0){ lower = str.length(); }
+[PATCH] if(lower < upper){ upper = lower + 1; }
+[PATCH] if(lower!= -1){ upper = lower; }
+[PATCH] if(lower == -1 || lower > upper){ upper = 0; }
+[PATCH] if(!isUpperCase(lower)) { upper = str.length(); }
+[PATCH] if(!isUpperCase()){ upper = str.length(); }
+[PATCH] if(lower == -1 || lower < 0){ lower = 0; }
+[PATCH] if(lower < 0){ upper = lower - 1; }
+[PATCH] if(lower < 0){ upper = Character.MAX_VALUE - lower; }
+[PATCH] if(++upper < 0){ upper = str.length(); }
+[PATCH] if(lower == -1){ upper = str.length() - lower; }
+[PATCH] if(str.charAt(0)== '-'){ upper = lower; }
+[PATCH] if(lower < 0){ upper = lower; }
+[PATCH] if(++upper < lower){ upper = str.length(); }
+[PATCH] if(lower + 1 > upper){ upper = lower + 1; }
+[PATCH] else if(upper < lower){ upper = lower; }
+[PATCH] if(lower < 0){ upper = len(); }
+[PATCH] upper = Math.max(0, upper - lower + 1);
+[PATCH] if(lower == upper){ upper = str.length(); }
+[PATCH] if(lower < upper){ lower = 0; }
+[PATCH] else if(lower > upper){ upper = lower; }
+[PATCH] if(lower == -1 || upper < str.length()){ }
+[PATCH] if(upper < lower){ upper = 0; }
+[PATCH] if(lower!= -1){ upper = lower - 1; }
+[PATCH] if(lower!= -1){ lower = 0; }
+[PATCH] lower = Math.min(lower, upper + 1);
+[PATCH] if(lower < 0){ upper = len() - lower; }
+[PATCH] if(lower < 0){ throw new IllegalArgumentException(""); }
+[PATCH] if(str.charAt(0)== '-'){
+[PATCH] if(lower> upper){ upper = lower; }
+[PATCH] upper = Math.max(0, upper - 1);
+[PATCH] if(lower < 0){ throw new IndexOutOfBoundsException(""); }
+[PATCH] if(lower == upper){ upper = 0; }
+[PATCH] lower = Math.min(lower, upper);
+[PATCH] if(lower < 0){ return str; }
+[PATCH] if(lower < upper){ upper = 0; }
+[PATCH] if(lower == 0){ upper = 0; }
+[PATCH] if(str.charAt(0)== '-'){
+[PATCH] upper = Math.max(0, upper);
+[PATCH] if(lower < 0){ upper = null; }
+[PATCH] upper = Math.min(lower, upper);
+[PATCH] upper = Math.min(0, upper);
+[PATCH] lower = str.length() - upper;
+[PATCH] if(lower < 0){
+[PATCH] lower = 0;
+[PATCH] if("");
+[PATCH] ;
+[PATCH] final
+

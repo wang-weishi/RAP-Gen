@@ -1,0 +1,100 @@
+[PATCH] } else if(parent.getJSType()!= null && parent.isAssign()){
+[PATCH] } else if(childType.equals(getNativeType(ARRAY_TYPE))){
+[PATCH] } else if(n.getJSType()!= null &&!t.inGlobalScope()){
+[PATCH] } else if(n.getJSType()!= null &&!childType.isObject()){
+[PATCH] } else if(childType == null && parent.getType()!= Token.ASSIGN){
+[PATCH] } else if(parent.getType()!= null && parent.isAssign()){
+[PATCH] } else if(childType.isUnknownType()){
+[PATCH] } else if(parent.getType()!= null && parent.getJSType()!= null){
+[PATCH] } else if(parent!= null && parent.getType() == Token.ASSIGN){
+[PATCH] } else if(n.getType() == Token.FUNCTION){
+[PATCH] } else if(childType.equals(n.getJSType())) {
+[PATCH] } else if(childType.equals(getNativeType(NO_OBJECT_TYPE))){
+[PATCH] } else if(parent!= null && parent.getType()!= Token.ASSIGN){
+[PATCH] } else if(childType.isString()){
+[PATCH] } else if(n.getJSType()!= null &&!childType.isString()){
+[PATCH] } else if(parent == null && parent.getType()!= Token.ASSIGN){
+[PATCH] } else if(parent!= null && parent.getType() == Token.FUNCTION){
+[PATCH] } else if(childType.matchesObjectContext() &&!t.inGlobalScope()){
+[PATCH] } else if(childType.getJSType()!= null && childType.isString()){
+[PATCH] } else if(objNode == null && parent.getType()!= Token.ASSIGN){
+[PATCH] } else if(objNode == null || parent.getType()!= Token.ASSIGN){
+[PATCH] } else if(n.getJSType()!= null && childType.isUnknownType()){
+[PATCH] } else if(childType.matchesObjectContext()){
+[PATCH] } else if(childType.equals(getNativeType(NULL_TYPE))){
+[PATCH] } else if(parent!= null && parent.getJSType()!= null){
+[PATCH] } else if(n.getJSType()!= null && parent.isAssign()){
+[PATCH] } else if(n.getJSType()!= null &&!t.inExterns()){
+[PATCH] } else if(childType.isUnknownType() &&!t.inGlobalScope()){
+[PATCH] } else if(parent.getType() == Token.FUNCTION){
+[PATCH] } else if(childType.isNone()){
+[PATCH] } else if(childType.equals(getNativeType(UNKNOWN_TYPE))){
+[PATCH] } else if(n.getJSType()!= null && childType.isString()){
+[PATCH] } else if(childType.equals(getNativeType(NUMBER_TYPE))){
+[PATCH] } else if(!t.inGlobalScope()){
+[PATCH] } else if(parent.getJSType()!= null &&!t.inGlobalScope()){
+[PATCH] } else if(childType.isVoid()){
+[PATCH] } else if(n.getType() == Token.GETPROP){
+[PATCH] } else if(childType.equals(getNativeType(VOID_TYPE))){
+[PATCH] } else if(parent.getType()!= null &&!t.inGlobalScope()){
+[PATCH] } else if(n.getJSType()!= null && childType.matchesObjectContext()){
+[PATCH] } else if(childType.equals(getNativeType(NO_TYPE))){
+[PATCH] } else if(childType.getJSType()!= null && childType.isObject()){
+[PATCH] } else if(parent == null || parent.getType()!= Token.ASSIGN){
+[PATCH] } else if(childType.getJSType()!= null && childType.isVoid()){
+[PATCH] } else if(NodeUtil.isExpressionNode(parent)) {
+[PATCH] } else if(!t.getInput().isExtern()){
+[PATCH] } else if(n.getJSType()!= null && childType.isVoid()){
+[PATCH] } else if(parent.getJSType()!= null && parent.isExpression()){
+[PATCH] } else if(childType.isEmpty()){
+[PATCH] } else if(childType == null && parent.getJSType()!= null){
+[PATCH] } else if(childType.isEmpty() && parent.getType()!= Token.FUNCTION){
+[PATCH] } else if(!t.getInput().getName().equals("prototype")) {
+[PATCH] } else if(childType.isFunctionPrototype()){
+[PATCH] } else if(parent.getJSType()!= null && parent.isQualifiedName()){
+[PATCH] } else if(childType == null &&!t.inGlobalScope()){
+[PATCH] } else if(parent!= null && parent.getType()!= Token.GETPROP){
+[PATCH] } else if(childType.equals(getNativeType(UNSAFE_TYPE))){
+[PATCH] } else if(childType.matchesObjectLitKey(objNode)) {
+[PATCH] } else if(objNode == null || parent.getType()!= Token.GETPROP){
+[PATCH] } else if(childType.matchesObjectLitKey(n)) {
+[PATCH] } else if(parent.getType()!= null && parent.isQualifiedName()){
+[PATCH] } else if(parent.getType()!= null && parent.isExpression()){
+[PATCH] } else if(n.getType() == Token.GETELEM){
+[PATCH] } else if(childType.matchesObjectLitKey(n, parent)) {
+[PATCH] } else if(childType.isFunction()){
+[PATCH] } else if(childType.isNativeType()){
+[PATCH] } else if(parent.getType() == Token.ASSIGN){
+[PATCH] } else if(childType.isNoType()){
+[PATCH] } else if(t.inGlobalScope()){
+[PATCH] } else if(childType.matchesObjectLitKey(property)) {
+[PATCH] } else if(childType.isAll()){
+[PATCH] } else if(childType.isQualifiedName()){
+[PATCH] } else if(childType.isEnum()){
+[PATCH] } else if(n.getType() == Token.NAME){
+[PATCH] } else if(parent!= null && parent.isAssign()){
+[PATCH] } else if(!n.hasChildren()){
+[PATCH] } else if(childType.isObject()){
+[PATCH] } else if(!t.inExterns()){
+[PATCH] } else if(childType.isAssign()){
+[PATCH] } else if(childType.matchesObject()){
+[PATCH] } else if(childType.isShort()){
+[PATCH] } else if(childType.equals(objectType)) {
+[PATCH] } else if(childType.isArray()){
+[PATCH] } else if(childType.isList()){
+[PATCH] } else if(childType.isVarArgs()){
+[PATCH] } else if(childType.isTemplateType()){
+[PATCH] } else if(!property.isString()){
+[PATCH] } else if(childType.isAny()){
+[PATCH] } else if(childType.isUnknown()){
+[PATCH] } else if(!n.isQualifiedName()){
+[PATCH] } else if(childType instanceof EnumType){
+[PATCH] } else if(noTypeCheck()){
+[PATCH] } else {
+[PATCH] } else if
+[PATCH] return;
+[PATCH] }){
+[PATCH] });
+[PATCH] ;
+[PATCH] {
+[PATCH] }

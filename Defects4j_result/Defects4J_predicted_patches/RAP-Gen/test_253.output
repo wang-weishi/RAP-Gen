@@ -1,0 +1,100 @@
+[PATCH] if(i < end){ if(o & 0x80)!= 0x80){ return false; }
+[PATCH] if(i < end){ if(( o & 0x80)!= 0x80){ return false; }
+[PATCH] while(i < end){ o = input[i];
+[PATCH] if(( o & 0x80)!= 0x00){ if(i >= end){ return false; }
+[PATCH] if(( o & 0x80)!= 0x80){ if(i >= end){ return false; }
+[PATCH] while(i < end){ if(o & 0x80)!= 0x80){ return false; }
+[PATCH] if(( o & 0x80)!= 0x00){ return false; }
+[PATCH] if(( o & 0x800)!= 0x00){ if(i >= end){ return false; }
+[PATCH] if(( o & 0x80)!= 0x00){ if(i >= end){ i++; }
+[PATCH] if(( o & 0x80)!= 0x00){ if(i >= end){ break; }
+[PATCH] if(( o & 0x80)!= 0x80){ if(i >= end){ i++; }
+[PATCH] while(i < end){ if(( o & 0x80)!= 0x80){ return false; }
+[PATCH] if(i < end){ if(input[i]!= 0x80){ return false; }
+[PATCH] if(( o & 0x80)!= 0x00){ if(i > end){ return false; }
+[PATCH] if(( o & 0x80)!= 0x80){ if(i >= end){ break; }
+[PATCH] if(( o & 0x80)!= 0x00){ if(i == end){ return false; }
+[PATCH] if(i < end){ if(o & 0x800)!= 0x80){ return false; }
+[PATCH] while(i < end){ if(o & 0x80)!= 0x80){ break; }
+[PATCH] if(i < end){ if(( o & 0x80)!= 0x00){ return false; }
+[PATCH] if(end > i){ if(( o & 0x80)!= 0x80){ return false; }
+[PATCH] if(i < end){ if(input[i] == 0x80){ return false; }
+[PATCH] if(( o & 0x800)!= 0x80){ if(i >= end){ return false; }
+[PATCH] if(( o & 0x80)!= 0x80){ if(i > end){ return false; }
+[PATCH] if(i < end){ if(o == 0x80){ return false; }
+[PATCH] if(i < end){ if(o & 0x80)!= 0x00){ return false; }
+[PATCH] while(i < end){ i++; o = input[i];
+[PATCH] if(( o & 0x80)!= 0x80){ if(i == end){ return false; }
+[PATCH] if(( o & 0x83)!= 0x50){ if(i >= end){ return false; }
+[PATCH] if(( o & 0x800)!= 0x00){ if(i > end){ return false; }
+[PATCH] if(( o & 0x80)!= 0x80){ return false; }
+[PATCH] if(( o & 0x800)!= 0x00){ if(i >= end){ break; }
+[PATCH] if(( o & 0x80)!= 0x00){ if(i >= end){ i--; }
+[PATCH] while(i < end){ if(o & 0x80)!= 0x80){ i++; }
+[PATCH] if(( o & 0x80)!= 0x80){ if(i >= end){ i--; }
+[PATCH] if(i < end){ if(o & 0x800)!= 0x00){ return false; }
+[PATCH] if(( o & 0x800)!= 0x00){ if(i >= end){ i++; }
+[PATCH] while(i < end){ if(input[i]!= 0x80){ return false; }
+[PATCH] if(i < end){ if(input[i] >= 0x80){ return false; }
+[PATCH] if(( o & 0x80)!= 0x90){ if(i >= end){ return false; }
+[PATCH] if(( o & 0x80)!= 0x07){ if(i >= end){ return false; }
+[PATCH] if(i < end){ if(--i < 0){ return false; }
+[PATCH] while(i < end){ input[i++] = 0x80;
+[PATCH] while(input[i]!= 0x80){ o = input[i];
+[PATCH] while(i < end){ if(( o & 0x80)!= 0x80){ break; }
+[PATCH] while(i < end){ o = input[i]; }
+[PATCH] if(( o & 0x7F)!= 0x80){ return false; }
+[PATCH] if(( o & 0x800)!= 0x00){ return false; }
+[PATCH] if(i < end){ if(++i >= input.length){ return false; }
+[PATCH] if(i < end){ if(o > 0x80){ return false; }
+[PATCH] if(( o & 0x80)!= 0x00){ i++; }
+[PATCH] if(( o & 0x800)!= 0x80){ return false; }
+[PATCH] while(i < end){ if(o == 0x80){ return false; }
+[PATCH] while(--i < end){ o = input[i];
+[PATCH] while(i < end){ o = input[i]; i++;
+[PATCH] input = this.ioContext.convertToArray();
+[PATCH] while(i < end){ input[i] = 0x80;
+[PATCH] while(i < end){ i++; o = input[i]; }
+[PATCH] input = readUTF8(input, 0, i);
+[PATCH] while(i < end){ input[i++] = 0xFF;
+[PATCH] input = convertUTF8(input, false);
+[PATCH] input = copy(input, 0, i);
+[PATCH] while(true && i < end){ o = input[i];
+[PATCH] end = Math.min(end, input.length);
+[PATCH] while(i < end){ n = input[i];
+[PATCH] limit = Math.min(end, input.length);
+[PATCH] while(i < end){ input = input[i];
+[PATCH] i = skipSpace(input, i);
+[PATCH] input = convertSurrogate(input, false);
+[PATCH] input = this.ioContext.convertToArray(input);
+[PATCH] input = convertUTF8(input, true);
+[PATCH] input = this.decodeBase64Partial(input);
+[PATCH] i = 0; o = input[i];
+[PATCH] while(i < end){ i++;
+[PATCH] input = this.convertSurrogate(input, false);
+[PATCH] input = convertSurrogate(input, true);
+[PATCH] i = findWrapByte(input, i);
+[PATCH] i = copy(input, 0, i);
+[PATCH] input = this.decodeBase64Partial();
+[PATCH] input = Arrays.asList(input);
+[PATCH] while(true){ o = input[i];
+[PATCH] input = input.asUnquotedUTF8();
+[PATCH] if(i < end){ if(""); }
+[PATCH] input = this.convertSurrogate(input);
+[PATCH] input = discardWhitespace(input);
+[PATCH] input = this.copyData(input);
+[PATCH] input = input.copy();
+[PATCH] input = this.copyInputStream(input);
+[PATCH] i = discardWhitespace(input, i);
+[PATCH] input = this.copyInput(input);
+[PATCH] input = req.getInputStream();
+[PATCH] input = input[i];
+[PATCH] input = toAsciiBytes(input);
+[PATCH] input = wrapBytes(input);
+[PATCH] o = input[i];
+[PATCH] input = convert(input, false);
+[PATCH] input = convertSurrogate(input);
+[PATCH] input = toUTF8(input);
+[PATCH] input = this.copyData();
+[PATCH] input = byteArray(input);
+[PATCH] input = copy(input);

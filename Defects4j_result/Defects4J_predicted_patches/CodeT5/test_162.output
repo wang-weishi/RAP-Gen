@@ -1,0 +1,100 @@
+[PATCH] } else if(NodeUtil.isAssign(n)) {
+[PATCH] } else if(NodeUtil.isAssignmentOp(n)) {
+[PATCH] } else if(NodeUtil.isExpressionNode(parent)) {
+[PATCH] } else if(NodeUtil.isExprAssign(parent)) {
+[PATCH] } else if(NodeUtil.isExprCall(parent)) {
+[PATCH] } else if(parent.getType() == Token.ASSIGN){
+[PATCH] } else if(recordNode.getType() == Token.ASSIGN){
+[PATCH] } else if(NodeUtil.isCall(parent)) {
+[PATCH] } else if(NodeUtil.isVarDeclaration(n)) {
+[PATCH] } else if(recordNode.getType() == Token.GETPROP){
+[PATCH] } else if(recordNode.getType() == Token.NAME){
+[PATCH] } else if(NodeUtil.isAssign(parent)) {
+[PATCH] } else if(node.getType() == Token.ASSIGN){
+[PATCH] } else if(ns.onlyAffectsClassDef){
+[PATCH] } else if(NodeUtil.isLhs(n, parent)) {
+[PATCH] } else if(recordNode.getType() == Token.VAR){
+[PATCH] } else if("prototype".equals(n.getQualifiedName())) {
+[PATCH] } else if(NodeUtil.isGetProp(n)) {
+[PATCH] } else if(NodeUtil.isAssignmentOp(n, parent)) {
+[PATCH] } else if(NodeUtil.isSimpleAssignmentToName(n)) {
+[PATCH] } else if(nodeType == Token.ASSIGN){
+[PATCH] } else if(node.getType() == Token.GETPROP){
+[PATCH] } else if(NodeUtil.isDepCall(n)) {
+[PATCH] } else if(NodeUtil.isName(n)) {
+[PATCH] } else if(NodeUtil.isDepFunctionDeclaration(n)) {
+[PATCH] } else if(n.getType() == Token.ASSIGN){
+[PATCH] } else if(nodesToKeep.contains(n)) {
+[PATCH] } else if(NodeUtil.isAssign(n, parent)) {
+[PATCH] } else if(recordNode.getType() == Token.OBJECTLIT){
+[PATCH] } else if(NodeUtil.isCall(n, parent)) {
+[PATCH] } else if(recordNode.getType() == Token.LP){
+[PATCH] } else if(node == parent.getFirstChild().getNext()){
+[PATCH] } else if(NodeUtil.isAssignmentToName(n)) {
+[PATCH] } else if(recordNode.getType() == Token.SETNAME){
+[PATCH] } else if(NodeUtil.isDepCall(parent)) {
+[PATCH] } else if("prototype".equals(n.getString())) {
+[PATCH] } else if(NodeUtil.isCall(parent, n)) {
+[PATCH] } else if(recordNode.getType() == Token.CALL){
+[PATCH] } else if(NodeUtil.isAssignTo(n)) {
+[PATCH] } else if(NodeUtil.isCall(n)) {
+[PATCH] } else if(NodeUtil.isSetProp(n, parent)) {
+[PATCH] } else if(NodeUtil.isAssignTo(parent)) {
+[PATCH] } else if(recordNode.getType() == Token.PROP){
+[PATCH] } else if(recordNode.getType() == Token.SETPROP){
+[PATCH] } else if(NodeUtil.isGetProp(parent)) {
+[PATCH] } else if(n.getType() == Token.GETPROP){
+[PATCH] } else if(node == parent.getFirstChild()){
+[PATCH] } else if(NodeUtil.isFunctionDeclaration(n)) {
+[PATCH] } else if(nodeType == Token.GETPROP){
+[PATCH] } else if(recordNode.getType() == Token.INDENT){
+[PATCH] } else if(NodeUtil.isASSIGN(n, parent)) {
+[PATCH] } else if(recordNode.getFirstChild() == n){
+[PATCH] } else if(inGlobalScope(t, n, ns)) {
+[PATCH] } else if(NodeUtil.isCallSite(n)) {
+[PATCH] } else if(NodeUtil.isExpressCall(n)) {
+[PATCH] } else if(Parent.getType() == Token.ASSIGN){
+[PATCH] } else if(inExternallyReferenceable){
+[PATCH] } else if(recordNode == parent.getFirstChild()){
+[PATCH] } else if(inGlobalScope(t, n)) {
+[PATCH] } else if(parent.getFirstChild() == n){
+[PATCH] } else if(NodeUtil.isReference(n)) {
+[PATCH] } else if("prototype".equals(ns.name)) {
+[PATCH] } else if(NodeUtil.isASSIGN(n)) {
+[PATCH] } else if(isDepScope(recordNode)) {
+[PATCH] } else if(t.inGlobalScope()){
+[PATCH] } else if(isExprAssign(parent)) {
+[PATCH] } else if(isDepFunctionDeclaration(n)) {
+[PATCH] } else if(NodeUtil.isCall(parent));
+[PATCH] } else if(currentScope.isGlobal()){
+[PATCH] } else if(isDepScope(n)) {
+[PATCH] } else if(isDepScope(parent)) {
+[PATCH] } else if(recordNode == nameNode){
+[PATCH] } else if(scope.isGlobal()){
+[PATCH] } else if(isExternallyReferenceable){
+[PATCH] } else if(type == Token.ASSIGN){
+[PATCH] } else if(ns.isPrototype){
+[PATCH] } else if(isPrototype){
+[PATCH] } else if(externallyDefined){
+[PATCH] } else if(recordNode == null){
+[PATCH] } else if(internallyDefined){
+[PATCH] } else if(inGlobalScope){
+[PATCH] } else if(itf){
+[PATCH] } else {
+[PATCH] }, n);
+[PATCH] }, false);
+[PATCH] case 1:
+[PATCH] return;
+[PATCH] }
+[PATCH] break;
+[PATCH] }\n
+[PATCH] }){
+[PATCH] }
+[PATCH] continue;
+[PATCH] } else
+[PATCH] })) {
+[PATCH] });
+[PATCH] },
+[PATCH] {
+[PATCH] ;
+

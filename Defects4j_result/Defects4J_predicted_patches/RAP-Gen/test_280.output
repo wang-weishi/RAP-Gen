@@ -1,0 +1,100 @@
+[PATCH] if(_deserialize(p, ctxt)!= null){ return _deserialize(p, ctxt); }
+[PATCH] if(_deserialize(text, ctxt)!= null){ return _deserialize(text, ctxt); }
+[PATCH] return _deserialize(text, ctxt);
+[PATCH] if(_deserialize(p, ctxt)!= null){
+[PATCH] if(_deserialize(p, ctxt)!= null){ return _deserialize(text, ctxt); }
+[PATCH] if(_parse(p, ctxt)!= null){ return _deserialize(text, ctxt); }
+[PATCH] if(_parse(p, ctxt)!= null){ return _deserialize(p, ctxt); }
+[PATCH] if(_decode(text, ctxt)!= null){ return _deserialize(text, ctxt); }
+[PATCH] if(_parse(p, ctxt)!= null){
+[PATCH] if(_deserialize(text, ctxt)) { return _deserialize(text, ctxt); }
+[PATCH] if(_findDeserializers(ctxt)!= null){ return _deserialize(text, ctxt); }
+[PATCH] if(_decode(text, ctxt)) { return _deserialize(text, ctxt); }
+[PATCH] if(_findRootValue(ctxt)!= null){ return _deserialize(text, ctxt); }
+[PATCH] if(_deserialize(p, ctxt)!= null){ return _deserialize(t, ctxt); }
+[PATCH] if(_deserialize(p, ctxt): return _deserialize(p, ctxt); }
+[PATCH] if(_deserialize(p, ctxt): return _deserialize(p, ctxt);
+[PATCH] if(parse(p, ctxt)!= null){ return _deserialize(text, ctxt); }
+[PATCH] if(_iterator(p, ctxt)!= null){ return _deserialize(text, ctxt); }
+[PATCH] if(_deserialize(t, ctxt)!= null){ return _deserialize(t, ctxt); }
+[PATCH] if(_serialize(text, ctxt)!= null){ return _deserialize(text, ctxt); }
+[PATCH] if(_deserialize(text, ctxt): return _deserialize(text, ctxt); }
+[PATCH] if(_parse(text, ctxt)!= null){ return _deserialize(text, ctxt); }
+[PATCH] if(_deserialize(p, ctxt)) {
+[PATCH] if(_deserializer!= null){ return _deserialize(text, ctxt); }
+[PATCH] if(_deserialize(t, ctxt)!= null){ return _deserialize(text, ctxt); }
+[PATCH] if(_deserialize(Text, ctxt)!= null){ return _deserialize(text, ctxt); }
+[PATCH] if(_deserialize(p, ctxt)== null){ return _deserialize(text, ctxt); }
+[PATCH] if(_Deserialize(p, ctxt)!= null){ return _deserialize(p, ctxt); }
+[PATCH] if(_decode(p, ctxt)!= null){ return _deserialize(p, ctxt); }
+[PATCH] if(_matcher(p, ctxt)!= null){ return _deserialize(text, ctxt); }
+[PATCH] if(type == JsonToken.VALUE_STRING){ return _deserialize(text, ctxt); }
+[PATCH] if(ctxt.getParser()!= null){ return _deserialize(text, ctxt); }
+[PATCH] if(_getDeserializer()!= null){ return _deserialize(text, ctxt); }
+[PATCH] if(_parser(p, ctxt)!= null){ return _deserialize(text, ctxt); }
+[PATCH] if(JsonToken.VALUE_STRING == text){ return _deserialize(text, ctxt); }
+[PATCH] if(_deserialize(text, ctxt)) {
+[PATCH] if(getDeserializer()!= null){ return _deserialize(text, ctxt); }
+[PATCH] if(_extract(p, ctxt)!= null){ return _deserialize(text, ctxt); }
+[PATCH] if(parser(p, ctxt)!= null){ return _deserialize(text, ctxt); }
+[PATCH] if(_deserialize(p, ctxt)!= null){
+[PATCH] if(_deserialize(text, ctxt): return _deserialize(text, ctxt);
+[PATCH] if(_deserialize(p, ctxt)) { return _deserialize(p, ctxt); }
+[PATCH] if(_parse(p, ctxt)!= null){ return _deserialize(t, ctxt); }
+[PATCH] if(!_deserialize(p, ctxt)!= null){
+[PATCH] if(_parse(p, ctxt)!= null){
+[PATCH] if(_parseAsText(p, ctxt)!= null){
+[PATCH] if(_deserialize(p, ctxt): return _deserialize(p, ctxt); } else {
+[PATCH] if(_deserialize(text, ctxt)!= null){
+[PATCH] if(_parseText(p, ctxt)!= null){
+[PATCH] if(_deserialize(text, ctxt): return _deserialize(text, ctxt); } else {
+[PATCH] if(_parseAsUTF8(p, ctxt)!= null){
+[PATCH] if(_parseDate(p, ctxt)!= null){
+[PATCH] if(text.indexOf('.') >= 0){
+[PATCH] if(_deserialize(p, ctxt): return _deserialize(text, ctxt); }
+[PATCH] if(_parseAsObject(p, ctxt)!= null){
+[PATCH] if(_deserialize(p, ctxt): return _deserialize(text, ctxt);
+[PATCH] if(_findDeserializers(ctxt)!= null){
+[PATCH] if(_parseAsString(p, ctxt)!= null){
+[PATCH] if(_deserializeIfNatural(p, ctxt)!= null){
+[PATCH] if(_parseString(p, ctxt)!= null){
+[PATCH] if(_parseParser(p, ctxt)!= null){
+[PATCH] if(_findDeserializers(ctxt, text)!= null){
+[PATCH] if(_parseJsonString(p, ctxt)!= null){
+[PATCH] if(text.indexOf('.')== -1){
+[PATCH] if(_parser(p, ctxt)!= null){
+[PATCH] if(_parseType(p, ctxt)== null){
+[PATCH] if(_parseClass(p, ctxt)!= null){
+[PATCH] if(ctxt.getParser()!= null){
+[PATCH] if(_getParserType(p)== null){
+[PATCH] if(checkParser(p, ctxt)!= null){
+[PATCH] if(_parseAndClose(p, ctxt)!= null){
+[PATCH] if(!_deserialize(p, ctxt)) {
+[PATCH] return _deserialize(p, ctxt);
+[PATCH] if(!_parse(p, ctxt)!= null){
+[PATCH] if(_findDeserializationCallback(ctxt, text)) {
+[PATCH] if(_parseAndDeserialize(p, ctxt)!= null){
+[PATCH] if(parse(p, ctxt)!= null){
+[PATCH] if(_parseJsonText(p, ctxt)!= null){
+[PATCH] if(_parseType(p, ctxt)== TYPE_OBJECT){
+[PATCH] if(_parseFieldName(p, ctxt)!= null){
+[PATCH] if(_findFormat(ctxt, text)!= null){
+[PATCH] if(_parseAsText(p, ctxt)) {
+[PATCH] if(_readAndDeserialize(p, ctxt)!= null){
+[PATCH] if(_deserializeFromText(p, ctxt)) {
+[PATCH] if(ext.indexOf('.') >= 0){
+[PATCH] if(_verifyAsUTF8(text, ctxt)) {
+[PATCH] if(_iterator(p, ctxt)!= null){
+[PATCH] if(checkDeserializer(ctxt, text)) {
+[PATCH] if(type == JsonToken.VALUE_STRING){
+[PATCH] if(JsonToken.VALUE_STRING == text){
+[PATCH] if(ctxt.getParser() == null){
+[PATCH] if(_parseText(p, ctxt)) {
+[PATCH] if(parser(p, ctxt)!= null){
+[PATCH] if(_decode(text, ctxt)) {
+[PATCH] if(_validate(ctxt, text)) {
+[PATCH] if(_deserialize(p, ctxt)) {
+[PATCH] if(_prefetch(ctxt, text)) {
+[PATCH] if(_parser(p)!= null){
+[PATCH] if(_parse(p, ctxt)) {
+[PATCH] if(getParser()!= null){

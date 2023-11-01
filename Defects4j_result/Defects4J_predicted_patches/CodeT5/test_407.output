@@ -1,0 +1,100 @@
+[PATCH] if(a >= 1.0 && b >= 1.0){ lcm = Math.floor(lcm); }
+[PATCH] if(a >= 1 || b >= 1){ lcm = Math.floor(lcm); }
+[PATCH] if(a >= 1.0 || b >= 1.0){ lcm = Math.floor(lcm); }
+[PATCH] if(a >= 1.0 && b >= 1.0){ lcm = Math.ceil(-lcm); }
+[PATCH] if(a >= 1 || b >= 1){ lcm = Math.ceil(-lcm); }
+[PATCH] if(a >= 1.0 || b >= 1.0){ lcm = Math.ceil(-lcm); }
+[PATCH] if(a >= 1.0 && b >= 1.0){ lcm = Math.ceil(lcm); }
+[PATCH] if(a >= 0.0 || b < 0.0){ lcm = Math.floor(lcm); }
+[PATCH] if(a >= 1.0d && b >= 1.0d){ lcm = Math.floor(lcm); }
+[PATCH] if(a >= 1.0 || b >= 1.0){ lcm = Math.ceil(lcm); }
+[PATCH] if(a >= 1.0 && b >= 1.0){ lcm = Math.exp(-lcm); }
+[PATCH] if(a >= 1.0 && b >= 1.0){ lcm = Math.pow(10, lcm); }
+[PATCH] if(a >= 1.0 && b >= 1.0){ lcm = Math.min(lcm, b); }
+[PATCH] if(a >= 1.0 || b >= 1.0){ lcm = Math.min(lcm, b); }
+[PATCH] if(a >= 0.0 || b < 0.0){ lcm = Math.ceil(-lcm); }
+[PATCH] if(a >= 1.0 && b <= 1.0){ lcm = Math.floor(lcm); }
+[PATCH] if(a >= 1.0 && b >= 1.0){ lcm = Math.gcd(lcm, b); }
+[PATCH] if(a >= 1 || b >= 1){ lcm = Math.gcd(lcm, b); }
+[PATCH] if(a >= 1.0 || b >= 1.0){ lcm = Math.gcd(lcm, b); }
+[PATCH] if(a >= 1.0 || b >= 1.0){ return Math.abs(lcm - 1.0); }
+[PATCH] if(a >= 0.0){ lcm = Math.floor(lcm); }
+[PATCH] if(a >= 1 || b >= 1){ lcm = Math.min(lcm, b); }
+[PATCH] if(a >= 0.0 || b < 0.0){ return Math.abs(lcm - 1.0); }
+[PATCH] if(a >= 1.0 || b >= 1.0){ lcm = Math.exp(-lcm); }
+[PATCH] if(a >= 1.0 || b < 1.0){ lcm = Math.floor(lcm); }
+[PATCH] if(1.0 - lcm >= 0.0){ throw new ArithmeticException(""); }
+[PATCH] if(a >= 0.0 || b >= 0.0){ lcm = Math.floor(lcm); }
+[PATCH] if(b > a){ lcm = Math.abs(mulAndCheck(a / gcd(a, b), b)); }
+[PATCH] if(a >= 0.0){ return Math.abs(mulAndCheck(a / gcd(a, b), b)); }
+[PATCH] if(a >= 1.0 && b >= 1.0){ lcm = Math.pow(-lcm, b); }
+[PATCH] if(a >= 1 || b >= 1){ lcm = Math.exp(-lcm); }
+[PATCH] if(a >= 1.0d && b >= 1.0d){ lcm = Math.ceil(-lcm); }
+[PATCH] if(a >= 1 || b >= 1){ lcm = Math.abs(mulAndCheck(a - 1.0, b)); }
+[PATCH] if(a >= 0.0){ lcm = Math.abs(mulAndCheck(a / gcd(a, b), b)); }
+[PATCH] if(a >= 0.0 && b >= 0.0){ lcm = Math.floor(lcm); }
+[PATCH] if(a >= 1 || b >= 1){ lcm = Math.ceil(lcm); }
+[PATCH] if(a >= 1.0 && b <= 1.0){ lcm = Math.ceil(-lcm); }
+[PATCH] if(b > a){ lcm = Math.floor(lcm); }
+[PATCH] if(a >= 0.0){ if(b >= 0.0){ lcm = Math.floor(lcm); }
+[PATCH] if(a >= 1.0 || b < 1.0){ lcm = Math.ceil(-lcm); }
+[PATCH] if(b > 0){ lcm = Math.abs(mulAndCheck(a / gcd(a, b), b)); }
+[PATCH] if(a >= 1.0 || b >= 1.0){ lcm = Math.pow(10, lcm); }
+[PATCH] if(a >= 1 || b < 1){ lcm = Math.floor(lcm); }
+[PATCH] if(a >= 1.0 && b >= 1.0){ return Math.abs(lcm - 1.0); }
+[PATCH] if(a >= 1 || b >= 1){ lcm = Math.abs(mulAndCheck(a - 1, b), b); }
+[PATCH] if(a >= 0.0 || b >= 0.0){ lcm = Math.ceil(-lcm); }
+[PATCH] if(a >= 1 || b >= 1){ lcm = Math.pow(10, lcm); }
+[PATCH] if(a >= 1 || b >= 1){ lcm = Math.pow(-lcm, b); }
+[PATCH] if(a >= 1.0 || b >= 1.0){ lcm = Math.pow(-lcm, b); }
+[PATCH] if(a >= 0.0 && b >= 0.0){ lcm = Math.ceil(-lcm); }
+[PATCH] if(b > 0){ lcm = Math.floor(lcm); }
+[PATCH] if(a >= 0.0){ lcm = Math.pow(Math.exp(1.0), b - a); }
+[PATCH] if(a >= 0.0 || b < 0.0){ lcm = Math.exp(-lcm); }
+[PATCH] if(a >= 1.0d && b >= 1.0d){ lcm = Math.ceil(lcm); }
+[PATCH] if(a >= 0.0){ lcm = Math.ceil(-lcm); } else { throw new ArithmeticException(""); }
+[PATCH] if(a >= 0.0){ if(b >= 0.0){ lcm = Math.ceil(-lcm); }
+[PATCH] if(b > a){ return Math.abs(mulAndCheck(a / gcd(a, b), b)); }
+[PATCH] if(a >= 0.0){ lcm = Math.ceil(-lcm); }
+[PATCH] if(a >= 1.0 && b <= 1.0){ lcm = Math.ceil(lcm); }
+[PATCH] if(a >= 1.0 && b >= 1.0){ lcm -= Math.log(a); }
+[PATCH] if(a >= 1 || b >= 1){ lcm = Math.abs(mulAndCheck(a - 1, b), b)); }
+[PATCH] if(a >= 1 || b >= 1){ lcm = Math.pow(mulAndCheck(a - 1, b), b); }
+[PATCH] if(a >= 1.0 && b >= 1.0){ lcm = Math.exp(-lcm)- 1.0; }
+[PATCH] if(a >= 0.0 || b < 0.0){ throw new ArithmeticException(""); }
+[PATCH] if(a >= 1.0 && b >= 1.0){ lcm -= Math.pow(10, lcm); }
+[PATCH] if(a >= 1.0 && b >= 1.0){ lcm /= gcd(a, b); }
+[PATCH] if(1.0 - a < b){ lcm = Math.floor(lcm); }
+[PATCH] if(Math.abs(lcm - 1.0)< eps){ throw new ArithmeticException(""); }
+[PATCH] if(a >= 1 || b >= 1){ lcm = Math.abs(mulAndCheck(a - 1, b)); }
+[PATCH] if(a >= 1.0d && b >= 1.0d){ lcm = Math.exp(-lcm); }
+[PATCH] if(a >= 1 || b < 1){ lcm = Math.ceil(-lcm); }
+[PATCH] if(Math.abs(lcm - 1.0)< epsilon){ throw new ArithmeticException(""); }
+[PATCH] if(a >= 1.0 && b <= 1.0){ lcm = Math.exp(-lcm); }
+[PATCH] if(a >= 0.0){ lcm = Math.gcd(lcm, b); }
+[PATCH] if(a >= 0.0){ lcm = Math.ceil(lcm); }
+[PATCH] if(a >= 1 || b >= 1){ lcm = Math.exp(-lcm)- 1; }
+[PATCH] if(1.0 - lcm >= 0.0){ return 1 - lcm; }
+[PATCH] if(a >= 1.0 && b >= 1.0){ lcm = Math.exp(-lcm)- 1; }
+[PATCH] if(a >= 1.0 || b >= 1.0){ return Math.abs(lcm - a); }
+[PATCH] if(1.0 - lcm < 1.0){ throw new ArithmeticException(""); }
+[PATCH] if(a >= 1.0 && b >= 1.0){ return Math.abs(lcm - a); }
+[PATCH] if(a >= 1.0){ lcm = Math.floor(lcm); }
+[PATCH] if(a >= 1.0 && b >= 1.0){ throw new ArithmeticException(""); }
+[PATCH] if(a >= 0.0){ lcm = Math.min(lcm, b); }
+[PATCH] if(a >= 1.0 || b >= 1.0){ throw new ArithmeticException(""); }
+[PATCH] if(1.0 - lcm >= 0.0){ return a / gcd(a, b); }
+[PATCH] if(1.0 - lcm > 0.0){ throw new ArithmeticException(""); }
+[PATCH] if(b > a){ lcm = Math.ceil(-lcm); }
+[PATCH] lcm = Math.floor(lcm);
+[PATCH] if(b > a){ lcm = Math.pow(-lcm, b); }
+[PATCH] if(lcm >= 0.0){ throw new ArithmeticException(""); }
+[PATCH] if(b > 0){ lcm = Math.ceil(-lcm); }
+[PATCH] if(b > a){ throw new ArithmeticException(""); }
+[PATCH] if(lcm > 0){ throw new ArithmeticException(""); }
+[PATCH] lcm = Math.min(lcm, b);
+[PATCH] result = Math.floor(lcm);
+[PATCH] Math.floor(lcm);
+[PATCH] divide(lcm, b);
+[PATCH] gcd(a, b);
+[PATCH] logSum(lcm);

@@ -1,0 +1,100 @@
+[PATCH] if(in.peek()!= JsonToken.STRING){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.STRING){ throw new JsonParseException("The date should be a string value"); }
+[PATCH] if(in.peek() == JsonToken.STRING){ throw new JsonParseException("The date should be a string value"); }
+[PATCH] if(in.peek()!= JsonToken.VALUE_STRING){ throw new JsonParseException("The date should be a string value"); }
+[PATCH] if(in.peek()!= JsonToken.VALUE_STRING){ throw new JsonParseException(""); }
+[PATCH] if(in.getCurrentToken()!= JsonToken.STRING){ throw new JsonParseException("The date should be a string value"); }
+[PATCH] if(in.peek()!= JsonToken.DATE){ throw new JsonParseException("The date should be a string value"); }
+[PATCH] if(in.peek()!= JsonToken.STRING || in.size()!= 2){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.STRING ||!in.isScalarValue()){ throw new JsonParseException(""); }
+[PATCH] if(in.getCurrentToken()!= JsonToken.STRING){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.STRING || in.getCount()!= 2){ throw new JsonParseException(""); }
+[PATCH] if(in.peek() == JsonToken.STRING){ throw new JsonParseException("The date should be a string value"); }
+[PATCH] if(in.peek() == JsonToken.STRING){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.STRING || in.getLen()!= 2){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.STRING || in.getLength()!= 2){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.STRING ||!in.isExpectedStartValue()){ throw new JsonParseException(""); }
+[PATCH] if(in.nextToken()!= JsonToken.STRING){ throw new JsonParseException("The date should be a string value"); }
+[PATCH] if(in.peek()!= JsonToken.STRING || in.getSize()!= 2){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.STRING){ throw new JsonParseException("") +" should be a string value"); }
+[PATCH] if(in.peek()!= JsonToken.STRING){ throw new JsonParseException("The date should be a string value");
+[PATCH] if(in.peek()!= JsonToken.NUMBER){ throw new JsonParseException("The date should be a string value"); }
+[PATCH] if(in.peek()!= JsonToken.STRING || in.getBuffer() == null){ throw new JsonParseException(""); }
+[PATCH] if(in.currentToken()!= JsonToken.STRING){ throw new JsonParseException("The date should be a string value"); }
+[PATCH] if(in.peek()!= JsonToken.STRING || in.size()!= 4){ throw new JsonParseException(""); }
+[PATCH] if(in == null || in.peek()!= JsonToken.STRING){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.STRING ||!in.isExpectedStartString()){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.STRING || dateType == null){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.DATE){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.STRING ||!in.isExpectedStartElement()){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.STRING || in.nextToken() == null){ throw new JsonParseException(""); }
+[PATCH] if(in.currToken()!= JsonToken.STRING){ throw new JsonParseException("The date should be a string value"); }
+[PATCH] if(in.peek()!= JsonToken.STRING ||!in.isExpectedStartStringArray()){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.STRING || in.isExpectedStartArrayToken()){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.STRING ||!in.isLenient()){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.STRING){ throw new JsonParseException("The date should be a String value"); }
+[PATCH] if(in.peek()!= JsonToken.NAME){ throw new JsonParseException("The date should be a string value"); }
+[PATCH] if(in.peek()!= JsonToken.START_OBJECT){ throw new JsonParseException("The date should be a string value"); }
+[PATCH] if(in.peek()!= JsonToken.STRING){ throw new JsonParseException("The date must be a string value"); }
+[PATCH] if(in.peek()!= JsonToken.STRING || in.isExpectedStartValue()){ throw new JsonParseException(""); }
+[PATCH] if(in.nextToken()!= JsonToken.STRING){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.STRING ||!in.isExpectedStartOfDay()){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.STRING || in.getSize()!= 4){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.FIELD_NAME){ throw new JsonParseException("The date should be a string value"); }
+[PATCH] if(in.peek()!= JsonToken.STRING || in.size()!= 5){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.STRING ||!in.isPeeked()){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.STRING || in.nextString() == null){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.STRING){ throw new JsonParseException("") +" is not a string value"); }
+[PATCH] if(in.peek()!= JsonToken.VALUE_STRING){ throw new JsonParseException("The date should be a string value");
+[PATCH] if(in.currentToken()!= JsonToken.STRING){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.STRING || in.getSize()!= 1){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.STRING || out.isSupported() == false){ throw new JsonParseException(""); }
+[PATCH] if(in.peek() == JsonToken.STRING){ throw new JsonParseException("The date should be a string value");
+[PATCH] if(in.peek()!= JsonToken.STRING || in.getCount()!= 4){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.STRING){ throw new JsonParseException("The Date should be a string value"); }
+[PATCH] if(in.peek()!= JsonToken.STRING || in.getLength()!= 4){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.STRING){ throw new JsonParseException("") :" + in.getText()); }
+[PATCH] if(in.peek()!= JsonToken.STRING || in.size()!= 1){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.STRING ||!in.isExpectedStartLine()){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.STRING ||!in.isExpectedStartObject()){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.STRING ||!in.isSupported()){ throw new JsonParseException(""); }
+[PATCH] if(in.readToken()!= JsonToken.STRING){ throw new JsonParseException("The date should be a string value"); }
+[PATCH] if(in.peek()!= JsonToken.NUMBER){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.STRING){ throw new JsonParseException("The date should be astring value"); }
+[PATCH] if(in.peek()!= JsonToken.STRING || in.isExpectedStartString()){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.STRING { throw new JsonParseException("The date should be a string value"); }
+[PATCH] if(in.peek()!= JsonToken.STRING || in.getSize()!= 5){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.STRING || this.dateType == null){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.STRING ||!in.isPeekable()){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.STRING || datePattern == null){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.STRING || in.getLength()!= 5){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.STRING || in.size()!= 3){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.STRING){ throw new JsonParseException("The date should bea string value"); }
+[PATCH] if(in.peek()!= JsonToken.STRING){ throw new JsonParseException(" The date should be a string value"); }
+[PATCH] if(in.peek() == JsonToken.STRING){ throw new JsonParseException("The date should be a String value"); }
+[PATCH] if(in.read()!= JsonToken.STRING){ throw new JsonParseException("The date should be a string value"); }
+[PATCH] if(in.peek()!= JsonToken. STRING){ throw new JsonParseException("The date should be a string value"); }
+[PATCH] if(in.peek()!= JsonToken.STRING ||!in.isDone()){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.STRING){ throw new JsonParseException("the date should be a string value"); }
+[PATCH] if(in.peek() == JsonToken.STRING){ throw new JsonParseException("The date must be a string value"); }
+[PATCH] if(in.peek()!= JsonToken.VALUE_STRING){ throw new JsonParseException("The date should be a String value"); }
+[PATCH] if(in.peek()!= JsonToken.DATE){ throw new JsonParseException("The date should be a string value");
+[PATCH] if(in.currToken()!= JsonToken.STRING){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.STRING || i == -1){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.FIELD_NAME){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.NAME){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.STRING || in.nextToken()!= JsonToken.NUMBER){
+[PATCH] if(in.peek()!= JsonToken.START_OBJECT){ throw new JsonParseException("The date should be a string value");
+[PATCH] if(in.peek()!= JsonToken.START_OBJECT){ throw new JsonParseException(""); }
+[PATCH] if(in.peek() == JsonToken.STRING){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.STRING){ throw new IOException(""); }
+[PATCH] if(in.readToken()!= JsonToken.STRING){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.STRING { throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.STRING || throw new JsonParseException("");
+[PATCH] if(in.peek()!= JsonToken. STRING){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.STRING){ throw new JsonToken(""); }
+[PATCH] if(in.peek()!= JsonToken.STRING){ throw new JsonException(""); }
+[PATCH] if(in.read()!= JsonToken.STRING){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.VALUE_STRING){ throw new JsonParseException("The date should be a string value");
+[PATCH] if(in.peek()!= JsonToken.STRING || in.available()!= JsonToken.NUMBER){ throw new JsonParseException("");
+[PATCH] if(in.peek()!= JsonToken.STRING){ return null; }

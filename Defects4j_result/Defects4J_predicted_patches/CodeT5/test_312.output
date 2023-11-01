@@ -1,0 +1,100 @@
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, end)); }
+[PATCH] if(end == start){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, end)); }
+[PATCH] if(start!= end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, end)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionMessage(buffer, start, length, start, end)); }
+[PATCH] if(end == offset){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, end)); }
+[PATCH] if(offset!= end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, end)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException("exceptionMessage(buffer, offset, length, start, end)); }
+[PATCH] if(start > end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, end)); }
+[PATCH] if(start >= end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, end)); }
+[PATCH] if(start < end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, end)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException( exceptionMessage(buffer, offset, length, start, end)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException("exception message(buffer, offset, length, start, end)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionsMessage(buffer, offset, length, start, end)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, END)); }
+[PATCH] if(end < start){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, end)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, lastByte)); }
+[PATCH] if(trailer!= null){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, trailer)); }
+[PATCH] if(trailer!= 0){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, trailer)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException('exceptionMessage(buffer, offset, length, start, end)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start,end)); }
+[PATCH] if(start == end){ return new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, end)); }
+[PATCH] if(start==end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, end)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exception message(buffer, offset, length, start, end)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionmessage(buffer, offset, length, start, end)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionMessage(buffer, off, length, start, end)); }
+[PATCH] if( start == end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, end)); }
+[PATCH] if(start!= end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, end, start)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(( exceptionMessage(buffer, offset, length, start, end)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException("Exception message(buffer, offset, length, start, end)); }
+[PATCH] if(end == end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, end)); }
+[PATCH] if(Start == end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, end)); }
+[PATCH] if(start = end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, end)); }
+[PATCH] if(start, end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, end)); }
+[PATCH] if(end == -1){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, end)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start,End)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exception Message(buffer, offset, length, start, end)); }
+[PATCH] if(end == null){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, end)); }
+[PATCH] if(start, end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, end)); }
+[PATCH] else if(start == end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, end)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, Length, start, end)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(ExceptionMessage(buffer, offset, length, start, end)); }
+[PATCH] if(trailer!= 0){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, end)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, len, start, end)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, null)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, starting, end)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(EXCEPTION_MESSAGE(buffer, offset, length, start, end)); }
+[PATCH] if(segmentSize!= end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, end)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(formatMessage(buffer, offset, length, start, end)); }
+[PATCH] if(end == 0){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, end)); }
+[PATCH] if(end == pos){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, end)); }
+[PATCH] if(offset == end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, end)); }
+[PATCH] if(start ==end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, end)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException("Invalid exception message(buffer, offset, length, start, end)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionMessage(buffer, position, start, end)); }
+[PATCH] if(end == starting){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, end)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, ending)); }
+[PATCH] if(start is end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, end)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, last)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptiongetMessage(buffer, offset, length, start, end)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(getExceptionMessage(buffer, offset, length, start, end)); }
+[PATCH] if(trailer!= null){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, end)); }
+[PATCH] if(end == position){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, end)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionMessage(buffer, offsets, start, end)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, ends)); }
+[PATCH] if(end == start){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, lastByte)); }
+[PATCH] if(stop!= end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, end)); }
+[PATCH] if(offset!= end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, end, BYTE_MASK)); }
+[PATCH] if(start == end){ throw new IOException(exceptionMessage(buffer, offset, length, start, end)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, stop)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, finish)); }
+[PATCH] If(start == end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, end)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionMessage(buffer[offset, length, start, end)); }
+[PATCH] if(end == begin){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, end)); }
+[PATCH] if(feeder!= null){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, trailer)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, len)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(factoryMessage(buffer, offset, length, start, end)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, endIndex)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionMESSAGE(buffer, offset, length, start, end)); }
+[PATCH] if(end == start){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, trailer)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionFormatException(buffer, offset, length, start, end)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(" exception message(buffer, offset, length, start, end)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionError(buffer, offset, length, start, end)); }
+[PATCH] if(start == end){ throw new IndexOutOfBoundsException(exceptionMessage(buffer, offset, length, start, end)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionMessage(buffer,Offset, length, start, end)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, upperBound)); }
+[PATCH] if(end == stop){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, end)); }
+[PATCH] if(end == start){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, END)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start)); }
+[PATCH] if(end == start){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start)); }
+[PATCH] throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, end));
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, start, end)); }
+[PATCH] if(offset!= end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, end, null)); }
+[PATCH] if(start!= end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, end, null)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionMessage(buffer, length, start, end)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(""); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, end)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException("EOF"); }
+[PATCH] if(buffer, offset, length, start, end)); }
+[PATCH] if(start!= end){ throw new IllegalArgumentException(""); }

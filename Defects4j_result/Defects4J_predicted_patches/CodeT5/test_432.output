@@ -1,0 +1,100 @@
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION && declarationRoot.getChildCount() == 3){
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION || declarationRoot.getChildCount() == 3){
+[PATCH] if(declarationRoot.getType() == Token.VAR && declarationRoot.getChildCount() == 3){
+[PATCH] if(declarationRoot.getType() == Token.FOR && declarationRoot.getChildCount() == 3){
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION && NodeUtil.isFunctionAnonymous(declarationRoot)) {
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION && NodeUtil.isFunctionDeclaration(declarationRoot)) {
+[PATCH] if(declarationRoot.getType() == Token.VAR && declarationRoot.getChildCount() > 3){
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION){
+[PATCH] if(declarationRoot.getType() == Token.VAR && declarationRoot.getChildCount() > 1){
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION && declarationRoot.getChildCount() == 4){
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION || declarationRoot.getChildCount() == 4){
+[PATCH] if(declarationRoot.getType() == Token.ASSIGN){
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION && declarationRoot.getChildCount() == 2){
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION && NodeUtil.isFunctionBody(declarationRoot)) {
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION || declarationRoot.getChildCount() == 2){
+[PATCH] if(declarationRoot.getType() == Token.FOR && declarationRoot.getChildCount() == 4){
+[PATCH] if(declarationRoot.getType() == Token.VAR && declarationRoot.getChildCount() > 2){
+[PATCH] if(declarationRoot.getType() == Token.VAR){
+[PATCH] if(declarationRoot.getType() == Token.GETPROP){
+[PATCH] if(declarationRoot.getType() == Token.VAR && declarationRoot.getChildCount() > 4){
+[PATCH] if(declarationRoot.getType() == Token.VAR && declarationRoot.getChildCount() == 4){
+[PATCH] if(declarationRoot.getType() == Token.VAR && declarationRoot.getChildCount() == 2){
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION && declarationRoot.getChildCount() > 3){
+[PATCH] if(declarationRoot.getType() == Token.EXPR_RESULT){
+[PATCH] if(declarationRoot.getType() == Token.FOR && declarationRoot.getChildCount() == 2){
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION && declarations.size() > 1){
+[PATCH] if(declarationRoot.getType() == Token.LP && declarationRoot.getChildCount() == 3){
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION && isFunctionDeclaration(declarationRoot)) {
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION || declarationRoot.getChildCount() > 1){
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION && NodeUtil.isFunctionsDeclaration(declarationRoot)) {
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION && 2 == declarationRoot.getChildCount()){
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION | declarationRoot.getChildCount() == 3){
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION && Statement.isFunctionDeclaration(declarationRoot)) {
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION && NodeUtil.isGetProp(declarationRoot)) {
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION &&VariableDeclaration.isFunctionDeclaration(declarationRoot)) {
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION && t.inGlobalScope()){
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION &&DeclarationRoot.getChildCount() == 3){
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION && NodeUtil.isFunctionbody(declarationRoot)) {
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION && declarationRoot.getChildCount() > 1){
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION && Assignment.isFunctionDeclaration(declarationRoot)) {
+[PATCH] if(declarationRoot.getType() == Token.FOR && declarationRoot.getChildCount() > 3){
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION && declarationroot.getChildCount() == 3){
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION && entry.getChildCount() == 3){
+[PATCH] if( declarationRoot.getType() == Token.FUNCTION && declarationRoot.getChildCount() == 3){
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION && testFunctionDeclaration(declarationRoot)) {
+[PATCH] if(declarationRoot.getType() == Token.VAR && declarationRoot.getChildCount() < 3){
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION : declarationRoot.getLastChild()){
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION {
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION && declarationRoot.getChildCount() == 5){
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION && argumentCount == 2){
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION &&!rootRenamer.isDeclared()){
+[PATCH] if(declarationRoot.getType() == Token.LP){
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION && lastChildCount() > 1){
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION && rootRenamer!= null){
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION && referenceStack.isEmpty()){
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION? 2 : 1){
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION && initializer == null){
+[PATCH] if(DeclarationGraph.isFunctionDeclaration(declarationRoot)) {
+[PATCH] if(NodeUtil.isFunctionDeclaration(declarationRoot)) {
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION && statementBlock(declarationRoot)) {
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION && arguments == 0){
+[PATCH] if(declarationRoot instanceof FunctionDeclaration && declarationRoot.getChildCount() == 3){
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION && invocationCount > 1){
+[PATCH] if(declarationRoot.getType() == Token.ASSIGN_FUNCTION){
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION && candidateFunctionCount == 2){
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION && arguments == null){
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION && n > 0){
+[PATCH] if(declarationRoot.getType() == Token.ASSIGN_BLOCK){
+[PATCH] if(declarationRoot.getType() == Token.MULTIANEWARRAY){
+[PATCH] if(declarationRoot.getType() == Token.ASSIGN_NEW){
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION && global){
+[PATCH] if(declarationRoot.getType() == Token.NEW){
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION_DECLARATION){
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION_EXPRESSION){
+[PATCH] if(declarationRoot.getType() == Token.ASSIGN_VAR){
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION2){
+[PATCH] if(declarationRoot.getType() == Token. [Delete]
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION && bodyFunctionDeclaration){
+[PATCH] if(DeclarationScope.isFunctionDeclaration(declarationRoot)) {
+[PATCH] if(declarationRoot.getType() == Token.CALL){
+[PATCH] if(declarationRoot.getType() == Token.ASSIGN_LOCAL){
+[PATCH] if(declarationRoot.getType() == Token.FUNCTIONVAR){
+[PATCH] if(DeclarationTree.isFunctionDeclaration(declarationRoot)) {
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION &&--------------------------------------------------;
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION{
+[PATCH] if(DeclarationRoot.getType() == Token.FUNCTION){
+[PATCH] if(declarationRoot.getType() == Token.2){
+[PATCH] if(declarations.size() == 3){
+[PATCH] if(declarations.size() == 4){
+[PATCH] if(declarationRoot.getChildCount() == 3){
+[PATCH] if(graph.isFunctionDeclaration(declarationRoot)) {
+[PATCH] if(declarationRoot instanceof FunctionDeclaration){
+[PATCH] if(declarations.size() == 2){
+[PATCH] if(!t.inGlobalScope()){
+[PATCH] if(nodeType == Token.FUNCTION){
+[PATCH] if(edge == RectangleEdge.FUNCTION){
+[PATCH] if(startFunctionDeclaration(declarationRoot)) {
+[PATCH] if(declarations.size() > 1){
+[PATCH] if(isFunctionDeclaration(declarationRoot)) {
+[PATCH] if(declarationRoot instanceof AstFunctionDeclaration){

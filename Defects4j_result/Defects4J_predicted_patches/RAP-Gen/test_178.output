@@ -1,0 +1,100 @@
+[PATCH] changed.add(child.getString());
+[PATCH] if(child.getType() == Token.CALL){
+[PATCH] if(child.getType() == Token.NAME){
+[PATCH] if(node.getType() == Token.CALL){
+[PATCH] changed.remove(child.getString());
+[PATCH] if(child.getType() == Token.FUNCTION){
+[PATCH] } else if(node.getType() == Token.CALL){
+[PATCH] if(child.getType()!= Token.CALL){
+[PATCH] if(node.getType() == Token.CALL){ return; }
+[PATCH] if(!child.getType().equals(Token.FUNCTION)) {
+[PATCH] if(!child.getType().equals(Token.CALL)) {
+[PATCH] if(!changed.contains(child.getString())) {
+[PATCH] if(!NodeUtil.isFunctionObjectCall(node)) {
+[PATCH] if(NodeUtil.isCall(node)) {
+[PATCH] if(NodeUtil.isExpressionNode(node)) {
+[PATCH] if(!changed.isEmpty()){
+[PATCH] if(!NodeUtil.mayHaveSideEffects(node)) {
+[PATCH] changed.add(node.getFirstChild().getString());
+[PATCH] if(!child.getType().equals(Token.NAME)) {
+[PATCH] if(child, node.getType() == Token.CALL){
+[PATCH] if(child.getType()!= Token.NAME){
+[PATCH] if(!NodeUtil.isExpressionNode(node)) {
+[PATCH] if(NodeUtil.isFunctionCall(node)) {
+[PATCH] changed.add("" + child.getString());
+[PATCH] if(!child.getType().isFunction()){
+[PATCH] if(NodeUtil.isFunctionObjectCall(node)) {
+[PATCH] if(child && child.getType() == Token.CALL){
+[PATCH] if(node.getType() == Token.NAME){
+[PATCH] if(!child.getType().isString()){
+[PATCH] if(node.getType() == Token.CALL){ {
+[PATCH] if(!child.getType().isCall()){
+[PATCH] if(child.getType()== Token.CALL){
+[PATCH] } else if(child.getType() == Token.CALL){
+[PATCH] If(child.getType() == Token.CALL){
+[PATCH] if(!NodeUtil.isFunctionCall(node)) {
+[PATCH] if(child.getType() == Token.GETPROP){
+[PATCH] if(!NodeUtil.isCall(node)) {
+[PATCH] changed.add(child.getFirstChild().getString());
+[PATCH] if(NodeUtil.isExprCall(node)) {
+[PATCH] if(children.contains(child.getString())) {
+[PATCH] if(!child.getType().isQualifiedName()){
+[PATCH] if(!child.getString().isEmpty()){
+[PATCH] if(child.getType() == Token.STRING){
+[PATCH] if(!child.getType() == Token.CALL){
+[PATCH] if(!NodeUtil.isFunctionAnonymous(node)) {
+[PATCH] if(changed.contains(child.getString())) {
+[PATCH] if(parent.getType() == Token.CALL){
+[PATCH] changed.add("call" + child.getString());
+[PATCH] if(NodeUtil.isGetProp(child)) {
+[PATCH] else if(child.getType() == Token.NAME){
+[PATCH] if( child.getType() == Token.CALL){
+[PATCH] changed.add("!" + child.getString());
+[PATCH] } else if(node.getType() == Token.NAME){
+[PATCH] else if(child.getType() == Token.CALL){
+[PATCH] if(parent.getType()!= Token.CALL){
+[PATCH] if(child.getType() < Token.CALL){
+[PATCH] changed.add("call." + child.getString());
+[PATCH] changed.clear();
+[PATCH] changes.add(child.getString());
+[PATCH] changed.addAll(child.getString());
+[PATCH] if(!child.isQualifiedName()){
+[PATCH] changed.add("." + child.getString());
+[PATCH] changed.add("", child.getString());
+[PATCH] changed.add(":" + child.getString());
+[PATCH] changed.add("+" + child.getString());
+[PATCH] changed.add(child.getString());
+[PATCH] Changed.add(child.getString());
+[PATCH] if(changed.size() > 0){
+[PATCH] changed.add( child.getString());
+[PATCH] changed.retainAll(child.getString());
+[PATCH] if(changed.size() == 0){
+[PATCH] changed.add(( String)child.getType());
+[PATCH] changed.add(( String)child.getString());
+[PATCH] if(child == node.getFirstChild()){
+[PATCH] if(!child.isFunction()){
+[PATCH] if(!changed.contains("")) {
+[PATCH] if(NodeUtil.isName(child)) {
+[PATCH] if(!callNode.hasChildren()){
+[PATCH] if(!node.hasChildren()){
+[PATCH] if(!child.isString()){
+[PATCH] modified.add(child.getString());
+[PATCH] changed.add("call");
+[PATCH] changed.add(child.get String());
+[PATCH] if(changed.size() == 1){
+[PATCH] was.add(child.getString());
+[PATCH] if(!child.hasChildren()){
+[PATCH] change.add(child.getString());
+[PATCH] changed.add(child.getText());
+[PATCH] updated.add(child.getString());
+[PATCH] if(changed.isEmpty()){
+[PATCH] changed.add(" call");
+[PATCH] changed.add("Call");
+[PATCH] changed.add("*");
+[PATCH] changed.add("");
+[PATCH] changed.add("Called");
+[PATCH] {
+[PATCH] ;
+);
+
+;

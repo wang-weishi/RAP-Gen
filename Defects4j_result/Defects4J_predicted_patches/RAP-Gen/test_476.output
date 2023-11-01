@@ -1,0 +1,100 @@
+[PATCH] if(this.optionMap.containsKey(option.getOpt())) {
+[PATCH] if(this.selected == null &&!option.isSelected()){
+[PATCH] if(option.hasArg() || option.isRequired()){
+[PATCH] if(option.hasArg()){
+[PATCH] if(required &&!selected.equals(option.getOpt())) {
+[PATCH] if(!required &&!selected.equals(option.getOpt())) {
+[PATCH] if(this.selected == null && option.hasArg()){
+[PATCH] if(!this.selected.equals(option.getOpt())) {
+[PATCH] if(this.required &&!option.isRequired()){
+[PATCH] if(!this.optionMap.containsKey(option.getOpt())) {
+[PATCH] if(selected == null ||!selected.equals(option.getOpt())) {
+[PATCH] if(this.selected == null &&!option.hasArg()){
+[PATCH] if(this.required && this.selected.equals(option.getOpt())) {
+[PATCH] if(this.required &&!selected.equals(option.getOpt())) {
+[PATCH] if(this.selected == null && option.isRequired()){
+[PATCH] if(this.selector.contains(option.getOpt())) {
+[PATCH] if(this.required &&!selected.equals(option.getRequired())) {
+[PATCH] if(!required ||!selected.equals(option.getOpt())) {
+[PATCH] if(option.isRequired()){
+[PATCH] if(required && this.optionMap.containsKey(option.getOpt())) {
+[PATCH] if(!required && this.selected.equals(option.getOpt())) {
+[PATCH] if(required &&!option.isRequired()){
+[PATCH] if(required &&!this.selected.equals(option.getOpt())) {
+[PATCH] if(( selected == null)||(selected.equals(option.getOpt()))){
+[PATCH] if(this.selected == null){
+[PATCH] if(this.selector.contains(option.getKey())) {
+[PATCH] if(this.selected == null &&!option.isRequired()){
+[PATCH] if(option.hasArg() && option.isRequired()){
+[PATCH] if(required &&!selected.equals(option.getRequired())) {
+[PATCH] if(required && optionMap.containsKey(option.getOpt())) {
+[PATCH] if(this.selected == null || selected.equals(option.getOpt())) {
+[PATCH] if(this.required && optionMap.containsKey(option.getOpt())) {
+[PATCH] if(this.selected == null && this.optionMap.containsKey(option)) {
+[PATCH] if(option.hasArg() || selected.equals(option.getOpt())) {
+[PATCH] if("-".equals(option.getOpt())) {
+[PATCH] if(this.required || this.selected.equals(option.getOpt())) {
+[PATCH] if(!required && option.isRequired()){
+[PATCH] if(this.selected == null && option.equals(this.selected)) {
+[PATCH] if(!selected.equals(option.getOpt())) {
+[PATCH] if(!required && optionMap.containsKey(option.getOpt())) {
+[PATCH] if(this.required && option.isRequired()){
+[PATCH] if(this.options.containsKey(option.getOpt())) {
+[PATCH] if(required &&!optionMap.containsKey(option.getOpt())) {
+[PATCH] if(this.optionMap.containsKey(option)) {
+[PATCH] if(option.hasArg() || option.getArgs().contains("--")) {
+[PATCH] if(required && this.selected.equals(option.getOpt())) {
+[PATCH] if(!required &&!option.isRequired()){
+[PATCH] if(this.selectorMap.containsKey(option.getOpt())) {
+[PATCH] if(this.selectables.containsKey(option.getOpt())) {
+[PATCH] if("-".equals(option.getKey())) {
+[PATCH] if(required && option.isRequired()){
+[PATCH] if(this.selected == null &&!option.getOpt().equals("")) {
+[PATCH] if(this.selected == null &&!option.getSelected().equals("")) {
+[PATCH] if(option.hasArg() || option.getArgs().length == 1){
+[PATCH] if(this.selector.containsKey(option.getOpt())) {
+[PATCH] if(options.containsKey(option.getOpt())) {
+[PATCH] if(this.selected == null && option.isSelected()){
+[PATCH] if(this.selector.contains(option.getLabel())) {
+[PATCH] if(required ||!selected.equals(option.getOpt())) {
+[PATCH] if(this.selected == null && option.hasOpt()){
+[PATCH] if(this.selected == null &&!option.getSelected().equals("-")) {
+[PATCH] if(!option.hasArg() ||!option.isRequired()){
+[PATCH] if(this.selected == null &&!option.hasOpt()){
+[PATCH] if(option.hasArg() ||!option.isRequired()){
+[PATCH] if(this.required &&!option.hasArg()){
+[PATCH] if(this.selector.contains(option.getSelector())) {
+[PATCH] if(this.selected == null &&!option.getOpt().equals("-")) {
+[PATCH] if(isSelected(option.getOpt())) {
+[PATCH] if(this.selected == null ||!option.isSelected()){
+[PATCH] if("-".equals(option.getLongOpt())) {
+[PATCH] if(this.selectable &&!option.isSelected()){
+[PATCH] if(option.isRequired() || option.isRequired()){
+[PATCH] if(this.required && option.hasArg()){
+[PATCH] if(this.selected == null &&!option.getArgs().isEmpty()){
+[PATCH] if(this.selected == null && option.hasKey()){
+[PATCH] if(option.hasArg() || option.getArgs().contains("-")) {
+[PATCH] if(this.selected == null || option.isSelected()){
+[PATCH] if(this.selected == null || option.hasArg()){
+[PATCH] if(required && option.hasArg()){
+[PATCH] if(option.hasOpt()){
+[PATCH] if(required &&!option.hasArg()){
+[PATCH] if(option.hasArg() || option.getArgs().contains(this)) {
+[PATCH] if(this.selected == null && option.getOpt().equals("-")) {
+[PATCH] if(!required && option.hasArg()){
+[PATCH] if(!option.isSelected()){
+[PATCH] if(option.hasKey()){
+[PATCH] if(option.isSelected()){
+[PATCH] if(!option.isRequired()){
+[PATCH] if(this.isSelected()){
+[PATCH] if(option.hasValue()){
+[PATCH] if(this.hasOption(option)) {
+[PATCH] if(option.hasLongOpt()){
+[PATCH] if(this.selectAllOptions()){
+[PATCH] if(this.selectAll()){
+[PATCH] if(required){
+[PATCH] if(option.hasOption()){
+[PATCH] if(!required){
+[PATCH] if(!option.hasArg()){
+[PATCH] if(this.isRequired()){
+[PATCH] if(option.hasRequired()){

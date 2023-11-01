@@ -1,0 +1,100 @@
+[PATCH] if(property == null){ return this; }
+[PATCH] if(property == null || property.isRequired()){
+[PATCH] if(property == null ||!property.isRequired()){ return this; }
+[PATCH] if(property == null ||!property.isRequired()){
+[PATCH] if(property == null){ if(_customFormat == null){ return this; }
+[PATCH] if(property == null || property.isRequired()){ return this; }
+[PATCH] if(property == null || handledType!= null){
+[PATCH] if(property == null ||!property.hasType()){ return this; }
+[PATCH] if(property == null ||!property.isSupported()){ return this; }
+[PATCH] if(handledType == null){
+[PATCH] if(property == null ||!property.isType()){ return this; }
+[PATCH] if(property == null ||!property.hasType()){
+[PATCH] if(property == null || property.isType()){
+[PATCH] if(property == null ||!property.isVisible()){ return this; }
+[PATCH] if(property == null ||!property.isSupported()){
+[PATCH] if(property == null || property.getType() == String.class){
+[PATCH] if(property == null ||!property.isType()){
+[PATCH] if(property == null ||!property.visible()){ return this; }
+[PATCH] if(property == null ||!property.hasValue()){ return this; }
+[PATCH] if(property == null ||!property.isEnabled()){ return this; }
+[PATCH] if(property == null || property.isEmpty()){ return this; }
+[PATCH] if(property == null || property.isType()){ return this; }
+[PATCH] if(property == null || _customFormat == null){
+[PATCH] if(property == null || property.isNull()){ return this; }
+[PATCH] if(property == null || property.getType()!= null){
+[PATCH] if(property == null || property.hasType()){
+[PATCH] if(property == null || _customFormat == null){ return this; }
+[PATCH] if(( property == null)||(property.isRequired())) {
+[PATCH] if(property == null){ if(_defaultFormat == null){ return this; }
+[PATCH] if(property == null ||!serializers.hasFormatOverride()){
+[PATCH] if(property == null ||!property.isDefault()){ return this; }
+[PATCH] if(property == null ||!property.isVisible()){
+[PATCH] if(property == null || property.isRequired());
+[PATCH] if(property == null ||!property.isSet()){ return this; }
+[PATCH] if(property == null || handledType() == TimeZone.getDefault()){
+[PATCH] if(property == null || value.equals(property.getType())) {
+[PATCH] if(property == null ||!property.isPropertyTypeDeclared()){
+[PATCH] if(property == null || handledType() == null){
+[PATCH] if(property == null ||!serializers.containsKey(property)) {
+[PATCH] if(_customFormat == null){ return this; }
+[PATCH] if(property == null || property.isDefault()){ return this; }
+[PATCH] if(property == null){
+[PATCH] if(property == null ||!property.isPropertyTypeSupported()){
+[PATCH] if(property == null ||!property.hasFormat()){ return this; }
+[PATCH] if(property == null ||!property.hasDefault()){ return this; }
+[PATCH] if(property == null ||!property.canCreate()){ return this; }
+[PATCH] if(property == null ||!property.isResolved()){ return this; }
+[PATCH] if(property == null || property.hasType()){ return this; }
+[PATCH] if(property == null || handledType.isUnknownType()){
+[PATCH] if(property == null || property.getType() == JsonSerializer.class){
+[PATCH] if(property == null ||!serializers.contains(property)) {
+[PATCH] if(( property == null)||(property.getType()!= null)) {
+[PATCH] if(property == null || property.getType() == Number.class){
+[PATCH] if(property == null || property.getType() == JsonTypeInfo.class){
+[PATCH] if(property == null ||!property.isContextual()){
+[PATCH] if(property == null || handledType.isEmpty()){
+[PATCH] if(property == null ||!serializers.hasFormatModifiers()){
+[PATCH] if(property == null || property.isNoType()){
+[PATCH] if(property == null ||!property.visible()){
+[PATCH] if(property == null || property.isPropertyTypeDeclared()){
+[PATCH] if(property == null || property.isEmpty()){
+[PATCH] if(property == null ||!property.getType().isSupported()){
+[PATCH] if(property == null){ throw new IllegalArgumentException(""); }
+[PATCH] if(property == null ||!property.isResolved()){
+[PATCH] if(property == null ||!property.isSet()){
+[PATCH] if(property == null ||!property.isRequired());
+[PATCH] if(property == null || property.isDefault()){
+[PATCH] if(property == null ||!property.isPrimitive()){
+[PATCH] if(property == null || property.getType() == null){
+[PATCH] if(property == null ||!serializerProvider.hasFormatOverride()){
+[PATCH] if(property == null || property.isPropertyType()){
+[PATCH] if(property == null ||!serializers.hasFormatIgnored()){
+[PATCH] if(property == null || property.isPropertyTypeNull()){
+[PATCH] if(property == null || property.isSupported() == false){
+[PATCH] if(!property.isRequired()){ return this; }
+[PATCH] if(property == null ||!property.isEnabled()){
+[PATCH] if(property == null || property.isReadonly()){
+[PATCH] if(property == null || handledType.isPrimitive()){
+[PATCH] if(property == null ||!property.isOptionalArg()){
+[PATCH] if(property == null || handledType()!= null){
+[PATCH] if(property == null ||!serializers.hasFormat()){
+[PATCH] if(property == null ||!property.isBound()){
+[PATCH] if(property == null || property.isSupported()){
+[PATCH] if(property == null ||!property.isProtected()){
+[PATCH] if(property == null || property.isNull()){
+[PATCH] if(property == null || property.isCollection()){
+[PATCH] if(property == null || property.isPrimitive()){
+[PATCH] if(property == null || objectIdReader!= null){
+[PATCH] if(value == null){ return this; }
+[PATCH] if(property == null || property.isSingleton()){
+[PATCH] if(property == null || isUsingDefault()){
+[PATCH] if(property == null){ return this; }
+[PATCH] if(object == property){ return this; }
+[PATCH] if(property == null || visitedType!= null){
+[PATCH] if(attribute == null){ return this; }
+[PATCH] if(field == null){ return this; }
+[PATCH] if(_customFormat == null){
+[PATCH] if(referencedType == null){
+[PATCH] if(storedType == null){
+[PATCH] if( handledType == null){

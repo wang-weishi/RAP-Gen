@@ -1,0 +1,100 @@
+[PATCH] int idx = 1; while(count < index){ count += idx; ++idx; }
+[PATCH] int idx = 1; while(count <= index){ count += idx; ++idx; }
+[PATCH] int idx = 1; while(count <= index){ count += index; ++idx; }
+[PATCH] int idx = 1; while(count < index){ count += idx;++idx; }
+[PATCH] int idx = 1; while(count <= index){ count += idx;++idx; }
+[PATCH] int idx = 1; while(count <= index){ count -= idx; ++idx; }
+[PATCH] int idx = 0; while(count < index){ count += idx; ++idx; }
+[PATCH] int idx = 1; while(count > index){ count += idx; ++idx; }
+[PATCH] final int idx = 1; while(count < index){ count += idx; ++idx; }
+[PATCH] int idx = 1; while(count <= index){ count += 0; ++idx; }
+[PATCH] final int idx = 1; while(count <= index){ count += idx; ++idx; }
+[PATCH] int idx = 1; while(count<index){ count += idx; ++idx; }
+[PATCH] int idx = 1; while(count < index){ count += 0; ++idx; }
+[PATCH] int idx = 0; while(count <= index){ count += idx; ++idx; }
+[PATCH] int idx = 1; while(count < index){ count += i; ++idx; }
+[PATCH] int idx = 1; while(count <= index){ count -= index; ++idx; }
+[PATCH] int idx = 1; while(count < index){ ++idx; ++idx; }
+[PATCH] int idx = 1; while(count <= index){ count++; ++idx; }
+[PATCH] int idx = 1; while(count <= index){ count += i; ++idx; }
+[PATCH] int idx = 1; while(count < index){ count++; ++idx; }
+[PATCH] int idx = 1; while(count < index){ count -= idx; ++idx; }
+[PATCH] int idx = 1; while(++count < index){ count += idx; ++idx; }
+[PATCH] int idx = 1; while(count == index){ count += idx; ++idx; }
+[PATCH] int idx = 1; while(count <= index){ ++idx; ++idx; }
+[PATCH] int idx = 1; while(count <= index){ --idx; ++idx; }
+[PATCH] int idx = 1; do(count < index){ count += idx; ++idx; }
+[PATCH] int idx = 1; while(count < index){ count += n; ++idx; }
+[PATCH] int idx = 1; while(count < index){ --idx; ++idx; }
+[PATCH] int idx = 1; while(count <= index){ count += n; ++idx; }
+[PATCH] int idx = 1; while(count < index){ count +=idx; ++idx; }
+[PATCH] int idx = 1; while(count <= index){ count += index;++idx; }
+[PATCH] int idx = -1; while(count < index){ count += idx; ++idx; }
+[PATCH] int idx = 1;while(count < index){ count += idx; ++idx; }
+[PATCH] int idx = 1; while(count <= index){ count +=idx; ++idx; }
+[PATCH] int idx = 1; while(count <= index){ count += delta; ++idx; }
+[PATCH] int idx = 1; while(count < index){ count += delta; ++idx; }
+[PATCH] int idx = 1; while(count <= index){ count += idx; }
+[PATCH] int idx = 1; while(count < index){ count += idx; }
+[PATCH] int idx = 1; while(count <index){ count += idx; ++idx; }
+[PATCH] int idx = 1; while(index < count){ count += idx; ++idx; }
+[PATCH] int idx = 1; while(count > index){ count -= idx; ++idx; }
+[PATCH] int idx = -1; while(count <= index){ count += idx; ++idx; }
+[PATCH] int idx = 1; while(count < index){ count += dim; ++idx; }
+[PATCH] int idx = 1; while(count <= index){ count += dim; ++idx; }
+[PATCH] int idx = 1; while(count <= index){ count += idx; --idx; }
+[PATCH] int idx = 1; while(count!= index){ count += idx; ++idx; }
+[PATCH] int idx = 1;while(count <= index){ count += idx; ++idx; }
+[PATCH] int idx = 1; while(count < index){ count += idx; ++index; }
+[PATCH] int idx = 1; while(count < index){ count += idx; ++idx;}
+[PATCH] int idx = 1; while(count <= index){ count += -idx; ++idx; }
+[PATCH] int idx = 1; while(count < index){ count += -idx; ++idx; }
+[PATCH] int idx = 1; while(count <= index){ ++idx; }
+[PATCH] int idx = 1; while(count < index){ count += idx; --idx; }
+[PATCH] boolean idx = 1; while(count < index){ count += idx; ++idx; }
+[PATCH] int idx = 1; while(count < index){ count += 2; ++idx; }
+[PATCH] int idx = 1; while(count <= index){ count += 2; ++idx; }
+[PATCH] int idx = 1; while(count <= index){ count += idx; ++idx;}
+[PATCH] int idx = 1; while(count < index){ count += j; ++idx; }
+[PATCH] int idx = 1; while(count * index){ count += idx; ++idx; }
+[PATCH] int idx = 1; while(count < index){ ++idx; }
+[PATCH] int idx = 1; while(count <= index){ count -= idx;++idx; }
+[PATCH] int idx = 1; while(count < index){ count += offset; ++idx; }
+[PATCH] int idx = 1; while(count <= 0){ count += idx; ++idx; }
+[PATCH] int idx = 1; while(count > 0){ count += idx; ++idx; }
+[PATCH] boolean idx = 1; while(count <= index){ count += idx; ++idx; }
+[PATCH] int idx = 1; while(count <= index){ ++idx; --idx; }
+[PATCH] int idx = 1; while(count <= index){ index += idx; ++idx; }
+[PATCH] int idx = 1; while(count <= index){ count += j; ++idx; }
+[PATCH] int idx = 1; while(count <= index){ count += offset; ++idx; }
+[PATCH] int idx = 1; while(count <= index){ count += idx; ++i; }
+[PATCH] int idx = 0; while(count < index){ count += idx;++idx; }
+[PATCH] int idx = 1; while(count <= index){ count *= idx; ++idx; }
+[PATCH] int idx = 1; while(count < index){ count += u; ++idx; }
+[PATCH] void idx = 1; while(count < index){ count += idx; ++idx; }
+[PATCH] int idx = 1; while(count < index){ count ++; ++idx; }
+[PATCH] int idx = 1; while(count <= index){ count ++; ++idx; }
+[PATCH] int idx = 1; while(count <= index){ count++; }
+[PATCH] int idx = 1; while(count < index){ count += idx; ++idx; }
+[PATCH] while(count < index){ count += idx; ++idx; }
+[PATCH] --idx; indices[last] = idx;
+[PATCH] indices[last] = idx;
+[PATCH] [i] = -1;
+[PATCH] [last] = -1;
+[PATCH] indices[last] = 0;
+[PATCH] ints[last] = idx;
+[PATCH] [i] = count;
+[PATCH] index -= count;
+[PATCH] this.last = last;
+[PATCH] [i] = 0;
+[PATCH] [last] = idx;
+[PATCH] index -= count - 1;
+[PATCH] throw new IllegalStateException("");
+[PATCH] count -= idx;
+[PATCH] ++idx;
+[PATCH] count -= index;
+[PATCH] clearIndex();
+[PATCH] --idx;
+[PATCH] return count;
+[PATCH] return indices;
+[PATCH] clear();

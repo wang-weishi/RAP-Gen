@@ -1,0 +1,100 @@
+[PATCH] if(!declaredType.isContainerType()){
+[PATCH] if(!declaredType.getRawClass().isArray()){
+[PATCH] if(declaredType.isEmpty()){
+[PATCH] if(!declaredType.hasReferenceName()){
+[PATCH] if(!declaredType.isVoid()){
+[PATCH] if(declaredType.isContainerType()){
+[PATCH] if(valueToSuppress.getClass().isArray()){
+[PATCH] if(!declaredType.isEmpty()){
+[PATCH] if(!declaredType.isActual()){
+[PATCH] if(!declaredType.isReferenceType()){
+[PATCH] if(!declaredType.getRawClass().isPrimitive()){
+[PATCH] if(declaredType.isUnknownType()){
+[PATCH] if(!declaredType.getRawClass().isEmpty()){
+[PATCH] if(!declaredType.getContentType().isEmpty()){
+[PATCH] if(!declaredType.getRawClass().isNull()){
+[PATCH] if(declaredType == null || declaredType.isEmpty()){
+[PATCH] if(declaredType.isVoid()){
+[PATCH] if(!declaredType.isNullable()){
+[PATCH] if(declaredType.getRawClass().isArray()){
+[PATCH] if(!declaredType.isNull()){
+[PATCH] if(!declaredType.getContentType().isContainerType()){
+[PATCH] if(!declaredType.getContentType().isVoid()){
+[PATCH] if(!declaredType.getContentType().isPrimitive()){
+[PATCH] if(!declaredType.isPrimitive()){
+[PATCH] if(declaredType == null || declaredType.isPrimitive()){
+[PATCH] if(!declaredType.isNone()){
+[PATCH] if(!declaredType.isUnknownType()){
+[PATCH] if(declaredType.isNull()){
+[PATCH] if(declaredType.isEmpty() &&!suppressNulls){
+[PATCH] if(!declaredType.equals(valueToSuppress)) {
+[PATCH] if(declaredType == null || declaredType.isVoid()){
+[PATCH] if(!declaredType.getContentType().isNull()){
+[PATCH] if(!declaredType.getRawClass().isVoid()){
+[PATCH] if(!declaredType.isReference()){
+[PATCH] if(!declaredType.isArray()){
+[PATCH] if(declaredType.isPrimitive()){
+[PATCH] if(!declaredType.isRawClass()){
+[PATCH] if(!declaredType.isWrapperType()){
+[PATCH] if(declaredType.getRawClass() == null){
+[PATCH] if(!declaredType.isEmpty() &&!suppressNulls){
+[PATCH] if(!declaredType.getBounds().isEmpty()){
+[PATCH] if(declaredType.isReferenceType()){
+[PATCH] if(!declaredType.getWrappedClass().isArray()){
+[PATCH] if(valueToSuppress.getClass().isEmpty()){
+[PATCH] if(!declaredType.canBeNull()){
+[PATCH] if(declaredType.isNone()){
+[PATCH] if(!declaredType.isCollection()){
+[PATCH] if(!declaredType.canBeSet()){
+[PATCH] if(!declaredType.getContentType().isNone()){
+[PATCH] if(!declaredType.isObject()){
+[PATCH] if(!declaredType.matchesObjectContext()){
+[PATCH] if(!declaredType.canCreateUsingDefault()){
+[PATCH] if(!declaredType.isNoType()){
+[PATCH] if(declaredType.getRawClass().isEmpty()){
+[PATCH] if(declaredType.equals(JsonTypeInfo.class)) {
+[PATCH] if(!declaredType.getContentType().isReference()){
+[PATCH] if(valueToSuppress.getClass().isNull()){
+[PATCH] if(!declaringType.isContainerType()){
+[PATCH] if(declaredType == null || declaredType.isCollection()){
+[PATCH] if(!declaredType.getValue().isNull()){
+[PATCH] if(!declaredType.getRawClass().isObject()){
+[PATCH] if(!declaredType.isContentType()){
+[PATCH] if(declaredType.isEmpty() &&!supNulls){
+[PATCH] if(declaredType.getRawClass().isNull()){
+[PATCH] if(!declaredType.isNotNull()){
+[PATCH] if(declaredType.isNoType()){
+[PATCH] if(!declaredType.isEmpty() &&!serializeNulls){
+[PATCH] if(!declaredType.getActualType().isReference()){
+[PATCH] if(!declaredType.getContentType().isActual()){
+[PATCH] if(!declaredType.getContentType().isNotNull()){
+[PATCH] if(declaredType.isNullable()){
+[PATCH] if(!declaredType.isString()){
+[PATCH] if(!declaredType.getContentType().isArray()){
+[PATCH] if(!declaredType.isPresent()){
+[PATCH] if(declaringType.isContainerType()){
+[PATCH] if(!declaredType.isNumeric()){
+[PATCH] if(!declaredType.getContentType().isNullable()){
+[PATCH] if(!valueToSuppress.isEmpty()){
+[PATCH] if(declarationType.isContainerType()){
+[PATCH] if(!declaredType.getValue().isEmpty()){
+[PATCH] if(!declaredType.isAttached()){
+[PATCH] if(!declaredType.isValueType()){
+[PATCH] if(declaredType.getRawClass().isPrimitive()){
+[PATCH] if(declaredType.isRawClass()){
+[PATCH] if(!declaredType.isScalarType()){
+[PATCH] if(!declaredType.isOptionalArg()){
+[PATCH] if(!declaredType.isDefault()){
+[PATCH] if(!declaredType.matchesObject()){
+[PATCH] if(!declaredType.isImplicitPrototype()){
+[PATCH] if(!declaredType.isEnumType()){
+[PATCH] if(typeSer.isEmpty()){
+[PATCH] if(declaredType.hasReferenceName()){
+[PATCH] if(!declaredType.isSupported()){
+[PATCH] if(valueToSuppress.isEmpty()){
+[PATCH] if(declaredType.isArray()){
+[PATCH] if(!declaredType.isConstant()){
+[PATCH] if(declarationType.isEmpty()){
+[PATCH] if(declaredType.isNoObjectType()){
+[PATCH] if(!declaredType.isLeaf()){
+[PATCH] if(!declaredType.isRequired()){

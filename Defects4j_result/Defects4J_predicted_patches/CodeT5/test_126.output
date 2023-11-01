@@ -1,0 +1,100 @@
+[PATCH] if(x < 0 && prev == '-'){
+[PATCH] if(x == 0 && prev == '-'){
+[PATCH] if(negativeZero && x == 0){
+[PATCH] if(negativeZero && x < 0){
+[PATCH] if(x == 0.0 && prev == '-'){
+[PATCH] if(x < 0.0 && prev == '-'){
+[PATCH] if(x < 0 && previous == '-'){
+[PATCH] if(negativeZero && x == 0.0){
+[PATCH] if(x < 0 && curr == '-'){
+[PATCH] if( x < 0 && prev == '-'){
+[PATCH] if(X == 0.0 && prev == '-'){
+[PATCH] if(!negativeZero && x == 0){
+[PATCH] if(x == 0L && prev == '-'){
+[PATCH] if(x < 0 && lastChar == '-'){
+[PATCH] if(x < 0 && prev == '-'){
+[PATCH] if(y == 0 && prev == '-'){
+[PATCH] if(!negativeZero && x < 0){
+[PATCH] if(x < 0L && prev == '-'){
+[PATCH] if(x < 0 && beforeLastChar == '-'){
+[PATCH] if(negativeZero && x < 0.0){
+[PATCH] if(x < 0 || prev == '-'){
+[PATCH] if(x < 0 && firstChar == '-'){
+[PATCH] if(!negativeZero && x == 0.0){
+[PATCH] if(x< 0 && prev == '-'){
+[PATCH] if(x < 0 || negativeZero){
+[PATCH] if(x < 0 && negativeZero){
+[PATCH] if(x == 0 && previous == '-'){
+[PATCH] if(x < 0 && prev== '-'){
+[PATCH] if(x < 0 && getLastChar() == '-'){
+[PATCH] if(prev == '-' && x == 0.0){
+[PATCH] if(value == 0 && prev == '-'){
+[PATCH] if( x == 0 && prev == '-'){
+[PATCH] if(x > 0.0 && prev == '-'){
+[PATCH] if(value == 0.0 && prev == '-'){
+[PATCH] if(x < 0 && prev == '0'){
+[PATCH] if(x == 0 || prev == '-'){
+[PATCH] if(X == 0 && prev == '-'){
+[PATCH] if(negativeZero && x > 0.0){
+[PATCH] if(x < 0 && prev!= '9'){
+[PATCH] if(positiveZero && x == 0.0){
+[PATCH] if(x < 0 &&prev == '-'){
+[PATCH] if(x < 0 &&!negativeZero){
+[PATCH] if(x == 0d && prev == '-'){
+[PATCH] if(sawFunction || negativeZero){
+[PATCH] if(negativeZero && x == -1.0){
+[PATCH] if(-x < 0 && prev == '-'){
+[PATCH] if(--x < 0 && prev == '-'){
+[PATCH] if(x < 0 && zz == '-'){
+[PATCH] if(x = -x || prev == '-'){
+[PATCH] if(negZero && x == 0.0){
+[PATCH] if(x < 0 && curChar == '-'){
+[PATCH] if(x == 0 && lastChar == '-'){
+[PATCH] if(negativeZero && firstChar == '-'){
+[PATCH] if(-x < 0 && prev == '-'){
+[PATCH] if(negativeZero && prev == '-'){
+[PATCH] if(x < 0 && minusZero == '-'){
+[PATCH] if(x == 0 && prev == '-'){
+[PATCH] if(NegativeZero && x == 0.0){
+[PATCH] if(NegativeZero && x == 0){
+[PATCH] if(x == 0 && curr == '-'){
+[PATCH] if(lx == 0 && prev == '-'){
+[PATCH] if(!negativeZero && prev == '-'){
+[PATCH] if(x < 0 &&Prev == '-'){
+[PATCH] if(negativeZero && xx == 0.0){
+[PATCH] if(x = -x || negativeZero){
+[PATCH] if(positiveZero && x == 0){
+[PATCH] if(negativeZero &&x < 0){
+[PATCH] if(( long)x == 0 && prev == '-'){
+[PATCH] if(x < 0 && prev == '-' {
+[PATCH] if(x < 0 and prev == '-'){
+[PATCH] if(x == 0 || negativeZero){
+[PATCH] if(!negativeZero && x < 0.0){
+[PATCH] if(X < 0 && prev == '-'){
+[PATCH] if(prev == '-' && x < 0.0){
+[PATCH] if(x== 0 && prev == '-'){
+[PATCH] if(i == 0 && prev == '-'){
+[PATCH] if(negativeZero &&x == 0){
+[PATCH] if(t == 0 && prev == '-'){
+[PATCH] if(x < 0 && before == '-'){
+[PATCH] if(x < 0 && parent == '-'){
+[PATCH] if(y == 0 && previous == '-'){
+[PATCH] if(index == 0 && prev == '-'){
+[PATCH] if(x <0 && prev == '-'){
+[PATCH] if(negativeZero && before == '-'){
+[PATCH] if(pos == 0 && prev == '-'){
+[PATCH] if(x < 0 && prev == "-"){
+[PATCH] if(Math.abs(x)== x){
+[PATCH] if(negativeZero && x == -1){
+[PATCH] if( negativeZero && x == 0){
+[PATCH] if(negativeZero && x == 0L){
+[PATCH] if(x < 0 && beforeEmpty){
+[PATCH] if(NegativeZero && x < 0){
+[PATCH] if(x < 0 && prev == '-')) {
+[PATCH] if(x < 0 && prev == '-'()){
+[PATCH] if( negativeZero && x < 0){
+[PATCH] if(x < 0 && prev == '+'){
+[PATCH] if(positiveZero && x < 0){
+[PATCH] if(prev == '-' && x < 0){
+[PATCH] if(position == 0 && prev == '-'){
+[PATCH] if(prev == '-' && x == 0){

@@ -1,0 +1,100 @@
+[PATCH] if(buffer[i] < 0){
+[PATCH] if(buffer[i] == 0){
+[PATCH] if(buffer[i] < 0 || buffer[i] > 255){
+[PATCH] if(buffer[i] < 0){ break; }
+[PATCH] if(buffer[i] < 0 || buffer[i] >= 0){
+[PATCH] if(buffer[i] >= 0){
+[PATCH] if(buffer[i] >= 0 || buffer[i] < 0){
+[PATCH] if(buffer[i] < 0 || buffer[i] > 127){
+[PATCH] if(buffer[i] >= 0 || buffer[i] == 0){
+[PATCH] if(buffer[i] >= 0 || buffer[i] > 0){
+[PATCH] if(buffer[i] < 0 || buffer[i] > 0){
+[PATCH] if(buffer[i] < 0){ result.append('0'); }
+[PATCH] if(buffer[i] < 0){ result.append('0');
+[PATCH] if(buffer[i]!= 0){
+[PATCH] if(buffer[i] == 0 || buffer[i]!= 0){
+[PATCH] if(buffer[i] < 0){ result.append('-'); }
+[PATCH] if(buffer[i] == 0){ result.append('0'); }
+[PATCH] if(buffer[i] < 0 || buffer[i] > 1){
+[PATCH] if(buffer[i] >= 0 || buffer[i] == '.'){
+[PATCH] if(buffer[i] == 0){ break; }
+[PATCH] if(buffer[i] == 0){ result.append('0');
+[PATCH] if(buffer[i] >= 0 || buffer[i]!= 0){
+[PATCH] if(( buffer[i] & BYTE_MASK)== 0){
+[PATCH] if(buffer[i] == 0){ result.append('-'); }
+[PATCH] if(buffer[i] < 0){ result.append('.'); }
+[PATCH] if(buffer[i] & BYTE_MASK)== 0){
+[PATCH] if(buffer[i] < 0){ break;
+[PATCH] if(buffer[i] < 0 || buffer[i] > 9){
+[PATCH] if(buffer[i] < 0 || buffer[i] > END){
+[PATCH] if(buffer[i] == 0){ result.append('.'); }
+[PATCH] if(buffer[i] < 0){ result.append('\\'); }
+[PATCH] if(buffer[i] >= 0 || buffer[i] > 255){
+[PATCH] if(buffer[i] < 0){ result.append('-');
+[PATCH] if(buffer[i] < 0 || buffer[i] > 7){
+[PATCH] if(buffer[i] < 0 || buffer[i] > SIZE){
+[PATCH] if(buffer[i] < 0 || buffer[i] > 256){
+[PATCH] if(buffer[i] < 0 || buffer[i] > '.'){
+[PATCH] if(buffer[i] < 0 || buffer[i] > 13){
+[PATCH] if(buffer[i] < 0 || buffer[i] > 3){
+[PATCH] if(buffer[i] < 0 || buffer[i] > 32){
+[PATCH] if(buffer[i] < 0 || buffer[i] > 254){
+[PATCH] if(buffer[i] == 0){ result.append('\\'); }
+[PATCH] if(buffer[i] < 0 || buffer[i] > 15){
+[PATCH] if(buffer[i] == 0){ result.append('-');
+[PATCH] if(buffer[i] < 0 || buffer[i] > LAST){
+[PATCH] if(buffer[i] < 0){ result.append('.');
+[PATCH] if(buffer[i] < 0){ continue; }
+[PATCH] if(buffer[i] < 0 || buffer[i] > 10){
+[PATCH] if(buffer[i] < 0){ result.append(''); }
+[PATCH] if(buffer[i] < 0 || buffer[i] > 65535){
+[PATCH] if(buffer[i] < 0){ result.append('\0');
+[PATCH] if(buffer[i] == 0){ result.append('.');
+[PATCH] if(buffer[i] < 0){ throw new IllegalArgumentException(""); }
+[PATCH] if(( buffer[i] & BYTE_MASK)!= 0){
+[PATCH] if(buffer[i] + length == 0){ break; }
+[PATCH] if(buffer[i] < 0){ result.append(' '); }
+[PATCH] if(buffer[i] & 0x80){
+[PATCH] if(buffer[i] < 0 || i >= length){
+[PATCH] if(( buffer[i] & 0x03)== 0){
+[PATCH] if(buffer[i] & BYTE_MASK == 0){
+[PATCH] if(buffer[i] * BYTE_MASK == 0){
+[PATCH] if(buffer[i] == 0){ break;
+[PATCH] if(buffer[i] < 0){ return null; }
+[PATCH] if(buffer[i] < BYTE_MASK){
+[PATCH] if(buffer[i] == 0){ continue; }
+[PATCH] if(buffer[i] - 1 == 0){
+[PATCH] if(buffer[i] >= 0){ break; }
+[PATCH] if(buffer[i] < 0){ ++i;
+[PATCH] if(buffer[i] < 0 || i > end){
+[PATCH] if(buffer[i] % 2!= 0){
+[PATCH] if(buffer[i]!= 0){ break; }
+[PATCH] if(buffer[i] < 0 || i >= end){
+[PATCH] if(buffer[i] + length == 0){
+[PATCH] if(buffer[i] > 0){
+[PATCH] if(buffer[i] & ~BYTE_MASK){
+[PATCH] if(buffer[i] % 2 == 0){
+[PATCH] if(buffer[i] < 0){ continue;
+[PATCH] if(buffer[i] [0]!= 0){
+[PATCH] if(buffer[i] - 1!= 0){
+[PATCH] if(buffer[i] == 0){ return null; }
+[PATCH] if(buffer[i] < 0){ return null;
+[PATCH] if(buffer[i] & 0x03 == 0){
+[PATCH] if(buffer[i] >= 0x80){
+[PATCH] if(buffer[i] + 1 == 0){
+[PATCH] if(buffer[i] < 0x80){
+[PATCH] if(buffer[i] < 0x800){
+[PATCH] if(buffer[i] << 8 == 0){
+[PATCH] if(buffer[i] & 0x03){
+[PATCH] if(buffer[i] == 0){ ++i;
+[PATCH] if(buffer[i] % 4 == 0){
+[PATCH] if(buffer[i] << 4 == 0){
+[PATCH] if(buffer[i] [0] == 0){
+[PATCH] if(( buffer[i] << 3)!= 0){
+[PATCH] if(buffer[i] << 1 == 0){
+[PATCH] if(buffer[i] & 0xFF == 0){
+[PATCH] if(buffer[i] - 1 < 0){
+[PATCH] if(buffer[i] < 0)continue;
+[PATCH] if(buffer[i] = 0){
+[PATCH] if(buffer[i]!= 0){ break;
+[PATCH] if(buffer[i] < 0)break;

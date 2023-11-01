@@ -1,0 +1,100 @@
+[PATCH] if(val1 < 0L){ throw new ArithmeticException(""); }
+[PATCH] if(val1 == 0L){ return 0L; }
+[PATCH] if(val1 == val2){ return 0L; }
+[PATCH] if(val1 < 0L){ return val0L; }
+[PATCH] if(val1 > 0L){ throw new ArithmeticException(""); }
+[PATCH] if(val1!= 0L){ throw new ArithmeticException(""); }
+[PATCH] if(val1 == 0L){ return Long.NaN; }
+[PATCH] if(val2 < 0){ throw new ArithmeticException(""); }
+[PATCH] if(val2 < 0){ return Long.MIN_VALUE; }
+[PATCH] if(val1 < 0L){ return val2; }
+[PATCH] if(val1 < 0L){ return val1; }
+[PATCH] if(val1 < 0L){ return Long.NaN; }
+[PATCH] if(val1 == 0L){ throw new ArithmeticException(""); }
+[PATCH] if(val1 < 0L){ return(-val1; }
+[PATCH] checkOverflow(val1, val2);
+[PATCH] if(val1 == 0L){ return val0L; }
+[PATCH] if(val2 < 0){ return val1; }
+[PATCH] if(val1 == val0L){ return 0L; }
+[PATCH] checkLimits(val1,"resulting");
+[PATCH] if(val1 >= 0L){ throw new ArithmeticException(""); }
+[PATCH] if(val2 < 0){ returnLong.MIN_VALUE; }
+[PATCH] if(val1 < 0){ throw new ArithmeticException(""); }
+[PATCH] if(val1<0L){ throw new ArithmeticException(""); }
+[PATCH] if(val1 < 0L){ return -1L; }
+[PATCH] if(val1 < 0L){ return -val1; }
+[PATCH] val1 = FieldUtils.safeMultiply(-val1, val2);
+[PATCH] if(val1 < 0L){ return(-val1); }
+[PATCH] if(val1 < 0L){ return LONG_ZERO; }
+[PATCH] if(val1 < 0L){ return Double.NaN; }
+[PATCH] if(val1 < 0L){ return -0L; }
+[PATCH] if(val1 == 0L){ return -0L; }
+[PATCH] if(val1==0L){ return 0L; }
+[PATCH] if(val1 < 0){ return Long.MIN_VALUE; }
+[PATCH] if(val1 == val2){ throw new ArithmeticException(""); }
+[PATCH] if(val1>0L){ throw new ArithmeticException(""); }
+[PATCH] if(val1 == 0L){ return -1L; }
+[PATCH] if(val2 < 0){ return long.MIN_VALUE; }
+[PATCH] checkOverflow(val1,"resulting");
+[PATCH] Preconditions.checkNotNull(val1);
+[PATCH] checkMultiply(-val1, val2);
+[PATCH] if(val1 == 0L){ return(-0L; }
+[PATCH] if(val2 == 0){ return Long.MIN_VALUE; }
+[PATCH] if(val1<0){ throw new ArithmeticException(""); }
+[PATCH] if(val2 < 0){ return Long.NaN; }
+[PATCH] if(val1 < 0L){ return ~val1; }
+[PATCH] checkOverflowLong(val1, val2);
+[PATCH] checkMultiply(val1, val2);
+[PATCH] if(val1 == val2){ return Long.NaN; }
+[PATCH] Preconditions.checkArgument(val1 < 0L);
+[PATCH] if(val1 == 0L){ returnLong.NaN; }
+[PATCH] if(val1 < 0L){ return -2L; }
+[PATCH] if(val1 == 0L){ return val2; }
+[PATCH] checkMultiplication(val1, val2);
+[PATCH] if(val1 < 0){ return val0L; }
+[PATCH] checkArithmetic(val1, val2);
+[PATCH] if(val1 == val0){ return 0L; }
+[PATCH] checkMultiply(val1, val2);
+[PATCH] if(val1 == 0L){ return0L; }
+[PATCH] if(val2 < 0){ return -val1; }
+[PATCH] checkMultiply(-val1, val2);
+[PATCH] if(val2 == 0){ return 0L; }
+[PATCH] checkOverflowLong(val1,"resulting");
+[PATCH] Preconditions.checkArgument(val1 == 0L);
+[PATCH] if(val2 == 0){ return val1; }
+[PATCH] checkDivideZero(val1, val2);
+[PATCH] Preconditions.checkArgument(val1 > 0L);
+[PATCH] checkOverflow(val1);
+[PATCH] val1 = val1.longValue();
+[PATCH] Preconditions.checkState(val1 == 0L);
+[PATCH] checkDivideLong(val1, val2);
+[PATCH] checkOverflowL(val1, val2);
+[PATCH] safeMultiply(-val1, val2);
+[PATCH] checkLimits(val1, val2);
+[PATCH] checkDesc(val1,"resulting");
+[PATCH] checkOverflow(val1,"multiply negative values");
+[PATCH] checkAndMultiply(-val1, val2);
+[PATCH] checkSignedValue(val1,"resulting");
+[PATCH] checkMod(val1, -val2);
+[PATCH] checkNonEmptyValue(val1,"resulting");
+[PATCH] checkDivisor(val1, val2);
+[PATCH] val1 = safeMultiply(-val1);
+[PATCH] checkGreaterThan(val1, val2);
+[PATCH] checkBigInteger(val1, val2);
+[PATCH] checkLimits(val1, -1);
+[PATCH] checkOverflow(val1,"negative");
+[PATCH] checkDivideZero(val1);
+[PATCH] checkOverflowLong(val1);
+[PATCH] checkDesc(val1, false);
+[PATCH] checkPositiveAndNegative(val1);
+[PATCH] checkOverflowL(val1);
+[PATCH] checkYearsAndMonths("multiply");
+[PATCH] checkLimits(val1,"negative");
+[PATCH] val1 = -1L;
+[PATCH] checkNonEmptyZero(val1);
+[PATCH] checkNotNegative(val1);
+[PATCH] checkLenient();
+[PATCH] checkNotNull(val1);
+[PATCH] checkNegative(val1);
+[PATCH] check(-val1);
+[PATCH] log(-val1);

@@ -1,0 +1,100 @@
+[PATCH] if(!NodeUtil.mayHaveSideEffects(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(hasSideEffects && NodeUtil.mayHaveSideEffects(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(hasSideEffects && NodeUtil.canBeSideEffected(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(!NodeUtil.isLiteralValue(cArg)|| NodeUtil.mayHaveSideEffects(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(!hasSideEffects){ if(NodeUtil.mayHaveSideEffects(cArg, compiler)) { return CanInlineResult.NO; }
+[PATCH] if(!NodeUtil.isLiteralValue(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(!NodeUtil.mayHaveSideEffects(cArg)|| NodeUtil.mayHaveSideEffects(block)) { return CanInlineResult.NO; }
+[PATCH] if(!NodeUtil.canBeSideEffected(cArg, block)) { return CanInlineResult.NO; }
+[PATCH] if(!NodeUtil.canInlineDirectly(cArg, block)) { return CanInlineResult.NO; }
+[PATCH] if(hasSideEffects || NodeUtil.mayHaveSideEffects(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(!NodeUtil.canBeSideEffected(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(!NodeUtil.mayHaveSideEffects(cArg, block)) { return CanInlineResult.NO; }
+[PATCH] if(!NodeUtil.canInlineDirectly(cArg, callNode)) { return CanInlineResult.NO; }
+[PATCH] if(!hasSideEffects){ if(NodeUtil.mayHaveSideEffects(cArg, block)) { return CanInlineResult.NO; }
+[PATCH] if(!NodeUtil.mayHaveSideEffects(cArg)|| NodeUtil.isLiteralValue(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(hasSideEffects || NodeUtil.canBeSideEffected(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(!cArg.hasChildren()){ if(!NodeUtil.mayHaveSideEffects(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(!NodeUtil.mayHaveSideEffects(cArg, compiler)) { return CanInlineResult.NO; }
+[PATCH] if(!NodeUtil.mayHaveSideEffects(cArg)|| NodeUtil.isExpressionNode(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(hasSideEffects && NodeUtil.canBeSideEffected(cArg, block)) { return CanInlineResult.NO; }
+[PATCH] if(!canInlineDirectly()){ if(!NodeUtil.mayHaveSideEffects(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(!hasSideEffects){ if(!NodeUtil.mayHaveSideEffects(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(!canBeSideEffected(cArg)|| NodeUtil.mayHaveSideEffects(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(!NodeUtil.canBeSideEffected(cArg, fnParam)) { return CanInlineResult.NO; }
+[PATCH] if(!hasSideEffects){ if(!NodeUtil.mayHaveSideEffects(cArg, compiler)) { return CanInlineResult.NO; }
+[PATCH] if(!hasSideEffects || NodeUtil.mayHaveSideEffects(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(!NodeUtil.canBeSideEffected(cArg, callNode)) { return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.mayHaveSideEffects(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(hasSideEffects){ if(!NodeUtil.mayHaveSideEffects(cArg, compiler)) { return CanInlineResult.NO; }
+[PATCH] if(!NodeUtil.mayHaveSideEffects(cArg)|| cArg.getNext()!= null){ return CanInlineResult.NO; }
+[PATCH] if(hasSideEffects ||!NodeUtil.mayHaveSideEffects(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(hasSideEffects){ if(!NodeUtil.mayHaveSideEffects(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(!hasSideEffects){ if(NodeUtil.mayHaveSideEffects(cArg, false)) { return CanInlineResult.NO; }
+[PATCH] if(!hasSideEffects){ if(NodeUtil.canBeSideEffected(cArg, block)) { return CanInlineResult.NO; }
+[PATCH] if(!NodeUtil.isLiteralValue(cArg)) { if(hasSideEffects){ return CanInlineResult.NO; }
+[PATCH] if(!NodeUtil.canHaveSideEffects(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(!NodeUtil.canInlineReferenceDirectly(cArg, block)) { return CanInlineResult.NO; }
+[PATCH] if(!markSideEffects){ if(!NodeUtil.mayHaveSideEffects(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(hasSideEffects && NodeUtil.canBeSideEffected(cArg, fnParam)) { return CanInlineResult.NO; }
+[PATCH] if(!hasSideEffects || NodeUtil.canBeSideEffected(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(!NodeUtil.mayHaveSideEffects(cArg)|| cArg.hasChildren()){ return CanInlineResult.NO; }
+[PATCH] if(!hasSideEffects){ if(NodeUtil.mayHaveSideEffects(block, fnParam)) { return CanInlineResult.NO; }
+[PATCH] if(!NodeUtil.canBeSideEffected(cArg, false)) { return CanInlineResult.NO; }
+[PATCH] if(!NodeUtil.canInlineReferenceDirectly(cArg, callNode)) { return CanInlineResult.NO; }
+[PATCH] if(hasSideEffects){ if(NodeUtil.mayHaveSideEffects(cArg, compiler)) { return CanInlineResult.NO; }
+[PATCH] if(!hasSideEffects){ return CanInlineResult.NO; }
+[PATCH] if(!NodeUtil.mayHaveSideEffects(cArg)) { if(hasSideEffects){ return CanInlineResult.NO; }
+[PATCH] if(!canBeSideEffected(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(!hasSideEffects && NodeUtil.mayHaveSideEffects(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(!NodeUtil.mayHaveSideEffects(cArg, callNode)) { return CanInlineResult.NO; }
+[PATCH] if(!NodeUtil.canInlineDirectly(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(!NodeUtil.canBeSideEffected(cArg, true)) { return CanInlineResult.NO; }
+[PATCH] if(hasSideEffects){ return CanInlineResult.NO; }
+[PATCH] if(!canInlineDirectly()){ if(hasSideEffects){ return CanInlineResult.NO; }
+[PATCH] if(!NodeUtil.isImmutableValue(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(!NodeUtil.isLhs(block, cArg)) { return CanInlineResult.NO; }
+[PATCH] if(!NodeUtil.canInlineDirectly(block, fnParam)) { return CanInlineResult.NO; }
+[PATCH] if(!NodeUtil.canInlineDirectly(cArg, false)) { return CanInlineResult.NO; }
+[PATCH] if(!NodeUtil.canInlineDirectly(block, cArg)) { return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.canBeSideEffected(cArg, block)) { return CanInlineResult.NO; }
+[PATCH] if(!nodeUtil.mayHaveSideEffects(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(! NodeUtil.mayHaveSideEffects(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(!NodeUtil.mayHaveSideEffects(cArg, false)) { return CanInlineResult.NO; }
+[PATCH] if(!1 && NodeUtil.mayHaveSideEffects(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(!NodeUtil.isExpressionNode(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(!NodeUtil.canInlineDirectly(cArg, true)) { return CanInlineResult.NO; }
+[PATCH] if(!NodeUtil.hasSideEffects(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(!NodeUtil.mayHaveSideEffects(cArg, true)) { return CanInlineResult.NO; }
+[PATCH] if(!NodeUtil.mayHaveSideEffects(cArg)) { return canInlineResult.NO; }
+[PATCH] if(!NodeUtil.mustHaveSideEffects(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(!NodeUtil.isFunctionObjectApply(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(!NodeUtil.isLhs(cArg, block)) { return CanInlineResult.NO; }
+[PATCH] if(!NodeUtil.mayHaveSideEffects(cArg)) { returnCanInlineResult.NO; }
+[PATCH] if(!NodeUtil.mayHaveSideEffects(cArg)) { return CannotInlineResult.NO; }
+[PATCH] if(!NodeUtil.mayHaveSideEffects(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(!NodeUtil.canInlineReferenceDirectly(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(!compiler.mayHaveSideEffects(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(!NodeUtil.mayHaveSideEffects(cArg)) { return CanInlineResult.No; }
+[PATCH] if(!NodeUtil.mayHaveSideEffects(carg)) { return CanInlineResult.NO; }
+[PATCH] if(!mayHaveSideEffects(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(!NodeUtil.mayHaveSideEffects(block)) { return CanInlineResult.NO; }
+[PATCH] if(!NodeUtil.mayHaveSideEffects(cArg)) { return CanInlineResult.NOT; }
+[PATCH] if(!NodesUtil.mayHaveSideEffects(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(!NodeUtil.mayHaveSideEffects(cArg')) { return CanInlineResult.NO; }
+[PATCH] if(!NodeUtil.mayHaveSideEffects(cArg)) { return CANInlineResult.NO; }
+[PATCH] if(!block.mayHaveSideEffects()){ return CanInlineResult.NO; }
+[PATCH] if(!NodeUtil.mayHaveSideEffects(cArg)|| NodeUtil.mayHaveSideEffects(cArg));
+[PATCH] if(!compiler.canInline()){ return CanInlineResult.NO; }
+[PATCH] if(!cArg.canInline()){ return CanInlineResult.NO; }
+[PATCH] if(!block.canInline()){ return CanInlineResult.NO; }
+[PATCH] if(!cArg.hasChildren()){ return CanInlineResult.NO; }
+[PATCH] if(!markSideEffects){ return CanInlineResult.NO; }
+[PATCH] if(!canInlineDirectly()){ return CanInlineResult.NO; }
+[PATCH] if(this.hasSideEffects){ return CanInlineResult.NO; }
+[PATCH] }
+[PATCH] if
+[PATCH] [Delete]
+
+);
+;

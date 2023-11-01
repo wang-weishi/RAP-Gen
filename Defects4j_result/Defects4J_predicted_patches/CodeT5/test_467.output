@@ -1,0 +1,100 @@
+[PATCH] if(declaredType.isContainerType() || declaredType.isCollectionType()){
+[PATCH] if(declaredType.isContainerType() && declaredType.isEmptyType()
+[PATCH] if(declaredType.isContainerType() || declaredType.isAbstract()){
+[PATCH] if(declaredType.isContainerType() || declaredType.isEnumType()){
+[PATCH] if(declaredType.isContainerType() &&!declaredType.isEmptyType()
+[PATCH] if(declaredType.isContainerType() && declaredType.isCollectionType()){
+[PATCH] if(declaredType.isContainerType() && declaredType.isArrayType()){
+[PATCH] if(declaredType.isContainerType() &&!declaredType.isArrayType()){
+[PATCH] if(declaredType.isContainerType() && declaredType.isArray()){
+[PATCH] if(declaredType.isContainerType() || declaredType.isPartialType()){
+[PATCH] if(declaredType.isContainerType() && declaredType.isIndexedType()){
+[PATCH] if(declaredType.isContainerType() &&!declaredType.isCollectionType()){
+[PATCH] if(declaredType.isContainerType() || declaredType.isArrayType()){
+[PATCH] if(declaredType.isContainerType() || declaredType.isIndexedType()){
+[PATCH] if(declaredType.isContainerType() && declaredType.isPartialType()){
+[PATCH] if(declaredType.isContainerType() &&!declaredType.isPartialType()){
+[PATCH] if(declaredType.isContainerType() || declaredType.isSingletonType()){
+[PATCH] if(declaredType.isContainerType() || declaredType.isInterface()){
+[PATCH] if(declaredType.isContainerType() || declaredType.isVoidType()){
+[PATCH] if(declaredType.isContainerType() && declaredType.isJsonArray()){
+[PATCH] if(declaredType.isContainerType() || declaredType.isEmbeddedType()){
+[PATCH] if(declaredType.isCollectionType() || declaredType.isSingletonType()){
+[PATCH] if(declaredType.isContainerType() &&!declaredType.isArray()){
+[PATCH] if(declaredType.isNullType() || declaredType.isVoidType()){
+[PATCH] if(declaredType.isContainerType() || declaredType.isNullable()){
+[PATCH] if(declaredType.isContainerType() || declaredType.isTransientType()){
+[PATCH] if(declaredType.isContainerType() || declaredType.isProxyType()){
+[PATCH] if(declaredType.isContainerType() && valueTypeSuppress == null
+[PATCH] if(declaredType.isContainerType() && valueTypeSuppress == null){
+[PATCH] if(declaredType.isContainerType() && declaredType.isUnwrappedType()){
+[PATCH] if(declaredType.isContainerType() && declaredType.isStatic()){
+[PATCH] if(declaredType.isContainerType() && declaredType.isAbstract()){
+[PATCH] if(declaredType.isContainerType() && declaredType.isSimpleName()){
+[PATCH] if(declaredType.isNone() || declaredType.isCollectionType()){
+[PATCH] if(declaredType.isContainerType() || declaredType.isArrayType()){
+[PATCH] if(declaredType.isContainerType() || declaredType.isUnwrappedType()){
+[PATCH] if(declaredType.isContainerType() && actualType.isArray()){
+[PATCH] if(declaredType.isContainerType() || declaredType.isManyType()){
+[PATCH] if(declaredType.isNone() || declaredType.isContainerType()
+[PATCH] if(declaredType.isContainerType() || declaredType.isCollectionType()
+[PATCH] if(declaredType.isContainerType() && declaredType.isJsonArrayType()){
+[PATCH] if(declaredType.isContainerType() && declaredType.isVoidType()){
+[PATCH] if(declaredType.isContainerType() &&!declaredType.isEmptyType()){
+[PATCH] if(declaredType.isNone() || declaredType.isContainerType()){
+[PATCH] if(declaredType.isCollectionType() || declaredType.isContainerType()){
+[PATCH] if(declaredType.isContainerType() && declaredType.isLazyPrototype()){
+[PATCH] if(declaredType.isContainerType() && typeSer.canCreateFromString()){
+[PATCH] if(declaredType.isContainerType() || declaredType.isReferenceType()){
+[PATCH] if(declaredType.isContainerType() || declaredType.isUnionType()){
+[PATCH] if(declaredType.isContainerType() || declaredType.isIgnorableType()
+[PATCH] if(declaredType.isNone() || declaredType.isArray()){
+[PATCH] if(declaredType.isContainerType() && declaredType.isString()){
+[PATCH] if(declaredType.isCollectionType() || declaredType.isAbstract()){
+[PATCH] if(declaredType.isContainerType() || declaredType.isManagedType()){
+[PATCH] if(declaredType.isEmptyType() || declaredType.isContainerType()
+[PATCH] if(declaredType.isEnumType() || declaredType.isContainerType()){
+[PATCH] if(declaredType.isContainerType() ||!declaredType.isCollectionType()){
+[PATCH] if(declaredType.isContainerType() || declaredType.isMultiValuedType()){
+[PATCH] if(declaredType.isContainerType() || declaredType.isValuedProperty()){
+[PATCH] if(declaredType.isContainerType() && declaredType.isEmptyType()){
+[PATCH] if(declaredType.isContainerType() || declaredType.isEntities()){
+[PATCH] if(declaredType.isContainerType() && declaredType.isPrimitive()){
+[PATCH] if(declaredType.isCollectionType() || declaredType.isContainerType()
+[PATCH] if(declaredType.isContainerType() && encapsulatedType.isEmptyType()
+[PATCH] if(declaredType.isContainerType() || declaredType.isCollectionType() ||
+[PATCH] if(declaredType.isContainerType() && declaredType.isAsArray()){
+[PATCH] if(declaredType.isContainerType() &&!declaredType.isVoidType()){
+[PATCH] if(declaredType.isNullable() && declaredType.isContainerType()
+[PATCH] if(declaredType.isContainerType() || declaredType.isInternalName()){
+[PATCH] if(declaredType.isContainerType() && declaredType.isIsArray()){
+[PATCH] if(declaredType.isContainerType() || declaredType.isEnumParameterType()){
+[PATCH] if(declaredType.isContainerType() &&!declaredType.isIsArray()){
+[PATCH] if(declaredType.isContainerType() && declaredType.isSimpleType()){
+[PATCH] if(declaredType.isPrimitive() || declaredType.isContainerType()
+[PATCH] if(declaredType.isArrayType() && declaredType.isContainerType()){
+[PATCH] if(declaredType.isArray() || declaredType.isContainerType()){
+[PATCH] if(declaredType.isContainerType() && declaredType.isIncompleteType()
+[PATCH] if(declaredType.isNoType() || declaredType.isContainerType()
+[PATCH] if(declaredType.isNullType() || declaredType.isVoidType()
+[PATCH] if(declaredType == null || declaredType.isContainerType()
+[PATCH] if(declaredType.isPrimitive() && declaredType.isContainerType()
+[PATCH] if(declaredType.isIgnorableType() || declaredType.isContainerType()
+[PATCH] if(declaredType.isContainerType() || declaredType.isReferenceType()
+[PATCH] if(declaredType.isEnumType() || declaredType.isContainerType()
+[PATCH] if(declaredType.isContainerType() || declaredType.isIndexType()
+[PATCH] if(declaredType.isContainerType() && declaredType.isEmptyType() ||
+[PATCH] if(declaredType.isContainerType() && suppressNulls
+[PATCH] if(declaredType.isContainerType() || declaredType.isStubType() ||
+[PATCH] if(declaredType.isContainerType() || declaredType.isEmptyType() ||
+[PATCH] if(declaredType.isContainerType() || declaredType.isPropertyTypeInclusion()){
+[PATCH] if(declaredType.isArrayType()
+[PATCH] if(declaredType.isNoType()
+[PATCH] if(declaredType.isEmptyType()
+[PATCH] if(!declaredType.isContainerType()
+[PATCH] if(declaredType.isContainerType() &&;
+[PATCH] if(declaredType.isIgnorableType()
+[PATCH] if(declaredType.isPrimitive()
+[PATCH] if(actualType.isContainerType()
+[PATCH] if(declaredType.isDataType()
+[PATCH] if(declaredType.isContainerType()

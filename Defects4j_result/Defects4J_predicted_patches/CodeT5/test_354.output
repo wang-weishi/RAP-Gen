@@ -1,0 +1,100 @@
+[PATCH] if(col >= values.length){ throw new IllegalArgumentException(""); }
+[PATCH] if(col >= values.length){ throw new IndexOutOfBoundsException(""); }
+[PATCH] if(col >= values.length){ throw new NumberFormatException(""); }
+[PATCH] if(col < values.length){ throw new IllegalArgumentException(""); }
+[PATCH] if(col >= values.length){ throw new IOException(""); }
+[PATCH] if(col < values.length){ throw new IndexOutOfBoundsException(""); }
+[PATCH] if(values[col] == null || values[col].length() == 0){ throw new IllegalArgumentException(""); }
+[PATCH] if(values[col] == null){ values[col] = EMPTY_STRING_ARRAY; continue; }
+[PATCH] if(col >= values.length){ throw new IllegalArgumentException("Record does not support column '" + col +"'"); }
+[PATCH] final String[] values = entry.getKey().toCharArray();
+[PATCH] if(col < values.length){ throw new NumberFormatException(""); }
+[PATCH] if(( col < values.length)||(col > values.length - 1)) { throw new IllegalArgumentException(""); }
+[PATCH] if(( col < values.length)||(col > values[col].length())) { throw new IllegalArgumentException(""); }
+[PATCH] final String[] values = entry.getKey().toCharArray(); if(col >= values.length){ throw new IllegalArgumentException(""); }
+[PATCH] if(values[col] == null){ throw new IllegalArgumentException(""); }
+[PATCH] if(( col >= values.length)&&(values[col]!= null)) { throw new IllegalArgumentException(""); }
+[PATCH] final String[] values = entry.getKey().toCharArray(); if(values.length < col){ throw new IllegalArgumentException(""); }
+[PATCH] if(col >= values.length){ throw new RuntimeException(""); }
+[PATCH] if(( col < values.length)&&(values[col]!= null)) { throw new IllegalArgumentException(""); }
+[PATCH] if(col >= values.length){ throw new NumberFormatException("Record does not support column '" + col +"'"); }
+[PATCH] if(( col < values.length)||(col > values.length)) { throw new IllegalArgumentException(""); }
+[PATCH] final String[] values = entry.getKey().split(",");
+[PATCH] if(( values[col] == null || values[col].length() == 0)throw new IllegalArgumentException(""); }
+[PATCH] if(values[col] == null || values[col].length() == 0){ throw new NumberFormatException(""); }
+[PATCH] final String[] values = entry.getKey().split(","); if(values.length < col){ throw new IllegalArgumentException(""); }
+[PATCH] if(col >= values.length){ throw new Integer(( values[col] == null? 0 : values[col].length()); }
+[PATCH] final String[] values = entry.getKey().toCharArray(); if(col >= values.length){ throw new NumberFormatException(""); }
+[PATCH] if(col >= values.length){ throw new IllegalArgumentException("record number '" + entry.getKey().replace('/', '.')); }
+[PATCH] if(col >= values.length){ throw new IllegalArgumentException("Record does not support column number at index" + entry.getKey()); }
+[PATCH] if(col >= values.length){ throw new IllegalArgumentException("Record does not support column number '" + col +"'"); }
+[PATCH] if(( col < values.length)||(col > values.length - 1)) { throw new IndexOutOfBoundsException(""); }
+[PATCH] if(( col < values.length)||(col > values.length - 1)) { throw new NumberFormatException(""); }
+[PATCH] if(values[col] == null ||!values[col].length()){ throw new IllegalArgumentException(""); }
+[PATCH] if(col < values.length){ throw new IllegalArgumentException("Record does not support column '" + col +"'"); }
+[PATCH] if(col >= values.length){ throw new IllegalArgumentException("invalid record number:" + entry.getKey().toString()); }
+[PATCH] if(( col < values.length)||(col > values[col].length())) { throw new IndexOutOfBoundsException(""); }
+[PATCH] if(col >= values.length){ throw new IllegalArgumentException("invalid record number:" + entry.getKey().getName()); }
+[PATCH] if(values[col] == null || col >= values.length){ throw new IllegalArgumentException(""); }
+[PATCH] if(( col < values.length)||(col > values[col].length())) { throw new NumberFormatException(""); }
+[PATCH] if(values[col] == null || values[col].length() == 0){ throw new IndexOutOfBoundsException(""); }
+[PATCH] if(col >= values.length){ throw new IllegalArgumentException("Record does not support column index '" + col +"'"); }
+[PATCH] if(col >= values.length){ throw new IllegalArgumentException("Record does not support field '" + name +"'"); }
+[PATCH] if(( col >= values.length)&&(values[col]!= null)) { throw new NumberFormatException(""); }
+[PATCH] final String[] values = entry.getKey().split(","); if(col >= values.length){ throw new IllegalArgumentException(""); }
+[PATCH] final String[] values = entry.getKey().toCharArray(); ensureCapacity(values.length);
+[PATCH] if(( col >= values.length)&&(values[col]!= null)) { throw new IndexOutOfBoundsException(""); }
+[PATCH] if(col >= values.length){ throw new java.util.IndexOutOfBoundsException(""); }
+[PATCH] if(( col < values.length)&&(values[col]!= null)) { throw new NumberFormatException(""); }
+[PATCH] if(col >= values.length){ throw new NumberFormatException("Record does not support column number at index" + entry.getKey()); }
+[PATCH] if(col >= values.length){ throw new IOException("Record does not support column '" + col +"'"); }
+[PATCH] if(col >= values.length){ throw new IndexOutOfBoundsException("Record does not support column '" + col +"'"); }
+[PATCH] if(( col < 0)||(col >= values.length)) { throw new IllegalArgumentException(""); }
+[PATCH] if(( col < values.length)||(col > values.length)) { throw new IndexOutOfBoundsException(""); }
+[PATCH] if(( col < 0)||(col > values.length)) { throw new IllegalArgumentException(""); }
+[PATCH] if(col >= values.length){ throw new IllegalArgumentException("Record does not support column '" + col +"' in CSV record."); }
+[PATCH] if(col >= values.length){ throw new ArrayIndexOutOfBoundsException(""); }
+[PATCH] if(( values[col] == null || values[col].length() == 0)throw new NumberFormatException(""); }
+[PATCH] if(( col < values.length)||(values[col] == null)) { throw new IllegalArgumentException(""); }
+[PATCH] if(( col < values.length)||(col > values.length)) { throw new NumberFormatException(""); }
+[PATCH] final String[] values = entry.getKey().toCharArray(); validate(values, col);
+[PATCH] if(values[col] == null || values[col].length() == 0){ throw new IOException(""); }
+[PATCH] if(( col < values.length)||(col == 0)) { throw new IllegalArgumentException(""); }
+[PATCH] if(values[col] == null){ throw new NumberFormatException(""); }
+[PATCH] if(col < values.length){ throw new IOException(""); }
+[PATCH] if(values[col] == null || values[col].length() == 0){ return map; }
+[PATCH] if(col >= values.length){ throw new Integer(""); }
+[PATCH] if(col < 0 || values[col] == null){ throw new IllegalArgumentException(""); }
+[PATCH] if(values[col] == null){ throw new IndexOutOfBoundsException(""); }
+[PATCH] if(col >= values.length){ throw new IllegalArgumentException("invalid row or column index selection"); }
+[PATCH] if(col >= values.length){ throw new IllegalArgumentException("Row does not exist:" + this); }
+[PATCH] if(values[col] == null || col >= values.length){ throw new IndexOutOfBoundsException(""); }
+[PATCH] if(col >= values.length){ throw new IllegalArgumentException("Record does not exist:" + name); }
+[PATCH] if(values[col] == null){ throw new IOException(""); }
+[PATCH] if(col >= values.length){ throw new IllegalArgumentException("record does not exist:" + name); }
+[PATCH] if(values[col] == null){ values[col] =""; continue; }
+[PATCH] final String values[] = entry.getKey().toCharArray();
+[PATCH] if(col >= values.length){ throw new java.io.IOException(""); }
+[PATCH] if(col >= values.length){ throw new SQLException(""); }
+[PATCH] if(col > values.length){ throw new IllegalArgumentException(""); }
+[PATCH] if(col >= values.length){ throw new EOFException(""); }
+[PATCH] final String[] values = entry.getKey().split("[.]");
+[PATCH] if(( col + 1) >= values.length){ throw new IllegalArgumentException(""); }
+[PATCH] final String[] values = entry.getKey().split("\n");
+[PATCH] if(values.length < col){ throw new IllegalArgumentException(""); }
+[PATCH] if(col >= values.length){ throw new Exception(""); }
+[PATCH] if(col > values.length){ throw new IndexOutOfBoundsException(""); }
+[PATCH] if(col >= values.length){ throw new IllegalArgumentException("Unknown data"); }
+[PATCH] final String[] values = entry.getKey().trim().toCharArray();
+[PATCH] if(col < values.length){ throw new RuntimeException(""); }
+[PATCH] final String[] values = EMPTY_STRING_ARRAY.clone();
+[PATCH] if(col > values.length){ throw new NumberFormatException(""); }
+[PATCH] final String values[] = entry.getKey().split(",");
+[PATCH] if(col >= values.length){ throw new IllegalStateException(""); }
+[PATCH] if(values.length == col){ throw new IllegalArgumentException(""); }
+[PATCH] if(col!= values.length){ throw new IllegalArgumentException(""); }
+[PATCH] final String[] values = entry.getKey().toLowerCase();
+[PATCH] String[] values = entry.getKey().toCharArray();
+[PATCH] if(col < 0){ throw new IllegalArgumentException(""); }
+[PATCH] final String[] values = EMPTY_STRING_ARRAY;
+[PATCH] ensureCapacity(col + 1);

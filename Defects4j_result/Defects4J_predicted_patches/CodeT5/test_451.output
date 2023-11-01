@@ -1,0 +1,100 @@
+[PATCH] if(pos == 0){ if(out!= null && out.length > outAvail){ buffer = out; pos = outPos; readPos = 0; }
+[PATCH] if(out!= null && out.length > 0){ buffer = new byte[out.length]; pos = outPos; readPos = 0; }
+[PATCH] if(out!= null && outPos < outAvail){ buffer = out; pos = outPos; readPos = outPos; }
+[PATCH] if(!eof){ if(out!= null && out.length == outAvail){ buffer = out; pos = outPos; readPos = outPos; }
+[PATCH] if(buffer == null){ buffer = new byte[out.length]; pos = outPos; readPos = 0; }
+[PATCH] if(out!= null && out.length > 0){ buffer = out; pos = outPos; readPos = 0; }
+[PATCH] if(pos > 0){ if(out!= null && out.length < outAvail){ buffer = out; pos = outPos; readPos = outPos; }
+[PATCH] if(!eof){ if(out!= null && out.length < outAvail){ buffer = out; pos = outPos; readPos = outPos; }
+[PATCH] if(position == 0){ if(out!= null && out.length > outAvail){ buffer = out; pos = outPos; readPos = outPos; }
+[PATCH] if(!eof){ if(out!= null && out.length > outAvail){ buffer = out; pos = outPos; readPos = outPos; }
+[PATCH] if(pos == 0){ if(out!= null && out.length == outAvail){ buffer = out; pos = outPos; readPos = 0; }
+[PATCH] if(buffer == null){ buffer = new byte[OUT_BUFFER_SIZE]; pos = outPos; readPos = 0; }
+[PATCH] if(position == 0){ if(out!= null && out.length < outAvail){ buffer = out; pos = outPos; readPos = outPos; }
+[PATCH] if(out!= null && out.length > 0){ buffer = new byte[outPos]; pos = outPos; readPos = 0; }
+[PATCH] if(pos == 0){ buffer = new byte[out.length]; pos = outPos; readPos = 0; }
+[PATCH] if(pos < 0){ if(out!= null && out.length!= outAvail){ buffer = out; pos = outPos; readPos = 0; }
+[PATCH] if(!EOF){ if(out!= null && out.length == outAvail){ buffer = out; pos = outPos; readPos = outPos; }
+[PATCH] if(pos == pos){ if(out!= null && out.length > outAvail){ buffer = out; pos = outPos; readPos = outPos; }
+[PATCH] if(buffer == null){ buffer = new byte[DEFAULT_BUFFER_RESIZE_FACTOR]; pos = 0; readPos = 0; }
+[PATCH] if(pos == 0){ if(out!= null && out.length < outAvail){ buffer = out; pos = outPos; readPos = 0; }
+[PATCH] if(pos == 0){ if(out!= null && out.length < outAvail){ buffer = out; pos = outPos; readPos = outPos; }
+[PATCH] if(out!= null && out.length < outAvail){ buffer = out; pos = outPos; readPos = outPos; }
+[PATCH] if(!EOF){ if(out!= null && out.length < outAvail){ buffer = out; pos = outPos; readPos = outPos; }
+[PATCH] if(buffer == null){ buffer = new byte[BUFFER_SIZE]; pos = 0; readPos = 0; }
+[PATCH] if(!EOF){ if(out!= null && out.length > outAvail){ buffer = out; pos = outPos; readPos = outPos; }
+[PATCH] if(pos == 0){ if(out!= null && out.length > outAvail){ buffer = out; pos = outPos; readPos = outPos; }
+[PATCH] if(( pos + outAvail)> buffer.length){ buffer = out; pos = outPos; readPos = outPos; }
+[PATCH] if(buffer == null){ buffer = new byte[512]; pos = 0; readPos = 0; }
+[PATCH] if(out!= null && out.length > 0){ buffer = null; pos = outPos; readPos = 0; }
+[PATCH] if(buffer == null){ buffer = new byte[BUFFER_RESIZE_FACTOR]; pos = 0; readPos = 0; }
+[PATCH] if(!eof){ if(out!= null && out.length == outAvail){ buffer = out; pos = outPos; readPos = 0; }
+[PATCH] if(pos == readPos){ if(out!= null && out.length > 0){ buffer = out; pos = outPos; readPos = 0; }
+[PATCH] if(buffer == null){ buffer = new byte[DEFAULT_BUFFER_RESIZE_FACTOR]; pos = outPos; readPos = 0; }
+[PATCH] if(pos < outPos){ if(out!= null && out.length!= outAvail){ buffer = out; pos = outPos; readPos = 0; }
+[PATCH] if(buffer == null){ buffer = new byte[2]; pos = 2; readPos = 2; }
+[PATCH] if(outPos > 0){ if(out.length!= outAvail){ buffer = out; pos = outPos; readPos = 0; }
+[PATCH] if(out!= null && outpos < outAvail){ buffer = out; pos = outPos; readPos = outPos; }
+[PATCH] if(out!= null && out.length > 0){ buffer = new byte[out.length - 1]; pos = outPos; readPos = 0; }
+[PATCH] if(pos > 0){ if(out!= null && out.length == outAvail){ buffer = out; pos = outPos; readPos = outPos; }
+[PATCH] if(pos == readPos){ if(out!= null && out.length > outAvail){ buffer = out; pos = outPos; readPos = 0; }
+[PATCH] if(pos < outPos){ if(out!= null && out.length == outAvail){ buffer = out; pos = outPos; readPos = 0; }
+[PATCH] if(buffer == null){ buffer = new byte[OUT_BUFFER_SIZE]; pos = outPos; readPos = outPos; }
+[PATCH] if(buffer == null){ buffer = new byte[0]; pos = 0; readPos = 0; }
+[PATCH] if(pos == 0){ buffer = new byte[OUT_BUFFER_SIZE]; pos = outPos; readPos = 0; }
+[PATCH] if(buffer == null){ buffer = new byte[256]; pos = 0; readPos = 0; }
+[PATCH] if(pos < readPos){ if(out!= null && out.length!= outAvail){ buffer = out; pos = outPos; readPos = 0; }
+[PATCH] if(out!= null && outPos < outAvail){ buffer = out; pos = outPos; readPos = outPos; return; }
+[PATCH] if(buffer == null){ buffer = new byte[BUFFER_SIZE]; pos = outPos; readPos = 0; }
+[PATCH] if(buffer == null){ buffer = new byte[out.length]; pos = 0; readPos = 0; }
+[PATCH] if(position == 0){ if(out!= null && out.length == outAvail){ buffer = out; pos = outPos; readPos = outPos; }
+[PATCH] if(buffer == null){ buffer = new byte[outPos]; pos = outPos; readPos = 0; }
+[PATCH] if(out == null || outPos > 0){ buffer = new byte[out.length]; pos = 0; readPos = 0; }
+[PATCH] if(out!= null && out.length > 0){ buffer = new byte[out.length]; pos = outPos; readPos = 0; return; }
+[PATCH] if(buffer == null){ buffer = new byte[INITIAL_BUFFER_SIZE]; pos = 0; readPos = 0; }
+[PATCH] if(out!= null && out.length > 0){ buffer = out; pos = outPos; readPos = 0; return; }
+[PATCH] if(out!= null && outPos < outAvail){ buffer = out; pos = outPos; readPos = 0; }
+[PATCH] if(buffer == null){ buffer = new byte[DEFAULT_BUFFER_SIZE]; pos = 0; readPos = 0; }
+[PATCH] if(pos == -1){ if(out!= null && out.length < outAvail){ buffer = out; pos = outPos; readPos = 0; }
+[PATCH] if(out == null || outPos > readPos){ buffer = new byte[out.length]; pos = 0; readPos = outPos; }
+[PATCH] if(pos == -1){ if(out!= null && out.length > outAvail){ buffer = out; pos = outPos; readPos = 0; }
+[PATCH] if(pos < outPos){ if(out!= null && out.length > outAvail){ buffer = out; pos = outPos; readPos = 0; }
+[PATCH] if(buffer == null){ buffer = new byte[MAX_BUFFER_SIZE]; pos = 0; readPos = 0; }
+[PATCH] if(pos < readPos){ if(out!= null && out.length == outAvail){ buffer = out; pos = outPos; readPos = 0; }
+[PATCH] if(pos!= -1){ if(out!= null && out.length!= outAvail){ buffer = out; pos = outPos; readPos = 0; }
+[PATCH] if(!EOF){ if(out!= null && out.length == outAvail){ buffer = out; pos = outPos; readPos = 0; }
+[PATCH] if(buffer == null){ buffer = new byte[1]; pos = 1; readPos = 1; }
+[PATCH] if(!eof){ if(out!= null && out.length < outAvail){ buffer = out; pos = outPos; readPos = 0; }
+[PATCH] if(buffer == null){ buffer = new byte[MAX_BUFFER_SIZE]; pos = outPos; readPos = 0; }
+[PATCH] if(buffer == null){ buffer = new byte[BUFFER_RESIZE_FACTOR]; pos = outPos; readPos = 0; }
+[PATCH] if(pos == 0){ if(out!= null && out.length > outAvail){ buffer = out; pos = outPos; readPos = -1; }
+[PATCH] if(pos == readPos){ if(out!= null && out.length < outAvail){ buffer = out; pos = outPos; readPos = 0; }
+[PATCH] if(pos == outPos){ if(out!= null && out.length > outAvail){ buffer = out; pos = outPos; readPos = 0; }
+[PATCH] if(buffer == null){ buffer = new byte[OUT_BUFFER_SIZE]; pos = 0; readPos = 0; }
+[PATCH] if(pos == readPos){ buffer = new byte[out.length]; pos = outPos; readPos = outPos; }
+[PATCH] if(!eof){ if(out!= null && out.length > outAvail){ buffer = out; pos = outPos; readPos = 0; }
+[PATCH] if(buffer == null){ buffer = new byte[len]; pos = 0; readPos = 0; }
+[PATCH] if(pos < readPos){ if(out!= null && out.length > outAvail){ buffer = out; pos = outPos; readPos = 0; }
+[PATCH] if(buffer == null){ buffer = new byte[out.length + outPos]; pos = 0; readPos = 0; }
+[PATCH] if(buffer == null){ buffer = new byte[out.length]; pos = 0; readPos = outPos; }
+[PATCH] if(buffer == null){ buffer = new byte[outSize]; pos = outPos; readPos = 0; }
+[PATCH] if(pos == pos){ if(out!= null && out.length > outAvail){ buffer = out; pos = outPos; readPos = 0; }
+[PATCH] if(buffer == null){ buffer = new byte[10]; pos = 0; readPos = outPos; }
+[PATCH] if(pos == 0){ if(out!= null && out.length > outAvail){ buffer = out; pos = outPos; readLen = 0; }
+[PATCH] if(out!= null && out.length < outAvail){ buffer = out; pos = outPos; readPos = outPos; return; }
+[PATCH] if(out!= null && out.length > 0){ pos = outPos; readPos = 0; }
+[PATCH] if(pos == 0){ if(out!= null && out.length < outAvail){ buffer = out; pos = outPos; readPos = -1; }
+[PATCH] if(out!= null && out.length > 0){ buffer = new byte[outPos]; pos = outPos; readPos = 0; return; }
+[PATCH] if(pos == 0){ pos = outPos; } else { buffer = new byte[BUFFER_SIZE]; pos = pos + outAvail; }
+[PATCH] if(buffer == null){ buffer = new byte[10]; pos = 0; readPos = 0; }
+[PATCH] if(pos == 0){ if(out!= null && out.length > outAvail){ buffer = out; pos = outPos; }
+[PATCH] if(pos == 0){ if(out!= null && out.length > outAvail){ buffer = out; pos = outPos; readPos = 1; }
+[PATCH] if(pos == 0){ buffer = null; pos = outPos; readPos = 0; }
+[PATCH] if(buffer == null){ buffer = new byte[OUT_BUFFER_SIZE]; pos = 0; readPos = outPos; }
+[PATCH] if(buffer == null){ buffer = new byte[1]; pos = 0; readPos = 1; }
+[PATCH] if(pos == readPos){ buffer = new byte[out.length]; pos = outPos; readPos = 0; }
+[PATCH] if(( pos + outAvail)> buffer.length){ buffer = out; pos = outPos; readPos = 0; }
+[PATCH] if(buffer == null){ buffer = new byte[40]; pos = 0; readPos = 0; }
+[PATCH] if(pos > 0){ if(out!= null && out.length == outAvail){ buffer = out; pos = outPos; readPos = 0; }
+[PATCH] if(pos < readPos){ if(out!= null && out.length!= outAvail){ buffer = out; pos = outPos; }
+[PATCH] if(pos == 0){ pos = outPos; } else { buffer = new byte[Math.max(2 * outAvail, outPos - pos)); }

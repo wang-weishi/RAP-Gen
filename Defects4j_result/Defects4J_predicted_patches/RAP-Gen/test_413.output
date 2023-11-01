@@ -1,0 +1,100 @@
+[PATCH] if(expPos < decPos){
+[PATCH] if(( expPos - decPos)< 0){
+[PATCH] if(expPos < decPos || expPos > 100){
+[PATCH] if(expPos < decPos || expPos > 10){
+[PATCH] if(expPos < decPos || expPos > 20){
+[PATCH] if(expPos < decPos || expPos > 32){
+[PATCH] if(expPos < 0 || expPos > decPos){
+[PATCH] if(expPos < decPos || expPos > 0){
+[PATCH] if(expPos < decPos || expPos > 90){
+[PATCH] if(".".indexOf(expPos)< 0){
+[PATCH] if(expPos < decPos || expPos > len){
+[PATCH] if(expPos < decPos || expPos > 9){
+[PATCH] if(expPos < decPos || expPos > 31){
+[PATCH] if(expPos < decPos || expPos > 99){
+[PATCH] if("" + expPos < decPos){
+[PATCH] if(expPos < decPos || expPos > 1000){
+[PATCH] if(expPos < decPos || expPos > 16){
+[PATCH] if(expPos < decPos || expPos > 101){
+[PATCH] if("Infinity".indexOf(expPos)< 0){
+[PATCH] if(expPos < decPos || expPos > t){
+[PATCH] if(expPos < decPos || expPos > 78){
+[PATCH] if(expPos < decPos || expPos > 64){
+[PATCH] if(expPos < decPos || expPos > 11){
+[PATCH] if(expPos < decPos || expPos > 102){
+[PATCH] if(expPos < DecPos){
+[PATCH] if("0".indexOf(expPos)< 0){
+[PATCH] if(expPos < decPos || expPos > deadline){
+[PATCH] if(expPos < decPos || expPos > val){
+[PATCH] if(( expPos - decPos)!= 0){
+[PATCH] if(expPos > decPos){
+[PATCH] if(expPos < decPos || expPos > 12){
+[PATCH] if(expPos < decPos || expPos > 1){
+[PATCH] if(expPos < decPos || expPos > n){
+[PATCH] if(expPos < decPos || expPos > right){
+[PATCH] if(expPos < decPos || expPos > size){
+[PATCH] if(expPos < decPos || expPos > duration){
+[PATCH] if(expPos < decPos || expPos > first){
+[PATCH] if(( expPos - decPos) < 0){
+[PATCH] if(expPos < decPos || expPos > 8){
+[PATCH] if(expPos < decPos || expPos > 17){
+[PATCH] if(expPos < decPos || expPos > it){
+[PATCH] if(expPos < decPos || expPos > 200){
+[PATCH] if(expPos< decPos){
+[PATCH] if(expPos < decPos || expPos > f){
+[PATCH] if(expPos < decPos || expPos > 2){
+[PATCH] if(expPos < decPos || expPos > status){
+[PATCH] if(expPos < decPos || expPos > 60){
+[PATCH] if(".".indexOf(expPos)== -1){
+[PATCH] if(expPos < decPos || expPos > freq){
+[PATCH] if(expPos < decPos || expPos > 65536){
+[PATCH] if(( expPos - decPos)!= -1){
+[PATCH] if(expPos < decPos || expPos > p){
+[PATCH] if(expPos < decPos || expPos > 255){
+[PATCH] if(expPos < decPos || expPos > precision){
+[PATCH] if(expPos < decPos || expPos > 4){
+[PATCH] if(expPos < decPos || expPos > 6){
+[PATCH] if(expPos < decPos || expPos > lower){
+[PATCH] if(expPos < decPos || expPos > high){
+[PATCH] if(expPos < decPos || expPos > e){
+[PATCH] if(expPos < decPos || expPos > num){
+[PATCH] if(expPos <decPos){
+[PATCH] if(( expPos + 1)< decPos){
+[PATCH] if("-".indexOf(expPos)< 0){
+[PATCH] if('.'.indexOf(expPos)< 0){
+[PATCH] if(( expPos - decPos)< 0)) {
+[PATCH] if(( expPos - decPos)> 0){
+[PATCH] if(expPos - decPos < 1){
+[PATCH] if("0" + expPos < decPos){
+[PATCH] if(expPos!= decPos){
+[PATCH] if("e" + expPos < decPos){
+[PATCH] if(( expPos - decPos)< 1){
+[PATCH] if(( expPos -= decPos)< 0){
+[PATCH] if(-expPos < decPos){
+[PATCH] if(_expPos < decPos){
+[PATCH] if(expPos!= str.length()){
+[PATCH] if(expPos < str.length()){
+[PATCH] if(expPos < decPos {
+[PATCH] if(expPos < decPos - 1){
+[PATCH] if(expPos < declPos){
+[PATCH] if(expPos < 0){
+[PATCH] if(( expPos - 1)< 0){
+[PATCH] if("0" == expPos){
+[PATCH] if(expPos > str.length()){
+[PATCH] if(expPos < incPos){
+[PATCH] if(expPos + 1 < decPos){
+[PATCH] if(expPos < decPos){
+[PATCH] if(expPos < DECPos){
+[PATCH] if("" + expPos < 0){
+[PATCH] if(expPos < 1){
+[PATCH] if("e" + expPos < 0){
+[PATCH] if("" + expPos < 1){
+[PATCH] if("e" + expPos < 1){
+[PATCH] if("" + expPos > decPos){
+[PATCH] if( expPos < decPos){
+[PATCH] if("0" + expPos > 10){
+[PATCH] if(" + expPos < decPos){
+[PATCH] if(expPos < encPos){
+[PATCH] if(expPos < accPos){
+[PATCH] if(expPos < dePos){
+[PATCH] if('e' < expPos){

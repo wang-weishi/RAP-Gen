@@ -1,0 +1,100 @@
+[PATCH] if(fa * fb >= 0.0){
+[PATCH] if(numIterations > maximumIterations){
+[PATCH] if(numIterations >= 4.0){
+[PATCH] if(numIterations * fb >= 1.0){
+[PATCH] if(numIterations >= 2.0){
+[PATCH] if(fa * fb >= 1.0){
+[PATCH] if(fa * fb < 0.0){
+[PATCH] if(numIterations >= 1.0 - numIterations){
+[PATCH] if(numIterations >= 2.0 - numIterations){
+[PATCH] if(numIterations * fb >= 2.0){
+[PATCH] if(numIterations * fb >= 4.0){
+[PATCH] if(numIterations * fb >= 0.0){
+[PATCH] if(numIterations > 0.0){
+[PATCH] if(fa * fb >= 4.0){
+[PATCH] if(numIterations / 2!= 0.0){
+[PATCH] if(fa * fb >= 2.0){
+[PATCH] if(numIterations >= initial || numIterations > upperBound){
+[PATCH] if(numIterations > initial || numIterations < upperBound){
+[PATCH] if(fa * fb >= 1.0 - initial){
+[PATCH] if(numIterations >= maximumIterations){
+[PATCH] if(numIterations > maxIterations){
+[PATCH] if(numIterations - 1.0 < numIterations){
+[PATCH] if(numIterations - initial < 0.0){
+[PATCH] if(numIterations >= 1.0 / numIterations){
+[PATCH] if(fa * fb < 1.0){
+[PATCH] if(numIterations > 10.0){
+[PATCH] if(numIterations % 2 == 0.0){
+[PATCH] if(numIterations > 1.0 - numIterations){
+[PATCH] if(numIterations >= 2.0 - initial){
+[PATCH] if(numIterations > 1.0 - initial){
+[PATCH] if(numIterations >= 3.0){
+[PATCH] if(numIterations >= 4.0 - numIterations){
+[PATCH] if(numIterations >= 2.0 / numIterations){
+[PATCH] if(numIterations * fb < 1.0){
+[PATCH] if(maxIterations - numIterations < 1.0){
+[PATCH] if(fa * fb >= 1.0 - eps){
+[PATCH] if(numIterations >= initial ||!fa * fb){
+[PATCH] if(numIterations > initial || numIterations < 1){
+[PATCH] if(numIterations >= 1.0E-6){
+[PATCH] if(numIterations > initial ||!fa * fb){
+[PATCH] if(numIterations >= initial || b >= upperBound){
+[PATCH] if(numIterations - 1 >= maximumIterations){
+[PATCH] if(numIterations > initial || numIterations == upperBound){
+[PATCH] if(numIterations >= maxIterations){
+[PATCH] if(fa * fb >= 1.0 - alpha){
+[PATCH] if(numIterations >= 5.0){
+[PATCH] if(numIterations >= 2.0 - totalIterations){
+[PATCH] if(numIterations - 1.0 < initial){
+[PATCH] if(numIterations / 2!= minIterations){
+[PATCH] if(numIterations - initial < 1.0){
+[PATCH] if(numIterations >= 10.0){
+[PATCH] if(fa * fb >= 0.0 - initial){
+[PATCH] if(numIterations > 10E-20){
+[PATCH] if(numIterations / 2!= initial){
+[PATCH] if(numIterations >= 2.0 - maxIterations){
+[PATCH] if(numIterations > maxSize){
+[PATCH] if(numIterations > MAXIMUM_ITERATIONS){
+[PATCH] if(numIterations >= initial || b < 0){
+[PATCH] if(numIterations > initial){
+[PATCH] if(numIterations / 2!= 2.0){
+[PATCH] if( fa * fb >= 0.0){
+[PATCH] if(numIterations >= minIterations){
+[PATCH] if(numIterations * fb >= 3.0){
+[PATCH] if(numIterations >= initial || b < upperBound){
+[PATCH] if(( a * fb)< 0.0){
+[PATCH] if(numIterations > 0.0 - initial){
+[PATCH] if(numIterations * fb >= 1.0 {
+[PATCH] if(numIterations >= 0.0){
+[PATCH] if(a * fb >= 0.0){
+[PATCH] if(numIterations * fb < 0.0){
+[PATCH] if(numIterations >= 2.0 - lowerBound){
+[PATCH] if(nIterations * fb >= 1.0){
+[PATCH] if(numIterations == maximumIterations){
+[PATCH] if(numIterations > 4.0){
+[PATCH] if(numIterations >= 1.0){
+[PATCH] if(numIterations >= 10000.0){
+[PATCH] if(fa * fb >= 0.0 {
+[PATCH] if(numIterations > 10E-6){
+[PATCH] if(numIterations >= 50.0){
+[PATCH] if(numIterations * fb >= upperBound){
+[PATCH] if(numIterations > MAX_ITERATIONS){
+[PATCH] if(numIterations / 2!= maxIterations){
+[PATCH] if(numIterations > minimumIterations){
+[PATCH] if(numIterations > numIterations){
+[PATCH] if(numIterations >= minimumIterations){
+[PATCH] if(numIterations > 20.0){
+[PATCH] if(numIterations >= 8.0){
+[PATCH] if(numIterations >= 6.0){
+[PATCH] if(numIterations >= 4.5){
+[PATCH] if(nIterations >= 2.0){
+[PATCH] if(numIterations > totalIterations){
+[PATCH] if(numIterations >= 1000000000){
+[PATCH] if(numIterations >= numberIterations){
+[PATCH] if(numIterations > 10000){
+[PATCH] if(nIterations > maximumIterations){
+[PATCH] if(numIterations >= upperBound){
+[PATCH] if(maxIterations!= numIterations){
+[PATCH] if(numIterations < maximumIterations){
+[PATCH] if(numIterations > 100){
+[PATCH] if(numIterations > 50){

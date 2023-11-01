@@ -1,0 +1,100 @@
+[PATCH] for(TypeVariable typeParameter : typeParameters.keySet()){ if(typeParameter.getBounds()!= null){ registerTypeVariablesOn(typeParameter.getBounds()); }
+[PATCH] for(TypeParameter typeParameter : typeParameters.keySet()){ if(typeParameter.getBounds()!= null){ registerTypeVariablesOn(typeParameter.getBounds()); }
+[PATCH] for(TypeParameter typeParameter : typeParameters.keySet()){ if(!getActualTypeArgumentFor(typeParameter)!= null){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeParameter typeParameter : typeParameters.keySet()){ if(!getActualTypeArgumentFor(typeParameter)== null){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeParameter typeParameter : typeParameters.keySet()){ if(wildcard == null){ registerTypeVariablesOn(wildcard); }
+[PATCH] for(TypeVariable typeParameter : typeParameters.keySet()){ if(!getActualTypeArgumentFor(typeParameter)!= null){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeVariable typeParameter : typeParameters.values()){ if(typeParameter.getBounds()!= null){ registerTypeVariablesOn(typeParameter.getBounds()); }
+[PATCH] for(TypeVariable typeParameter : typeParameters.keySet()){ if(!getActualTypeArgumentFor(typeParameter)== null){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeParameter typeParameter : typeParameters.values()){ if(typeParameter.getBounds()!= null){ registerTypeVariablesOn(typeParameter.getBounds()); }
+[PATCH] for(TypeVariable typeParameter : typeParameters.keySet()){ if(!typeParameter.hasInstanceType()){ registerTypeVariablesOn(typeParameter.getInstanceType()); }
+[PATCH] for(TypeParameter typeParameter : typeParameters.keySet()){ if(!typeParameter.hasInstanceType()){ registerTypeVariablesOn(typeParameter.getInstanceType()); }
+[PATCH] for(TypeParameter typeParameter : typeParameters.keySet()){ if(!registeredActualTypeParameters.containsKey(typeParameter)) { registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeVariable typeParameter : typeParameters.keySet()){ if(!registeredActualTypeParameters.containsKey(typeParameter)) { registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeVariable typeParameter : typeParameters.keySet()){ if(!typeParameter.isVarArgs()){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(Type typeParameter : typeParameters.keySet()){ if(typeParameter.getBounds()!= null){ registerTypeVariablesOn(typeParameter.getBounds()); }
+[PATCH] for(TypeVariable typeParameter : typeParameters.keySet()){ if(!typeParameter.isActual()){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeParameter typeParameter : typeParameters.values()){ if(!getActualTypeArgumentFor(typeParameter)== null){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeVariable typeParameter : typeParameters.keySet()){ if(!typeParameter.isRequired()){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeParameter typeParameter : typeParameters.keySet()){ if(!typeParameter.isRequired()){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeVariable typeParameter : typeParameters.keySet()){ if(!typeParameter.isRawType()){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeParameter typeParameter : typeParameters.keySet()){ if(!typeParameter.isActual()){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeParameter typeParameter : typeParameters.keySet()){ if(!typeParameter.isVarArgs()){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeParameter typeParameter : typeParameters.keySet()){ if(!typeParameter.isEmpty()){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeVariable typeParameter : typeParameters.keySet()){ if(!typeParameter.isEmpty()){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeParameter typeParameter : typeParameters.values()){ if(wildcard == null){ registerTypeVariablesOn(wildcard); }
+[PATCH] for(TypeParameter typeParameter : typeParameters.values()){ if(!getActualTypeArgumentFor(typeParameter)!= null){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeParameter typeParameter : typeParameters.values()){ if(!typeParameter.hasInstanceType()){ registerTypeVariablesOn(typeParameter.getInstanceType()); }
+[PATCH] for(TypeVariable typeParameter : typeParameters.keySet()){ if(wildcard == null){ registerTypeVariablesOn(wildcard); }
+[PATCH] for(TypeParameter typeParameter : typeParameters.keySet()){ if(!typeParameter.isRawType()){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeParameter typeParameter : typeParameters.keySet()){ if(!isActualTypeArgumentFor(typeParameter)) { registerTypeVariablesOn(typeParameter); }
+[PATCH] for(Type typeParameter : typeParameters.values()){ if(typeParameter.getBounds()!= null){ registerTypeVariablesOn(typeParameter.getBounds()); }
+[PATCH] for(TypeVariable typeParameter : typeParameters.keySet()){ if(!typeParameter.isRawClass()){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeParameter typeParameter : typeParameters.keySet()){ if(!typeParameter.isRawClass()){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeVariable typeParameter : typeParameters.values()){ if(!typeParameter.hasInstanceType()){ registerTypeVariablesOn(typeParameter.getInstanceType()); }
+[PATCH] for(TypeParameter typeParameter : typeParameters.keySet()){ if(!typeParameter.isAssignableFrom(wildcard)) { registerTypeVariablesOn(wildcard); }
+[PATCH] for(TypeVariable typeParameter : typeParameters.keySet()){ if(!typeParameter.isContainerType()){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeParameter typeParameter : typeParameters.keySet()){ if(!typeParameter.isContainerType()){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeVariable typeParameter : typeParameters.values()){ if(!typeParameter.isVarArgs()){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeVariable typeParameter : typeParameters.keySet()){ if(!typeParameter.isOptionalArg()){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(Type parameter : typeParameters.values()){ if(!isActualTypeArgumentFor(typeParameter)) { registerTypeVariablesOn(parameterizedType.getRawType()); }
+[PATCH] for(TypeVariable typeParameter : typeParameters.keySet()){ if(!typeParameter.isAssignableFrom(wildcard)) { registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeParameter typeParameter : typeParameters.values()){ if(!typeParameter.isVarArgs()){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeVariable typeParameter : typeParameters.keySet()){ if(typeParameter.getBounds()!= null){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeParameter typeParameter : typeParameters.keySet()){ if(!typeParameter.isOptionalArg()){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(Type parameter : typeParameters.keySet()){ if(!isActualTypeArgumentFor(typeParameter)) { registerTypeVariablesOn(parameterizedType.getRawType()); }
+[PATCH] for(Type parameter : typeParameters.values()){ if(!getActualTypeArgumentFor(typeParameter)== null){ registerTypeVariablesOn(parameterizedType); }
+[PATCH] for(TypeParameter typeParameter : typeParameters.keySet()){ if(typeParameter.getBounds()!= null){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeParameter typeParameter : typeParameters.keySet()){ if(!typeParameter.isVoid()){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeParameter typeParameter : typeParameters.values()){ if(!typeParameter.isActual()){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(Type parameter : typeParameters.values()){ if(wildcard == null){ registerTypeVariablesOn(parameterizedType.getRawType()); }
+[PATCH] for(TypeParameter typeParameter : typeParameters.values()){ if(!typeParameter.isRequired()){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeParameter typeParameter : typeParameters.values()){ if(!typeParameter.isRawType()){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(Type parameter : typeParameters.values()){ if(!typeParameter.hasInstanceType()){ registerTypeVariablesOn(parameterizedType.getRawType()); }
+[PATCH] for(Type parameter : typeParameters.keySet()){ if(!getActualTypeArgumentFor(typeParameter)== null){ registerTypeVariablesOn(parameterizedType); }
+[PATCH] for(Type parameter : typeParameters.values()){ if(wildcard == null){ registerTypeVariablesOn(parameterizedType.getGenericParameterType(0)); }
+[PATCH] for(TypeVariable typeParameter : typeParameters.values()){ if(typeParameter.getBounds()!= null){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(Type parameter : typeParameters.keySet()){ if(wildcard == null){ registerTypeVariablesOn(parameterizedType.getRawType()); }
+[PATCH] for(TypeVariable typeParameter : typeParameters.values()){ if(wildcard == null){ registerTypeVariablesOn(wildcard); }
+[PATCH] for(Type parameter : typeParameters.values()){ if(!getActualTypeArgumentFor(typeParameter)!= null){ registerTypeVariablesOn(parameterizedType); }
+[PATCH] for(TypeParameter typeParameter : typeParameters.values()){ if(typeParameter.getBounds()!= null){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeParameter typeParameter : typeParameters.values()){ if(!typeParameter.isAssignableFrom(wildcard)) { registerTypeVariablesOn(wildcard); }
+[PATCH] for(Type parameter : typeParameter.getActualTypeArguments()){ if(!typeParameters.containsKey(parameter)) { registerTypeVariablesOn(parameter); }
+[PATCH] for(Type parameter : typeParameter.getActualTypeArguments()){ if(!typeParameters.containsKey(parameter)) { registerTypeVariablesOn(parameter, parameter); }
+[PATCH] for(TypeVariable typeParameter : typeParameters.keySet()){ if(!typeParameter.isGenericType()){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeVariable typeParameter : typeParameters.keySet()){ if(typeParameter.getBounds() == null){ registerTypeVariablesOn(typeParameter.getBounds()); }
+[PATCH] for(Type parameter : typeParameter.getActualTypeArguments()){ if(!typeParameters.containsKey(param)) { registerTypeVariablesOn(parameter, parameter); }
+[PATCH] for(TypeVariable typeParameter : typeParameters.keySet()){ if(typeParameter.getGenericParameterType(0)!= null){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeVariable typeParameter : typeParameters.keySet()){ if(typeParameter.getBounds() == null){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(Type parameter : typeParameters.keySet()){ if(!typeParameter.isAssignableFrom(wildcard)) { registerTypeVariablesOn(parameterizedType.getRawType()); }
+[PATCH] for(Type parameter : typeParameters.keySet()){ if(!getActualTypeArgumentFor(typeParameter)!= null){ registerTypeVariablesOn(parameterizedTypeParameter); }
+[PATCH] for(Type parameter : typeParameters.values()){ if(!contextualActualTypeParameters.containsKey(typeParameter)) { registerTypeVariablesOn(parameterizedType); }
+[PATCH] for(TypeParameter typeParameter : typeParameters.keySet()){ if(!typeParameter.isGenericType()){ registerTypeVariablesOn(typeParameter.getRawType()); }
+[PATCH] for(TypeParameter typeParameter : typeParameters.keySet()){ if(!typeParameter.isGenericType()){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(Type parameter : typeParameters.values()){ if(!getActualTypeArgumentFor(typeParameter)!= null){ registerTypeVariablesOn(parameterizedTypeParameter); }
+[PATCH] for(TypeParameter typeParameter : typeParameters.keySet()){ if(typeParameter.getGenericParameterType(0)!= null){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeParameter typeParameter : typeParameters.keySet()){ if(!typeParameter.hasInstanceType()){ registerTypeVariablesOn(typeParameter.getGenericParameterType()); }
+[PATCH] for(Type parameter : typeParameters.keySet()){ if(!getActualTypeArgumentFor(typeParameter)!= null){ registerTypeVariablesOn(parameterizedType); }
+[PATCH] for(TypeVariable typeParameter : typeParameters.keySet()){ if(!typeParameter.hasInstanceType()){ registerTypeVariablesOn(typeParameter.getGenericParameterType()); }
+[PATCH] for(Type parameter : typeParameters.keySet()){ if(!contextualActualTypeParameters.containsKey(typeParameter)) { registerTypeVariablesOn(parameterizedType); }
+[PATCH] for(TypeVariable typeParameter : typeParameters.keySet()){ if(!typeParameter.isGenericType()){ registerTypeVariablesOn(typeParameter.getRawType()); }
+[PATCH] for(Type parameter : typeParameters.values()){ if(wildcard == null){ registerTypeVariablesOn(parameterizedType.getRawClass()); }
+[PATCH] for(Type parameter : typeParameters.values()){ if(!getActualTypeArgumentFor(typeParameter)!= null){ registerTypeVariablesOn(parameterizedType.getGenericType()); }
+[PATCH] for(TypeParameter typeParameter : typeParameters.keySet()){ if(!typeParameter.hasInstanceType()){ registerTypeVariablesOn(typeParameter.getRawClass()); }
+[PATCH] for(TypeVariable typeParameter : typeParameters.keySet()){ if(!typeParameter.hasInstanceType()){ registerTypeVariablesOn(typeParameter.getRawClass()); }
+[PATCH] for(TypeParameter typeParameter : typeParameters.values()){ if(!typeParameter.hasInstanceType()){ registerTypeVariablesOn(typeParameter.getGenericParameterType()); }
+[PATCH] for(TypeParameter typeParameter : typeParameters.keySet()){ if(!typeParameter.isAssignableFrom(wildcard)) { registerTypeVariablesOn(wildcard, typeParameter); }
+[PATCH] for(Type parameter : typeParameters.values()){ if(!getActualTypeArgumentFor(typeParameter)== null){ registerTypeVariablesOn(parameterizedType.getGenericType()); }
+[PATCH] for(Type parameter : typeParameters.keySet()){ if(!typeParameter.isAssignableFrom(wildcard)) { registerTypeVariablesOn(parameterizedType); }
+[PATCH] for(Type parameter : typeParameters.values()){ if(!isActualTypeArgumentFor(typeParameter)) { registerTypeVariablesOn(parameterizedType.getGenericType()); }
+[PATCH] for(Type parameter : typeParameters.keySet()){ if(!contextualActualTypeParameters.containsKey(typeParameter)) { registerTypeVariablesOn(param, parameter); }
+[PATCH] for(TypeVariable typeParameter : typeParameters.values()){ if(!typeParameter.hasInstanceType()){ registerTypeVariablesOn(typeParameter.getGenericParameterType()); }
+[PATCH] for(Type parameter : typeParameters.keySet()){ if(!getActualTypeArgumentFor(typeParameter)!= null){ registerTypeVariablesOn(param, parameter); }
+[PATCH] for(Type parameter : typeParameters.keySet()){ if(!getActualTypeArgumentFor(typeParameter)!= null){ registerTypeVariablesOn(param); }
+[PATCH] for(Type parameter : typeParameters.keySet()){ if(!isActualTypeArgumentFor(typeParameter)) { registerTypeVariablesOn(parameterizedType.getGenericType()); }
+[PATCH] for(TypeParameter typeParameter : typeParameters.values()){ if(!typeParameter.hasInstanceType()){ registerTypeVariablesOn(typeParameter.getRawClass()); }
+[PATCH] for(Type parameter : typeParameter.getActualTypeArguments()){ if(!typeParameters.containsKey(param)) { registerTypeVariablesOn(parameterizedType.getRawType()); }
+[PATCH] for(TypeVariable typeParameter : typeParameters.keySet()){ if(!typeParameter.hasInstanceType()){ registerTypeVariablesOn(typeParameter.getRawType()); }
+[PATCH] for(TypeParameter typeParameter : typeParameters.keySet()){ if(!getActualTypeArgumentFor(typeParameter)== null){ registerTypeVariablesOn(typeParameter; }
+);
+;

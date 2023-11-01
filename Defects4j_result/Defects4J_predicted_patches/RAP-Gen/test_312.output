@@ -1,0 +1,100 @@
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, trailer)); }
+[PATCH] if(start >= end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, trailer)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(""); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, null)); }
+[PATCH] if(start >= end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, end)); }
+[PATCH] if(start < 0 || start > end){ throw new IllegalArgumentException(""); }
+[PATCH] if(start < 0){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, null)); }
+[PATCH] if(start < 0){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, trailer)); }
+[PATCH] if(start < 0){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, end)); }
+[PATCH] if(start >= end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, null)); }
+[PATCH] if(start >= end){ throw new IllegalArgumentException(""); }
+[PATCH] if(start >= end){ throw new IllegalArgumentException(exceptionMessage(buffer, start, length, start, trailer)); }
+[PATCH] if(start >= end){ if(start < 0){ throw new IllegalArgumentException(""); }
+[PATCH] if(start >= end){ if(start == 0){ throw new IllegalArgumentException(""); }
+[PATCH] if(start >= end){ throw new IllegalArgumentException(exceptionMessage(buffer, start, length, start, end)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, END)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, EOF)); }
+[PATCH] if(start == 0){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, null)); }
+[PATCH] if(start >= end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, END)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionMessage(buffer, start, length, start, trailer)); }
+[PATCH] if(start >= end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, EOF)); }
+[PATCH] if(start >= length){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, trailer)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, data)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, last)); }
+[PATCH] if(start >= end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, last)); }
+[PATCH] if(start < 0){ throw new IllegalArgumentException(exceptionMessage(buffer, start, length, start, trailer)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, end)); }
+[PATCH] if(start < 0){ throw new IllegalArgumentException(""); }
+[PATCH] if(start == start){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, trailer)); }
+[PATCH] if(start == 0){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, trailer)); }
+[PATCH] if(start < 0){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, END)); }
+[PATCH] if(start < 0){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, EOF)); }
+[PATCH] if(start >= end){ throw new IllegalArgumentException(exceptionMessage(buffer, start, length, start, null)); }
+[PATCH] if(start > end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, trailer)); }
+[PATCH] if(start >= end){ if(start < 0 || start > end){ throw new IllegalArgumentException(""); }
+[PATCH] if(start < start){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, trailer)); }
+[PATCH] if(start == end){ if(start < 0){ throw new IllegalArgumentException(""); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, NULL)); }
+[PATCH] if(start < 0){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, NULL)); }
+[PATCH] if(start < 0){ throw new IllegalArgumentException(exceptionMessage(buffer, start, length, start, null)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, value)); }
+[PATCH] if(start < 0 || start > end){ throw new IllegalArgumentException("Invalid starting index:" + start); }
+[PATCH] if(start >= end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, data)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, endTag)); }
+[PATCH] if(start < end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, trailer)); }
+[PATCH] if(start >= 0){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, trailer)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, ending)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionMessage(buffer, start, length, start, null)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, other)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, ZERO)); }
+[PATCH] if(start < 0){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, ZERO)); }
+[PATCH] if(start >= end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, ending)); }
+[PATCH] if(start >= end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, endTag)); }
+[PATCH] if(start < 0){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, last)); }
+[PATCH] if(start >= end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, other)); }
+[PATCH] if(start < 0){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, '-')); }
+[PATCH] if(start >= end){ if(start == -1){ throw new IllegalArgumentException(""); }
+[PATCH] if(start < 0 || start > end){ throw new IllegalArgumentException("Invalid starting offset:" + start); }
+[PATCH] if(start == start){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, null)); }
+[PATCH] if(start >= end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, encountered)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, encountered)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, EMPTY)); }
+[PATCH] if(start < 0){ throw new IllegalArgumentException(exceptionMessage(buffer, start, length, start, end)); }
+[PATCH] if(start < 0){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, data)); }
+[PATCH] if(start < start){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, end)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, closing)); }
+[PATCH] if(start > end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, end)); }
+[PATCH] if(start > end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, null)); }
+[PATCH] if(start < 0 || start > end){ throw new IllegalArgumentException("") :" + start); }
+[PATCH] if(start < 0){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, other)); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, root)); }
+[PATCH] if(start < 0){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, null), }
+[PATCH] if(start + length > end){ throw new IllegalArgumentException(""); }
+[PATCH] if(start == end){ throw new IllegalArgumentException(exceptionMessage(buffer, offset, length, start, null), }
+[PATCH] if(start < 0 || start > end){ throw new IllegalArgumentException("Invalid starting pointer:" + start); }
+[PATCH] if(start == -1){ throw new IllegalArgumentException(""); }
+[PATCH] if(start < 0){ if(end == -1){ throw new IllegalArgumentException(""); }
+[PATCH] if(start < 0 || end < 0){ throw new IllegalArgumentException(""); }
+[PATCH] if(start == -1 || start >= end){ throw new IllegalArgumentException(""); }
+[PATCH] if(start < 1 || start > end){ throw new IllegalArgumentException(""); }
+[PATCH] if(start >= end){ if(start < 1){ throw new IllegalArgumentException(""); }
+[PATCH] if(start > end){ throw new IllegalArgumentException(""); }
+[PATCH] if(start < 0){ throw new IllegalArgumentException("Invalid start index:" + start); }
+[PATCH] if(start < 0){ throw new IllegalArgumentException("Invalid starting index:" + start); }
+[PATCH] if(start < 0){ if(end < 0){ throw new IllegalArgumentException(""); }
+[PATCH] if(start >= end){ if(start - length < 1){ throw new IllegalArgumentException(""); }
+[PATCH] if(start == -1){ if(end == -1){ throw new IllegalArgumentException(""); }
+[PATCH] if(( start < 0)||(start >= end)) { throw new IllegalArgumentException(""); }
+[PATCH] if(start >= end){ if(start > end){ throw new IllegalArgumentException(""); }
+[PATCH] if(start >= end){ if(start - length < 0){ throw new IllegalArgumentException(""); }
+[PATCH] if(start < 0){ throw new IllegalArgumentException("Invalid starting offset:" + start); }
+[PATCH] if(start >= end){ throw new IllegalArgumentException("Invalid starting index:" + start); }
+[PATCH] if(start < 0){ throw new IllegalArgumentException("Invalid start value:" + start); }
+[PATCH] if(start == end){ throw new IllegalArgumentException("") :" + start); }
+[PATCH] if(start >= end){ if(start + length < 1){ throw new IllegalArgumentException(""); }
+[PATCH] if(start >= end){ throw new IllegalArgumentException("") :" + start); }
+[PATCH] if(start >= end){ if(start + length > end){ throw new IllegalArgumentException(""); }
+[PATCH] if(( start < 0)||(start > end)) { throw new IllegalArgumentException(""); }
+[PATCH] if(start == end){ if(start < 1){ throw new IllegalArgumentException(""); }
+[PATCH] if(start < 0){ throw new IllegalArgumentException("Invalid start offset:" + start); }

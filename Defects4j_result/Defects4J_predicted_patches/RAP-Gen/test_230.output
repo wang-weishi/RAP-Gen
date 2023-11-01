@@ -1,0 +1,100 @@
+[PATCH] if(element.equals(search)) return i;
+[PATCH] if(element.indexInList(search)) return i;
+[PATCH] if(!element.equals(search)) return i;
+[PATCH] if(search.equals(element)) return i;
+[PATCH] if(!search.equals(element)) return i;
+[PATCH] if(element.indexInList(search)< 0){
+[PATCH] if(element.indexIn(search)) return i;
+[PATCH] if(indexInList(element, search)) return i;
+[PATCH] if(!indexInList(element, search)) return i;
+[PATCH] if(!search.elementEquals(element)) return i;
+[PATCH] if(!element.indexIn(search)) return i;
+[PATCH] if(element.indexIn(search)< 0){
+[PATCH] if(!search.contains(element)) return i;
+[PATCH] if(element.elementSiblingIndex() == index){
+[PATCH] if(!element.indexInList(search)) return i;
+[PATCH] if(!element.equals(search)) {
+[PATCH] if(!search.equals(element)) {
+[PATCH] if(!tag.equals(element.tag)) return i;
+[PATCH] if(element.compareTo(search)< 0){
+[PATCH] if(element.indexInElement(search)) return i;
+[PATCH] if(!element.elementSiblingIndex().equals(search)) {
+[PATCH] if(!search.element().equals(element)) return i;
+[PATCH] if(element.equals(search)) return i + 1;
+[PATCH] if(!search.elementEqual(element)) return i;
+[PATCH] if(search.elementSiblingIndex() == i){
+[PATCH] if(element.equals(search)) return i;
+[PATCH] if(tag.equals(element.tag)) return i;
+[PATCH] if(element.indexInTree(search)) return i;
+[PATCH] if(!element.equals(search)) { continue; }
+[PATCH] if(element.indexInList(search)) return i;
+[PATCH] if(element.indexInList(search)== i){
+[PATCH] if(element.indexInList(search)) {
+[PATCH] if(!indexInElement(element, search)) return i;
+[PATCH] if(!element.contains(search)) return i;
+[PATCH] if(element.indexInSearch(search)) return i;
+[PATCH] if(element.tagMatch(search, tag)) return i;
+[PATCH] if(element.indexInList(search, i)) return i;
+[PATCH] if(!element.indexInElement(search)) return i;
+[PATCH] if(element.indexIn(search)< 0;
+[PATCH] if(element.id() == search.id())return i;
+[PATCH] if(!element.equals(search)) { return i; }
+[PATCH] if(element.tagEqual(search.tag)) return i;
+[PATCH] if(element.indexInList(search)== -1){
+[PATCH] if(!indexInList(element, search)) {
+[PATCH] if(element.tagName().equals(search)) return i;
+[PATCH] if(element.indexOf(search)< 0){
+[PATCH] if(element.equals(search)) {
+[PATCH] if(!element.indexInSearch(search)) return i;
+[PATCH] if(element.indexInScope(search)) return i;
+[PATCH] if(!element.indexIn(search)) {
+[PATCH] if(element.indexInList(search)) return i + 1;
+[PATCH] if(Element.equals(element, search)) return i;
+[PATCH] if(elements.contains(element)) return i;
+[PATCH] if(!search.equals(element)) return i + 1;
+[PATCH] if(!search.elementEquals(element)) {
+[PATCH] if(!element.indexInList(search)) {
+[PATCH] if(search.equals(element)) return i + 1;
+[PATCH] if(element.contains(search)) return i;
+[PATCH] if(element.indexInList(search)> 0){
+[PATCH] if(element.indexInList(search)< 0;
+[PATCH] if(!element.equals(search)) return i + 1;
+[PATCH] if(element.indexInList(search)== 0){
+[PATCH] if(element.indexNotIn(search)) return i;
+[PATCH] if(!element.equals(search)) return i;
+[PATCH] if(element.indexInBounds(search)< 0){
+[PATCH] if(element.indexInList(search)== false){
+[PATCH] if(!search.contains(element)) {
+[PATCH] if(element.compareTo(search)== 0){
+[PATCH] if(!element.indexIn(search)) { continue; }
+[PATCH] if(element.indexInList(search)< 0);
+[PATCH] if(element.indexIn(search)== -1){
+[PATCH] if(element.indexIn(search)== i){
+[PATCH] if(element.id() == search.id()){
+[PATCH] if(!elements.contains(element)) return i;
+[PATCH] if(element.indexIn(search)> 0){
+[PATCH] if(!element.indexInList(search)) { continue; }
+[PATCH] if(element.indexInList(search): return i;
+[PATCH] if(element.indexAt(search)< 0){
+[PATCH] if(ELEMENT.equals(search)) return i;
+[PATCH] if(element.elementSiblingIndex() == search.index()){
+[PATCH] if(elements.indexOf(element)== -1){
+[PATCH] if(element.indexOf(search)) return i;
+[PATCH] if(elem.elementSiblingIndex() == index){
+[PATCH] if(search.contains(element)) return i;
+[PATCH] if(element == search || element.equals(search)) {
+[PATCH] if(element.matches(search)) return i;
+[PATCH] if(element.indexIn(search)< 0);
+[PATCH] if(element.indexIn(search)== false){
+[PATCH] if(indexInList(element, search)) {
+[PATCH] if(elements.indexOf(element)< 0){
+[PATCH] if(!search.element().equals(element)) {
+[PATCH] if(elem.equals(search)) return i;
+[PATCH] if(equals(element, search)) return i;
+[PATCH] if(segment.equals(search)) return i;
+[PATCH] if(match(element, search)) return i;
+[PATCH] if(filter(element, search)) return i;
+[PATCH] if(!element.tag().equals(search.tag)) {
+[PATCH] if(search.equals(element)) {
+[PATCH] if(!element.tagSet().contains(search)) {
+[PATCH] if(element == search ||!element.equals(search)) {

@@ -1,0 +1,100 @@
+[PATCH] if(!_hasSegments){ return NO_CHARS; }
+[PATCH] if(!_hasSegments){ return NO_CHARS; }
+[PATCH] if(!_hasSegments)return NO_CHARS;
+[PATCH] if(!_hasSegments){ return null; }
+[PATCH] if(!_hasSegments)return EMPTY_CHAR_LEN;
+[PATCH] if(!_hasSegments){ return null; }
+[PATCH] if(!_hasSegments){ throw new IllegalStateException(""); }
+[PATCH] if(!_hasSegments)return null;
+[PATCH] if(_segments!= null){ if(!_hasSegments)return null; }
+[PATCH] if(!_hasSegments)return EMPTY_CHAR_ARRAY;
+[PATCH] if(!_hasSegments){ return EMPTY_CHAR_LEN; }
+[PATCH] if(!_hasSegments){ return EMPTY_CHAR_LEN; }
+[PATCH] if(!_hasSegments){ return EMPTY_CHAR_ARRAY; }
+[PATCH] if(!_hasSegments){ return EMPTY_CHAR_ARRAY; }
+[PATCH] if(_currentSize > 0){ if(!_hasSegments)return null; }
+[PATCH] if(!_hasSegments)return EMPTY_BUFFER;
+[PATCH] if(_segments!= null){ if(!_hasSegments)return _resultArray; }
+[PATCH] if(_currentSize >= 0){ if(!_hasSegments)return null; }
+[PATCH] if(_segments!= null){ if(!_hasSegments)return NO_CHARS; }
+[PATCH] if(_hasSegments){ return NO_CHARS; }
+[PATCH] if(_segments!= null){ if(!_hasSegments())return null; }
+[PATCH] if(!_hasSegments)return _resultArray;
+[PATCH] if(_segments!= null){ if(!_hasSegments)return EMPTY_BUFFER; }
+[PATCH] if(!_hasSegments){ _currentSegment = null; }
+[PATCH] if(_currentSize >= MIN_SEGMENT_LEN){ return _currentSegment; }
+[PATCH] if(!_hasSegments){ return _resultArray; }
+[PATCH] if(!_hasSegments){ return _resultArray; }
+[PATCH] if(_hasSegments){ if(!_hasSegments)return null; }
+[PATCH] if(_segments!= null){ if(!_hasSegments){ return NO_CHARS; }
+[PATCH] if(!_hasSegments)return EMPTY_SEGMENT_LEN;
+[PATCH] if(!_hasSegments())return EMPTY_CHAR_LEN;
+[PATCH] if(_currentSize >= 0)return EMPTY_SEGMENT_LEN;
+[PATCH] if(_hasSegments){ return NO_CHARS; }
+[PATCH] if(_segmentSize > 0){ if(!_hasSegments)return null; }
+[PATCH] if(!_hasSegments ||!_currentSize){ return NO_CHARS; }
+[PATCH] if(!_hasSegments){ if(_currentSize == 0)return null; }
+[PATCH] if(_hasSegments){ if(!_hasSegments())return null; }
+[PATCH] if(!_hasSegments())return null;
+[PATCH] if(_currentSize!= 0){ if(!_hasSegments)return null; }
+[PATCH] if(_currentSize >= 0)return NO_CHARS;
+[PATCH] if(_segments!= null){ if(!_hasSegments)return NO_CHARS;
+[PATCH] if(_currentSize > 0){ if(!_hasSegments())return null; }
+[PATCH] if(!_hasSegments){ _currentSegment = null; }
+[PATCH] if(!_hasSegments){ throw new RuntimeException(""); }
+[PATCH] if(_currSegment!= null){ if(!_hasSegments)return null; }
+[PATCH] if(!_hasSegments){ if(_currentSize > 0){ return null; }
+[PATCH] if(_segments == null){ if(_currentSize > 0){ return _currentSegment; }
+[PATCH] if(!_hasSegments())return NO_CHARS;
+[PATCH] if(!_hasSegments ||!_currentSize){ return NO_CHARS; }
+[PATCH] if(_segments!= null){ if(!_hasSegments)return null; }
+[PATCH] if(!_hasSegments){ throw new IllegalArgumentException(""); }
+[PATCH] if(_currentSize > 0)return EMPTY_SEGMENT_LEN;
+[PATCH] if(_segments!= null){ if(!_hasSegments)return null;
+[PATCH] if(!_hasSegments){ return EMPTY_BUFFER; }
+[PATCH] if(_hasSegments){ if(!_hasSegments)return _resultArray; }
+[PATCH] if(!_hasSegments){ return EMPTY_BUFFER; }
+[PATCH] if(_currentSize > 0){ if(!_hasSegments)return null;
+[PATCH] if(!_hasSegments){ if(_currentSize >= 0)return null; }
+[PATCH] if(_inputLen > 0){ if(!_hasSegments)return null; }
+[PATCH] if(!_hasSegments){ throw new IllegalStateException(""); }
+[PATCH] if(!_hasSegments())return EMPTY_CHAR_ARRAY;
+[PATCH] if(!_hasSegments){ return EMPTY_SEGMENT_LEN; }
+[PATCH] if(_currentSize > 0){ if(!_hasSegments)return null; }
+[PATCH] if(_currentSize > 0){ if(!_hasSegments)return NO_CHARS;
+[PATCH] if(_segments!= null){ if(!_hasSegments){ return null; }
+[PATCH] if(_segmentSize!= 0){ if(!_hasSegments)return null; }
+[PATCH] if(_currentSize >= MIN_SEGMENT_LEN)return NO_CHARS;
+[PATCH] if(!_hasSegments){ return NO_CHARS; } else {
+[PATCH] if(!_hasSegments){ if(_currentSize < 0)return null; }
+[PATCH] if(!_hasSegments){ return EMPTY_SEGMENT_LEN; }
+[PATCH] if(_currentSize > 0)return NO_CHARS;
+[PATCH] if(_currentSize >= MIN_SEGMENT_LEN){ return _currentSegment; }
+[PATCH] if(!_hasSegments()){ return NO_CHARS; }
+[PATCH] if(_children!= null){ if(!_hasSegments)return null; }
+[PATCH] if(_hasSegments){ return EMPTY_CHAR_ARRAY; }
+[PATCH] if(_currentSize >= 0)return _currentSize;
+[PATCH] if(!_hasSegments){ return _currentSegment; }
+[PATCH] if(!_hasSegments)return EMPTY_CHAR_BUFFER;
+[PATCH] if(_currentSize!= 0)return EMPTY_SEGMENT_LEN;
+[PATCH] if(_currentSize >= 0)return _currentSegment;
+[PATCH] if(_hasSegments){ return EMPTY_CHAR_LEN; }
+[PATCH] if(!_hasSegments)return EMPTY_CHARS;
+[PATCH] if(_currentSize!= 0)return NO_CHARS;
+[PATCH] if(!_hasSegments){ throw new IOException(""); }
+[PATCH] if(!_hasSegments)return NULL_CHAR_LEN;
+[PATCH] if(!_hasSegments){ return EMPTY_CHARS; }
+[PATCH] if(!_hasSegments())return _resultArray;
+[PATCH] if(!_hasSegments){ return _currentSegment; }
+[PATCH] if(_hasSegments){ return EMPTY_CHAR_ARRAY; }
+[PATCH] if(!_hasSegments()){ return null; }
+[PATCH] if(_currentSize > 0)return _currentSegment;
+[PATCH] if(!_hasSegments)return NULL_BUFFER;
+[PATCH] if(!_hasSegments)return NULL_VALUE;
+[PATCH] if(_currentSize >= 0)return _resultArray;
+[PATCH] if(!_hasSegments())return EMPTY_BUFFER;
+[PATCH] if(_currentSize > 0)return _currentSize;
+[PATCH] if(_hasSegments)return NO_CHARS;
+[PATCH] if(_hasSegments){ return null; }
+[PATCH] if(_hasSegments){ return null; }
+[PATCH] [Delete]

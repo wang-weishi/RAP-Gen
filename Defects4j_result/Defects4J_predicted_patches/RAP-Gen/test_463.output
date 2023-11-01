@@ -1,0 +1,100 @@
+[PATCH] if(( toRelease!= src)&&(toRelease.length!= src.length)) { throw wrongBuf(); }
+[PATCH] if(toRelease!= src){ if(toRelease.length!= src.length){ throw wrongBuf(); }
+[PATCH] if(toRelease!= src){ throw new IllegalArgumentException("Trying to release buffer not owned by the context"); }
+[PATCH] if(toRelease!= src &&!toRelease.length.equals(src.length)) { throw wrongBuf(); }
+[PATCH] if(( toRelease!= null)&&(toRelease.length!= src.length)) { throw wrongBuf(); }
+[PATCH] if(toRelease!= src ||!toRelease.length.equals(src.length)) { throw wrongBuf(); }
+[PATCH] if(( toRelease!= src)||(toRelease.length!= src.length)) { throw wrongBuf(); }
+[PATCH] if(toRelease!= src){ if(toRelease.length!= src.length){ throw new IllegalArgumentException(""); }
+[PATCH] if(( toRelease!= src)&&(toRelease.length!= src.length)) { throw new IllegalArgumentException(""); }
+[PATCH] if(( toRelease!= src)&&!(toRelease.length == src.length)) { throw wrongBuf(); }
+[PATCH] if(toRelease!= src || src == null || toRelease.length!= src.length){ throw new IllegalArgumentException(""); }
+[PATCH] if(toRelease!= src ||!toRelease.length.equals(src.length)) { throw new IllegalArgumentException(""); }
+[PATCH] if(toRelease!= src &&!toRelease.length.equals(src.length)) { throw new IllegalArgumentException(""); }
+[PATCH] if(toRelease!= src || toRelease.length!= src.length){ throw wrongBuf(); }
+[PATCH] if(( toRelease!= null)&&(toRelease.length!= src.length)) { throw new IllegalArgumentException(""); }
+[PATCH] if(toRelease!= src || src == null || toRelease.length!= src.length){ throw wrongBuf(); }
+[PATCH] if(toRelease!= src){ throw new IllegalArgumentException(""); }
+[PATCH] if(!toRelease.length.equals(src.length)) { throw wrongBuf(); }
+[PATCH] if(( toRelease!= src)||(toRelease.length!= src.length)) { throw new IllegalArgumentException(""); }
+[PATCH] if(toRelease == null || src == null || toRelease.length!= src.length){ throw new IllegalArgumentException(""); }
+[PATCH] if(toRelease!= null && src!= null && toRelease.length!= src.length){ throw wrongBuf(); }
+[PATCH] if(!toRelease.length.equals(src.length)) { throw new IllegalArgumentException(""); }
+[PATCH] if(toRelease!= src || toRelease.length!= src.length){ throw new IllegalArgumentException(""); }
+[PATCH] if(toRelease == src ||!toRelease.length.equals(src.length)) { throw wrongBuf(); }
+[PATCH] if(toRelease!= null && src!= null && toRelease.length!= src.length){ throw new IllegalArgumentException(""); }
+[PATCH] if(toRelease == null || src == null || toRelease.length!= src.length){ throw wrongBuf(); }
+[PATCH] if(toRelease == src ||!toRelease.length.equals(src.length)) { throw new IllegalArgumentException(""); }
+[PATCH] if(( toRelease!= null)&&!(toRelease.length == src.length)) { throw wrongBuf(); }
+[PATCH] if(( toRelease!= src)&&!(toRelease.length < src.length)) { throw wrongBuf(); }
+[PATCH] if(toRelease!= src){ throw new IllegalArgumentException("Can't release buffer not owned by the context"); }
+[PATCH] if(toRelease!= src){ throw new IllegalArgumentException("Cannot release buffer not owned by the context"); }
+[PATCH] if(toRelease!= null &&!toRelease.length.equals(src.length)) { throw wrongBuf(); }
+[PATCH] if(toRelease!= src && src.length!= toRelease.length){ throw wrongBuf(); }
+[PATCH] if(_release == null ||!toRelease.length.equals(src.length)) { throw new IllegalArgumentException(""); }
+[PATCH] if(toRelease == src || toRelease.length!= src.length){ throw wrongBuf(); }
+[PATCH] if(toRelease.length!= src.length || toRelease.length!= src.length){ throw wrongBuf(); }
+[PATCH] if(( toRelease!= null)&&(src.length!= toRelease.length)) { throw wrongBuf(); }
+[PATCH] if(_release == null ||!toRelease.length.equals(src.length)) { throw wrongBuf(); }
+[PATCH] if(toRelease!= src){ throw new IllegalArgumentException("You are trying to release buffer not owned by the context"); }
+[PATCH] if(( toRelease == src)||(toRelease.length!= src.length)) { throw wrongBuf(); }
+[PATCH] if(( toRelease!= src)&&(toRelease.length!= src.length)) { throw wrongChar(""); }
+[PATCH] if(( toRelease!= src)&&!(toRelease.length <= src.length)) { throw wrongBuf(); }
+[PATCH] if(toRelease!= src){ throw new IllegalArgumentException("") :" + toRelease); }
+[PATCH] if(toRelease == null ||!toRelease.length.equals(src.length)) { throw wrongBuf(); }
+[PATCH] if(toRelease!= null || src == null || toRelease.length!= src.length){ throw new IllegalArgumentException(""); }
+[PATCH] if(toRelease == null ||!toRelease.length.equals(src.length)) { throw new IllegalArgumentException(""); }
+[PATCH] if(( toRelease == src)&&(toRelease.length!= src.length)) { throw wrongBuf(); }
+[PATCH] if(toRelease!= null && src == null || toRelease.length!= src.length){ throw wrongBuf(); }
+[PATCH] if(toRelease!= null || src == null || toRelease.length!= src.length){ throw wrongBuf(); }
+[PATCH] if(toRelease!= src){ throw new IllegalArgumentException("Couldn't release buffer not owned by the context"); }
+[PATCH] if(( toRelease!= src)&&(_toRelease.length!= src.length)) { throw wrongBuf(); }
+[PATCH] if(( toRelease!= src)&&!toRelease.length == src.length){ throw wrongBuf(); }
+[PATCH] if(toRelease == src || toRelease.length!= src.length){ throw new IllegalArgumentException(""); }
+[PATCH] if(toRelease!= null && src == null || toRelease.length!= src.length){ throw new IllegalArgumentException(""); }
+[PATCH] if(_managedResource){ if(toRelease!= src || toRelease.length!= src.length){ throw wrongBuf(); }
+[PATCH] if(( toRelease!= src)&&!toRelease.length == src.length)) { throw wrongBuf(); }
+[PATCH] if(toRelease!= src){ if(toRelease.length!= src.length){ throw wrongChar(""); }
+[PATCH] if(( toRelease!= src)&&(toRelease.length!= src.length)) { throw new IllegalStateException(""); }
+[PATCH] if(_release == null || toRelease.length!= src.length){ throw new IllegalArgumentException(""); }
+[PATCH] if(( toRelease!= src)&&!toRelease.length == src.length){ throw new IllegalArgumentException(""); }
+[PATCH] if(toRelease!= src && src.length!= toRelease.length){ throw new IllegalArgumentException(""); }
+[PATCH] if(toRelease!= src){ throw new IllegalArgumentException("Attempt to release buffer not owned by the context"); }
+[PATCH] if(( toRelease == null)||(toRelease.length!= src.length)) { throw wrongBuf(); }
+[PATCH] if(toRelease.length!= src.length || toRelease.length!= src.length){ throw new IllegalArgumentException(""); }
+[PATCH] if(( toRelease!= null)||(toRelease.length!= src.length)) { throw wrongBuf(); }
+[PATCH] if(( toRelease!= null)&&(toRelease.length!= src.length)) { throw wrongChar(""); }
+[PATCH] if(( toRelease!= src)&&(toRelease.length!= src.length)) { throw wrongSrc(); }
+[PATCH] if(toRelease!= src){ throw new IllegalArgumentException("Attempting to release buffer not owned by the context"); }
+[PATCH] if(( toRelease!= src)&&!toRelease.equals(src)) { throw wrongBuf(); }
+[PATCH] if(toRelease == null || toRelease.length!= src.length){ throw new IllegalArgumentException(""); }
+[PATCH] if(( toRelease!= src)&&(toRelease.length!= src.length)) { throw wrongStr(); }
+[PATCH] if(( toRelease == null)||(toRelease.length!= src.length)) { throw new IllegalArgumentException(""); }
+[PATCH] if(( toRelease!= src)&&(toRelease.length!= src.length)) { throw wrongBuffer(); }
+[PATCH] if(toRelease!= src && toRelease.length!= src.length){ throw wrongBuf(); }
+[PATCH] if(( toRelease!= src)&&!toRelease.equals(src)) { throw new IllegalArgumentException(""); }
+[PATCH] if(( toRelease!= src)&&(_releaseLength!= src.length)) { throw wrongBuf(); }
+[PATCH] if(( toRelease == src)||(toRelease.length!= src.length)) { throw new IllegalArgumentException(""); }
+[PATCH] if(( src == null)||(toRelease.length!= src.length)) { throw wrongBuf(); }
+[PATCH] if(( src!= null)&&(toRelease.length!= src.length)) { throw wrongBuf(); }
+[PATCH] if(( toRelease!= null)&&(_releaseLength!= src.length)) { throw wrongBuf(); }
+[PATCH] if(toRelease!= null && src.length!= toRelease.length){ throw wrongBuf(); }
+[PATCH] if(toRelease.length!= src.length){ throw wrongBuf(); }
+[PATCH] if(toRelease!= src &&!toRelease.length == src.length){ throw wrongBuf(); }
+[PATCH] if(toRelease!= src){ if(toRelease.length!= src.length){ throw wrongBuffer(); }
+[PATCH] if(toRelease!= src){ throw new IllegalArgumentException("Could not release buffer not owned by the context"); }
+[PATCH] if(toRelease == null || toRelease.length!= src.length){ throw wrongBuf(); }
+[PATCH] if(_release == null || _release.length!= src.length){ throw new IllegalArgumentException(""); }
+[PATCH] if(toRelease!= src &&!toRelease.equals(src)) { throw wrongBuf(); }
+[PATCH] if(_release == null || toRelease.length!= src.length){ throw wrongBuf(); }
+[PATCH] if(toRelease!= src && toRelease.length!= src.length){ throw new IllegalArgumentException(""); }
+[PATCH] if(( toRelease == null)&&(src == null)) { throw new IllegalArgumentException(""); }
+[PATCH] if(toRelease.length!= src.length){ throw new IllegalArgumentException(""); }
+[PATCH] if(!toRelease.equals(src)) { throw new IllegalArgumentException(""); }
+[PATCH] if(!toRelease.equals(src)) { throw wrongBuf(); }
+[PATCH] if(toRelease == src){ throw new IllegalArgumentException(""); }
+[PATCH] [Delete]
+[PATCH] if(toRelease!= src){
+[PATCH] throw new IllegalArgumentException("");
+[PATCH] throw wrongBuf();
+[PATCH] if("");

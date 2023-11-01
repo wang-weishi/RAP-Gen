@@ -1,0 +1,100 @@
+[PATCH] if(!parent.getType() == Token.ARRAYLIT){ if(left.getType()!= Token.NUMBER){ return n; }
+[PATCH] if(!parent.getType() == Token.ARRAYLIT){ if(left.getType()!= Token.STRING){ return n; }
+[PATCH] if(left.getType() == Token.NAME){ if(right.getString().equals("")) { return n; }
+[PATCH] if(left.getType() == Token.NAME){ if(right.getString().equals("__")) { return n; }
+[PATCH] if(left.getType() == Token.NAME){ if(right.getString().equals("[")) { return n; }
+[PATCH] if(left == null || left.getType()!= Token.STRING){ if(!right.isQualifiedName()){ return n; }
+[PATCH] if(left.getType() == Token.NAME){ if(parent.getString() == right.getString()){ return n; }
+[PATCH] if(!parent.getType() == Token.ARRAYLIT){ if(right.getType() == Token.STRING){ return n; }
+[PATCH] if(!isObjectLitKey(left, right)) { if(right.getType() == Token.STRING){ return n; }
+[PATCH] if(!parent.getType() == Token.OBJECTLIT){ if(left.getType()!= Token.STRING){ return n; }
+[PATCH] if(NodeUtil.isExpressionNode(parent)) { if(!parent.getType() == Token.ARRAYLIT){ return n; }
+[PATCH] if(!parent.getType() == Token.OBJECTLIT){ if(left.getType()!= Token.NUMBER){ return n; }
+[PATCH] if(!isObjectLitKey(n, left)) { if(right.getType() == Token.STRING){ return n; }
+[PATCH] if(left.getType() == Token.NAME){ if(right.getString().equals("call")) { return n; }
+[PATCH] if(!NodeUtil.isLiteralValue(left)||!NodeUtil.isLiteralValue(right)) { return n; }
+[PATCH] if(!NodeUtil.isGetProp(left)) { if(right.getType() == Token.STRING){ return n; }
+[PATCH] if(left == null){ return n; } if(!parent.getType() == Token.ARRAYLIT){ return n; }
+[PATCH] if(NodeUtil.isExprAssign(parent)) { if(RIGHT.getType()!= Token.NUMBER){ return n; }
+[PATCH] if(left.getType() == Token.STRING){ if(right.getString().equals("")) { return n; }
+[PATCH] if(!parent.getType() == Token.ARRAYLIT){ if(right.getType()!= Token.STRING){ return n; }
+[PATCH] if(!parent.isLiteralValue()){ if(left.getType()!= Token.STRING){ return n; }
+[PATCH] if(left.getType() == Token.STRING){ if(right.getString().length() == 0){ return n; }
+[PATCH] if(left == null || left.getType()!= Token.NAME){ if(!parent.hasChildren()){ return n; }
+[PATCH] if(NodeUtil.isImmutableValue(left)) { if(!parent.getType() == Token.ARRAYLIT){ return n; }
+[PATCH] if(left.getType() == Token.NAME){ if(NodeUtil.isExprAssign(parent)) { return n; }
+[PATCH] if(left == null || left.getType()!= Token.NUMBER){ if(!right.isQualifiedName()){ return n; }
+[PATCH] if(NodeUtil.isExprAssign(parent)) { if(right.getType() == Token.STRING){ return n; }
+[PATCH] if(!isAssociative(left.getType())||!isAssociative(right.getType())) { return n; }
+[PATCH] if(left.getType() == Token.NAME){ if(right.getString().equals(".")) { return n; }
+[PATCH] if(!parent.getType() == Token.ARRAYLIT){ if(left.getType()!= Token.NUMBER){ return right; }
+[PATCH] if(left == null){ if(right.getType()!= Token.STRING){ return n; }
+[PATCH] if(left.getType() == Token.NAME){ if(right.getString().equals(">")) { return n; }
+[PATCH] if(!parent.getType() == Token.ARRAYLIT){ if(right.getType()!= Token.NUMBER){ return n; }
+[PATCH] if(parent.getType() == Token.ARRAYLIT){ if(left.getType()!= Token.NUMBER){ return n; }
+[PATCH] if(NodeUtil.isObjectLitKey(n, left)) { if(!parent.hasChildren()){ return n; }
+[PATCH] if(!NodeUtil.isExprAssign(parent)) { if(left.getType() == Token.NAME){ return n; }
+[PATCH] if(NodeUtil.isExprAssign(parent)) { if(!parent.getChildCount() == 2){ return n; }
+[PATCH] if(left.getType() == Token.NAME){ if(right.getString().equals("*")) { return n; }
+[PATCH] if(nodeTypeMayHaveSideEffects(left)) { if(right.getType() == Token.STRING){ return n; }
+[PATCH] if(NodeUtil.isExprAssign(parent)) { if(!parent.getType() == Token.ARRAYLIT){ return n; }
+[PATCH] if(!NodeUtil.isExprAssign(parent)) { if(RIGHT.getType()!= Token.STRING){ return n; }
+[PATCH] Preconditions.checkArgument(left.getType() == Token.NAME);
+[PATCH] if(NodeUtil.isExpressionNode(parent)) { if(!parent.hasChildren()){ return n; }
+[PATCH] if(left == null || left.getType()!= Token.NAME){ if(!parent.isArray()){ return n; }
+[PATCH] if(!NodeUtil.isExprAssign(parent)) { if(RIGHT.getType()!= Token.NUMBER){ return n; }
+[PATCH] if(left.getType() == Token.NAME){ if(right.getString().equals("-")) { return n; }
+[PATCH] if(NodeUtil.isExprAssign(parent)) { if(RIGHT.getType()!= Token.STRING){ return n; }
+[PATCH] if(!NodeUtil.isExprAssign(parent)) { if(left.getType()!= Token.STRING){ return n; }
+[PATCH] if(NodeUtil.isObjectLitKey(left, right)) { if(!right.isQualifiedName()){ return n; }
+[PATCH] if(NodeUtil.isExprAssign(parent)) { if(RIGHT.getType() == Token.STRING){ return n; }
+[PATCH] if(!isExprAssign(parent)) { if(left.getType()!= Token.STRING){ return n; }
+[PATCH] if(!isLiteralValue(left)||!isLiteralValue(right)) { return n; }
+[PATCH] if(!isExprAssign(parent)) { if(left.getType() == Token.NAME){ return n; }
+[PATCH] if(!parent.isEquivalentTo(n)) { if(!right.isQualifiedName()){ return n; }
+[PATCH] if(!parent.isActual()){ if(left.getType()!= Token.STRING){ return n; }
+[PATCH] Preconditions.checkState(parent.getType() == Token.ARRAYLIT);
+[PATCH] parent.replaceChild(n, new Node(Token.GETPROP, left, right));
+[PATCH] if(!NodeUtil.isObjectLitKey(n, left)) { return n; }
+[PATCH] if(!parent.isEquivalentTo(n)) { return n; }
+[PATCH] if(left == null){ if(right.getType() == Token.STRING){ return n; }
+[PATCH] if(left == null){ return n; } if(!parent.hasChildren()){ return n; }
+[PATCH] if(!parent.isActual()){ return n; }
+[PATCH] if(!left.isQualifiedName() &&!right.isQualifiedName()){ return n; }
+[PATCH] if(NodeUtil.isExprAssign(parent)) { if(left == right){ return n; }
+[PATCH] if(!parent.isLiteralValue()){ return n; }
+[PATCH] if(!parent.hasChildren()){ return n; }
+[PATCH] if(!nodeTypeMayHaveSideEffects(left)) { return n; }
+[PATCH] if(left.getType() == Token.NAME){ return n; }
+[PATCH] if(!NodeUtil.isExpressionNode(parent)) { return n; }
+[PATCH] Preconditions.checkState(left.getType() == Token.NAME);
+[PATCH] if(!parent.isArray()){ return n; }
+[PATCH] while(left.getType() == Token.NAME){ right = left.getNext();
+[PATCH] if(left == null || left.getType()!= Token.STRING){ return n; }
+[PATCH] if(!NodeUtil.isArrayLitKey(n, left)) { return n; }
+[PATCH] if(!isExprAssign(parent)) { return n; }
+[PATCH] if(!NodeUtil.isExprAssign(parent)) { return n; }
+[PATCH] if(left == null){ if(!right.isQualifiedName()){ return n; }
+[PATCH] if(left == null){ return n; }
+[PATCH] if(!parent.getType() == Token.ARRAYLIT){ return n; }
+[PATCH] Preconditions.checkState(parent.getType() == Token.CALL);
+[PATCH] if(!parent.isLeaf()){ return n; }
+[PATCH] if(!parent.isLenient()){ return n; }
+[PATCH] if(left == null){ left = right; return n; }
+[PATCH] right = left.getNext();
+[PATCH] Preconditions.checkState(parent!= null);
+[PATCH] int len = left.getChildCount() - 1;
+[PATCH] if(right == null){ return n; }
+[PATCH] new Node(Token.GETPROP, left, right);
+[PATCH] tryFoldLeftChildAccess(n, left);
+[PATCH] int i = left.getChildCount() - 1;
+[PATCH] right = right.getNext();
+[PATCH] parent.replaceChild(n, right);
+[PATCH] Preconditions.checkNotNull(parent);
+[PATCH] int index = left.getDouble();
+[PATCH] n = left.getNext();
+[PATCH] node = left.getNext();
+[PATCH] ;
+
+);
+*/

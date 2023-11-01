@@ -1,0 +1,100 @@
+[PATCH] if(inferred){
+[PATCH] if(!inferred){
+[PATCH] if(!inferred &&(rhsValue == null || rhsValue.isFunction() &&
+[PATCH] if(!inferred &&(rhsValue == null || rhsValue.isQualifiedName() &&
+[PATCH] inferred =!(rhsValue == null && n.isQualifiedName() &&
+[PATCH] if(inferred){ inferred =!(rhsValue == null && n.isQualifiedName() &&
+[PATCH] if(inferred &&(parent!= null && parent.getType() == Token.FUNCTION ||
+[PATCH] if(inferred &&(rhsValue == null || rhsValue.isFunction() &&
+[PATCH] if(inferred)&&!(parent == null || parent.isGlobal() &&
+[PATCH] if(!inferred &&(parent == null || parent.isGlobal() &&
+[PATCH] if(inferred ||(rhsValue!= null && rhsValue.isQualifiedName() &&
+[PATCH] if(inferred &&(rhsValue == null || rhsValue.isQualifiedName() &&
+[PATCH] if(!inferred &&(parent!= null && parent.getType() == Token.FUNCTION ||
+[PATCH] inferred =!(rhsValue == null && parent.getType() == Token.FUNCTION &&
+[PATCH] inferred =!(rhsValue == null || rhsValue.isFunction() &&
+[PATCH] if(!inferred &&(rhsValue == null || rhsValue.isFunction() &&
+[PATCH] if(!inferred)&&(parent == null || parent.isGlobal() &&
+[PATCH] if(inferred &&(rhsValue == null || rhsValue.isFunction() &&
+[PATCH] if(!inferred &&(qName == null || rhsValue.isQualifiedName() &&
+[PATCH] if(!inferred &&(rhsValue == null || rhsValue.isQualifiedName() &&
+[PATCH] if(inferred)&&!(rhsValue == null && n.isQualifiedName() &&
+[PATCH] inferred =!(rhsValue == null && parent.isTypeOfThis() &&
+[PATCH] if(!inferred &&(parent!= null && parent.getType() == Token.SCRIPT ||
+[PATCH] if(inferred &&(parent == null || parent.isTypeOfThis() ||
+[PATCH] if(inferred &&(parent == null || parent.isGlobal() ||
+[PATCH] inferred =!(rhsValue == null && rhsValue.isFunction() &&
+[PATCH] if(inferred &&(parent!= null && parent.getType() == Token.SCRIPT ||
+[PATCH] if(inferred)&&!(parent == null || parent.isTypeOfThis() &&
+[PATCH] if(inferred &&(rhsValue == null || rhsValue.isQualifiedName() &&
+[PATCH] inferred =!(rhsValue == null && parent.getType() == Token.NAME &&
+[PATCH] if(inferred &&(qName == null || rhsValue.isQualifiedName() &&
+[PATCH] if(!inferred){ inferred =!(parent == null || parent.isGlobal() &&
+[PATCH] if(!inferred &&(rhsValue!= null && rhsValue.isQualifiedName() &&
+[PATCH] if(inferred &&(rhsValue!= null && rhsValue.isQualifiedName() ||
+[PATCH] inferred =!(rhsValue == null && n.isFunction() &&
+[PATCH] if(inferred)&&!(parent == null || parent.isChildOfFunction() &&
+[PATCH] if(!inferred &&(qName == null || n.isQualifiedName() &&
+[PATCH] if(!inferred &&(parent == null || parent.isTypeOfThis() ||
+[PATCH] if(inferred){ inferred =!(rhsValue == null && n.isFunction() &&
+[PATCH] if(qName!= null && n.getType() == Token.GETPROP &&
+[PATCH] if(inferred)&&!(parent == null || parent.isType() &&
+[PATCH] if(inferred &&(parent == null || rhsValue.isFunction() &&
+[PATCH] if(inferred)||(rhsValue!= null && rhsValue.isFunction() &&
+[PATCH] if(inferred){ inferred =!(rhsValue == null && parent.isQualifiedName() &&
+[PATCH] inferred =!(rhsValue == null && parent.isQualifiedName() &&
+[PATCH] inferred =!(rhsValue == null || rhsValue.isFunction() &&
+[PATCH] if(!inferred &&(parent == null || parent.isChildOfFunction() &&
+[PATCH] if(inferred &&(parent!= null && parent.getType() == Token.NAME ||
+[PATCH] if(!inferred &&(rhsValue == null || rhsValue.isNoType() &&
+[PATCH] if(inferred ||(parent!= null && parent.getType() == Token.FUNCTION &&
+[PATCH] inferred =!(rhsValue!= null && rhsValue.isQualifiedName() &&
+[PATCH] if(inferred)&&!(parent == null || parent.isRoot() &&
+[PATCH] if(qName!= null && n.isQualifiedName() &&!inferred){
+[PATCH] if(inferred &&(parent == null || parent.isTypeInferred() ||
+[PATCH] if(inferred &&(parent == null || rhsValue.isQualifiedName() &&
+[PATCH] if(!inferred && n == null && parent.getType() == Token.NAME &&
+[PATCH] inferred =!(rhsValue == null && parent.isTypeInferred() &&
+[PATCH] if(!inferred &&(parent == null || rhsValue.isFunction() &&
+[PATCH] if(inferred ||(rhsValue!= null && rhsValue.isFunction() &&
+[PATCH] inferred =!(rhsValue == null && parent.isFunction() &&
+[PATCH] if(inferred &&(qName == null || n.isQualifiedName() &&
+[PATCH] if(inferred &&(parent == null || parent.isType() ||
+[PATCH] if(inferred &&(parent == null || parent.isGlobal())&&
+[PATCH] if(!inferred &&(parent!= null && parent.isQualifiedName() &&
+[PATCH] if(!inferred &&(parent == null || parent.isRoot() &&
+[PATCH] inferred =!(rhsValue == null && parent.isGlobal() &&
+[PATCH] inferred =!(rhsValue == null && parent.isType() &&
+[PATCH] if(!inferred &&(parent == null || parent.isType() ||
+[PATCH] if(inferred &&(parent == null || parent.isGlobal() &&
+[PATCH] if(inferred &&(parent!= null && parent.isType() ||
+[PATCH] if(info!= null && info.isConstructor() &&
+[PATCH] if(Inferred){
+[PATCH] else if(inferred){
+[PATCH] if(inferred && n == parent){
+[PATCH] if(notInferred){
+[PATCH] if(!Inferred){
+[PATCH] if(inferred);
+[PATCH] if(INHERITED){
+[PATCH] if(INferred){
+[PATCH] if( inferred){
+[PATCH] if(!inferred);
+[PATCH] if(inference){
+[PATCH] if(undeclared){
+[PATCH] if(INFINITE){
+[PATCH] if(inferred)) {
+[PATCH] if(~inferred){
+[PATCH] if(notinferred){
+[PATCH] if(refinable){
+[PATCH] if(inferred): {
+[PATCH] if(!inferred){
+[PATCH] if(inferable){
+[PATCH] if(inverted){
+[PATCH] if(uninferred){
+[PATCH] if(INFER){
+[PATCH] if(insferred){
+[PATCH] if(retained){
+[PATCH] if(outferred){
+[PATCH] if(referred){
+[PATCH] if(infinity){
+[PATCH] for(inferred){

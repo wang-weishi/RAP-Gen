@@ -1,0 +1,100 @@
+[PATCH] if(otherComment!= null){
+[PATCH] } else if(!myComment.equals(otherComment)) { return false;
+[PATCH] else if(!myComment.equals(otherComment)) { return false; }
+[PATCH] if(otherComment!= null){ return false; }
+[PATCH] if(!myComment.equals(otherComment)) { return false; }
+[PATCH] if(!otherComment.equals(myComment)) { return false; }
+[PATCH] } else if (!myComment.equals(otherComment)) { return false; }
+[PATCH] } else if!myComment.equals(otherComment)) { return false; }
+[PATCH] } else if!myComment.equals(otherComment)) { return false;
+[PATCH] } else if!myComment.equals(otherComment)) { return false; }
+[PATCH] } else if!myComment.equals(otherComment)) { return false;
+[PATCH] } else if(_comment.equals(otherComment)) { return false; }
+[PATCH] } else if(!myComment.equals(otherComment)) {
+[PATCH] } else if(! myComment.equals(otherComment)) { return false;
+[PATCH] if(otherComment.equals(otherComment)) { return false; }
+[PATCH] } else if(_myComment.equals(otherComment)) { return false; }
+[PATCH] } else if!myComment.equals(otherComment)) { return false;
+[PATCH] } else if("","").equals(otherComment)) { return false; }
+[PATCH] } else if!myComment.equals(otherComment)) { return false;
+[PATCH] } else if();!myComment.equals(otherComment)) { return false;
+[PATCH] } else if(!myComments.equals(otherComment)) { return false;
+[PATCH] } else if (!myComment.equals(otherComment)) { return false;
+[PATCH] } else if (!myComment.equals(otherComment)) { return false;
+[PATCH] } else if(!myComment.equals(othercomment)) { return false;
+[PATCH] } else if(!mycomment.equals(otherComment)) { return false;
+[PATCH] } else if(!comment.equals(otherComment)) { return false; }
+[PATCH] } else if("",".equals(otherComment)) { return false; }
+[PATCH] } else if(_comments.equals(otherComment)) { return false; }
+[PATCH] } else if(!myComment.equals(otherComment)) { return false;
+[PATCH] } else if(@myComment.equals(otherComment)) { return false; }
+[PATCH] else if(!myComment.equals(otherComment)) { return false;
+[PATCH] } else if(!myComment.equals(otherComment)) { return true;
+[PATCH] if(marker!= null){ if(otherComment!= null){ return false; }
+[PATCH] return!myComment.equals(otherComment)) { return false; }
+[PATCH] } else if(!myComment.equals(( otherComment))){ return false;
+[PATCH] if(notmyComment.equals(otherComment)) { return false; }
+[PATCH] } else if("\n".equals(otherComment)) { return false; }
+[PATCH] } else if("","".equals(otherComment)) { return false; }
+[PATCH] } else if(_comment.equals(otherComment)) { return false;
+[PATCH] } else if('!myComment.equals(otherComment)) { return false;
+[PATCH] } else if(!myComment.matches(otherComment)) { return false;
+[PATCH] } else if(_myComment.equals(otherComment)) { return false;
+[PATCH] } else if(!myComment.contains(otherComment)) { return false;
+[PATCH] } else if(@comment.equals(otherComment)) { return false; }
+[PATCH] } else if(!myComment.equals("\n")) {
+[PATCH] } else if(!comment.equals(otherComment)) { return false;
+[PATCH] } else if(!myComment.equals(otherComment)) return false;
+[PATCH] } else if(_comment.equals(otherComment)) { return false;
+[PATCH] if(otherComment == null){
+[PATCH] } else if("".equals(otherComment)) { return false; }
+[PATCH] } else if('!'.equals(otherComment)) { return false; }
+[PATCH] } else if("".equals(otherComment)) {
+[PATCH] } else if(_myComment.equals(otherComment)) { return false;
+[PATCH] if(that.equals(otherComment)) { return false; }
+[PATCH] if!otherComment.equals(myComment)) { return false; }
+[PATCH] } else if("","".equals(myComment)) {
+[PATCH] } else if('\n'.equals(otherComment)) {
+[PATCH] if(otherComment!= null)) { return false; }
+[PATCH] } else if(!myComment.equals("")) {
+[PATCH] if(nonEmptyComment(otherComment)) { return false; }
+[PATCH] if(otherComment.equals("")) { return false; }
+[PATCH] } else if("",".equals(otherComment)) {
+[PATCH] if(otherComment!= null){ throw new IllegalArgumentException(""); }
+[PATCH] } else if("","".equals(otherComment)) {
+[PATCH] } else if("\n".equals(otherComment)) {
+[PATCH] } else if("","").equals(otherComment)) {
+[PATCH] if(otherComment!= null){
+[PATCH] if(otherComment.length() == 0){
+[PATCH] } else if(!myComment.equals("*")) {
+[PATCH] return!myComment.equals(otherComment)) {
+[PATCH] if(otherComment!= null)return false;
+[PATCH] } else if("*".equals(otherComment)) {
+[PATCH] if(otherComment!= null){ if(false; }
+[PATCH] } else if('\n' == myComment){
+[PATCH] } else if("").equals(otherComment)) {
+[PATCH] if(otherComment!= null){ continue; }
+[PATCH] if( otherComment!= null){
+[PATCH] } else if("", myComment!= null){
+[PATCH] } else if('\n'!= null){
+[PATCH] if(otherComment!= null){ break; }
+[PATCH] } else if("");
+[PATCH] if(otherComments!= null){
+[PATCH] if(othercomment!= null){
+[PATCH] if(otherComment!= null {
+[PATCH] } else if() == otherComment){
+[PATCH] if(otherComment!= null){ {
+[PATCH] if(OtherComment!= null){
+[PATCH] if(othersComment!= null){
+[PATCH] if(otherComment!= null){
+[PATCH] if(otherComment!null){
+[PATCH] if(otherComment = null){
+[PATCH] if(otherComment!= null){ }
+[PATCH] if(collisionComment!= null){
+[PATCH] if(wholeComment!= null){
+[PATCH] if(other comment!= null){
+[PATCH] elif(otherComment!= null){
+[PATCH] if(otherComment!= null)) {
+[PATCH] if(otherComment!= null'){
+[PATCH] if(moreComment!= null){
+[PATCH] if(originalComment!= null){

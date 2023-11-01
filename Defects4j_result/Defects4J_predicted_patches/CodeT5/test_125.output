@@ -1,0 +1,100 @@
+[PATCH] return canMoveModerately(initialization, reference);
+[PATCH] if(value == callNode.getFirstChild().getNext()){ return true; }
+[PATCH] if(value.getType() == Token.GETPROP){ return true; }
+[PATCH] } else if(convention.isPrivate(callNode.getFirstChild())) { return false; }
+[PATCH] if(value == reference){ return true; }
+[PATCH] } else if(convention.isExported(callNode.getFirstChild().getString())) { return false; }
+[PATCH] } else if(convention.isPrivate(callNode.getFirstChild())) { return true; }
+[PATCH] if(value == callNode.getFirstChild().getNext()){ return false; }
+[PATCH] return!canMoveModerately(initialization, reference);
+[PATCH] if(reference!= null){ if(!canMoveModerately(initialization, reference)) { return false; }
+[PATCH] if(value.getType() == Token.GETPROP){ if(reference!= null){ return false; }
+[PATCH] } else if(convention.isPrivate(callNode.getFirstChild().getNext())) { return false; }
+[PATCH] } else if(convention.isPrivate(callNode.getFirstChild().getString())) { return false; }
+[PATCH] if(value.getType() == Token.GETPROP){ if(reference!= null){ return true; }
+[PATCH] for(Node reference : callNode.getFirstChild().getNext()){ if(reference!= null){ return false; }
+[PATCH] if(value.getType() == Token.GETPROP){ if(reference == null){ return false; }
+[PATCH] return super.canMoveAggressively(value)|| canMoveModerately(initialization, reference);
+[PATCH] if(value.getType() == Token.GETPROP){ return false; }
+[PATCH] } else if(convention.isExported(callNode.getFirstChild().getString())) { return true; }
+[PATCH] if(value instanceof Long || value instanceof Double){ return canMoveModerately(initialization, reference); }
+[PATCH] if(convention.isExported(callNode.getFirstChild().getString())) { return true; }
+[PATCH] } else if(convention.isPrivate(callNode.getFirstChild().getNext())) { return true; }
+[PATCH] } else if(convention.isPrivate(callNode.getFirstChild().getString())) { return true; }
+[PATCH] if(value.getType() == Token.GETPROP){ ref = reference; if(ref!= null){ return true; }
+[PATCH] if(value.getType() == Token.GETPROP){ ref = reference; if(ref!= null){ return false; }
+[PATCH] for(Node callNode : parent.getFirstChild().getNext()){ if(relationship == null){ return false; }
+[PATCH] if(value == reference){ return false; }
+[PATCH] if(convention.isExported(callNode.getFirstChild().getString())) { return false; }
+[PATCH] if(convention.isPrivate(callNode.getFirstChild())) { return true; }
+[PATCH] for(Node reference : callNode.getFirstChild().getNext()){ if(relationship!= null){ return false; }
+[PATCH] } else if(convention.isSuperClassReference(callNode)) { return false; }
+[PATCH] if(convention.isPrivate(callNode.getFirstChild().getString())) { return true; }
+[PATCH] } else if(convention.isExported(callNode.getFirstChild().getQualifiedName())) { return false; }
+[PATCH] } else if(convention.isPrivate(callNode.getFirstChild())) { throw new IllegalStateException(""); }
+[PATCH] for(Node reference : reference.getAlternates()){ if(relationship!= null){ return false; }
+[PATCH] for(Node reference : reference.getAncestors()){ if(relationship!= null){ return false; }
+[PATCH] } else if(convention.isInterface()){ return canMoveModerately(initialization, reference); }
+[PATCH] if(convention.isSuperClassReference(callNode)) { return true; }
+[PATCH] } else if("Object".equals(callNode.getFirstChild().getQualifiedName())) { return true; }
+[PATCH] } else if(convention.isAssignableFrom(callNode.getFirstChild())) { return true; }
+[PATCH] if(callNode.getFirstChild() == reference){ return true; }
+[PATCH] if(!canMoveModerately(initialization, reference)) { return false; }
+[PATCH] if("Object".equals(callNode.getFirstChild().getQualifiedName())) { return true; }
+[PATCH] } else if(convention.isFinal(callNode.getFirstChild())) { return false; }
+[PATCH] } else if("Object".equals(callNode.getFirstChild().getQualifiedName())) { return false; }
+[PATCH] for(Node reference : callNode.getFirstChild().getNext()){ if(reference!= null){ return true; }
+[PATCH] if(value.getType() == Token.GETPROP && reference == null){ return false; }
+[PATCH] if(value.getType() == Token.NAME){ return true; }
+[PATCH] for(Node reference : reference.getAncestors()){ if(reference!= null){ return false; }
+[PATCH] } else if(convention.isAssignableFrom(callNode.getFirstChild())) { return false; }
+[PATCH] if(convention.isInterface()){ return canMoveModerately(initialization, reference); }
+[PATCH] } else if(convention.isSuperClassReference(callNode)) { return true; }
+[PATCH] if(value.getType() == Token.GETPROP){ return reference == null; }
+[PATCH] return callNode.getFirstChild().getType() == Token.GETPROP;
+[PATCH] } else if(convention.isConstantClassReference(callNode)) { return false; }
+[PATCH] if(value.getType() == Token.NAME){ return false; }
+[PATCH] if(convention.isSuperClassReference(callNode)) { return false; }
+[PATCH] if(value == callNode.getFirstChild()){ return true; }
+[PATCH] return value.getType() == Token.GETPROP;
+[PATCH] } else if(canMoveModerately(initialization, reference)) { return false; }
+[PATCH] return value.checkTreeEqualsSilent(callNode);
+[PATCH] if(value.getType() == Token.NEW){ return true; }
+[PATCH] return canMoveModerately(callNode, reference);
+[PATCH] if(testForEquality(callNode, reference)) { return true; }
+[PATCH] if(value.getType() == Token.THIS){ return true; }
+[PATCH] if(callNode.getFirstChild() == reference){ return false; }
+[PATCH] if(value.getType() == Token.NEW){ return false; }
+[PATCH] return value.isQualifiedName() && reference!= null;
+[PATCH] return callNode.getFirstChild() == reference;
+[PATCH] if(convention.isInterface()){ return false; }
+[PATCH] return value == callNode.getFirstChild().getNext();
+[PATCH] return reference == null;
+[PATCH] if(value == reference.getValue()){ return true; }
+[PATCH] return!value.isEquivalentTo(callNode);
+[PATCH] return canMoveModerately(value, reference);
+[PATCH] return!value.isEquivalentTo(reference);
+[PATCH] if(value == null){ return false; }
+[PATCH] if(convention == null){ return false; }
+[PATCH] return canMoveModerately(initialization, reference;
+[PATCH] return callNode.getFirstChild()!= null;
+[PATCH] return value.isQualifiedName() && reference == null;
+[PATCH] if(relationship == null){ return false; }
+[PATCH] return value == reference.getFirstChild();
+[PATCH] return!callNode.isNew();
+[PATCH] return value.isQualifiedName();
+[PATCH] return value.isQualifiedName() && reference;
+[PATCH] return references.size() >= 2;
+[PATCH] return hasReferenceName();
+[PATCH] return hasReferenceName(callNode);
+[PATCH] return getReferenceName()!= null;
+[PATCH] return value.hasChildren();
+[PATCH] return value == reference;
+[PATCH] return reference!= null;
+[PATCH] return value.checkChildren();
+[PATCH] return value.testChildren();
+[PATCH] return false;
+[PATCH] return true;
+[PATCH] return
+
+);

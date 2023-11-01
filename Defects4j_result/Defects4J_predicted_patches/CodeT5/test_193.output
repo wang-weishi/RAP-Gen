@@ -1,0 +1,100 @@
+[PATCH] throw new IllegalArgumentException("");
+[PATCH] if(indexOfVararg < 0){ throw new UnsupportedOperationException(""); }
+[PATCH] throw new UnsupportedOperationException("");
+[PATCH] throw new IllegalArgumentException("VarArgs cannot be capture for" +"arguments at index" + indexOfVararg);
+[PATCH] if(indexOfVararg < 0){ throw new UnsupportedOperationException("Invalid invocation:" + invocation.getMethod().getName()); }
+[PATCH] throw new IllegalArgumentException("Invalid invocation:" + invocation.getMethod().getName() +" for index" + indexOfVararg);
+[PATCH] throw new IllegalArgumentException("VarArgs cannot be capture for" +"argument at index" + indexOfVararg);
+[PATCH] if(!(indexOfVararg >= 0 && indexOfVararg <= arguments.size())) { throw new UnsupportedOperationException(""); }
+[PATCH] throw new IllegalArgumentException("VarArgs not implemented by" +"method:" + invocation.getMethod().getName());
+[PATCH] if(!(indexOfVararg >= 0 && indexOfVararg <= arguments.size())) throw new UnsupportedOperationException(""); }
+[PATCH] if(indexOfVararg < 0){ throw new UnsupportedOperationException("Invalid invocation for" + invocation.getMethod().getName()); }
+[PATCH] if(indexOfVararg < 0){ throw new UnsupportedOperationException("Not a var args invocation:" + invocation.getMethod().getName()); }
+[PATCH] if(indexOfVararg < 0){ throw new UnsupportedOperationException("Not a var args method:" + invocation.getMethod().getName()); }
+[PATCH] if(indexOfVararg < 0){ throw new UnsupportedOperationException("Not a var args object:" + invocation.getMethod().getName()); }
+[PATCH] throw new IllegalArgumentException("VarArgs cannot be capture for" +"arguments from:" + invocation.getMethod().getName());
+[PATCH] throw new IllegalArgumentException("Invalid" +"argument at index" + indexOfVararg +" of" + invocation.getMethod().getName());
+[PATCH] throw new IllegalArgumentException("Invalid invocation:" + invocation.getMethod().getName() +" at index" + indexOfVararg);
+[PATCH] if(!(indexOfVararg >= 0 && indexOfVararg <= arguments.size())) throw new UnsupportedOperationException("");
+[PATCH] throw new IllegalArgumentException("VarArgs can not capture arguments for" +"arguments at index" + indexOfVararg);
+[PATCH] if(indexOfVararg < 0){ throw new UnsupportedOperationException("Invalid attempt to capture variable arguments from:" + invocation.getMethod().getName()); }
+[PATCH] if(indexOfVararg < 0)throw new IllegalArgumentException(""); } else if(indexOfVararg >= 0){ throw new UnsupportedOperationException(""); }
+[PATCH] throw new UnsupportedOperationException("VarArgs cannot be capture for" +"arguments at index" + indexOfVararg);
+[PATCH] if(!(indexOfVararg >= 0 && indexOfVararg <= arguments.size())) throw new IllegalArgumentException(""); }
+[PATCH] throw new IllegalArgumentException("Bad invocation:" + invocation.getMethod().getName() +" for index" + indexOfVararg);
+[PATCH] throw new UnsupportedOperationException("VarArgs not implemented by" +"method:" + invocation.getMethod().getName());
+[PATCH] if(indexOfVararg < 0){ throw new IllegalArgumentException(""); }
+[PATCH] if(indexOfVararg < 0){ throw new UnsupportedOperationException("Unimplemented var args method:" + invocation.getMethod().getName()); }
+[PATCH] throw new IllegalArgumentException("Invalid argument index for" + invocation.getMethod().getName() +" at index" + indexOfVararg);
+[PATCH] throw new IllegalArgumentException("Invalid" +"argument at index" + indexOfVararg +" for method:" + invocation.getMethod().getName());
+[PATCH] throw new IllegalArgumentException("Invalid invocation:" + invocation.getMethod().getName() +" starting at" + indexOfVararg);
+[PATCH] throw new IllegalArgumentException("VarArgs cannot capture arguments for" +"arguments at index" + indexOfVararg);
+[PATCH] if(indexOfVararg == -1){ throw new UnsupportedOperationException(""); }
+[PATCH] throw new IllegalArgumentException("VarArgs cannot be captured for" +"arguments at index" + indexOfVararg);
+[PATCH] throw new IllegalArgumentException("Mockito does not support implicit arguments for" +"argument at index" + indexOfVararg);
+[PATCH] throw new IllegalArgumentException("VarArgs cannot be captured for" +"argument at index" + indexOfVararg);
+[PATCH] throw new IllegalArgumentException("VarArgs does not support capture for" +"arguments at index" + indexOfVararg);
+[PATCH] throw new IllegalArgumentException("VarArgs cannot capture arguments for" +"argument at index" + indexOfVararg);
+[PATCH] throw new IllegalArgumentException("VarArgs must be capture for" +"argument at index" + indexOfVararg);
+[PATCH] if(indexOfVararg < 0){ throw new UnsupportedOperationException("Mockito does not support implicit arguments."); }
+[PATCH] throw new IllegalArgumentException("Invalid invocation:" + invocation.getMethod().getName() +"(for" + indexOfVararg +")");
+[PATCH] throw new IllegalArgumentException("VarArgs can not capture arguments for" +"argument at index" + indexOfVararg);
+[PATCH] if(indexOfVararg >= 0){ throw new UnsupportedOperationException(""); }
+[PATCH] throw new UnsupportedOperationException("VarArgs cannot be capture for" +"argument at index" + indexOfVararg);
+[PATCH] throw new IllegalArgumentException("Invalid" +"argument at index" + indexOfVararg +" for method" + invocation.getMethod().getName());
+[PATCH] throw new IllegalArgumentException("VarArgs cannot be captured for" +"arguments at index" + indexOfVararg);
+[PATCH] throw new IllegalArgumentException("Mockito does not capture arguments for" +"variable index:" + indexOfVararg);
+[PATCH] throw new IllegalArgumentException("VarArgs should be capture for" +"arguments at index" + indexOfVararg);
+[PATCH] throw new IllegalArgumentException("VarArgs cannot be capture() for" +"arguments at index" + indexOfVararg);
+[PATCH] throw new IllegalArgumentException("VarArgs cannot be captureed for" +"arguments at index" + indexOfVararg);
+[PATCH] throw new IllegalArgumentException("Method '" + invocation.getMethod().getName() +"' does not capture arguments at index" + indexOfVararg);
+[PATCH] throw new IllegalArgumentException("Mockito does not capture arguments for" +"argument at index" + indexOfVararg);
+[PATCH] if(!(indexOfVararg >= 0 && indexOfVararg <= arguments.size())) throw new UnsupportedOperationException(""); return; }
+[PATCH] if(indexOfVararg < 0)throw new IllegalArgumentException(""); } else if(indexOfVararg >= 1){ throw new UnsupportedOperationException(""); }
+[PATCH] throw new IllegalArgumentException("Method '" + invocation.getMethod().getName() +"' has conflicting arguments.");
+[PATCH] if(!(indexOfVararg >= 0 && indexOfVararg <= arguments.size())) throw new IllegalArgumentException("");
+[PATCH] throw new IllegalArgumentException("Invalid invocation.getMethod().getName() +" for index" + indexOfVararg);
+[PATCH] throw new IllegalArgumentException("Illegal invocation.getMethod().getName() +" for index" + indexOfVararg);
+[PATCH] throw new IllegalArgumentException("Method '" + invocation.getMethod().getName() +"' with index" + indexOfVararg);
+[PATCH] throw new IllegalArgumentException("Mockito cannot capture arguments for" +"variable index:" + indexOfVararg);
+[PATCH] if(indexOfVararg < 0){ throw new UnsupportedOperationException("Method '" + invocation.getMethod().getName() +"'"); }
+[PATCH] if(!(indexOfVararg >= 0 && indexOfVararg <= arguments.size())) { throw new IllegalArgumentException(""); }
+[PATCH] throw new IllegalArgumentException("Invalid" +"argument at index" + indexOfVararg +"(must be a variable argument)");
+[PATCH] throw new IllegalArgumentException("Mockito does not capture arguments for" +"for index" + indexOfVararg);
+[PATCH] throw new IllegalArgumentException("Invalid invocation:" + invocation.getMethod().getName() +"(must be a var)");
+[PATCH] if(indexOfVararg < 0){ throw new UnsupportedOperationException("Mockito does not support implicit var args."); }
+[PATCH] throw new IllegalArgumentException("Invalid invocation:" + invocation.getMethod().getName());
+[PATCH] throw new IllegalArgumentException("Invalid" +"argument index for" + invocation.getMethod().getName());
+[PATCH] if(indexOfVararg < 0)throw new UnsupportedOperationException(""); } else if(indexOfVararg >= 0){ throw new UnsupportedOperationException(""); }
+[PATCH] if(indexOfVararg < 0)throw new IllegalArgumentException(""); }
+[PATCH] if(!(indexOfVararg >= 0 && indexOfVararg <= arguments.size())) throw new IllegalArgumentException(""); return; }
+[PATCH] throw new IllegalArgumentException("Invalid" +"argument index for" + invocation.getMethod().getName() +"(must be a var)");
+[PATCH] if(indexOfVararg < 0){ throw new UnsupportedOperationException("") +" is not a variable argument."); }
+[PATCH] throw new IllegalArgumentException("Invalid invocation:" + invocation.getMethod().getName() +"(must be a variable argument)");
+[PATCH] if(indexOfVararg < 0)throw new UnsupportedOperationException(""); } else if(indexOfVararg >= 1){ throw new UnsupportedOperationException(""); }
+[PATCH] throw new IllegalArgumentException("Invalid" +"argument at index" + indexOfVararg +"(must be a var)");
+[PATCH] throw new IllegalArgumentException("Invalid" +"argument at index" + indexOfVararg +"(must be a varargs object)");
+[PATCH] throw new IllegalArgumentException("Invalid argument index for" + invocation.getMethod().getName() +"(must be a var)");
+[PATCH] throw new IllegalArgumentException("Bad invocation:" + invocation.getMethod().getName());
+[PATCH] throw new IllegalArgumentException("Invalid" +"argument at index" + indexOfVararg +"(must be a var args object)");
+[PATCH] throw new IllegalArgumentException("Invalid invocation:" + invocation.getMethod().getName() +"(must be a varargs object)");
+[PATCH] if(indexOfVararg < 0){ throw new UnsupportedOperationException(""); } else if(indexOfVararg >= 0){ throw new IllegalArgumentException(""); }
+[PATCH] throw new IllegalArgumentException("Invalid argument index for" + invocation.getMethod().getName());
+[PATCH] throw new IllegalArgumentException("Method '" + invocation.getMethod().getName() +"'");
+[PATCH] if(indexOfVararg < 0)throw new IllegalArgumentException("");
+[PATCH] if(indexOfVararg < 0)throw new UnsupportedOperationException(""); }
+[PATCH] if(indexOfVararg < 0)throw new UnsupportedOperationException("");
+[PATCH] if(indexOfVararg < 0){ throw new UnsupportedOperationException("'); }
+[PATCH] throw new IllegalArgumentException("Mockito does not support implicit var args.");
+[PATCH] throw new IllegalArgumentException("VarArgs must be capture as first argument");
+[PATCH] throw new IndexOutOfBoundsException("");
+[PATCH] throw new RuntimeException("");
+[PATCH] throw new JXPathInvalidSyntaxException("");
+[PATCH] throw new AnalyzerException("");
+[PATCH] throw new NoSuchElementException("");
+[PATCH] throw new IllegalStateException("");
+[PATCH] throw new AssertionError("");
+[PATCH] throw new NullPointerException("");
+[PATCH] throw new IllegalArgumentException("');
+[PATCH] new IllegalArgumentException("");
+);

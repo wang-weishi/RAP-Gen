@@ -1,0 +1,100 @@
+[PATCH] private final Object readResolve();
+[PATCH] private final Object readResolve() {
+[PATCH] public Object readResolve() {
+[PATCH] private final Object readResolve() throws Exception {
+[PATCH] private final int hashCode = 0;
+[PATCH] public Object readResolve() throws Exception {
+[PATCH] protected Object readResolve() {
+[PATCH] protected Object readResolve() throws Exception {
+[PATCH] private final Object readResolve() :
+[PATCH] private final Object readResolve() ;
+[PATCH] private final Object readResolve() throws IOException {
+[PATCH] private final Object readResolve() throws Throwable {
+[PATCH] private final Object readResolve() throws IllegalStateException {
+[PATCH] private final Object readResolve() = null;
+[PATCH] private final Object readResolve() throws UnsupportedOperationException {
+[PATCH] public final Object readResolve() {
+[PATCH] public Object readResolve() throws IOException {
+[PATCH] private final Object readResolve() throws SQLException {
+[PATCH] private final int total = 0;
+[PATCH] public Object readResolve() throws Throwable {
+[PATCH] public Object readResolve() throws IllegalStateException {
+[PATCH] protected Object readResolve();
+[PATCH] public Object readResolve() throws ObjectManagerException {
+[PATCH] protected Object readResolve() throws IOException {
+[PATCH] public final Object readResolve() throws Exception {
+[PATCH] private final Object readResolve() throws InterruptedException {
+[PATCH] private int hashCode = 0;
+[PATCH] protected Object readResolve() throws IllegalStateException {
+[PATCH] private final Object readResolve() [];
+[PATCH] private final int hashCode = total + count();
+[PATCH] private final Object readResolve() throws ClassNotFoundException {
+[PATCH] public Object readResolve();
+[PATCH] private final Object readResolve() throws IllegalAccessException {
+[PATCH] private final int hashCode = total++;
+[PATCH] private final int hashCode = total + 1;
+[PATCH] public Object readResolve() throws SerializationException {
+[PATCH] private final Object readResolve() throws Exception){
+[PATCH] private final Object readResolve() []{
+[PATCH] private final Object readResolve() throws RuntimeException {
+[PATCH] private final Object readResolve() throws EOFException {
+[PATCH] private final Object readResolve() -> {
+[PATCH] protected Object readResolve() throws Throwable {
+[PATCH] private final Object readResolve() */
+[PATCH] private final int hashCode = total + size();
+[PATCH] private final int hashCode =
+[PATCH] final private Object readResolve() {
+[PATCH] private final Object readResolve() void
+[PATCH] private final int hashCode = keys.length;
+[PATCH] final private Object readResolve() throws Exception {
+[PATCH] private final int hashCode = total + index;
+[PATCH] private final int total = keys.length;
+[PATCH] public Object readResolve() throws UnsupportedOperationException {
+[PATCH] private final int hashCode();
+[PATCH] private final int hashCode = hash(keys);
+[PATCH] private final Object readResolve() throws IllegalStateException){
+[PATCH] private final Object readResolve() throws ConnectionException {
+[PATCH] private final Object readResolve() ]
+[PATCH] private final int hashCode = totalHashCode();
+[PATCH] protected Object readResolve() throws UnsupportedOperationException {
+[PATCH] private final Object readResolve() == null;
+[PATCH] private final Object readResolve() throws AssertionError {
+[PATCH] public Object readResolve() throws SQLException {
+[PATCH] private final Object readResolve()
+[PATCH] public Object readResolve() throws ClassNotFoundException {
+[PATCH] private final int hashCode = -1;
+[PATCH] protected Object readResolve() throws ObjectManagerException {
+[PATCH] private final Object readResolve() throws NoSuchAlgorithmException {
+[PATCH] private final boolean readResolve() {
+[PATCH] private final Object readResolve() throws Throwable){
+[PATCH] private final Object readResolve(),
+[PATCH] private final int hashCode = total +
+[PATCH] public Object readResolve() throws InterruptedException {
+[PATCH] private final Object readResolve() throws Error){
+[PATCH] private final Object readResolve()
+[PATCH] private final Object readResolve() throws Error {
+[PATCH] public Object readResolve() :
+[PATCH] public Object readResolve() throws IllegalArgumentException {
+[PATCH] public Object readResolve() throws Exception){
+[PATCH] private final Object readResolve() throws Exception{
+[PATCH] public Object readResolve() throws IllegalStateException){
+[PATCH] public Object readResolve() throws SerializationException){
+[PATCH] private final Object readResolve() []
+[PATCH] final protected Object readResolve() {
+[PATCH] private final void readResolve() {
+[PATCH] private final int hashCode;
+[PATCH] private final Object readResolve() -
+[PATCH] protected Object readResolve() :
+[PATCH] public void readResolve() {
+[PATCH] public final Object readResolve();
+[PATCH] private final void readResolve();
+[PATCH] public boolean readResolve() {
+[PATCH] final private Object readResolve();
+[PATCH] private int total = 0;
+[PATCH] public int readResolve() {
+[PATCH] private final Object readResolve();
+[PATCH] public void readResolve();
+[PATCH] private int hashCode();
+[PATCH] next();
+[PATCH] private
+[PATCH] public

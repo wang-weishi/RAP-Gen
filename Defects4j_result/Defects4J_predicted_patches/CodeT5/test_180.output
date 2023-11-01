@@ -1,0 +1,100 @@
+[PATCH] } else if(constraint instanceof UnionType){ for(JSType thatObj :(( UnionType)constraint).getAlternates()){ matchConstraint(thatObj); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType().getConstructor(); if(thatObj!= null){ matchPrototypeFallback(thatObj); }
+[PATCH] } else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.toFunctionType()); } else { throw new IllegalArgumentException(""); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType().getConstructor(); if(thatObj!= null){ thisInterface.defineDeclaredProperty("prototype", thatObj, false); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType().getConstructor(); if(thatObj!= null){ matchPrototypeHelper(thatObj); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType().getConstructor(); if(thatObj!= null && thatObj.isInterface()){ matchInterfaceProperty(thatObj); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType().getConstructor(); if(thatObj!= null){ matchSuperClassReference(thatObj); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType().getConstructor(); if(thatObj!= null){ matchPrototypeMethod(thatObj); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType().getConstructor(); if(thatObj!= null){ matchPrototypeChain(thatObj); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType().getConstructor(); if(thatObj!= null && thatObj.isInterface()){ matchInterfaceConstraint(thatObj); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toFunctionType(); if(thatObj!= null && thatObj.isNativeObjectType()){ matchPrototypeFallback(thatObj); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType().getConstructor(); if(thatObj!= null){ matchThisInterfaceConstraint(thatObj); }
+[PATCH] } else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.toObjectType()); } else { throw new IllegalArgumentException(""); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType().getConstructor(); if(thatObj!= null){ matchPrototypeProperty(thatObj); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType().getConstructor(); if(thatObj!= null && thatObj.isInterface()){ break; }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType().getConstructor(); if(thatObj!= null){ matchPrototypeFactory(thatObj); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType().getConstructor(); if(thatObj!= null && thatObj.isUnknownType()){ throw new IllegalArgumentException(""); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType().getConstructor(); if(thatObj!= null && thatObj.isInterface()){ matchInterfaces(thatObj); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType().getConstructor(); if(thisInterface!= null){ thisInterface.defineDeclaredProperty("prototype", thatObj, false); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType().getConstructor(); if(thatObj!= null){ matchPrototypeDelegate(thatObj); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType().getConstructor(); if(thatObj!= null){ thisInterface.defineDeclaredProperty("prototype", thatObj); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType(); if(thatObj!= null && thatObj.isNativeObjectType()){ matchPrototypeFallback(thatObj); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType().getConstructor(); if(thatObj!= null){ thisInterface.defineDeclaredProperty("constructor", thatObj, false); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType().getConstructor(); if(thatObj!= null){ matchSignature(( FunctionType)thatObj); }
+[PATCH] } else if(constraint.isFunctionType()){ for(FunctionType thatObj : constraint.getFunctions()){ matchFunctionTypeConstraint(thatObj); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType().getConstructor(); if(thatObj!= null){ thisInterface.defineDeclaredProperty("prototype", thatObj, null); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType().getConstructor(); if(thatObj!= null){ matchPrototypeOverride(thatObj); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType(); if(thatObj!= null){ matchPrototypeFallback(thatObj); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType().getConstructor(); if(thatObj!= null){ defineDeclaredProperty("prototype", thatObj, false); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType().getConstructor(); if(thatObj!= null && thatObj.isInterface()){ matchInterfaceLookup(thatObj); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType().getConstructor(); if(thatObj!= null && thatObj.isInterface()){ matchInterfaceProperties(thatObj); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType().getConstructor(); if(thatObj!= null){ break; }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType ownerFunction = constraint.getOwnerFunction(); if(ownerFunction!= null){ matchPrototypeMethod(ownerFunction); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toFunctionType(); if(thatObj!= null && thatObj.isNativeObjectType()){ matchPrototypeHelper(thatObj); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType().getConstructor(); if(thatObj!= null && thatObj.isInterface()){ matchPrototypeFallback(thatObj); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType().getConstructor(); if(thatObj!= null && thatObj.isInterface()){ matchInterfaceInterfaces(thatObj); }
+[PATCH] } else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.toFunctionType()); } else { throw new IllegalArgumentException("Record type constraint must be a FunctionType"); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType(); if(thatObj!= null && thatObj.isInterface()){ matchSuperClassReference(thatObj); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toFunctionType(); if(thatObj!= null && thatObj.isInterface()){ matchSuperClassReference(thatObj); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType ownerFunction = new FunctionType(JSTypeNative.OBJECT_TYPE, constraint); if(ownerFunction!= null){ matchPrototypeMethod(ownerFunction); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toFunctionType(); if(thatObj!= null && thatObj.isNativeObjectType()){ matchSuperClassReference(thatObj); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType().getConstructor(); if(thatObj!= null && thatObj.isInterface()){ ensurePropertyDeclared(property); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toFunctionType(); if(thatObj!= null){ matchPrototypeFallback(thatObj); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType().getConstructor(); if(thatObj!= null && thatObj.isInterface()){ throw new IllegalArgumentException(""); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType().getConstructor(); if(thatObj!= null && thatObj.isInterface()){ matchInterfaceProp(thatObj); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType().getConstructor(); if(thatObj!= null && thatObj.isUnknownType()){ break; }
+[PATCH] } else if(constraint instanceof UnionType){ for(JSType thatObj :(( UnionType)constraint).getAlternates()){ matchConstraint(thatObj); break; }
+[PATCH] } else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.toNativeObjectType()); } else { throw new IllegalArgumentException(""); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType().getConstructor(); if(thatObj!= null && thatObj.isInterface()){ matchInterfaceReference(thatObj); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType().getConstructor(); if(thatObj!= null){ matchConcreteFunction(thatObj); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType().getConstructor(); if(thatObj!= null){ matchPrototypeHelper(thatObj, false); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType ownerFunction = constraint.toOwnerFunction(); if(ownerFunction!= null){ matchPrototypeMethod(ownerFunction); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toConstructor(); if(thatObj!= null && thatObj.isNativeObjectType()){ matchPrototypeFallback(thatObj); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType ownerFunction = getImplicitPrototype().getConstructor(); if(ownerFunction!= null){ matchSuperClassReference(ownerFunction); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType ownerFunction = new FunctionType(JSTypeNative.OBJECT_TYPE, constraint); if(ownerFunction!= null){ matchSuperClassReference(ownerFunction); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toFunctionType(); if(thatObj!= null && thatObj.isNativeObjectType()){ matchPrototypeMethod(thatObj); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType().getConstructor(); if(thatObj!= null && thatObj.isInterface()){ matchInterfaceInsn(thatObj); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType().getConstructor(); if(thatObj!= null && thatObj.isInterface()){ matchInterfacePrototype(thatObj); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType().getConstructor(); if(thatObj!= null){ thisInterface.defineDeclaredProperty("prototype", thatObj, true); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType().getConstructor(); if(thatObj!= null && thatObj.isInterface()){ matchInterfaceChild(thatObj); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType(); if(thatObj!= null && thatObj.isConstructor()){ matchPrototypeHelper(thatObj); }
+[PATCH] } else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.toFunctionType()); } else { throw new IllegalArgumentException("Record type constraint:" + constraint.toString()); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType functionType = constraint.toFunctionType(); if(functionType!= null){ matchFunctionTypeConstraint(functionType); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType().getConstructor(); if(thatObj!= null && thatObj.isInterface()){ ensurePropertyDeclared(prop); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType ownerFunction = new FunctionType(JSTypeNative.OBJECT_TYPE, constraint); if(ownerFunction!= null){ matchPrototypeFallback(ownerFunction); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType ownerFunction = constraint.toOwnerFunction(); if(ownerFunction == null || ownerFunction.isInterface()){ throw new IllegalArgumentException(""); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType().getConstructor(); if(thatObj!= null && thatObj.isInterface()){ matchCtor(thatObj); }
+[PATCH] } else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.toFunctionType()); } else { throw new IllegalArgumentException("Record type constraint violated:" + constraint.toString()); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType(); if(thatObj!= null){ matchPrototypeHelper(thatObj); }
+[PATCH] } else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.toFunctionType()); } else { throw new IllegalArgumentException("record type constraint must be a FunctionType"); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType().getConstructor(); if(thatObj!= null){ matchPrototypeFunctions(thatObj); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType().getConstructor(); if(thatObj!= null){ matchPrototypeHelper(thatObj, null); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType().getConstructor(); if(thatObj!= null && thatObj.isInterface()){ matchInterfaceSlot(thatObj); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType().getConstructor(); if(thatObj!= null && thatObj.isInterface()){ matchThisInterface(thatObj); }
+[PATCH] } else if(constraint instanceof UnionType){ for(JSType thatObj :(( UnionType)constraint).getAlternatives()){ matchConstraint(thatObj); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType().getConstructor(); if(thatObj!= null && thatObj.isInterface()){ matchImplicitPrototype(thatObj); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType().getConstructor(); if(thatObj!= null && thatObj.isInterface()){ matchInterfaceField(thatObj); }
+[PATCH] } else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.toFunctionType()); } else { throw new IllegalStateException(""); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType().getConstructor(); if(thatObj!= null && thatObj.isUnknownType()){ throw new IllegalStateException(""); }
+[PATCH] } else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.toFunctionType()); } else { throw new IllegalArgumentException("Record type constraint must be a function type"); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thisInterface =(FunctionType)constraint.toObjectType(); if(thisInterface!= null){ thisInterface.defineDeclaredProperty("prototype", thisInterface); }
+[PATCH] } else if(constraint instanceof UnionType){ for(JSType thatObj :(( UnionType)constraint).getAlternates()){ matchConstraint(thatObj); return; }
+[PATCH] } else if(constraint.isFunctionType()){ Preconditions.checkState(thisInterface == null); thisInterface = thatObj; return; }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType().getConstructor(); if(thatObj!= null){ thisInterface.defineDeclaredProperty("constructor", thatObj, null); }
+[PATCH] } else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.toFunctionType()); } else { throw new IllegalArgumentException("record type constraint must be a function type"); }
+[PATCH] } else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.toObjectType()); } else { throw new IllegalArgumentException("Record type constraint must be a FunctionType"); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType().getConstructor(); if(thatObj!= null && thatObj.isInterface()){ ensurePropertyDeclared(propertyName); }
+[PATCH] } else if(constraint.isFunctionType()){ FunctionType thatObj = constraint.toObjectType().getConstructor(); if(thatObj!= null && thatObj.isInterface()){ implicitPrototype = thatObj; }
+[PATCH] } else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.toFunctionType()); }
+[PATCH] } else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.toNativeType()); } else { throw new IllegalArgumentException(""); }
+[PATCH] } else if(constraint.isFunctionType()){ Preconditions.checkState(thisInterface == null); thisInterface = constraint; }
+[PATCH] } else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.toFunctionType()); } else { break; }
+[PATCH] } else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.toFunctionType()); } else { return; }
+[PATCH] } else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.toObjectType()); }
+[PATCH] } else if(constraint.isUnknownType()){ throw new IllegalArgumentException(""); }
+[PATCH] } else if(constraint.isFunctionType()){ throw new IllegalArgumentException(""); }
+[PATCH] } else if(constraint.isFunctionType()){ break; }
+[PATCH] return;
+[PATCH] continue;
+[PATCH] break;

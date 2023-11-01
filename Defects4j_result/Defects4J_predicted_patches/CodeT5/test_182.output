@@ -1,0 +1,100 @@
+[PATCH] ObjectType prototypeType = ObjectType.cast(valueType); if(prototypeType!= null){ return true; }
+[PATCH] ObjectType prototypeType =(ObjectType)valueType.toObjectType(); if(prototypeType!= null){ return true; }
+[PATCH] ObjectType prototypeType = typeRegistry.getNativeObjectType(JSTypeNative.OBJECT_TYPE); if(prototypeType!= null){ return true; }
+[PATCH] ObjectType prototypeType = ObjectType.cast(valueType); if(prototypeType!= null){ returnPrototypeType.isSubtype(prototypeType); }
+[PATCH] ObjectType prototype =(ObjectType)valueType.toObjectType(); if(prototype!= null){ return prototype.isSubtype(rhsValue); }
+[PATCH] ObjectType prototype =(ObjectType)valueType.clone(); if(prototype!= null){ return prototype.isSubtype(rhsValue); }
+[PATCH] ObjectType prototype =(ObjectType)valueType.toObjectType(); if(prototype!= null){ returnPrototype.isSubtype(prototype); }
+[PATCH] ObjectType prototype =(ObjectType)valueType.toObjectType(); if(prototype!= null){ return true; }
+[PATCH] ObjectType prototypeType = ObjectType.cast(valueType); if(prototypeType!= null){ returnPrototypeType.isSubtype(superType); }
+[PATCH] ObjectType prototypeOwner =(ObjectType)valueType.toObjectType(); if(prototypeOwner!= null){ return true; }
+[PATCH] ObjectType prototypeType = ObjectType.cast(valueType); if(prototypeType!= null){ return prototypeType.isSubtype(valueType); }
+[PATCH] ObjectType prototype = typeRegistry.getNativeObjectType(JSTypeNative.OBJECT_TYPE); if(prototype!= null){ return true; }
+[PATCH] ObjectType prototype =(ObjectType)valueType.cloneTree(); if(prototype!= null){ return prototype.isSubtype(rhsValue); }
+[PATCH] ObjectType prototypeType = typeRegistry.getNativeObjectType(JSTypeNative.OBJECT_TYPE); if(prototypeType!= null){ return true; }
+[PATCH] ObjectType prototype =(ObjectType)valueType.clone(); if(prototype!= null){ returnPrototype.isSubtype(prototype); }
+[PATCH] ObjectType prototypeType = ObjectType.cast(valueType); if(prototypeType!= null){ return false; }
+[PATCH] ObjectType prototype = ObjectType.cast(valueType); if(prototype!= null){ return prototype.isSubtype(rhsValue); }
+[PATCH] ObjectType prototype =(ObjectType)valueType.toObjectType(); if(prototype!= null){ return getPrototype().isSubtype(prototype); }
+[PATCH] ObjectType prototypeType =(ObjectType)valueType.toObjectType(); if(prototypeType!= null){ return false; }
+[PATCH] ObjectType prototype =(ObjectType)valueType.toObjectType(); if(prototype!= null && prototype.getConstructor()!= null){ return true; }
+[PATCH] JSType prototypeType =(JSType)valueType.toObjectType(); if(prototypeType!= null){ return true; }
+[PATCH] ObjectType prototype =(ObjectType)valueType.cloneTree(); if(prototype!= null){ returnPrototype.isSubtype(prototype); }
+[PATCH] ObjectType prototypeOwner = typeRegistry.getNativeObjectType(JSTypeNative.OBJECT_TYPE); if(prototypeOwner!= null){ return true; }
+[PATCH] ObjectType prototypeName =(ObjectType)valueType.toObjectType(); if(prototypeName!= null){ return true; }
+[PATCH] ObjectType prototypeType = typeRegistry.getNativeObjectType(JSTypeNative.OBJECT_TYPE); if(prototypeType!= null){ return false; }
+[PATCH] ObjectType prototypeType = registry.getNativeObjectType(JSTypeNative.OBJECT_TYPE); if(prototypeType!= null){ return true; }
+[PATCH] JSType prototypeType = getJSType(rhsValue.getFirstChild()); if(prototypeType!= null){ return true; }
+[PATCH] ObjectType prototype =(ObjectType)valueType.clone(); getPrototype().defineDeclaredProperty("prototype", prototype, false);
+[PATCH] ObjectType prototypeType = getPrototypeType(qName); if(prototypeType!= null){ returnPrototypeType.isSubtype(valueType); }
+[PATCH] ObjectType prototype =(ObjectType)valueType.toObjectType(); if(prototype!= null){ return prototype.isSubtype(rhsValue); }
+[PATCH] ObjectType prototypeType =(ObjectType)valueType.clone(); if(prototypeType!= null){ return true; }
+[PATCH] ObjectType prototypeType = ObjectType.cast(valueType); if(prototypeType!= null){ returnPrototypeType.isAssignableFrom(prototypeType); }
+[PATCH] ObjectType prototype =(ObjectType)valueType.toObjectType(); if(prototype!= null){ returnPrototype.getConstructor()!= null; }
+[PATCH] ObjectType prototype =(ObjectType)valueType.toObjectType(); if(prototype!= null){ return super.isQualifiedNameInferred(qName); }
+[PATCH] String prototypeName = qName.substring(0, qName.length() - 2); if(prototypeName!= null){ return true; }
+[PATCH] ObjectType prototypeType = getJSType(rhsValue.getFirstChild()); if(prototypeType!= null){ return true; }
+[PATCH] ObjectType prototypeType = ObjectType.cast(valueType);Prototype.defineDeclaredProperty("prototype", prototypeType, false);
+[PATCH] ObjectType prototypeType = ObjectType.cast(valueType); if(prototypeType!= null){ return prototypeType.isSubTypeOf(valueType); }
+[PATCH] ObjectType prototypeType = getNativeType(JSTypeNative.OBJECT_TYPE); if(prototypeType!= null){ return true; }
+[PATCH] JSType prototypeType = getPrototypeType(rhsValue.getJSType()); if(prototypeType!= null){ return true; }
+[PATCH] ObjectType prototypeOwner =(ObjectType)scope.getOwnSlot(qName); if(prototypeOwner!= null){ return true; }
+[PATCH] ObjectType prototypeType =(ObjectType)valueType.cloneTree(); if(prototypeType!= null){ return true; }
+[PATCH] ObjectType prototypeType = ObjectType.cast(rhsValue.getJSType()); if(prototypeType!= null){ return true; }
+[PATCH] ObjectType prototype =(ObjectType)valueType.clone(); if(prototype!= null){ return true; }
+[PATCH] ObjectType prototype = ObjectType.cast(valueType); if(prototype!= null){ returnPrototype.isSubtype(prototype); }
+[PATCH] ObjectType prototype =(ObjectType)valueType.toObjectType(); if(prototype!= null){ return false; }
+[PATCH] ObjectType prototype =(ObjectType)valueType.toObjectType(); if(prototype!= null){ returnPrototype.isSubtype(superType); }
+[PATCH] ObjectType prototypeOwnerType =(ObjectType)valueType.toObjectType(); if(prototypeOwnerType!= null){ return true; }
+[PATCH] ObjectType prototypeOwner =(ObjectType)n.getJSType(); if(prototypeOwner!= null){ return true; }
+[PATCH] ObjectType prototypeOwner =(ObjectType)valueType.getImplicitPrototype(); if(prototypeOwner!= null){ return true; }
+[PATCH] ObjectType prototypeOwner =(ObjectType)valueType.toObjectType(); if(prototypeOwner!= null){ return false; }
+[PATCH] ObjectType prototype =(ObjectType)valueType.clone(); if(prototype!= null){ return getPrototype().isSubtype(prototype); }
+[PATCH] ObjectType prototypeOwner =(ObjectType)rhsValue.getJSType(); if(prototypeOwner!= null){ return true; }
+[PATCH] ObjectType prototype = ObjectType.cast(valueType); if(prototype!= null){ return true; }
+[PATCH] ObjectType prototypeType = getJSType(rhsValue.getJSType()); if(prototypeType!= null){ return true; }
+[PATCH] ObjectType prototype =(ObjectType)valueType.toObjectType(); if(prototype!= null){ return prototype.isSubTypeOf(valueType); }
+[PATCH] ObjectType prototypeType = ObjectType.cast(valueType); if(prototypeType!= null){ return getPrototypeType().isSubtype(superType); }
+[PATCH] ObjectType prototypePrototype =(ObjectType)valueType.toObjectType(); if(prototypePrototype!= null){ return true; }
+[PATCH] ObjectType prototypeType = ObjectType.cast(valueType); if(prototypeType!= null){ returnPrototypeType.isSubTypeOf(prototypeType); }
+[PATCH] ObjectType prototypeType = ObjectType.cast(valueType); if(prototypeType!= null){ returnPrototypeType.isSubtype(protoType); }
+[PATCH] ObjectType prototypeOwner =(ObjectType)valueType.cloneTree(); if(prototypeOwner!= null){ return true; }
+[PATCH] ObjectType prototypeType = ObjectType.cast(valueType); if(prototypeType!= null){ return super.isQualifiedNameInferred(prototypeType); }
+[PATCH] ObjectType prototypeOwner =(ObjectType)valueType.cloneTree();
+[PATCH] ObjectType prototype =(ObjectType)valueType.toObjectType();Prototype.defineDeclaredProperty("prototype", prototype, false);
+[PATCH] ObjectType prototypeType = ObjectType.cast(valueType); if(prototypeType!= null){ return protoType.isSubtype(valueType); }
+[PATCH] ObjectType prototype =(ObjectType)valueType.toObjectType(); if(prototype!= null){ return prototype.isQualifiedNameInferred(qName); }
+[PATCH] ObjectType prototype =(ObjectType)valueType.cloneTree(); if(prototype!= null){ return true; }
+[PATCH] JSType prototypeType = getPrototypeType(qName); if(prototypeType!= null){ return true; }
+[PATCH] ObjectType prototypeOwner =(ObjectType)scope.getRootNode(); if(prototypeOwner!= null){ return true; }
+[PATCH] if(info!= null && info.isConstructor()){ return true; }
+[PATCH] ObjectType prototypeType = ObjectType.cast(valueType); if(prototypeType!= null){ return getPrototypeType().isSubtype(protoType); }
+[PATCH] ObjectType prototype =(ObjectType)valueType.toObjectType(); if(prototype!= null){ returnPrototype.isSubtype(super); }
+[PATCH] JSType prototypeType =(ObjectType)valueType.toObjectType(); if(prototypeType!= null){ return true; }
+[PATCH] ObjectType prototype =(ObjectType)valueType.toObjectType(); if(prototype!= null){ return prototype.isSubtype(n); }
+[PATCH] ObjectType prototype =(ObjectType)valueType.clone();Prototype.defineDeclaredProperty("prototype", prototype, false);
+[PATCH] ObjectType prototype =(ObjectType)n.getJSType(); if(prototype!= null){ returnPrototype.isSubtype(prototype); }
+[PATCH] ObjectType prototype =(ObjectType)n.getJSType(); if(prototype!= null){ return true; }
+[PATCH] JSType prototypeType =(JSType)valueType.cloneTree(); if(prototypeType!= null){ return true; }
+[PATCH] ObjectType prototypeType = getPrototypeType(qName); if(prototypeType!= null){ return true; }
+[PATCH] ObjectType superType = ObjectType.cast(valueType); if(superType!= null){ return true; }
+[PATCH] ObjectType prototype = typeRegistry.getNativeObjectType(JSTypeNative.OBJECT_TYPE); if(prototype!= null){ return false; }
+[PATCH] ObjectType prototypeOwner =(ObjectType)valueType.clone(); if(prototypeOwner!= null){ return true; }
+[PATCH] ObjectType prototype =(ObjectType)valueType.toObjectType(); if(prototype!= null){ return proto.isSubtype(prototype); }
+[PATCH] ObjectType prototype =(ObjectType)valueType.clone(); if(prototype!= null){ return super.isQualifiedNameInferred(qName); }
+[PATCH] ObjectType prototypeScope =(ObjectType)scope.getPrototype(); if(prototypeScope!= null){ return true; }
+[PATCH] JSType prototypeType = valueType.toObjectType(); if(prototypeType!= null){ return true; }
+[PATCH] ObjectType prototype =(ObjectType)scope.getPrototype(); if(prototype!= null){ return true; }
+[PATCH] ObjectType prototypeOwner =(ObjectType)valueType.toObjectType();
+[PATCH] ObjectType prototype =(ObjectType)valueType.clone(); if(prototype!= null){ return prototype.isSubtype(n); }
+[PATCH] ObjectType prototypeType = typeRegistry.getNativeObjectType(JSTypeNative.OBJECT_TYPE);
+[PATCH] ObjectType prototypeType =(ObjectType)valueType.cloneTree();
+[PATCH] ObjectType prototypeType = getType(qName); if(prototypeType!= null){ return true; }
+[PATCH] ObjectType prototypeType =(ObjectType)valueType.toObjectType();
+[PATCH] ObjectType prototypeType =(ObjectType)valueType.toObjectType(); return prototypeType!= null;
+[PATCH] ObjectType prototypeOwner =(ObjectType)valueType.toObjectType(); return prototypeOwner!= null;
+[PATCH] ObjectType prototype = scope.getPrototypeObjectType(); if(prototype!= null){ return true; }
+[PATCH] ObjectType prototype =(ObjectType)valueType.toObjectType(); return prototype!= null;
+[PATCH] ObjectType prototypeOwnerType =(ObjectType)valueType.toObjectType();
+[PATCH] qName = qName.substring(0, qName.length() - 2);
+[PATCH] ObjectType prototypeType =(ObjectType)valueType.clone();

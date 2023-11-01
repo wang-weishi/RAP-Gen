@@ -1,0 +1,100 @@
+[PATCH] && 0 <= charno && charno < sourceExcerpt.length()){
+[PATCH] && 0 <= charno && charno < sourceExcerpt.length()){
+[PATCH] && 0 < charno && charno < sourceExcerpt.length()){
+[PATCH] ||(charno!= null && charno < sourceExcerpt.length())) {
+[PATCH] && 0 == charno && charno < sourceExcerpt.length()){
+[PATCH] ||(charno < 0 && charno < sourceExcerpt.length())) {
+[PATCH] && 0 < charno && charno < sourceExcerpt.length()){
+[PATCH] && 0 <= charno || charno < sourceExcerpt.length()){
+[PATCH] && 0 <= charno || charno > sourceExcerpt.length()){
+[PATCH] ||(charno > 0 && charno < sourceExcerpt.length())) {
+[PATCH] ||(charno!= 0 && charno < sourceExcerpt.length())) {
+[PATCH] ||(charno!= null && charno < sourceExcerpt.length()){
+[PATCH] ||(charno < 0 && charno > sourceExcerpt.length())) {
+[PATCH] ||(charno == null && charno < sourceExcerpt.length())) {
+[PATCH] ||(charno!= null && charno < sourceExcerpt.length())){
+[PATCH] && 0 <charno && charno < sourceExcerpt.length()){
+[PATCH] && 0 <= charno || charno > sourceExcerpt.length()){
+[PATCH] && 1 <= charno && charno < sourceExcerpt.length()){
+[PATCH] && 0 <= charno && charno > sourceExcerpt.length()){
+[PATCH] && 0 <= charno || charno < sourceExcerpt.length()){
+[PATCH] && 0 < charno && charno < sourceExcerpt.length()){
+[PATCH] && 0 ==charno && charno < sourceExcerpt.length()){
+[PATCH] && 0 <= charno && charNo < sourceExcerpt.length()){
+[PATCH] && 0<charno && charno < sourceExcerpt.length()){
+[PATCH] ||(charno < 0 && charno < sourceExcerpt.length()){
+[PATCH] && 0 < CHarno && charno < sourceExcerpt.length()){
+[PATCH] ||(charno!= 0 && charno < sourceExcerpt.length()){
+[PATCH] && 0 <= lineno && charno < sourceExcerpt.length()){
+[PATCH] && 0 <= charno && charno < sourceExcerpt.length()){ }
+[PATCH] && 0 <= charno && charno< sourceExcerpt.length()){
+[PATCH] ||(charno && charno < sourceExcerpt.length())) {
+[PATCH] && 0 < chipno && charno < sourceExcerpt.length()){
+[PATCH] ||(charno<0 && charno > sourceExcerpt.length())) {
+[PATCH] && 0 == charno && charno < sourceExcerpt.length()){
+[PATCH] ||(charno > 0 && charno < sourceExcerpt.length())){
+[PATCH] ||(charno = charno + 1)) < sourceExcerpt.length()){
+[PATCH] && 0 <= charno && charno < srcExcerpt.length()){
+[PATCH] ||(charno > 0 && charno < sourceExcerpt.length()){
+[PATCH] && 0 <= charno && charnum < sourceExcerpt.length()){
+[PATCH] && 0!= charno && charno < sourceExcerpt.length()){
+[PATCH] ||(charno!= 0 && charno < sourceExcerpt.length())){
+[PATCH] ||(charno>0 && charno < sourceExcerpt.length())) {
+[PATCH] && 0 <= charno && characterno < sourceExcerpt.length()){
+[PATCH] && 0 <= charno && charno <sourceExcerpt.length()){
+[PATCH] && 0 < lineno && charno < sourceExcerpt.length()){
+[PATCH] && 0 <= charno && charno < SourceExcerpt.length()){
+[PATCH] ||(charno == 0 && charno < sourceExcerpt.length())) {
+[PATCH] && 0 < charno && charno < sourceExcerpt.length()){
+[PATCH] && 0 <= linenumber && charno < sourceExcerpt.length()){
+[PATCH] && 0 == charno || charno > sourceExcerpt.length()){
+[PATCH] && 0 < characterno && charno < sourceExcerpt.length()){
+[PATCH] && 0 <= CHarno && charno < sourceExcerpt.length()){
+[PATCH] && 0 <chaarno && charno < sourceExcerpt.length()){
+[PATCH] ||(charno!= null && charno == sourceExcerpt.length())) {
+[PATCH] ||(lineno > 0 && charno < sourceExcerpt.length())) {
+[PATCH] ||(charno < 0 && charno < sourceExcerpt.length())){
+[PATCH] &&0 <= charno && charno < sourceExcerpt.length()){
+[PATCH] ||(charno!= NULL && charno < sourceExcerpt.length())) {
+[PATCH] && 0==charno && charno < sourceExcerpt.length()){
+[PATCH] && 0 <= charno && charno < originalExcerpt.length()){
+[PATCH] && 0 <= charno && charno < sourceexcerpt.length()){
+[PATCH] && 0 <= charno && charno <SourceExcerpt.length()){
+[PATCH] && 0 < charno || charno > sourceExcerpt.length()){
+[PATCH] ||(charno!= -1 && charno < sourceExcerpt.length()){
+[PATCH] && 0 == CHarno && charno < sourceExcerpt.length()){
+[PATCH] && 0 > charno && charno < sourceExcerpt.length()){
+[PATCH] && 0 <= charno && charno < comment.length()){
+[PATCH] && 0!charno && charno < sourceExcerpt.length()){
+[PATCH] ||(charno!= null && charno < sourceExcerpt.length()){
+[PATCH] && 0 == charno || charno < sourceExcerpt.length()){
+[PATCH] && 0 < chipnum && charno < sourceExcerpt.length()){
+[PATCH] && 1 <= charno && charno < sourceExcerpt.length()){
+[PATCH] ||(charno < 1 && charno < sourceExcerpt.length())) {
+[PATCH] ||(Charno < 0 && charno > sourceExcerpt.length())) {
+[PATCH] ||(charno > 0 && charno < sourceExcerpt.length())) {
+[PATCH] && 0 <= charno && charno < sourceExcerpt.length()){
+[PATCH] && 0 <= charno && charno < sourceExcerpt.length()){
+[PATCH] && 0 <= linenum && charno < sourceExcerpt.length()){
+[PATCH] && 0 < comment.length() && charno < comment.length()){
+[PATCH] ||(charno!= null && charno < sourceExcerpt.length()){
+[PATCH] ||(charno + charno > sourceExcerpt.length())) {
+[PATCH] && 0 <= charno && charno < lineExcerpt.length()){
+[PATCH] ||(charno!= -1 && charno < sourceExcerpt.length())){
+[PATCH] && 0 <= charno && charno < sourceExcerpt.length()){
+[PATCH] && 0 <= charno && charno < sourceExpcerpt.length()){
+[PATCH] ||(!charno && charno < sourceExcerpt.length()){
+[PATCH] && 0 <= charno && charno < sourceExcerpt.length()){ +
+[PATCH] && 0 <= charno && charno < description.length()){
+[PATCH] && 0 < lastChar && charno < sourceExcerpt.length()){
+[PATCH] && 0 == charno || charno < sourceExcerpt.length()){
+[PATCH] && 0 < pieceno && charno < sourceExcerpt.length()){
+[PATCH] && 0 <= blue && charno < sourceExcerpt.length()){
+[PATCH] && 0 < separator && charno < sourceExcerpt.length()){
+[PATCH] && 0 < chapter && charno < sourceExcerpt.length()){
+[PATCH] && 0 < specifier && charno < sourceExcerpt.length()){
+[PATCH] && 0 < comment.length()){
+[PATCH] && 0 == charno && sourceExcerpt.length() > 0){
+[PATCH] ||(charno && charno < sourceExcerpt.length()){
+[PATCH] ||(!charno.equals(CHarno))){
+[PATCH] ||(!charno.matches(charno))){

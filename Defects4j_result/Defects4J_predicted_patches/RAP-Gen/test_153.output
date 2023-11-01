@@ -1,0 +1,100 @@
+[PATCH] while(arguments.hasNext() || parameters.hasNext()){
+[PATCH] while(arguments.hasNext() && parameters.hasNext()){
+[PATCH] while(parameters.hasNext() || arguments.hasNext()){
+[PATCH] while(parameters.hasNext() && arguments.hasNext()){
+[PATCH] while(parameters.hasNext() || parameters.hasNext()){
+[PATCH] while(parameters.hasNext() ||!arguments.hasNext()){
+[PATCH] while(parameters.hasNext() &&!arguments.hasNext()){
+[PATCH] while(parameters.hasNext() && parameters.hasNext()){
+[PATCH] while(arguments.hasNext() || arguments.hasNext()){
+[PATCH] while(arguments.hasNext() && arguments.hasNext()){
+[PATCH] while(arguments.hasNext() ||!parameters.hasNext()){
+[PATCH] while(!arguments.hasNext() && parameters.hasNext()){
+[PATCH] while(!parameters.hasNext() && arguments.hasNext()){
+[PATCH] while(parameters.hasNext()){
+[PATCH] while(parameters.hasNext() ||!parameters.hasNext()){
+[PATCH] while(arguments.hasNext() &&!parameters.hasNext()){
+[PATCH] while(arguments.hasNext()){
+[PATCH] while(parameters.hasNext() ||!arguments.hasNext()){
+[PATCH] while(!parameters.hasNext() || arguments.hasNext()){
+[PATCH] while(parameters.hasNext() &&!arguments.hasNext()){
+[PATCH] while(!arguments.hasNext() || parameters.hasNext()){
+[PATCH] while( arguments.hasNext() || parameters.hasNext()){
+[PATCH] while(argumentTypes.hasNext() || parameters.hasNext()){
+[PATCH] while(parameters.hasNext() ||arguments.hasNext()){
+[PATCH] while(parameters.hasNext() &&!arguments.isEmpty()){
+[PATCH] while(parameters.hasNext() ||! parameters.hasNext()){
+[PATCH] while(parameter.hasNext() || parameters.hasNext()){
+[PATCH] while(!parameters.hasNext() && parameters.hasNext()){
+[PATCH] while( arguments.hasNext() && parameters.hasNext()){
+[PATCH] while(parameters.hasNext() || argumentTypes.hasNext()){
+[PATCH] while(arguments.hasnext() || parameters.hasNext()){
+[PATCH] while(parameters.hasNext() || mayHaveSideEffects()){
+[PATCH] while(arguments.hasNext() ||parameters.hasNext()){
+[PATCH] while(arguments.hasNext() || parameters.hasnext()){
+[PATCH] while(!parameters.hasNext() || parameters.hasNext()){
+[PATCH] while(inputs.hasNext() || parameters.hasNext()){
+[PATCH] while(arguments.hasnext() && parameters.hasNext()){
+[PATCH] while(arguments.hasNext() &&parameters.hasNext()){
+[PATCH] while(!arguments.hasNext() && arguments.hasNext()){
+[PATCH] while(parameters.hasNext() &&arguments.hasNext()){
+[PATCH] while(parameters.hasNext() || or parameters.hasNext()){
+[PATCH] while(parameters.hasNext() ||!Parameters.isEmpty()){
+[PATCH] while(arguments.hasNext(); && parameters.hasNext()){
+[PATCH] while(argumentTypes.hasNext() && parameters.hasNext()){
+[PATCH] while(arguments.hasNext() || parameters.hasMoreElements()){
+[PATCH] while(parameters.hasNext() ||!arguments.isEmpty()){
+[PATCH] while(parameters.hasNext() || arguments.hasnext()){
+[PATCH] while(parameters.hasNext() ||! arguments.hasNext()){
+[PATCH] while(inputs.hasNext() || arguments.hasNext()){
+[PATCH] while(parameter.hasNext() || arguments.hasNext()){
+[PATCH] while(parameters.hasNext() ||!Parameters.hasNext()){
+[PATCH] while(parameters.hasNext() &&! arguments.hasNext()){
+[PATCH] while(parameters.hasNext() || constructors.hasNext()){
+[PATCH] while(values.hasNext() || parameters.hasNext()){
+[PATCH] while(parameters.hasNext() || elements.hasNext()){
+[PATCH] while(parameters.hasNext() || arguments.hasMoreElements()){
+[PATCH] while(arguments.hasNext() || values().hasNext()){
+[PATCH] while(parameters.hasNext();
+[PATCH] while(parameters.hasNext() &&! parameters.hasNext()){
+[PATCH] while(arguments.hasMoreElements() || parameters.hasNext()){
+[PATCH] while(arguments.hasNext() or parameters.hasNext()){
+[PATCH] while(arguments.hasNext() || or parameters.hasNext()){
+[PATCH] while(parameters.hasNext() || values().hasNext()){
+[PATCH] while(Parameters.hasNext() && arguments.hasNext()){
+[PATCH] while(arguments.hasNext() && parameters.hasnext()){
+[PATCH] while(elements.hasNext() || parameters.hasNext()){
+[PATCH] while(properties.hasNext() || parameters.hasNext()){
+[PATCH] while( parameters.hasNext() || arguments.hasNext()){
+[PATCH] while(parameters.hasNext() ||!arguments.hasnext()){
+[PATCH] while(parameters.hasNext() &&!Parameters.isEmpty()){
+[PATCH] while(parameters.hasNext() || constructorType.isConstructor()){
+[PATCH] while(fields.hasNext() || parameters.hasNext()){
+[PATCH] while(parameters.hasNext(); && arguments.hasNext()){
+[PATCH] while(parameters.hasNext() &&!arguments.hasnext()){
+[PATCH] while(this.hasNext() || parameters.hasNext()){
+[PATCH] while(parameters.hasnext() || arguments.hasNext()){
+[PATCH] while(arguments.hasNext() || parameter.hasNext()){
+[PATCH] while(parameters.hasNext() || parameter.hasNext()){
+[PATCH] while(options.hasNext() || parameters.hasNext()){
+[PATCH] while(parameters.hasNext() || alternatives.hasNext()){
+[PATCH] while(parameter.hasNext() && parameters.hasNext()){
+[PATCH] while(arguments.hasNext() || values.hasNext()){
+[PATCH] while(Parameters.hasNext() || arguments.hasNext()){
+[PATCH] while(references.hasNext() || parameters.hasNext()){
+[PATCH] while(properties.hasNext() || arguments.hasNext()){
+[PATCH] while(callbacks.hasNext() || parameters.hasNext()){
+[PATCH] while(parameters.hasnext() && arguments.hasNext()){
+[PATCH] while(parameters.hasNext() || exceptions.hasNext()){
+[PATCH] while(parameters.hasNext() || parameters.hasnext()){
+[PATCH] while(parameters.hasNext() && arguments.hasnext()){
+[PATCH] while(parameters.hasNext() || types.isVoid()){
+[PATCH] while(!parameters.hasNext()){
+[PATCH] while(arguments.hasNext(); arguments.hasNext()){
+[PATCH] while(parameters.hasNext().hasNext()){
+[PATCH] while(!arguments.hasNext()){
+[PATCH] while(arguments.hasNext();
+[PATCH] while(arguments.hasNext().hasNext()){
+[PATCH] while(parameters.hasMoreElements()){
+[PATCH] while(arguments.hasMoreElements()){
+[PATCH] while(parameters.hasNext() || false){

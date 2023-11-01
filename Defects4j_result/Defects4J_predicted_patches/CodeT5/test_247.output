@@ -1,0 +1,100 @@
+[PATCH] if(!Character.isSupported(charsetName)) { if(doc.body()!= null){ doc.body().appendChild(doc.body()); }
+[PATCH] if(!Character.isSupported(charsetName)) { String defaultCharset = charset.name(); if(defaultCharset!= null){ doc.setDefaultCharset(defaultCharset); }
+[PATCH] if(!Character.isSupported(charsetName)) { String defaultCharset = charset.name(); doc.body().appendChild(new Text(defaultCharset)); }
+[PATCH] if(!Character.isSupported(charsetName)) { String defaultCharset = charset.name(); doc.setDefaultCharset(defaultCharset); }
+[PATCH] while(!reader.hasMoreBytes()){ doc.appendChild(new Text(first.getText(), charset));
+[PATCH] if(first!= null){ doc.body().appendChild(first); first.skipChildren(); } else { throw new IOException(""); }
+[PATCH] if(!Character.isSupported(charsetName)) { String defaultCharset = charset.name(); doc.appendChild(new Text(defaultCharset)); }
+[PATCH] if(!Character.isSupported(charsetName)) { String defaultCharset = charset.getName(); if(defaultCharset!= null){ doc.setDefaultCharset(defaultCharset); }
+[PATCH] if(firstBytes!= null){ firstBytes.limit(firstBytes.array(), firstBytes.position()); } else { doc.body().appendChild(firstBytes); }
+[PATCH] if(!bomCharset!= null){ String defaultCharset = charset.name(); doc.setDefaultCharset(defaultCharset); } else { throw new IOException(""); }
+[PATCH] if(!bomCharset!= null){ String defaultCharset = charset.name(); doc.setDefaultCharset(defaultCharset); }
+[PATCH] while(!reader.isDone()){ doc.appendChildToBack(first);
+[PATCH] while(!reader.hasMoreBytes()){ doc.appendChild(new Text(charset.name()));
+[PATCH] if(!Character.isSupported(charsetName)) { String defaultCharset = charset.getName(); doc.body().appendChild(new Text(defaultCharset)); }
+[PATCH] if(first!= null){ String charsetName = first.getCharset().getName(); if(charsetName.length() == 0){ throw new IOException(""); }
+[PATCH] if(!bomCharset!= null){ String defaultCharset = charset.name(); if(defaultCharset!= null){ doc.setDefaultCharset(defaultCharset); }
+[PATCH] if(!CharacterEncodingNames.isSupported(charsetName)) { String defaultCharset = charset.name(); doc.setDefaultCharset(defaultCharset); }
+[PATCH] if(!Character.isSupported(charsetName)) { String defaultCharset = charset.getName(); doc.setDefaultCharset(defaultCharset); }
+[PATCH] if(first!= null){ String charsetName = first.getCharset().getName(); if(charsetName.equals("")) { doc.appendChild(first); }
+[PATCH] while(!Character.isISOControl(charset.getCharset())) { charset.flush();
+[PATCH] while(!reader.hasMoreBytes()){ doc.appendChild(new Text(charset.name(), reader.readLine()));
+[PATCH] while(!reader.isDone()){ charset.flush();
+[PATCH] if(!bomCharset!= null){ String defaultCharset = charset.name(); doc.body().appendChild(new Text(defaultCharset)); }
+[PATCH] if(first!= null){ doc.body().appendChild(first); first.skipEndElement(); } else { throw new IOException(""); }
+[PATCH] if(!bomCharset!= null && bomCharset.canEncode(doc.getContentType())) { if(!charset.isSupported()){ throw new IllegalArgumentException(""); }
+[PATCH] if(!Character.isSupported(charsetName)) { String defaultCharset = charset.getName(); doc.appendChild(new Text(defaultCharset)); }
+[PATCH] if(!Character.isISOControl(charsetName)) { String defaultCharset = charset.name(); doc.appendChild(new Text(defaultCharset)); }
+[PATCH] if(!bomCharset!= null && bomCharset.canEncode(doc.getContentType())) { if(!charset.isSupported()){ throw new IOException(""); }
+[PATCH] while(!Character.isISOControl(charset.name())) { charset.flush();
+[PATCH] if(!Character.isSupported(charsetName)) { String defaultCharset = charset.name(); doc.body().appendChild(new Text(defaultCharset, input)); }
+[PATCH] while(!reader.isDone()){ doc.appendChild(new Text(charset.name(), input.readLine()));
+[PATCH] if(!CharacterEncodingNames.isSupported(charsetName)) { String defaultCharset = charset.name(); doc.appendChild(new Text(defaultCharset)); }
+[PATCH] if(!Character.isISOControl(charsetName)) { String defaultCharset = charset.name(); doc.setDefaultCharset(defaultCharset); }
+[PATCH] while(!reader.hasMoreBytes()){ doc.appendChild(new Text(charset.name(), input.readLine()));
+[PATCH] while(!reader.isDone()){ doc.appendChild(new Text(charset.name(), reader.readLine()));
+[PATCH] while(!reader.isDone()){ doc.appendChild(new Text(charset.name()));
+[PATCH] while(!reader.isDone()){ doc.appendChildToBack(new Text(charset.name(), input.readLine()));
+[PATCH] if(!Character.isSupported(charsetName)) { String defaultCharset = charset.name(); doc.appendChild(new Text(defaultCharset, input)); }
+[PATCH] while(reader.hasMoreBytes()){ doc.appendChild(new Text(first.getText(), charset));
+[PATCH] if(first!= null){ doc.body().appendChild(first); first.skipChildren(); } else { throw new IllegalArgumentException(""); }
+[PATCH] while(!Character.isISOControl(charset.getEncoding())) { charset.flush();
+[PATCH] while(!reader.hasMoreBytes()){ doc.appendChild(new Text(input.readLine(), charset));
+[PATCH] while(!reader.isDone()){ doc.appendChild(new Text(first.getText(), charset));
+[PATCH] while(!Character.isISOControl(charset.getType())) { charset.flush();
+[PATCH] if(!Character.isDefined(charsetName)) { String defaultCharset = charset.name(); doc.setDefaultCharset(defaultCharset); }
+[PATCH] while(!reader.isDone()){ doc.appendChildToBack(new Text(charset.name(), reader.readLine()));
+[PATCH] while(!reader.isEndOfFile()){ doc.appendChild(new Text(charset.name(), input.readLine()));
+[PATCH] while(!reader.hasMoreBytes()){ doc.appendChild(new Text(charset.name()), charset);
+[PATCH] if(!bomCharset!= null){ String defaultCharset = charset.getName(); doc.setDefaultCharset(defaultCharset); }
+[PATCH] if(!bomCharset!= null && bomCharset.canEncode(doc.getContentType())) { doc.body().appendChild(new BomCharset(charset)); }
+[PATCH] if(!Character.isSupported(charsetName)) { doc.addChildToBack(firstBytes); firstBytes.limit(firstBytes.position()); }
+[PATCH] if(!Character.isISOControl(charsetName)) { String defaultCharset = charset.getName(); doc.setDefaultCharset(defaultCharset); }
+[PATCH] while(!Character.isSupported(charset.name())) { charset.flush();
+[PATCH] while(!reader.isDone()){ doc.appendChildToBack(firstBytes.array(), charset);
+[PATCH] while(!reader.hasMoreBytes()){ doc.appendChild(new Text(first.getText()), charset);
+[PATCH] while(!reader.isDone()){ doc.appendChildToBack(doc.body());
+[PATCH] while(!reader.isDone()){ doc.appendChild(first);
+[PATCH] while(!Character.isISOControl(charset.getDefaultCharset())) { charset.flush();
+[PATCH] while(!reader.isDone()){ doc.appendChild(new Text(charset.name()), charset);
+[PATCH] while(!reader.isEOF()){ doc.appendChildToBack(first);
+[PATCH] while(!Character.isWhitespace(charset.name())) { charset.flush();
+[PATCH] while(!reader.isDone()){ doc.appendChildToBack(new Text(charset.name()), charset);
+[PATCH] while(!reader.isDone()){ doc.appendChildToBack(new Text(charset.name()));
+[PATCH] while(!reader.finished()){ doc.appendChild(new Text(charset.name()));
+[PATCH] while(!reader.isDone()){ reader.skipEndElement();
+[PATCH] while(!reader.isEndOfFile()){ doc.appendChild(new Text(charset.name()));
+[PATCH] while(!reader.hasMoreBytes()){ doc.appendChild(first);
+[PATCH] while(!reader.isDone()){ char[] firstBytes = doc.firstBytes();
+[PATCH] while(!reader.isEOF() &&!charset.isSupported()){ doc.appendChild(first);
+[PATCH] if(!input.isEOF()){ reader.close(); throw new IOException(""); }
+[PATCH] while(!reader.hasMoreBytes()){ doc.appendChild(new Text(charset.getName()));
+[PATCH] while(!reader.isEmpty()){ doc.appendChildToBack(first);
+[PATCH] while(!Character.isISOControl(charset.getType())) { doc.appendChild(first);
+[PATCH] if(!reader.isDone()){ reader.close(); throw new IOException(""); }
+[PATCH] while(!reader.finished()){ doc.appendChildToBack(first);
+[PATCH] while(!Character.isISOControl(charset.name())) { doc.appendChild(first);
+[PATCH] while(!reader.isEmpty()){ doc.appendChild(new Text(charset.name()));
+[PATCH] while(!reader.isDone()){ doc.appendChildToBack(firstBytes);
+[PATCH] while(!reader.isDone()){ doc.appendChild(new Text(charset.getName()));
+[PATCH] while(!reader.isDone()){ reader.next();
+[PATCH] while(!Character.isISOControl(charset.getCharset())) { charset.reset();
+[PATCH] while(!reader.isDone()){ doc.appendChildToFront(first);
+[PATCH] while(!reader.finished()){ charset.flush();
+[PATCH] while(!reader.isDone()){ doc.appendChild(doc.body());
+[PATCH] while(!Character.isSupported(charset.name())) { charset.reset();
+[PATCH] while(!input.isEOF()){ doc.appendChildToBack(first);
+[PATCH] while(!reader.finished()){ reader.skipEndElement();
+[PATCH] while(!reader.isEndOfFile()){ doc.appendChild(first);
+[PATCH] while(!reader.isDone()){ CharacterEncodingNames.reset(charset);
+[PATCH] while(!reader.isEmpty()){ doc.appendChild(first);
+[PATCH] while(!reader.finished()){ doc.appendChild(first);
+[PATCH] while(!reader.finished()){ reader.next();
+[PATCH] while(!reader.isEOF()){ charset.flush();
+[PATCH] while(!reader.isEOF();
+[PATCH] while(!reader.hasMoreBytes()){ reader.next();
+[PATCH] while(!reader.isDone()){ charset.reset();
+[PATCH] while(!reader.hasMoreBytes()){ charset.flush();
+[PATCH] while(!reader.isEOF()){ reader.next();
+[PATCH] while(!reader.finished();
+);

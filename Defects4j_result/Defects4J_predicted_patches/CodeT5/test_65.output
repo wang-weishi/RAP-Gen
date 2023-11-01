@@ -1,0 +1,100 @@
+[PATCH] if(!letters &&!numbers){ throw new IllegalArgumentException(""); }
+[PATCH] if(!letters &&!numbers){ return 0; }
+[PATCH] if(!letters &&!numbers){ return -1; }
+[PATCH] if(end < start){ throw new IllegalArgumentException(""); }
+[PATCH] if(start >= end){ throw new IllegalArgumentException(""); }
+[PATCH] if(( start < end)||(end > chars.length)) { throw new IllegalArgumentException(""); }
+[PATCH] if(!letters &&!numbers){ start = 0; } else { end = end - 1; }
+[PATCH] if(end < start){ return(count + 1); } else { throw new IllegalArgumentException(""); }
+[PATCH] if(!letters &&!numbers){ throw new IllegalStateException(""); }
+[PATCH] if(end < start){ return(count + 1); } else { throw new IllegalStateException(""); }
+[PATCH] if(!letters &&!numbers){ return new String(chars, start, end); }
+[PATCH] if(( start < end)&&(end > chars.length)) { throw new IllegalArgumentException(""); }
+[PATCH] if(!letters &&!numbers){ return -1; } else { throw new IllegalArgumentException(""); }
+[PATCH] if(( start + end) >= chars.length){ throw new IllegalArgumentException(""); }
+[PATCH] if(!letters &&!numbers){ return String.valueOf(0); }
+[PATCH] if(!letters &&!numbers){ chars = Character.toChars(chars[start]); start =''; }
+[PATCH] if(end < start){ return(count - 1); } else { throw new IllegalStateException(""); }
+[PATCH] if(start >= end){ return(count - 1); } else { throw new IllegalArgumentException(""); }
+[PATCH] if(!letters &&!numbers){ return -1; } else { start = end + 1; }
+[PATCH] if(end < start){ return(count - 1); } else { throw new IllegalArgumentException(""); }
+[PATCH] if(!letters &&!numbers){ return Integer.MAX_VALUE; }
+[PATCH] if(start < end){ throw new IllegalArgumentException(""); }
+[PATCH] if(start >= end){ return(count - 1); } else { throw new IllegalStateException(""); }
+[PATCH] if(!letters &&!numbers){ chars = Character.toChars(chars[start]); start = 0; }
+[PATCH] if(!letters &&!numbers){ return 0; } if(end < start){ throw new IllegalArgumentException(""); }
+[PATCH] if(!letters &&!numbers){ return -1; } if(end < start){ return 0; }
+[PATCH] if(!letters &&!numbers){ return Chars.toString(chars, start, end); }
+[PATCH] if(end < start){ throw new IndexOutOfBoundsException(""); }
+[PATCH] if(!letters &&!numbers){ return random.nextInt(0); }
+[PATCH] if(( start == 0)&&(end == 0)) { throw new IllegalArgumentException(""); }
+[PATCH] if(( start == 0)&&(end == 0)) { return 0; }
+[PATCH] if(end < start){ return(count == 0)? 0 : new String(chars, start, end); }
+[PATCH] if(!letters &&!numbers){ return false; }
+[PATCH] if(!letters &&!numbers){ return -1; } if(end < start){ return end; }
+[PATCH] if(start > end){ throw new IllegalArgumentException(""); }
+[PATCH] if(!letters &&!numbers){ chars = Character.toCharArray(chars[start]); start =''; }
+[PATCH] if(!letters &&!numbers){ return -1; } else { throw new IllegalStateException(""); }
+[PATCH] if(!letters &&!numbers){ return 0; } else { start = end + 1; }
+[PATCH] if(!letters &&!numbers){ chars = Character.toChars(chars[0]); start =''; }
+[PATCH] if(!letters &&!numbers){ start = 0; return(end - start); }
+[PATCH] if(( start + end)> chars.length){ throw new IllegalArgumentException(""); }
+[PATCH] if(!letters &&!numbers){ start =''; } else { end = end - 1; }
+[PATCH] if(!letters &&!numbers){ end = -end; } else { start = end + 1; }
+[PATCH] if(!letters &&!numbers){ chars = Character.toCharArray(chars[start]); start = 0; }
+[PATCH] if(!letters &&!numbers){ return -1; } else { end = end - start + 1; }
+[PATCH] if(!letters &&!numbers){ start = 0; } else { end = end + 1; }
+[PATCH] if(end < start){ return(count = 0); } else { throw new IllegalStateException(""); }
+[PATCH] if(!letters &&!numbers){ return random.nextInt(0); } else { start = end; }
+[PATCH] if(!letters &&!numbers){ return Math.max(start, end); }
+[PATCH] if(( start < end)||(end > chars.length)) { throw new IndexOutOfBoundsException(""); }
+[PATCH] if(start >= end){ throw new IllegalStateException(""); }
+[PATCH] if(!letters &&!numbers){ return chars[0]; } else { throw new IllegalArgumentException(""); }
+[PATCH] if(start >= end){ return(count + 1); } else { throw new IllegalArgumentException(""); }
+[PATCH] if(!letters &&!numbers){ return Math.max(0, end - start); }
+[PATCH] if(!letters &&!numbers){ return String.valueOf(0); } else { start = end; }
+[PATCH] if(!letters &&!numbers){ count = 0; return(end - start); }
+[PATCH] if(!letters &&!numbers){ return 0; } if(end < start){ return -1; }
+[PATCH] if(end < start){ return(count = 0); } else { throw new IllegalArgumentException(""); }
+[PATCH] if(end < start){ throw new IllegalArgumentException(""); } else { end = end - start + 1; }
+[PATCH] if(end < start){ throw new IllegalStateException(""); }
+[PATCH] if(!letters &&!numbers){ return -1; } else { end = end - 1; }
+[PATCH] if(!letters &&!numbers){ return random.nextInt(start); }
+[PATCH] if(!letters &&!numbers){ chars = Character.toChars(chars[0]); start = 0; }
+[PATCH] if(start >= end){ throw new IndexOutOfBoundsException(""); }
+[PATCH] if(!letters &&!numbers){ throw new IllegalFieldValueException(""); }
+[PATCH] if(!letters &&!numbers){ return count + 1; }
+[PATCH] if(!letters &&!numbers){ return random.nextInt(end - start); }
+[PATCH] if(!letters &&!numbers){ return chars[random.nextInt(end)+ start]; }
+[PATCH] if(!letters &&!numbers){ end = -end; } else { start = 0; }
+[PATCH] if(end < start){ return 0; } else { throw new IllegalStateException(""); }
+[PATCH] if(end < start){ throw new IllegalArgumentException(""); } else { end = end - start; }
+[PATCH] if(!letters &&!numbers){ return random.nextInt(start, end); }
+[PATCH] if(end < start){ return 0; } else { end = end - start + 1; }
+[PATCH] if(!letters &&!numbers){ start = 0; }
+[PATCH] if(!letters &&!numbers){ return chars[0]; } else { start = end + 1; }
+[PATCH] if(!letters &&!numbers){ throw new RuntimeException(""); }
+[PATCH] if(end < start){ return 0; } else { throw new IllegalArgumentException(""); }
+[PATCH] if(!letters &&!numbers){ return chars[0]; } else { start = end; }
+[PATCH] if(end < start){ return(count == 0)? 0 : end - start + 1; }
+[PATCH] if(!letters &&!numbers){ return -1; } else { end = end - start; }
+[PATCH] if(start >= end){ return(count - 1); } else { start = end; }
+[PATCH] if(end < start){ return(int)(Math.max(start, end)); }
+[PATCH] if(!letters &&!numbers){ chars = null; start = 0; }
+[PATCH] if(!letters &&!numbers){ throw new AssertionError(""); }
+[PATCH] if(start >= end){ if(!letters){ return 0; }
+[PATCH] if(start >= end){ if(!letters){ return -1; }
+[PATCH] if(!letters &&!numbers){ throw new UnsupportedOperationException(""); }
+[PATCH] if(!letters &&!numbers){ return chars.length; }
+[PATCH] if(!letters &&!numbers){ end = 0; }
+[PATCH] if(end < start){ throw new ArithmeticException(""); }
+[PATCH] if(!letters &&!numbers){ return-1; }
+[PATCH] if(count < start + end){ throw new IllegalArgumentException(""); }
+[PATCH] if(!letters &&!numbers){ end = -end; }
+[PATCH] if(start >= end){ return(count - 1); }
+[PATCH] if(!letters &&!numbers){ start =''; }
+[PATCH] if(end < start){ throw new RuntimeException(""); }
+[PATCH] if(!letters &&!numbers){ return, 0; }
+[PATCH] if(end < start){ throw new NumberFormatException(""); }
+[PATCH] if(!letters &&!numbers){ return 32; }
+[PATCH] if(start >= end){ throw new RuntimeException(""); }

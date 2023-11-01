@@ -1,0 +1,100 @@
+[PATCH] cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] return cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] return(cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.set(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.ZONE)== cal2.get(Calendar.ZONE)&&
+[PATCH] cal1.put(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] return(cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] return cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.setTime(cal2.getTime());
+[PATCH] cal1.get(Calendar.ZONE_OFFSET)== cal2.get(Calendar.ZONE_OFFSET)&&
+[PATCH] cal1.setTime(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.set(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUTE)&&
+[PATCH] cal1.get(Calendar.MILLISECOND)== cal2.get(Calendar.MILLISECOND)&&
+[PATCH] cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.ZONE_NAME)== cal2.get(Calendar.ZONE_NAME)&&
+[PATCH] cal1.get(Calendar.YEAR)== cal2.get(Calendar.YEAR)&&
+[PATCH] cal1.clear(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.HOURDAY)== cal2.get(Calendar.HOURDAY)&&
+[PATCH] cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&& return true;
+[PATCH] cal1.get(Calendar.TIME_ZONE)== cal2.get(Calendar.TIME_ZONE)&&
+[PATCH] cal1.set(Calendar.ZONE_OFFSET)== cal2.get(Calendar.ZONE_OFFSET)&&
+[PATCH] cal1.getTime().getTime() == cal2.getTime().getTime();
+[PATCH] return(( cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&& }
+[PATCH] cal1.get(Calendar.SECOND)== cal2.get(Calendar.SECOND)&&
+[PATCH] cal1.clear(Calendar.MILLISECOND)== cal2.get(Calendar.MILLISECOND)&&
+[PATCH] cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&& result = true;
+[PATCH] cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&& p = 1;
+[PATCH] cal1.get(Calendar.ZONE)== cal2.get(Calendar.ZONE)&&
+[PATCH] cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&,
+[PATCH] cal1.setTime(Calendar.MILLISECOND)== cal2.get(Calendar.MILLISECOND)&&
+[PATCH] cal1.get(Calendar.MONTH)== cal2.get(Calendar.MONTH)&&
+[PATCH] return cal1.get(Calendar.ZONE)== cal2.get(Calendar.ZONE)&&
+[PATCH] cal1.set(Calendar.ZONE)== cal2.get(Calendar.ZONE)&&
+[PATCH] cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&& &
+[PATCH] cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&& 1;
+[PATCH] return(cal1.get(Calendar.ZONE)== cal2.get(Calendar.ZONE)&&
+[PATCH] cal1.put(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&& =
+[PATCH] cal1.get(Calendar.TIMEZONE)== cal2.get(Calendar.TIMEZONE)&&
+[PATCH] cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&& ++count;
+[PATCH] cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&& //
+[PATCH] cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&& else
+[PATCH] cal1.remove(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.HOUR)+= cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&& result == 0;
+[PATCH] cal1.add(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.HOUR)+ 1 == cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.DATE)== cal2.get(Calendar.DATE)&&
+[PATCH] cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&& :
+[PATCH] cal1.getTime().getTime() == cal2.getTime().getTime() &&
+[PATCH] cal1.get(Calendar.HOUR) == cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.getTime(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.HOUR).equals(cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&& >
+[PATCH] cal1.get(Calendar.HOUR)- cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.HOUR)+ cal2.get(Calendar.HOUR)&&
+[PATCH] call1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)+ 1 &&
+[PATCH] ret = cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&& ret =
+[PATCH] cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&& +
+[PATCH] cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&& &&
+[PATCH] cal1.setTime(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.setTime(Calendar.YEAR)== cal2.get(Calendar.YEAR)&&
+[PATCH] cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR);
+[PATCH] cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&& final
+[PATCH] cal1.get(Calendar.ZONE)== cal2.get(Calendar.ZONE);
+[PATCH] cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&& ret = true;
+[PATCH] return(cal1.getTime().getTime() == cal2.getTime());
+[PATCH] cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&& ret =
+[PATCH] return(cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&& }
+[PATCH] cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)) &&
+[PATCH] if(cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.MILLISECOND)== cal2.get(Calendar.MILLISECOND)&&
+[PATCH] cal1.set(Calendar.HOUR)+ cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.HOUR, cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.set(Calendar.HOUR, cal2.get(Calendar.HOUR)&&
+[PATCH] return cal1.getTime().getTime() == cal2.getTime();
+[PATCH] return(cal1.getClass() == cal2.getClass())&&
+[PATCH] cal1.getTime().getTime() == cal2.getTime();
+[PATCH] cal1.setTimeInMillis(cal2.getTime().getTime());
+[PATCH] cal1.getClass() == cal2.getClass();
+[PATCH] cal1.getTime() == cal2.getTime();
+[PATCH] cal1.setTimeInMillis(cal2.getTime());
+[PATCH] return cal1.getClass() == cal2.getClass();
+[PATCH] cal1.setTime( cal2.getTime());
+[PATCH] cal1.setTime(cal2.getTime());
+[PATCH] cal1.setTime(calendar2.getTime());
+[PATCH] cal1.setTimeZone(Calendar.UTC);
+[PATCH] cal1.setLenient(false);
+[PATCH] cal1.getTime().getTime();
+[PATCH] cal1.clear();
+[PATCH] cal1.clearTime();
+[PATCH] cal1.clearTimeZone();
+[PATCH] cal1.clearCalendar();
+[PATCH] throw new IllegalArgumentException("");
+[PATCH] return true;
+[PATCH] return false;

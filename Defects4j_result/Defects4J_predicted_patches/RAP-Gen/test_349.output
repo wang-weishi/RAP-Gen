@@ -1,0 +1,100 @@
+[PATCH] if(in.peek()!= JsonToken.STRING){ throw new JsonParseException(""); }
+[PATCH] if(in.nextToken()!= JsonToken.STRING){ throw new JsonParseException(""); }
+[PATCH] if(!in.peek() ||!JsonToken.STRING){ throw new JsonParseException(""); }
+[PATCH] if(!in.hasNext()){ throw new JsonParseException(""); }
+[PATCH] if(in.peek() == JsonToken.STRING){ throw new JsonParseException(""); }
+[PATCH] if(!in.peek().isScalarValue()){ throw new JsonParseException(""); }
+[PATCH] if(in.getCurrentToken()!= JsonToken.STRING){ throw new JsonParseException(""); }
+[PATCH] if(!in.nextToken() ||!JsonToken.STRING){ throw new JsonParseException(""); }
+[PATCH] if(in.peek() == JsonToken.VALUE_STRING){ throw new JsonParseException(""); }
+[PATCH] if(!in.nextToken().isScalarValue()){ throw new JsonParseException(""); }
+[PATCH] if(!in.hasMoreTokens()){ throw new JsonParseException(""); }
+[PATCH] if(!in.peek()){ throw new JsonParseException(""); }
+[PATCH] if(!in.peek().isString()){ throw new JsonParseException(""); }
+[PATCH] if(!in.peek().isLiteralValue()){ throw new JsonParseException(""); }
+[PATCH] if(!in.peek() == JsonToken.STRING){ throw new JsonParseException(""); }
+[PATCH] if(!in.peek().isAsString()){ throw new JsonParseException(""); }
+[PATCH] if(!in.nextToken()){ throw new JsonParseException(""); }
+[PATCH] if(!in.peek() == JsonToken.VALUE_STRING){ throw new JsonParseException(""); }
+[PATCH] if(in.peek() == JsonToken.STRING){ throw new JsonParseException(""); }
+[PATCH] if(!in.expect(JsonToken.STRING)) { throw new JsonParseException(""); }
+[PATCH] if(!in.hasNext()){ throw new JsonParseException("The date should be a string value");
+[PATCH] if(in.readToken()!= JsonToken.STRING){ throw new JsonParseException(""); }
+[PATCH] if(!in.hasNext() ||!JsonToken.STRING){ throw new JsonParseException(""); }
+[PATCH] if(in.nextToken()!= JsonToken.START_OBJECT){ throw new JsonParseException(""); }
+[PATCH] if(in.nextToken()!= JsonToken.FIELD_NAME){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.FIELD_NAME){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.START_OBJECT){ throw new JsonParseException(""); }
+[PATCH] if(in.nextToken() == JsonToken.STRING){ throw new JsonParseException(""); }
+[PATCH] if(!in.nextToken().isString()){ throw new JsonParseException(""); }
+[PATCH] if(!in.peek().isSTRING()){ throw new JsonParseException(""); }
+[PATCH] if(!in.peek().isFieldName()){ throw new JsonParseException(""); }
+[PATCH] if(!in.peek() &&!JsonToken.STRING){ throw new JsonParseException(""); }
+[PATCH] if(!in.peek() == JsonToken.STRING){ throw new JsonParseException(""); }
+[PATCH] if(!in.peek().isNumeric()){ throw new JsonParseException(""); }
+[PATCH] if(in.currentToken()!= JsonToken.STRING){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.VALUE_STRING){ throw new JsonParseException(""); }
+[PATCH] if(!in.peek().isQuotedString()){ throw new JsonParseException(""); }
+[PATCH] if(!in.peek() == JsonToken.START_OBJECT){ throw new JsonParseException(""); }
+[PATCH] if(!in.peek() == JsonToken.FIELD_NAME){ throw new JsonParseException(""); }
+[PATCH] if(in.nextToken()!= JsonToken.VALUE_STRING){ throw new JsonParseException(""); }
+[PATCH] if(in.peek() == JsonToken.FIELD_NAME){ throw new JsonParseException(""); }
+[PATCH] if(!in.peek().isPrimitive()){ throw new JsonParseException(""); }
+[PATCH] if(in.nextToken() == JsonToken.VALUE_STRING){ throw new JsonParseException(""); }
+[PATCH] if(!in.peek().isValue()){ throw new JsonParseException(""); }
+[PATCH] if(!in.nextToken().isLiteralValue()){ throw new JsonParseException(""); }
+[PATCH] if(in.peek() == JsonToken.VALUE_STRING){ throw new JsonParseException(""); }
+[PATCH] if(!in.peek()){ throw new JsonParseException("The date should be a string value");
+[PATCH] if(!in.nextToken().isSTRING()){ throw new JsonParseException(""); }
+[PATCH] if(in.expect(JsonToken.STRING)== false){ throw new JsonParseException(""); }
+[PATCH] if(!in.peek().isJsonToken()){ throw new JsonParseException(""); }
+[PATCH] if(in.peek() < JsonToken.STRING){ throw new JsonParseException(""); }
+[PATCH] if(!in.nextToken().isNumeric()){ throw new JsonParseException(""); }
+[PATCH] if(in.peek() == JsonToken.VALUE_NULL){ throw new JsonParseException(""); }
+[PATCH] if(in.expect(JsonToken.STRING)== null){ throw new JsonParseException(""); }
+[PATCH] if(in.currToken!= JsonToken.STRING){ throw new JsonParseException(""); }
+[PATCH] if(in.peek() == JsonToken.START_OBJECT){ throw new JsonParseException(""); }
+[PATCH] if(in.currToken()!= JsonToken.STRING){ throw new JsonParseException(""); }
+[PATCH] if(!in.mark() &&!JsonToken.STRING){ throw new JsonParseException(""); }
+[PATCH] if(!in.nextToken().isAsString()){ throw new JsonParseException(""); }
+[PATCH] if(!in.nextToken()){ throw new JsonParseException("The date should be a string value");
+[PATCH] if(!in.peek().isStringValue()){ throw new JsonParseException(""); }
+[PATCH] if(!in.peek().isText()){ throw new JsonParseException(""); }
+[PATCH] if(!in.currToken().isScalarValue()){ throw new JsonParseException(""); }
+[PATCH] if(!in.peek().isStart()){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!JsonToken.STRING){ throw new JsonParseException(""); }
+[PATCH] if(!in.hasMoreElements()){ throw new JsonParseException(""); }
+[PATCH] if(!in.isNext()){ throw new JsonParseException(""); }
+[PATCH] if(!in.nextToken().isFieldName()){ throw new JsonParseException(""); }
+[PATCH] if(!in.peek().isStringLiteral()){ throw new JsonParseException(""); }
+[PATCH] if(!in.matchesAny("<",">")) { throw new JsonParseException(""); }
+[PATCH] if(!in.nextToken().isValue()){ throw new JsonParseException(""); }
+[PATCH] if(!in.currentToken().isScalarValue()){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.STRING){ throw new JsonParseException("");
+[PATCH] if(!in.available()){ throw new JsonParseException(""); }
+[PATCH] if(!in.peek().isNext()){ throw new JsonParseException(""); }
+[PATCH] if(!in.nextToken().isPrimitive()){ throw new JsonParseException(""); }
+[PATCH] if(!in.peek().isHexString()){ throw new JsonParseException(""); }
+[PATCH] if(in.nextToken()!= JsonToken.STRING){ throw new JsonParseException("");
+[PATCH] if(in.nextToken() == JsonToken.STRING){ throw new JsonParseException(""); }
+[PATCH] if(!in.peek() ||!JsonToken.STRING){
+[PATCH] if(!in.canBeAString()){ throw new JsonParseException(""); }
+[PATCH] if(!in.peek().isName()){ throw new JsonParseException(""); }
+[PATCH] if(!in.peek().isQualifiedName()){ throw new JsonParseException(""); }
+[PATCH] if(!in.hasNext()){ throw new JsonParseException("The date should not be null");
+[PATCH] if(!in.hasCurrentToken()){ throw new JsonParseException(""); }
+[PATCH] if(!in.hasMoreTokens()){ throw new JsonParseException("The date should not be null");
+[PATCH] if(!in.hasNext()){ throw new JsonParseException("The date should not be null"); }
+[PATCH] if(!in.isScalarValue()){ throw new JsonParseException(""); }
+[PATCH] if(in.peek()!= JsonToken.STRING){ throw new JsonParseException(""); } else {
+[PATCH] if(!in.hasNextValue()){ throw new JsonParseException(""); }
+[PATCH] if(!in.readAsString()){ throw new JsonParseException(""); }
+[PATCH] if(!in.isNumeric()){ throw new JsonParseException(""); }
+[PATCH] if(!in.lookAhead()){ throw new JsonParseException(""); }
+[PATCH] if(!in.peek()){ throw new JsonParseException("The date should not be null");
+[PATCH] if(in.nextToken()!= JsonToken.STRING){ throw new JsonParseException(""); } else {
+[PATCH] if(!in.peek() ||!JsonToken.STRING){ throw new JsonParseException("");
+[PATCH] if(!in.hasNextToken()){ throw new JsonParseException(""); }
+[PATCH] if(!in.peek()){ throw new JsonParseException("The date should not be null"); }
+[PATCH] if(!in.markSupported()){ throw new JsonParseException(""); }
+[PATCH] if(!in.anyType()){ throw new JsonParseException(""); }

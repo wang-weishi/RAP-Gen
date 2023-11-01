@@ -1,0 +1,100 @@
+[PATCH] (JsonSerializer<Object> serializer){
+[PATCH] (JsonSerializer<Object>)super.getSerializer();
+[PATCH] (JsonSerializer<Object> serializer = JsonSerializer.instance);
+[PATCH] (JsonSerializer<Object> serializer);
+[PATCH] (JsonPropertyWriter.class);
+[PATCH] (JsonSerializer<Object> serializer = JsonSerializer.this);
+[PATCH] (JsonProperty.class);
+[PATCH] (JsonSerializer.this, JsonSerializer.None.class);
+[PATCH] (JsonSerializer<Object> serializer = this.serializer)) {
+[PATCH] (JsonSerializer<Object> serializer = null)) {
+[PATCH] (JsonSerializer<Object>)super.asPropertyWriter();
+[PATCH] (JsonSerializer.None.class);
+[PATCH] (JsonSerializer<Object>)super.asParser();
+[PATCH] (JsonSerializer<Object>)BeanSerializer.super.serialize();
+[PATCH] (JsonSerializer<Object> serializer = null);
+[PATCH] (JsonPropertyWriter.class, JsonEncoding.UTF8);
+[PATCH] (JsonPropertyWriter.class, null);
+[PATCH] (JsonSerializer<Object>)super.createWriter();
+[PATCH] (JsonInclude.Include.NON_NULL, null);
+[PATCH] (JsonSerializer<Object>)objectFactory.createBeanSerializer();
+[PATCH] (JsonSerializer<Object> serializer = BeanSerializer.instance);
+[PATCH] (JsonProperty.class, JsonEncoding.UTF8);
+[PATCH] (JsonSerializer<Object> serializer = BeanSerializer.this);
+[PATCH] (JsonSerializer<Object>)objectFactory().createBeanSerializer();
+[PATCH] (JsonInclude.Include.NON_EMPTY, null);
+[PATCH] (JsonEncoding.UTF8, JsonEncoding.UTF8);
+[PATCH] (JsonSerializer<Object>)objectCreator();
+[PATCH] (JsonSerializer<Object>)objectConstructor.getSerializer();
+[PATCH] (JsonSerializer<Object>)parent.getSerializer();
+[PATCH] (JsonSerializer<Object>)super.createPropertyWriter();
+[PATCH] (JsonSerializer<Object> serializer)) {
+[PATCH] (JsonPropertyWriter.class){
+[PATCH] (JsonSerializer<Object>)PropertyWriter.getInstance();
+[PATCH] (new JsonSerializer<Object>(), null, null);
+[PATCH] (JsonSerializer<Object,Object> serializer){
+[PATCH] (JsonSerializer<Object> serializer, BeanSerializer.this);
+[PATCH] (JsonSerializer<Object>)super.createGenerator();
+[PATCH] (JsonSerializer<Object> serializer = this.serializer){
+[PATCH] (JsonSerializer<Object> serializer)throws Exception {
+[PATCH] (JsonProperty.class, null);
+[PATCH] (JsonSerializer<Object,Object>)super.getSerializer();
+[PATCH] (JsonSerializer<Object>)super.createBeanSerializer();
+[PATCH] (JsonSerializer<Object> serializer, JsonSerializer.this);
+[PATCH] (JsonSerializer<Object>)super.createValueSerializer();
+[PATCH] (JsonSerializer<Object>)objectConstructor();
+[PATCH] (JsonPropertyWriter.class)) {
+[PATCH] (JsonSerializer<Object>)super.writeValue();
+[PATCH] (JsonSerializer<Object> serializer = JsonSerializer.instance){
+[PATCH] (JsonSerializer<Object>)objectCodec();
+[PATCH] (JsonPropertyWriter.class, null, null);
+[PATCH] (new JsonSerializer<Object>(), null);
+[PATCH] (JsonSerializer<Object> serializer = getJsonSerializer();
+[PATCH] (JsonSerializer<Object> serializer = JsonSerializer.this){
+[PATCH] (JsonSerializer<Object>)BeanSerializer.getInstance();
+[PATCH] (JsonSerializer<Object> serializer = JsonNodeSerializer.instance);
+[PATCH] (JsonSerializer<Object>)getSerializer();
+[PATCH] (JsonInclude.Include.EMPTY, null);
+[PATCH] (JsonSerializer<Object> serializer, BeanSerializer.class);
+[PATCH] (JsonSerializer<Object>)PropertyWriter.createInstance();
+[PATCH] (JsonSerializer<Object> serializer = this.serializer);
+[PATCH] (JsonSerializer<Object>)objectIdReader();
+[PATCH] (JsonSerializer.None.class, null);
+[PATCH] (JsonProperty.class, null, null);
+[PATCH] (JsonSerializer.this, null);
+[PATCH] (JsonSerializer.None.class){
+[PATCH] (JsonSerializer<Object>)super.serialize();
+[PATCH] (JsonSerializer<Object>)createBeanSerializer();
+[PATCH] (JsonBeanPropertyWriter.class);
+[PATCH] (JsonSerializer.this, JsonSerializer.class);
+[PATCH] (AnnotationIntrospector.getInstance());
+[PATCH] (JsonProperty.class, Object.class);
+[PATCH] (JsonProperties.PropertyWriter.class);
+[PATCH] (JsonSerializer.None.class)) {
+[PATCH] (JsonSerializerBase.class);
+[PATCH] (JsonPropertyWriter.this, null);
+[PATCH] (JsonProperty.class){
+[PATCH] (JsonSerializer<? super Object> serializer){
+[PATCH] (BeanPropertyWriter.class);
+[PATCH] (PropertyWriter.class);
+[PATCH] (JsonSerializerBase.class){
+[PATCH] (JsonProperty.class)) {
+[PATCH] (JsonSerializer<Object>serializer){
+[PATCH] (JsonEncoding.UTF8);
+[PATCH] (JsonWriter.class);
+[PATCH] (JsonSerializer<?> serializer){
+[PATCH] (JsonWriter.class){
+[PATCH] extends JsonPropertyWriter){
+[PATCH] (object.getClass());
+[PATCH] implements JsonPropertyWriter){
+[PATCH] extends BeanPropertyWriter){
+[PATCH] extends BeanPropertyWriter {
+[PATCH] implements BeanPropertyWriter){
+[PATCH] (null, null);
+[PATCH] extends PropertyWriter){
+[PATCH] {
+[PATCH] () {
+[PATCH] ){
+);
+;
+());

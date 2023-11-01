@@ -1,0 +1,100 @@
+[PATCH] if(!that.isRecordType()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType()){ if(!that.isMaybeRecordType()){ return super.getLeastSupertype(that); }
+[PATCH] if(that.isRecordType()){ if(!that.isMaybeRecordType()){ return super.getLeastSupertype(that); }
+[PATCH] if(that.isRecordType() &&!that.isNoObjectType()){ if(!that.isMaybeRecordType()){ return super.getLeastSupertype(that); }
+[PATCH] if(that.isRecordType() &&!that.isUnknownType()){ if(!that.isMaybeRecordType()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType() ||!that.isAllObjectType()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType() ||!that.isObject()){ if(!that.isRecordType()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType()){ if(!that.isLiteralType()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType() ||!that.isNoObjectType()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType()){ if(!that.isPropertyTypeInferred()){ return super.getLeastSupertype(that); }
+[PATCH] if(that.isRecordType() &&!that.isMaybeRecordType()){ if(!that.isRecordType()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType()){ if(!that.isContainerType()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType()){ if(!that.isNoObjectType() ||!that.isUnknownType()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType()){ if(!that.isSubtype(this)) { return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType() ||!that.isAllObjectType()){ if(!that.isNoObjectType()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType()){ if(!that.isRecordType()){ return super.getLeastSupertype(that); }
+[PATCH] if(that.isRecordType() &&!that.isEmptyType()){ if(!that.isMaybeRecordType()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType() ||!that.isAllObjectType()){ if(!that.isRecordType()){ return super.getLeastSupertype(that); }
+[PATCH] if(that.isRecordType() &&!that.isEfficient()){ if(!that.isRecordType()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType() ||!that.isNoObjectType()){ if(!that.isRecordType()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType()){ if(!that.isCollectionType()){ return super.getLeastSupertype(that); }
+[PATCH] if(that.isRecordType() &&!that.isContainerType()){ if(!that.isMaybeRecordType()){ return super.getLeastSupertype(that); }
+[PATCH] if(that.isRecordType() &&!that.isNoObjectType()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType() ||!that.isCollectionType()){ if(!that.isObject()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType() ||!that.isUnionType()){ if(!that.isRecordType()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType() ||!that.isNoObjectType()){ if(!that.isAllObjectType()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType()){ if(!that.hasProperty(property)) { return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType() ||!that.isNoObjectType()){ if(!that.isObject()){ return super.getLeastSupertype(that); }
+[PATCH] if(that.isRecordType() &&!that.isNoObjectType()){ if(!that.isLiteralType()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType() ||!that.isCollectionType()){ if(!that.isNoObjectType()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType() ||!that.isString()){ if(!that.isMaybeRecordType()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType()){ if(!that.isPrimitive()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType() ||!that.isCollectionType()){ return super.getLeastSupertype(that); }
+[PATCH] if(that.isRecordType() &&!that.isNoObjectType()){ if(!that.isNoObjectType()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType() ||!that.isNoObjectType()){ if(!that.isUnknownType()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType()){ if(!that.isString()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType()){ if(!that.isNoObjectType()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType() ||!that.isMaybeRecordType()){ return super.getLeastSupertype(that); }
+[PATCH] if(that.isRecordType() &&!that.isNoObjectType()){ if(!that.isAllObjectType()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType() ||!that.isInstanceType()){ if(!that.isRecordType()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType() ||!that.isUnknownType()){ if(!that.isNoObjectType()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType() &&!that.isNoObjectType()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType() ||!that.isContainerType()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType()){ if(!that.isNoRecordType()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType() ||!that.isNoObjectType()){ if(!that.isLiteralType()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType()){ if(!that.isObject()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType()){ if(!that.isProperType()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType()){ if(!that.isUnknownType() ||!that.isAllObjectType()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType()){ if(!that.isNominalType()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType()){ if(!that.isMustRecordType()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType()){ if(!that.isAllProperties()){ return super.getLeastSupertype(that); }
+[PATCH] if(that.isRecordType()){ if(!that.isLiteralType()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType()){ if(!that.isUnionType()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType()){ if(!that.isPropertyTypeDeclared(property)) { return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType() ||!that.isUnknownType()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType() ||!that.isAllTypes()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType()){ if(!that.isAnyType()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType()){ if(!that.isEliminate()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType()){ if(!that.isInformational()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType()){ if(!that.isSimpleType()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType()){ if(!that.isAllTypes()){ return super.getLeastSupertype(that); }
+[PATCH] if(that.isRecordType() &&!that.isNoObjectType()){ if(!that.isUnknownType()){ return super.getLeastSupertype(that); }
+[PATCH] if(that.isRecordType() &&!that.isAllTypes()){ return super.getLeastSupertype(that); }
+[PATCH] if(that.isRecordType()){ if(!that.isNoRecordType()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isObject()){ if(!that.isRecordType()){ return super.getLeastSupertype(that); }
+[PATCH] if(that.isRecordType()){ if(!that.isContainerType()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType() ||!that.isAllProperties()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType() ||!that.isNotRecordType()){ return super.getLeastSupertype(that); }
+[PATCH] if(that.isRecordType() &&!that.isMaybeRecordType()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType()){ if(!that.isInstanceType()){ return super.getLeastSupertype(that); }
+[PATCH] if(that.isRecordType() &&!that.isAllObjectType()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType() ||!that.isAll()){ return super.getLeastSupertype(that); }
+[PATCH] if(!that.isRecordType() ||!that.isSubtype(this)) {
+[PATCH] if(that.isRecordType() &&!that.isNoObjectType()){ if(!that.isMaybeRecordType()){ return this.getLeastSupertype(that); }
+[PATCH] if(that.isRecordType() &&!that.isNoObjectType()){ if(!that.isMaybeRecordType()){ returnsuper.getLeastSupertype(that); }
+[PATCH] if(that.isRecordType() &&!that.isNoObjectType()){ if(!that.isMaybeRecordType()){ return null; }
+[PATCH] if(!that.isRecordType() ||!that.isCollectionType()){ if(!that.isMaybeRecordType()){ return null; }
+[PATCH] if(!that.isRecordType() ||!that.isNoObjectType()){ if(!that.isMaybeRecordType()){ return null; }
+[PATCH] if(!that.isRecordType() ||!that.isUnknownType()){ if(!that.isMaybeRecordType()){ return null; }
+[PATCH] if(!that.isRecordType() ||!that.isCollectionType()){ if(!that.isMapType() ||!that.isObject()){ return null; }
+[PATCH] if(!that.isRecordType() ||!that.isSubtype(this)) { if(!that.isRecordType()){ return null; }
+[PATCH] if(that.isRecordType() &&!that.isUnknownType()){ if(!that.isMaybeRecordType()){ return null; }
+[PATCH] if(!that.isRecordType() ||!that.isObject()){ if(!that.isRecordType()){ return null; }
+[PATCH] if(!that.isRecordType() ||!that.isContainerType()){ if(!that.isMaybeRecordType()){ return null; }
+[PATCH] if(!that.isRecordType() ||!that.isPropertyTypeInferred()){ if(!that.isMaybeRecordType()){ return null; }
+[PATCH] if(!that.isRecordType() ||!that.isAllObjectType()){ if(!that.isNoObjectType()){ return null; }
+[PATCH] if(that.isRecordType() &&!that.isMaybeRecordType()){ if(!that.isRecordType()){ return null; }
+[PATCH] if(!that.isRecordType() ||!that.isNoObjectType()){ if(!that.isRecordType()){ return null; }
+[PATCH] if(!that.isRecordType() ||!that.isSubtype(this)) { if(!that.isMaybeRecordType()){ return null; }
+[PATCH] if(that.isRecordType() &&!that.isNoObjectType()){
+[PATCH] if(!that.isRecordType() ||!that.isNoObjectType()){
+[PATCH] if(!that.isRecordType() ||!that.isAllObjectType()){ if(!that.isRecordType()){ return null; }
+[PATCH] if(!that.isRecordType()){ return null; }
+[PATCH] if(!that.isRecordType()){
+[PATCH] [Delete]
+[PATCH] ;
+[PATCH] });
+);
+;
+*/

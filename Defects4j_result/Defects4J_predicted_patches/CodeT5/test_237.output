@@ -1,0 +1,100 @@
+[PATCH] if(!key.isEmpty()){ if(el.hasAttributeNS(key)) { continue; }
+[PATCH] if(!key.isEmpty()){ Element dest = el.element(); if(dest!= null){ dest.removeAttributeNode(key); }
+[PATCH] if(!key.equals("*")) { Element dest = el.element(); if(dest!= null){ dest.removeAttributeNode(key); }
+[PATCH] if(!key.equals("*")) { Element dest = el.elementElement(); if(dest!= null){ dest.removeAttributeNode(key); }
+[PATCH] if(key.length() > 0){ Element dest = el.element(); if(dest!= null){ dest.removeAttributeNode(key); }
+[PATCH] if(!key.isEmpty()){ Element dest = el.elementElement(); if(dest!= null){ dest.removeAttributeNode(key); }
+[PATCH] if(!key.isEmpty()){ if(el.hasAttributeNS(xmlnsPrefix, key)) { continue; }
+[PATCH] if(!key.equals("*")) { if(el.hasAttributeNS(xmlnsPrefix, key)) { continue; }
+[PATCH] if(key.length() > 0){ Element dest = el.elementElement(); if(dest!= null){ dest.removeAttributeNode(key); }
+[PATCH] if(!key.isEmpty()){ Element dest = el.getAttributeNodeNS(xmlnsPrefix, attribute.getNamespaceURI()); if(dest!= null){ continue; }
+[PATCH] if(!key.isEmpty()){ Element dest = el.getAttributeNodeNS(prefix, attribute.getNamespaceURI()); if(dest!= null){ continue; }
+[PATCH] if(!key.equals("*")) { Element dest = el.getAttributeNodeNS(xmlnsPrefix, attribute.getNamespaceURI()); if(dest!= null){ continue; }
+[PATCH] if(!key.equals("*")) { Element dest = el.getAttributeNodeNS(prefix, attribute.getNamespaceURI()); if(dest!= null){ continue; }
+[PATCH] if(!key.equals("")) { if(el.hasAttributeNS(xmlnsPrefix, key)) { continue; }
+[PATCH] if(!key.isEmpty()){ Element dest = el.getAttributeNodeNS(xmlnsPrefix, attribute.getNamespaceURI()); if(dest!= null){ copyAttributes(source, dest); }
+[PATCH] if(!key.isEmpty()){ Element dest = el.getAttributeNodeNS(prefix, attribute.getNamespaceURI()); if(dest!= null){ copyAttributes(source, dest); }
+[PATCH] if(!key.equals("*")) { Element dest = el.getAttributeNodeNS(prefix, attribute.getNamespaceURI()); if(dest!= null){ copyAttributes(source, dest); }
+[PATCH] if(!key.equals("*")) { Element dest = el.elementSibling(); if(dest!= null){ dest.removeAttributeNode(key); }
+[PATCH] if(!key.equals("*")) { Element dest = el.getAttributeNodeNS(prefix, attribute.getNamespaceURI()); if(dest!= null){ copyAttributes(dest, source); }
+[PATCH] if(!key.isEmpty()){ Element dest = el.getAttributeNodeNS(xmlnsPrefix, attribute.getNamespaceURI()); if(dest!= null){ copyAttributes(attribute, dest); }
+[PATCH] if(!key.equals("")) { Element dest = el.element(); if(dest!= null){ dest.removeAttributeNode(key); }
+[PATCH] if(!key.equals("*")) { Element dest = el.getAttributeNodeNS(xmlnsPrefix, prefix); if(dest!= null){ copyAttributes(source, dest); }
+[PATCH] if(!key.equals("*")) { if(el.hasAttr(key)) { continue; }
+[PATCH] if(!key.equals("*")) { if(el.hasAttributeNS(key)) { continue; }
+[PATCH] if(!key.isEmpty()){ Element dest = el.getAttributeNodeNS(prefix, attribute.getNamespaceURI()); if(dest!= null){ copyAttributes(attribute, dest); }
+[PATCH] if(!key.equals("*")) { Element dest = el.getAttributeNodeNS(xmlnsPrefix, key); if(dest!= null){ copyAttributes(source, dest); }
+[PATCH] if(!key.isEmpty()){ Element dest = el.elementSibling(); if(dest!= null){ dest.removeAttributeNode(key); }
+[PATCH] if(key.length() > 0){ if(el.hasAttributeNS(key)) { continue; }
+[PATCH] if(!key.equals("*")) { if(el.hasAttributeNS(prefix, key)) { continue; }
+[PATCH] if(!key.isEmpty()){ if(el.hasAttributeNS(prefix, key)) { continue; }
+[PATCH] if(!key.isEmpty()){ if(el.hasAttr(key)) { continue; }
+[PATCH] if(!key.equals("*")) { if(el.hasAttribute(key)) { continue; }
+[PATCH] if(!key.isEmpty()){ Element dest = el.getAttributeNodeNS(xmlnsPrefix, key); if(dest!= null){ continue; }
+[PATCH] if(key.length() > 0){ Element dest = el.elementSibling(); if(dest!= null){ dest.removeAttributeNode(key); }
+[PATCH] if(!key.isEmpty()){ Element dest = el.getAttributeNodeNS(xmlnsPrefix, key); if(dest!= null){ copyAttributes(source, dest); }
+[PATCH] if(!key.equals("*")) { Element dest = el.getAttributeNodeNS(xmlnsPrefix, key); if(dest!= null){ continue; }
+[PATCH] if(!key.equals("*")) { Element dest = el.getAttributeNodeNS(prefix, attribute.getNamespacePrefix()); if(dest!= null){ copyAttributes(dest, source); }
+[PATCH] if(!key.equals("*")) { Element dest = el.getAttributeNodeNS(xmlnsPrefix, attribute.getNamespace()); if(dest!= null){ copyAttributes(source, dest); }
+[PATCH] if(!key.equals("*")) { Element dest = el.getAttributeNodeNS(xmlnsPrefix, attribute.getNamespace()); if(dest!= null){ copyAttributes(dest, source); }
+[PATCH] if(!key.equals("")) { Element dest = el.elementElement(); if(dest!= null){ dest.removeAttributeNode(key); }
+[PATCH] if(!key.equals("")) { if(el.hasAttribute(key)) { continue; }
+[PATCH] if(!key.equals("*")) { Element dest = el.getAttributeNodeNS(prefix, attribute.getNamespacePrefix()); if(dest!= null){ copyAttributes(source, dest); }
+[PATCH] if(!key.equals("*")) { Element dest = el.getAttributeNodeNS(prefix, attribute.getNamespaceURI()); if(dest!= null){ copyAttributes(attribute, dest); }
+[PATCH] if(!key.isEmpty()){ Element dest = el.getElement(); if(dest!= null){ dest.removeAttributeNode(key); }
+[PATCH] if(!attribute.getValue().equals("")) { if(el.hasAttributeNS(key)) { continue; }
+[PATCH] if(!key.isEmpty()){ Element dest = el.getAttributeNodeNS(xmlnsPrefix, prefix); if(dest!= null){ copyAttributes(source, dest); }
+[PATCH] if(!key.equals("")) { if(el.hasAttr(key)) { continue; }
+[PATCH] if(!key.equals("")) { if(el.hasAttributeNS(prefix, key)) { continue; }
+[PATCH] if(!key.equals("*")) { Element dest = el.getAttributeNodeNS(prefix, attribute.getNamespace()); if(dest!= null){ copyAttributes(dest, source); }
+[PATCH] if(key.length()!= 0){ if(!"".equals(key)) { key = key.trim().toLowerCase(); }
+[PATCH] if(!key.equals("*")) { Element dest = el.getAttributeNodeNS(prefix, attribute.getNamespace()); if(dest!= null){ copyAttributes(source, dest); }
+[PATCH] if(!key.isEmpty()){ if(el.hasAttributeNodeNS(key)) { continue; }
+[PATCH] if(!key.isEmpty()){ Element dest = el.getAttributeNodeNS(prefix, attribute.getNamespacePrefix()); if(dest!= null){ continue; }
+[PATCH] if(!key.equals("*")) { Element dest = el.getAttributeNodeNS(xmlnsPrefix, attribute.getNamespace()); if(dest!= null){ continue; }
+[PATCH] if(!key.isEmpty()){ Element dest = el.getAttributeNodeNS(prefix, attribute.getNamespacePrefix()); if(dest!= null){ copyAttributes(source, dest); }
+[PATCH] if(!key.isEmpty()){ Element dest = el.getAttributeNodeNS(xmlnsPrefix, attribute.getNamespace()); if(dest!= null){ continue; }
+[PATCH] if(!key.equals("*")) { Element dest = el.getAttributeNodeNS(prefix, attribute.getNamespacePrefix()); if(dest!= null){ continue; }
+[PATCH] if(!key.isEmpty()){ Element dest = el.getAttributeNodeNS(prefix, attribute.getNamespace()); if(dest!= null){ copyAttributes(source, dest); }
+[PATCH] if(!key.isEmpty()){ Element dest = el.getAttributeNodeNS(xmlnsPrefix, attribute.getNamespace()); if(dest!= null){ copyAttributes(source, dest); }
+[PATCH] if(!key.isEmpty()){ Element dest = el.getAttributeNodeNS(prefix, attribute.getNamespace()); if(dest!= null){ continue; }
+[PATCH] if(!key.isEmpty()){ Element dest = el.getAttributeNodeNS(prefix, attribute.getNamespaceURI()); if(dest!= null){ copyAttributes(dest, source); }
+[PATCH] if(!key.equals("*")) { if(el.hasAttributeNS(namespacePrefix, key)) { continue; }
+[PATCH] if(!key.isEmpty()){ Element dest = el.getAttributeNodeNS(xmlnsPrefix, attribute.getNamespaceURI()); if(dest!= null){ copyAttributes(dest, source); }
+[PATCH] if(key.length() > 0){ Element dest = el.getAttributeNodeNS(prefix, attribute.getNamespaceURI()); if(dest!= null){ continue; }
+[PATCH] if(!key.equals("*")) { Element dest = el.getAttributeNodeNS(prefix, attribute.getNamespaceURI()); if(dest!= null){ copyAttributes(src, dest); }
+[PATCH] if(!key.equals("*")) { Element dest = el.getAttributeNodeNS(namespaceURI); if(dest!= null){ copyAttributes(source, dest); }
+[PATCH] if(!key.equals("")) { Element dest = el.getAttributeNodeNS(xmlnsPrefix, attribute.getNamespaceURI()); if(dest!= null){ continue; }
+[PATCH] if(!key.equals("*")) { Element dest = el.getAttributeNodeNS(prefix, attribute.getNamespace()); if(dest!= null){ continue; }
+[PATCH] if(key.length() > 0){ Element dest = el.getAttributeNodeNS(prefix, attribute.getNamespaceURI()); if(dest!= null){ copyAttributes(source, dest); }
+[PATCH] if(!key.equals("")) { if(el.hasAttributeNS(key)) { continue; }
+[PATCH] if(key.length() > 0){ if(el.hasAttributeNS(xmlnsPrefix, key)) { continue; }
+[PATCH] if(!key.equals("*")) { Element dest = el.getAttributeNodeNS(prefix, attribute.getNamespaceURI()); if(dest!= null){ dest.copyAttributes(attribute); }
+[PATCH] if(!key.equals("*")) { Element dest = el.getAttributeNodeNS(prefix, attribute.getNamespacePrefix()); if(dest!= null){ dest.copyAttributes(attribute); }
+[PATCH] if(!key.isEmpty()){ Element dest = el.getAttributeNodeNS(prefix, attribute.getPrefix()); if(dest!= null){ continue; }
+[PATCH] if(!key.isEmpty()){ if(el.hasAttributeNS(xmlnsKey, key)) { continue; }
+[PATCH] if(!key.equals("*")) { Element dest = el.getAttributeNodeNS(xmlnsPrefix, prefix); if(dest!= null){ continue; }
+[PATCH] if(!key.equals("")) { if(target!= null){ key = key.trim().toLowerCase(); }
+[PATCH] if(!key.equals("*")) { Element dest = el.getAttributeNodeNS(prefix, attribute.getPrefix()); if(dest!= null){ copyAttributes(dest, source); }
+[PATCH] if(!key.isEmpty()){ Element dest = el.getAttributeNodeNS(xmlnsPrefix, prefix); if(dest!= null){ continue; }
+[PATCH] if(!key.equals("")) { Element dest = el.getAttributeNodeNS(prefix, attribute.getNamespaceURI()); if(dest!= null){ copyAttributes(dest, source); }
+[PATCH] if(!key.isEmpty()){ Element dest = el.getAttributeNodeNS(attr.getNamespaceURI(), attribute.getPrefix()); if(dest!= null){ continue; }
+[PATCH] if(!key.equals("*")) { Element dest = el.elementFromNode(attribute); if(dest!= null){ dest.removeAttributeNode(key); }
+[PATCH] if(!key.isEmpty()){ Element dest = el.getAttributeNodeNS(attribute.getNamespaceURI(), attribute.getPrefix()); if(dest!= null){ continue; }
+[PATCH] if(key.length() > 0){ Element dest = el.getAttributeNodeNS(prefix, attribute.getPrefix()); if(dest!= null){ continue; }
+[PATCH] if(!key.isEmpty()){ if(!isValidKey(key)) { throw new IllegalArgumentException(""); }
+[PATCH] if(!key.equals("*")) { Element dest = el.getAttributeNodeNS(prefix, attribute.getNamespaceURI()); if(dest!= null){ dest.clear(); }
+[PATCH] if(!key.equals("")) { Element dest = el.getAttributeNodeNS(xmlnsPrefix, attribute.getNamespace()); if(dest!= null){ copyAttributes(dest, source); }
+[PATCH] if(!key.equals("*")) { Element dest = el.getAttributeNodeNS(attribute.getNamespaceURI(), attribute.getPrefix()); if(dest!= null){ continue; }
+[PATCH] if(!key.equals("")) { Element dest = el.getAttributeNodeNS(prefix, attribute.getNamespacePrefix()); if(dest!= null){ copyAttributes(dest, source); }
+[PATCH] if(key.length()!= 0){ if(!"".equals(key)) { continue; }
+[PATCH] if(!key.equals("*")) { Element dest = el.getAttributeNodeNS(prefix, attribute.getNamespacePrefix()); if(dest!= null){ dest.appendChild(attribute); }
+[PATCH] if(key.length()!= 0){ if(!"".equals(key)) { throw new IllegalArgumentException(""); }
+[PATCH] if(!key.equals("*")) { Element dest = el.getAttributeNodeNS(attr.getNamespaceURI(), attribute.getPrefix()); if(dest!= null){ continue; }
+[PATCH] if(!key.equals("*")) { Element dest = el.getAttributeNodeNS(prefix, attribute.getNamespaceURI()); if(dest!= null){ copyAttributes(dest, attr); }
+[PATCH] if(key.length()!= 0){ if(el.hasAttributeNS(key)) { continue; }
+[PATCH] if(!key.isEmpty()){ if(el.hasAttribute(key)) { continue; }
+[PATCH] if(!key.equals("*")) { if(el.hasAttributes()){ continue; }
+[PATCH] if(!key.isEmpty()){ if(!"xmlns".equals(key)) { continue; }
+[PATCH] if(!key.isEmpty()){ if(!isValidKey(key)) { continue; }
+[PATCH] if(!key.isEmpty()){ if("xmlns".equals(key)) { continue; }

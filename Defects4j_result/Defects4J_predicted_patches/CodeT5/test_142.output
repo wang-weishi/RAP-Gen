@@ -1,0 +1,100 @@
+[PATCH] if(isExtern){ if(childType.getJSDocInfo()!= null){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NON_OBJECT, childType.toString()); }
+[PATCH] if(isExtern){ if(childType.getNext()!= null){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NON_OBJECT, childType.toString()); }
+[PATCH] if(inExterns){ if(!functionType.isConstructor() ||!functionType.isInterface()){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NON_OBJECT); }
+[PATCH] if(childType.getNext()!= null){ if(!isExtern){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NON_OBJECT, childType.toString()); }
+[PATCH] if(inExterns){ if(!functionType.isConstructor() || functionType.isInterface()){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NON_OBJECT); }
+[PATCH] if(isExtern){ if(!functionType.isConstructor() ||!functionType.isInterface()){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NON_OBJECT); }
+[PATCH] if(!isExtern){ if(functionType.isConstructor() || functionType.isInterface()){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NON_OBJECT); }
+[PATCH] if(child.getType() == Token.GETPROP){ if(!isExtern){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NON_OBJECT, childType.toString()); }
+[PATCH] if(child.getType() instanceof FunctionType){ if(!isExtern){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NON_OBJECT, childType.toString()); }
+[PATCH] if(!inExterns){ if(functionType.isConstructor() || functionType.isInterface()){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NON_OBJECT); }
+[PATCH] if(childType.getJSDocInfo()!= null){ if(!isExtern){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NON_OBJECT, childType.toString()); }
+[PATCH] if(child.getType() == Token.NEW){ if(!isExtern){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NON_OBJECT, childType.toString()); }
+[PATCH] if(!isExtern){ if(childType.getNext()!= null){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NON_OBJECT, childType.toString()); }
+[PATCH] if(inExterns){ if(functionType.isConstructor() || functionType.isInterface()){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NON_OBJECT); }
+[PATCH] if(!inExterns){ if(childType.getNext()!= null){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NON_OBJECT, childType.toString()); }
+[PATCH] if(isExtern){ if(childType.getJSDocInfo()!= null){ report(t, n, DETERMINISTIC_TEST_NO_RESULT, childType.toString()); }
+[PATCH] if(isExtern){ if(childType!= null){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NON_OBJECT, childType.toString()); }
+[PATCH] if(isExtern){ if(!functionType.isConstructor() || functionType.isInterface()){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NON_OBJECT); }
+[PATCH] if(child.getNext()!= null){ if(!isExtern){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NON_OBJECT, childType.toString()); }
+[PATCH] if(isExtern){ if(childType.getJSDocInfo()!= null){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NON_OBJECT); }
+[PATCH] if(childType.getNext()!= null){ if(!NodeUtil.isFunctionObjectCall(n)) { report(t, n, FUNCTION_MASKS_VARIABLE, childType.toString()); }
+[PATCH] if(!isExtern){ if(childType.getJSDocInfo()!= null){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NON_OBJECT, childType.toString()); }
+[PATCH] if(inExterns){ if(!functionType.isConstructor() &&!functionType.isInterface()){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NON_OBJECT); }
+[PATCH] if(child == n.getFirstChild()){ if(!isExtern){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NON_OBJECT, childType.toString()); }
+[PATCH] if(isExtern){ if(childType.getJSDocInfo()!= null){ report(t, n, EXPR_RESULT, childType.toString()); }
+[PATCH] if(child.getType() == Token.CALL){ if(!isExtern){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NON_OBJECT, childType.toString()); }
+[PATCH] if(childType.getNext()!= null){ if(!isExtern){ report(t, n, DETERMINISTIC_TEST_NO_RESULT, childType.toString()); }
+[PATCH] if(child.getType() == Token.NEW){ if(!isExtern){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NON_OBJECT); }
+[PATCH] if(inExterns){ if(!functionType.isConstructor() ||!functionType.isInterface()){ report(t, n, FUNCTION_MASKS_VARIABLE, childType.toString()); }
+[PATCH] if(inExterns){ if(!functionType.isConstructor() || functionType.isInterface()){ report(t, n, FUNCTION_MASKS_VARIABLE, childType.toString()); }
+[PATCH] if(childType.getJSDocInfo()!= null){ if(!NodeUtil.isFunctionObjectCall(n)) { report(t, n, FUNCTION_MASKS_VARIABLE, childType.toString()); }
+[PATCH] if(childType.getNext()!= null){ if(!functionType.hasInstanceType()){ report(t, n, UNEXPECTED_INSTANCE_TYPE); }
+[PATCH] if(childType.getJSDocInfo()!= null){ if(!NodeUtil.isFunctionDeclaration(n)) { report(t, n, FUNCTION_MASKS_VARIABLE, childType.toString()); }
+[PATCH] if(childType.getNext()!= null){ if(!functionType.isReturnType().isUnknownType()){ report(t, n, FUNCTION_MASKS_VARIABLE, childType.toString()); }
+[PATCH] if(childType.getNext()!= null){ if(!functionType.hasInstanceType()){ report(t, n, CONSTRUCTED_THIS, childType.toString()); }
+[PATCH] if(child.getNext()!= null){ if(!NodeUtil.isFunctionObjectCall(n)) { report(t, n, FUNCTION_MASKS_VARIABLE, child.toString()); }
+[PATCH] if(isExtern){ if(typeRegistry.getNativeType(U2U_CONSTRUCTOR_TYPE)!= null){ report(t, n, FUNCTION_MASKS_VARIABLE, functionName); }
+[PATCH] if(isExtern){ if(childType.getNext()!= null){ report(t, n, EXPR_RESULT, childType.toString()); }
+[PATCH] if(isExtern){ if(childType.getJSDocInfo()!= null){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NO_RESULT, childType.toString()); }
+[PATCH] if(child.getType() == Token.NEW){ if(!isExtern){ report(t, n, DETERMINISTIC_TEST_NO_RESULT, childType.toString()); }
+[PATCH] if(childType.getNext()!= null){ if(!functionType.hasInstanceType()){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NON_OBJECT); }
+[PATCH] if(inExterns){ if(!functionType.isConstructor() ||!functionType.isInterface()){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NO_OBJECT); }
+[PATCH] if(isExtern){ if(!functionType.isConstructor() ||!functionType.isInterface()){ report(t, n, FUNCTION_MASKS_VARIABLE, childType.toString()); }
+[PATCH] if(childType.getNext()!= null){ if(!isExtern){ report(t, n, CONSTRUCTED_THIS, childType.toString()); }
+[PATCH] if(isExtern){ if(childType.getNext()!= null){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NON_OBJECT); }
+[PATCH] if(isExtern){ if(functionType.getReturnType().isUnknownType() || functionType.getReturnType().isNullable()){ report(t, n, FUNCTION_MASKS_VARIABLE, childType.toString()); }
+[PATCH] if(!inExterns){ if(functionType.isConstructor() || functionType.isInterface()){ report(t, n, FUNCTION_MASKS_VARIABLE, childType.toString()); }
+[PATCH] if(functionType.isConstructor() || functionType.isInterface()){ if(childType!= null){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NON_OBJECT); }
+[PATCH] if(!isExtern){ if(functionType.isConstructor() || functionType.isInterface()){ report(t, n, FUNCTION_MASKS_VARIABLE, childType.toString()); }
+[PATCH] if(child.getType() == Token.GETPROP){ if(functionType.isConstructor() || functionType.isInterface()){ report(t, n, FUNCTION_MASKS_VARIABLE, child.toString()); }
+[PATCH] if(childType.getJSDocInfo()!= null){ if(!isExtern){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NON_OBJECT); }
+[PATCH] if(isExtern){ if(n.getFirstChild().getType()!= Token.NAME){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NON_OBJECT); }
+[PATCH] if(childType.getNext()!= null){ if(!functionType.hasInstanceType()){ report(t, n, U2U_CONSTRUCTOR_TYPE, childType.toString()); }
+[PATCH] if(child.getType() == Token.NEW){ if(!isExtern){ report(t, n, CONSTRUCTED_THIS, childType.toString()); }
+[PATCH] if(isExtern){ if(childType.getNext()!= null){ report(t, n, CONSTRUCTED_THIS, childType.toString()); }
+[PATCH] if(isExtern){ if(childType.getJSDocInfo()!= null){ report(t, n, EXPR_TYPE, childType.toString()); }
+[PATCH] if(child.getType() == Token.NEW){ if(!isExtern){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NO_OBJECT); }
+[PATCH] if(isExtern){ if(typeRegistry.getNativeType(U2U_CONSTRUCTOR_TYPE)!= null){ report(t, n, FUNCTION_MASKS_VARIABLE, childType.toString()); }
+[PATCH] if(isExtern){ if(childType.getJSDocInfo()!= null){ report(t, n, EVAL_ERROR, childType.toString()); }
+[PATCH] if(child.getType() == Token.CALL){ if(!isExtern){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NON_OBJECT); }
+[PATCH] if(childType.getNext()!= null){ if(!isExtern){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NON_OBJECT); }
+[PATCH] if(child.getNext()!= null){ if(!NodeUtil.isFunctionObjectCall(n)) { report(t, n, OVERRIDING_PROTOTYPE_WITH_NON_OBJECT); }
+[PATCH] if(child.getType() instanceof FunctionType){ if(!functionType.isConstructor() ||!functionType.isInterface()){ report(t, n, FUNCTION_MASKS_VARIABLE, child.toString()); }
+[PATCH] if(isExtern){ if(childCount > 0){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NON_OBJECT); }
+[PATCH] if(child.getType() instanceof FunctionType){ if(!isExtern){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NON_OBJECT); }
+[PATCH] if(inExterns){ if(!functionType.isConstructor() || functionType.isInterface()){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NO_OBJECT); }
+[PATCH] if(!isExtern){ if(functionType.isConstructor() || functionType.isInterface()){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NON_OBJECT); return; }
+[PATCH] if(child.getType() == Token.GETPROP){ if(!isExtern){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NON_OBJECT); }
+[PATCH] if(childType.getNext()!= null){ if(!isExtern){ report(t, n, EXPR_RESULT, childType.toString()); }
+[PATCH] if(child.getType() == Token.GETPROP){ if(child.getLastChild().getString().equals("call")) { return; }
+[PATCH] if(child == n.getFirstChild()){ if(!isExtern){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NON_OBJECT); }
+[PATCH] if(isExtern){ if(childType.getJSDocInfo()!= null){ report(t, n, BOUND_TYPE, childType.toString()); }
+[PATCH] if(isExtern){ if(!functionType.isConstructor() ||!functionType.isInterface()){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NO_OBJECT); }
+[PATCH] if(isExtern){ if(!functionType.isConstructor() || functionType.isInterface()){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NON_OBJECT); return; }
+[PATCH] if(isExtern){ if(childType.getJSDocInfo()!= null){ report(t, n, RANGE_ERROR, childType.toString()); }
+[PATCH] if(isExtern){ if(!functionType.isConstructor() ||!functionType.isInterface()){ report(t, n, FUNCTION_MASKS_VARIABLE, functionName); }
+[PATCH] if(inExterns){ if(!functionType.isConstructor() ||!functionType.isInterface()){ report(t, n, FUNCTION_MASKS_VARIABLE, functionName); }
+[PATCH] if(child.getType() == Token.NEW){ if(!isExtern){ report(t, n, MULTIPLE_NEW_TYPE); }
+[PATCH] if(child.getType() == Token.NAME){ String functionName = n.getFirstChild().getString(); if(functionName.isEmpty()){ return; }
+[PATCH] if(child.getType() == Token.GETPROP){ if(child.getLastChild().getString().equals("prototype")) { return; }
+[PATCH] if(child.getType() == Token.NEW){ if(!isExtern){ report(t, n, DETERMINISTIC_TEST_NO_RESULT); }
+[PATCH] if(inExterns){ if(functionType.isConstructor() || functionType.isInterface()){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NON_OBJECT); return; }
+[PATCH] if(!inExterns){ if(functionType.isConstructor() || functionType.isInterface()){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NO_OBJECT); }
+[PATCH] if(inExterns){ if(!functionType.isConstructor() || functionType.isInterface()){ report(t, n, ILLEGAL_NAME); }
+[PATCH] if(!isExtern){ if(functionType.isConstructor() || functionType.isInterface()){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NO_OBJECT); }
+[PATCH] if(isExtern){ if(functionType.getReturnType().isUnknownType() || functionType.getReturnType().isEmptyType()){ report(t, n, FUNCTION_MASKS_VARIABLE); }
+[PATCH] if(inExterns){ if(functionType.isConstructor() || functionType.isInterface()){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NO_OBJECT); }
+[PATCH] if(childType.getNext()!= null){ if(!isExtern){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NON_OBJECT, childType.toString()); return; }
+[PATCH] if(child.getType() instanceof FunctionType){ if(!functionType.isConstructor() || functionType.isInterface()){ report(t, n, FUNCTION_MASKS_VARIABLE, child.toString()); }
+[PATCH] if(child.getType() == Token.NEW){ if(!isExtern){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NON_OBJECT); return; }
+[PATCH] if(isExtern){ if(functionType.getReturnType().isUnknownType() || functionType.getReturnType().isVarArgs()){ report(t, n, FUNCTION_MASKS_VARIABLE); }
+[PATCH] if(inExterns){ if(!functionType.isConstructor() ||!functionType.isInterface()){ return; }
+[PATCH] if(isExtern){ if(functionType.getReturnType().isUnknownType() || functionType.getReturnType().isVarArgs()){ report(t, n, FUNCTION_MASKS_VARIABLE, functionName); }
+[PATCH] if(isExtern){ if(functionType.getReturnType().isUnknownType() || functionType.getReturnType().isUnionType()){ report(t, n, FUNCTION_MASKS_VARIABLE); }
+[PATCH] if(inExterns){ if(!functionType.isConstructor() &&!functionType.isInterface()){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NO_OBJECT); }
+[PATCH] if(isExtern){ if(functionType.getReturnType().isUnknownType() || functionType.getReturnType().isEmptyType()){ report(t, n, FUNCTION_MASKS_VARIABLE, functionName); }
+[PATCH] if(isExtern){ if(functionType.getReturnType().isUnknownType() || functionType.getReturnType().isVarArgs()){ report(t, n, FUNCTION_MASKS_VARIABLE, name); }
+[PATCH] if(isExtern){ if(childType.getJSDocInfo()!= null){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NON_OBJECT, childType.toString()); return; }
+[PATCH] if(isExtern){ if(functionType.getReturnType().isUnknownType() || functionType.getReturnType().isEmptyType()){ report(t, n, FUNCTION_MASKS_VARIABLE, name); }
+[PATCH] if(child.getType() instanceof FunctionType){ if(!isExtern){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NON_OBJECT, childType.toString()); return; }

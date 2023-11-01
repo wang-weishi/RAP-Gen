@@ -1,0 +1,100 @@
+[PATCH] return toBoolean(str, false);
+[PATCH] switch(str.length()){ case 3: return true;
+[PATCH] switch(str.length()){ case 3: return false;
+[PATCH] switch(str.charAt(2)) { case 'Y' : return true;
+[PATCH] switch(str.charAt(2)) { case 'Y': return true;
+[PATCH] switch(str.length()){ case 2: return true;
+[PATCH] switch(str.charAt(1)) { case 'Y' : return true;
+[PATCH] switch(str.charAt(1)) { case 'Y': return true;
+[PATCH] switch(str.charAt(2)) { case 'Y'){ return true;
+[PATCH] return(ch == 'Y')? true : false;
+[PATCH] switch(str.charAt(2)) { case 'T' : return true;
+[PATCH] switch(str.charAt(1)) { case 'Y'){ return true;
+[PATCH] switch(str.charAt(2)) { case 'Y' : return false;
+[PATCH] return toBoolean(str, true);
+[PATCH] switch(str.charAt(1)) { case 'Y' : return false;
+[PATCH] switch(str.charAt(2)) { case 'Y': return false;
+[PATCH] switch(str.length()){ case 2: return false;
+[PATCH] switch(str.charAt(2)) { case 'T': return true;
+[PATCH] switch(str.charAt(1)) { case 'Y': return false;
+[PATCH] switch(str.charAt(1)) { case 'T' : return true;
+[PATCH] if(ch == 'Y'){ return true; } else { return false; }
+[PATCH] switch(str.charAt(2)) { case 'M' : return false;
+[PATCH] switch(str.charAt(2)) { case 'T' : return false;
+[PATCH] switch(str.charAt(2)) { case 'y': return true;
+[PATCH] switch(str.charAt(0)) { case 'Y': return true;
+[PATCH] switch(str.charAt(2)) { case 'A' : return true;
+[PATCH] switch(str.charAt(2)) { case 'M' : return true;
+[PATCH] switch(str.charAt(2)) { case 'y' : return true;
+[PATCH] switch(str.charAt(0)) { case 'Y' : return true;
+[PATCH] switch(str.charAt(1)) { case 'M' : return false;
+[PATCH] return!Character.isDigit(ch)|| Character.isDigit(ch);
+[PATCH] return toBoolean(str, ch);
+[PATCH] return(ch == 'Y')? false : true;
+[PATCH] switch(str.charAt(2)) { case 'Y'){ return false;
+[PATCH] return(ch == 'Y')? false : true.equals(ch);
+[PATCH] switch(str.charAt(1)) { case 'y': return true;
+[PATCH] switch(ch){ case 2: return true;
+[PATCH] switch(str.charAt(2)) { case 'T': return false;
+[PATCH] case 3: switch(str.charAt(1)) {
+[PATCH] case 3: switch(str.charAt(2)) {
+[PATCH] switch(str.charAt(0)) { case 'Y'){ return true;
+[PATCH] switch(str.charAt(2)) { case 3: return true;
+[PATCH] switch(ch){ case 3: return true;
+[PATCH] return(ch == 'Y')? Boolean.FALSE : Boolean.TRUE;
+[PATCH] switch(str.charAt(2)) { case 3: return false;
+[PATCH] throw new IllegalArgumentException("");
+[PATCH] if(ch < 0 || ch > '9'){
+[PATCH] return BooleanUtils.toBoolean(str, false);
+[PATCH] switch(ch){ case 3: return false;
+[PATCH] return Character.isDigit(ch);
+[PATCH] switch(ch){ case 2: return false;
+[PATCH] return toBooleanHelper(str, false);
+[PATCH] return Boolean.parseBoolean(str);
+[PATCH] return ch == 'Y')? true : false;
+[PATCH] return NumberUtils.parseAsBoolean(str, false);
+[PATCH] return NumberInput.parseAsBoolean(str, false);
+[PATCH] if(ch == 'Y'){ return true; }
+[PATCH] return(ch == 'T')? true : false;
+[PATCH] ch = str.charAt(2);
+[PATCH] return super.toBoolean(str);
+[PATCH] return(ch == 'y')? true : false;
+[PATCH] return toBoolean(( char)ch);
+[PATCH] return toBooleanImpl(str, ch);
+[PATCH] return BooleanUtils.toBoolean(str);
+[PATCH] return toBoolean(str, ch == '-');
+[PATCH] return NumberUtils.toBoolean(str, false);
+[PATCH] return Character.isLetterOrDigit(ch);
+[PATCH] case 3: return toBoolean(str, false);
+[PATCH] return toBoolean(str, 0, false);
+[PATCH] return toBooleanHelper(str, true);
+[PATCH] return toBooleanArray(str, false);
+[PATCH] switch(str.length()){ case 3: {
+[PATCH] switch(str.length()){ case 3:
+[PATCH] return Character.isLetter(ch);
+[PATCH] return toBooleanImpl(str, false);
+[PATCH] return toBoolean(str, 0, 1);
+[PATCH] return Integer.parseInt(str);
+[PATCH] switch(str.charAt(1)) {
+[PATCH] if(ch < 0 || ch > 9){
+[PATCH] ch = str.charAt(3);
+[PATCH] return Boolean.valueOf(ch == 'T');
+[PATCH] return str.length() == 3;
+[PATCH] return toBoolean(str, ch + 1);
+[PATCH] return Boolean.parseBoolean(str, false);
+[PATCH] return Integer.parseInt(str, 16);
+[PATCH] return Integer.parseInt(str, false);
+[PATCH] ch = str.charAt(1);
+[PATCH] return toBoolean(str, 0, true);
+[PATCH] return Integer.parseInt(str, 10);
+[PATCH] return BooleanUtils.toBoolean(str, true);
+[PATCH] return String.valueOf(ch);
+[PATCH] return toBoolean(( char)str, false);
+[PATCH] return toBoolean(false, str);
+[PATCH] } else if(ch == 'Y'){
+[PATCH] return!Character.isDigit(ch);
+[PATCH] return toBoolean(str, ch == 'T');
+[PATCH] returntoBoolean(str, false);
+[PATCH] return Boolean.valueOf(( char)ch);
+[PATCH] switch(str.charAt(3)) {
+[PATCH] return toBooleanArray(str, ch);

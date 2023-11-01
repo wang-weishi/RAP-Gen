@@ -1,0 +1,100 @@
+[PATCH] if(c == '\''){
+[PATCH] if(c == ':'){
+[PATCH] if(c == '+' || c == '-'){
+[PATCH] if(c == '\'' || c == '\''){
+[PATCH] if(c == '/'){
+[PATCH] if(c == '-'){
+[PATCH] if(c == '-' || c == '+'){
+[PATCH] if(c == quoteChar || c == LF){
+[PATCH] if(c == ';'){
+[PATCH] if(c == '+'){
+[PATCH] if(c == '"' || c == '+'){
+[PATCH] if(c == '`' || c == '+'){
+[PATCH] if(c == '"'){
+[PATCH] if(c == '\\'){
+[PATCH] if(c == '`' || c == '\''){
+[PATCH] if(c == '#'){
+[PATCH] if(c == '`'){
+[PATCH] if(c == QUOTE){
+[PATCH] if(c == 'C'){
+[PATCH] if(c == backslash){
+[PATCH] if(c == Comment.QUOTE){
+[PATCH] if(c == this.commentMarker){
+[PATCH] if(c == '*'){
+[PATCH] if(c == ']' || c == '+'){
+[PATCH] if(c == '`'){
+[PATCH] if(c == '--' || c == '+'){
+[PATCH] if(c == '%'){
+[PATCH] if(c == quoteChar || c == newline){
+[PATCH] if(c == '('){
+[PATCH] if(c == quoteChar || c == COMMENT){
+[PATCH] if(c == quoteChar || c == '"'){
+[PATCH] if(c == c || c == '\\'){
+[PATCH] if(c == comments){
+[PATCH] if(c == '@'){
+[PATCH] if(c == quoteChar || c == chr){
+[PATCH] if(c == '#' || c == '+'){
+[PATCH] if(c == '{'){
+[PATCH] if(c == colon || c == '+'){
+[PATCH] if(c == '`' || c == '#'){
+[PATCH] if(c == quoteChar || c == ';'){
+[PATCH] if(c == '\'' || c == ')'){
+[PATCH] if(c == '\'' && c == '\''){
+[PATCH] if(c == quoteChar || c == CR){
+[PATCH] if(c == '"' || c == '\''){
+[PATCH] if(c == '"'){
+[PATCH] if(c == '#' || c == '#'){
+[PATCH] if(c == quoteChar || c == car){
+[PATCH] if(c == '\'' || c == '#'){
+[PATCH] if(c == '<'){
+[PATCH] if(c == '`' || c == ':'){
+[PATCH] if(c == c || c == LF){
+[PATCH] if(c == '?'){
+[PATCH] if(c == '#'){
+[PATCH] if(c == '\'' || c == '-'){
+[PATCH] if(c == '`' || c == '\\'){
+[PATCH] if(c == '\'' || c == '*'){
+[PATCH] if(c == Token.QUOTE){
+[PATCH] if(c == ','){
+[PATCH] if(c == commentMarker){
+[PATCH] if(c == NEW){
+[PATCH] if(c == '.'){
+[PATCH] if(c == rtrim){
+[PATCH] if(c == '\n'){
+[PATCH] if(c == COMMENT){
+[PATCH] if(c == '\\'){
+[PATCH] if(c == quot){
+[PATCH] if(c == TOKEN){
+[PATCH] if(c == '!'){
+[PATCH] if(c == COMMA){
+[PATCH] if(c == ','){
+[PATCH] if(c == colon){
+[PATCH] if(c == c){
+[PATCH] if(c == null){
+[PATCH] if(c == ';'){
+[PATCH] if(c ==COMMENT){
+[PATCH] if(c == '^'){
+[PATCH] if(c == ':'){
+[PATCH] if(c == ')'){
+[PATCH] if(c == escapeChar){
+[PATCH] if(c == '^'){
+[PATCH] if(newRecord){
+[PATCH] if(c == comma){
+[PATCH] if(c == ']'){
+[PATCH] if(c == quoteChar){
+[PATCH] if(c == '_'){
+[PATCH] if(c == escape){
+[PATCH] if(c == cursor){
+[PATCH] if(c == quotChar){
+[PATCH] if(c == '%'){
+[PATCH] if(c == "*"){
+[PATCH] if(c == '='){
+[PATCH] if(c == '|'){
+[PATCH] if(!newRecord){
+[PATCH] if(c ==RC){
+[PATCH] if(c == "!"){
+[PATCH] if(c == QUOTEChar){
+[PATCH] if(c == colonChar){
+[PATCH] {
+[PATCH] ;
+[PATCH] if

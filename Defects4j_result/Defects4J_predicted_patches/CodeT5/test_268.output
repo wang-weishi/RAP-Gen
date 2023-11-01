@@ -1,0 +1,100 @@
+[PATCH] if(shape.getShape() == JsonFormat.Shape.TIMESTAMP){
+[PATCH] if(shape.getShape() == JsonFormat.Shape.UTC){
+[PATCH] if(shape.getShape() == JsonFormat.Shape.DATE){
+[PATCH] if(shape.getShape() == JsonFormat.Shape.STRING){
+[PATCH] if(shape.getShape() == JsonFormat.Shape.SHORT){
+[PATCH] if(shape.getType() == JsonFormat.Shape.DATE){
+[PATCH] if(shape.getShape() == JsonFormat.Shape.GMT){
+[PATCH] if(shape.getShape() == JsonFormat.Shape.TimeZone){
+[PATCH] if(shape.getType() == JsonFormat.Shape.TIMESTAMP){
+[PATCH] if(shape.getShape() == JsonFormat.Shape.JAVA){
+[PATCH] if(shape.getShape() == JsonFormat.Shape.OBJECT){
+[PATCH] if(shape.getType() == JsonFormat.Shape.STRING){
+[PATCH] if(shape.getShape() == JsonFormat.Shape.SECONDS){
+[PATCH] if(shape.getType() == JsonFormat.Shape.UTC){
+[PATCH] if(shape.getShape() == JsonFormat.Shape.ZONE){
+[PATCH] if(shape.getShape() == JsonFormat.Shape.TIME){
+[PATCH] if(shape.getShape() == JsonFormat.Shape.FORMAT){
+[PATCH] if(shape.getShape() == JsonFormat.Shape.LOCAL){
+[PATCH] if(shape.getShape() == JsonFormat.Shape.MILLIS){
+[PATCH] if(shape.getShape() == JsonFormat.Shape.BOOLEAN){
+[PATCH] if(shape.getShape() == JsonFormat.Shape.TZ){
+[PATCH] if(shape.getShape() == JsonFormat.Shape.LENGTH){
+[PATCH] if(shape.equals(JsonFormat.Shape.DATE)) {
+[PATCH] if(shape.getType() == JsonFormat.Shape.SHORT){
+[PATCH] if(shape.getShape() == JsonFormat.Shape.DECIMAL){
+[PATCH] if(shape.getShape() == JsonFormat.Shape.ENUM){
+[PATCH] if(shape.getShape() == JsonFormat.Shape.SMALL){
+[PATCH] if(shape.getShape() == JsonFormat.Shape.LOCALE){
+[PATCH] if(shape.getShape() == JsonFormat.Shape.STAR){
+[PATCH] if(shape.getShape() == JsonFormat.Shape.tz){
+[PATCH] if(shape.getShape() == JsonFormat.Shape.NONE){
+[PATCH] if(shape.getShape() == JsonFormat.Shape.DURATION){
+[PATCH] if(shape.getShape() == JsonFormat.Shape.date){
+[PATCH] if(shape.getShape() == JsonFormat.Shape.time){
+[PATCH] if(shape.getShape() == JsonFormat.Shape.QUOTE){
+[PATCH] if(shape.getShape() == JsonFormat.Shape.MONTH){
+[PATCH] if(shape.getShape() == JsonFormat.Shape.PATTERN){
+[PATCH] if(shape.getShape() == JsonFormat.Shape.OPTIONAL){
+[PATCH] if(shape.getShape() == JsonFormat.Shape.MESSAGE){
+[PATCH] if(shape == JsonFormat.Shape.DATE){
+[PATCH] if(shape.getShape() == JsonFormat.Shape.NUMBER){
+[PATCH] if(shape.getClass() == JsonFormat.Shape.DATE){
+[PATCH] if(shape.getShape() == JsonFormat.Shape.URI){
+[PATCH] if(shape.getShape() == JsonFormat.Shape. DATE){
+[PATCH] if(shape == JsonFormat.Shape.HOUR_OF_DAY){
+[PATCH] if(shape.getShape() == JsonFormat.Shape.STAMP){
+[PATCH] if(shape.getShape() == JsonFormat.Shape.SECOND){
+[PATCH] if(shape.getShape() == JsonFormat.Shape.SESSION){
+[PATCH] if(shape.getShape() == JsonFormat.Shape.HANDLER){
+[PATCH] if(shape.getShape() == JsonFormat.Shape.RANGE){
+[PATCH] if(shape.getShape() == JsonFormat.Shape.UUID){
+[PATCH] if(shape.getShape() == JsonFormat.Shape.YEAR){
+[PATCH] if(shape == JsonFormat.Shape.TIME_ZONE){
+[PATCH] if(shape == JsonFormat.Shape.TIMESTAMP){
+[PATCH] if(shape == JsonFormat.Shape.UTC){
+[PATCH] if(shape == JsonFormat.Shape.SHORT){
+[PATCH] if(shape == JsonFormat.Shape.STRING){
+[PATCH] if(Shape.HOUR_OF_DAY == shape){
+[PATCH] if(ShapeUtil.isISO8601(shape)) {
+[PATCH] if(shape == JsonFormat.Shape.MILLISECOND){
+[PATCH] if(shape.getZone() == TimeZone.UTC){
+[PATCH] if(shape == JsonFormat.Shape.TimeZone){
+[PATCH] if(Shape.MONTH == shape.getIndex()){
+[PATCH] if(ShapeUtil.isDate(shape)) {
+[PATCH] if(shape.isTimeZone()){
+[PATCH] if(shape.toTimeZone() == null){
+[PATCH] if(shape == JsonFormat.Shape.ISO8601){
+[PATCH] if(shape == JsonFormat.Shape.GMT){
+[PATCH] if(ShapeUtil.isRfc1123(shape)) {
+[PATCH] if(shape.isLiteral()){
+[PATCH] if(ShapeUtil.isTimeZone(format)) {
+[PATCH] if(shape == JsonFormat.Shape.SECONDS){
+[PATCH] if(shape.isObject()){
+[PATCH] if(shape == JsonFormat.Shape.JAVA){
+[PATCH] if(shape == JsonFormat.Shape.RFC1123){
+[PATCH] if(shape.isjava.util.Date()){
+[PATCH] if(Shape.DATE == shape){
+[PATCH] if(ShapeUtil.isTimeZone(shape)) {
+[PATCH] if(shape.toTimeZone()!= null){
+[PATCH] if(shape == JsonFormat.Shape.OBJECT){
+[PATCH] if(shape.isISO8601()){
+[PATCH] if(shape.getHandler() == null){
+[PATCH] if(shape == JsonFormat.Shape.LOCAL){
+[PATCH] if(shape == JsonFormat.Shape.FORMAT){
+[PATCH] if(shape == JsonFormat.Shape.TIMEZONE){
+[PATCH] if(shape == JsonFormat.Shape.TIME){
+[PATCH] if(shape.getTimeZone() == null){
+[PATCH] if(shape.isISOFormat()){
+[PATCH] if(shape.toTimeZone() instanceof TimeZone){
+[PATCH] if(Shape.DATE_FORMAT == shape){
+[PATCH] if(shape.isPmString()){
+[PATCH] if(shape.isString()){
+[PATCH] if(shape.isPojo()){
+[PATCH] if(shape.size() == 6){
+[PATCH] if(shape.isNamedType()){
+[PATCH] if(shape instanceof SimpleDateFormat){
+[PATCH] if(shape.isRfcFormat()){
+[PATCH] if(shape.asString()){
+[PATCH] if(shape.hasTimeZone()){
+[PATCH] if(shape.isDate()){

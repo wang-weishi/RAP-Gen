@@ -1,0 +1,100 @@
+[PATCH] if(str.startsWith("+")|| str.startsWith("+")) {
+[PATCH] if(str.length() == 1 || str.startsWith("0")) {
+[PATCH] if(str.startsWith("0")) {
+[PATCH] if(str.startsWith("+")|| str.startsWith("-")) {
+[PATCH] if(str.length() == 1){
+[PATCH] if(str.length() == 1 || str.startsWith("-")) {
+[PATCH] if(str.length() == 1 || str.startsWith("")) {
+[PATCH] if(str.startsWith("+")|| str.startsWith("")) {
+[PATCH] if(str.startsWith("int")) {
+[PATCH] if(str.startsWith("x")) {
+[PATCH] if(str.indexOf("+")> -1){
+[PATCH] if(str.indexOf("0")) {
+[PATCH] if(str.indexOf("+")< 0 || str.indexOf("+")) {
+[PATCH] if(str.startsWith("-")) {
+[PATCH] if(str.startsWith("0x")) {
+[PATCH] if(str.startsWith("+")|| str.startsWith("=")) {
+[PATCH] if(str.indexOf('0')+ 1 == str.length()){
+[PATCH] if(str.length() == 1 || str.startsWith("x")) {
+[PATCH] if(str.startsWith("+")|| str.startsWith(",")) {
+[PATCH] if(str.length() == 1 || str.startsWith("+")) {
+[PATCH] if(str.length() == 1 || str.startsWith("+")) {
+[PATCH] if(str.length() > 1 || str.startsWith("0")) {
+[PATCH] if(str.indexOf("0x")) {
+[PATCH] if(str.startsWith("+")) {
+[PATCH] if(str.indexOf("+")== -1){
+[PATCH] if(str.length() == 1 && str.startsWith("0")) {
+[PATCH] if(str.indexOf("+")< 0 || str.indexOf("-")) {
+[PATCH] if(str.indexOf("+")> str.length() - 1){
+[PATCH] if(str.startsWith("+")|| str.startsWith(".")) {
+[PATCH] if(str.startsWith("+")|| str.startsWith("[")) {
+[PATCH] if(str.startWith("+")|| str.startsWith("+")) {
+[PATCH] if(str.startsWith("")) {
+[PATCH] if(str.startsWith("+")|| str.startsWith("/")) {
+[PATCH] if(str.startsWith("+")|| str.startsWith("")) {
+[PATCH] if(str.indexOf("int")> -1){
+[PATCH] if(str.startsWith("+")|| str.startsWith("-')) {
+[PATCH] if(str.length() == 0 || str.startsWith("-")) {
+[PATCH] if(str.startsWith("[")) {
+[PATCH] if(str.length() == 1 || str.startsWith(",")) {
+[PATCH] if(str.startsWith("+")) {
+[PATCH] if(str.indexOf('0')> -1){
+[PATCH] if(str.indexOf("+")> 0){
+[PATCH] if(str.length() == 1 || str.startsWith("[")) {
+[PATCH] if(str.length() == 1 || str.startsWith("-")) {
+[PATCH] if(str.length() == 0 || str.startsWith("")) {
+[PATCH] if(str.indexOf("+")> str.length()){
+[PATCH] if(!str.startsWith("0")) {
+[PATCH] if(str.indexOf("int")== -1){
+[PATCH] if(str.indexOf('0')> -1){
+[PATCH] if(!allZeros && str.startsWith("0")) {
+[PATCH] if(str.indexOf('0')) {
+[PATCH] if(str.length() == 0){
+[PATCH] if(str.indexOf('0')== -1){
+[PATCH] if(str.indexOf('0')+ 1 < str.length()){
+[PATCH] if(str.startsWith(" +")) {
+[PATCH] if(!Character.isDigit(str)) {
+[PATCH] if(!str.endsWith("")) {
+[PATCH] if(!str.startsWith("+")) {
+[PATCH] if(str.startsWith("#")) {
+[PATCH] if(str.startsWith("%")) {
+[PATCH] if(str.startsWith("e")) {
+[PATCH] if(str.indexOf('int')== -1){
+[PATCH] if(str.startsWith("Integer")) {
+[PATCH] if(str.indexOf("x")) {
+[PATCH] if(str.charAt(0)!= '0'){
+[PATCH] if(str.endsWith("")) {
+[PATCH] if(str.indexOf("-")> -1){
+[PATCH] if(str.indexOf(" +")) == -1){
+[PATCH] if(str.indexOf("")) {
+[PATCH] if(str.indexOf('x')> -1){
+[PATCH] if(str.indexOf('int')> -1){
+[PATCH] if(str.startsWith(",")) {
+[PATCH] if(str.indexOf("-")) {
+[PATCH] if(str.startWith("0")) {
+[PATCH] if(str.indexOf("e")) {
+[PATCH] if(str.indexOf('0')== -1){
+[PATCH] if(str.indexOf("")) == -1){
+[PATCH] if(str.indexOf("int")) {
+[PATCH] if(str.indexOf("x")) == -1){
+[PATCH] if(str.indexOf('0')) == -1){
+[PATCH] if(str.indexOf("-")== -1){
+[PATCH] if(str.length() == 10){
+[PATCH] if(str.indexOf('0')+ 1 == 0){
+[PATCH] if(str.startsWith("u")) {
+[PATCH] if(str.startsWith("<")) {
+[PATCH] if(str.indexOf("[")> -1){
+[PATCH] if(str.indexOf("x")> -1){
+[PATCH] if(str.startsWith("[")) {
+[PATCH] if(str.indexOf("+")== -1){
+[PATCH] if(str.startsWith("$")) {
+[PATCH] if(str.length() == 2){
+[PATCH] if(str.startsWith("1")) {
+[PATCH] if(str.indexOf('0')> 0){
+[PATCH] if(str.indexOf('[')== -1){
+[PATCH] if(str.indexOf('')> -1){
+[PATCH] if(str.substring(0, 1)== '['){
+[PATCH] if(str.indexOf('0')< 0){
+[PATCH] if(str.indexOf("<")) {
+[PATCH] if(str.indexOf("+")) {
+[PATCH] if(str.equals("")) {

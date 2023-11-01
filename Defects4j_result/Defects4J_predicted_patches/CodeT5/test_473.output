@@ -1,0 +1,100 @@
+[PATCH] public double getLInfNorm() { return 0.0; }
+[PATCH] public double getLInfNorm() throws Exception {
+[PATCH] public double getLInfNorm() { return 0; }
+[PATCH] public double getLInfNorm() throws IOException {
+[PATCH] public double getLInfNorm() { throw new UnsupportedOperationException(""); }
+[PATCH] public double getLInfNorm() { return(double)entries.iterator().next(); }
+[PATCH] public double getLInfNorm() { first(); return max; }
+[PATCH] public double getLInfNorm() throws Exception { return 0.0; }
+[PATCH] public double getLInfNorm() { iter.reset(); return max; }
+[PATCH] public double getLInfNorm() { iter.start(); return max; }
+[PATCH] public double getLInfNorm() { return 0L; }
+[PATCH] public double getLInfNorm() { return 0D; }
+[PATCH] public double getLInfNorm() throws ObjectManagerException {
+[PATCH] public double getLInfNorm() throws InterruptedException {
+[PATCH] public double getLInfNorm() throws Exception { return 0; }
+[PATCH] public double getLInfNorm() { iter.first(); return max; }
+[PATCH] public double getLInfNorm() throws IOException { return 0.0; }
+[PATCH] public double getLInfNorm() throws Exception){
+[PATCH] public double getLInfNorm() throws iter.hasNext()){ throw new UnsupportedOperationException(""); }
+[PATCH] public double getLInfNorm() : return 0.0;
+[PATCH] public double getLInfNorm() { size(); iter.reset(); return max; }
+[PATCH] public double getLInfNorm() { if(!hasNext()){ iter.reset(); }
+[PATCH] public double getLInfNorm() throws Exception){ return 0; }
+[PATCH] public double getLInfNorm() {
+[PATCH] public double getLInfNorm() { return value; }
+[PATCH] public double getLInfNorm() { iterator = entries.iterator(); return iter.value(); }
+[PATCH] public double getLInfNorm() { if(!hasNext()){ iter.next(); }
+[PATCH] public double getLInfNorm() { hasNext(); return max; }
+[PATCH] public double getLInfNorm() throws Exception){ return 0.0; }
+[PATCH] public double getLInfNorm() { return Double.NaN; }
+[PATCH] public double getLInfNorm() { return 0d; }
+[PATCH] public double getLInfNorm() { iter.stop(); return max; }
+[PATCH] public double getLInfNorm() { reset(); return max; }
+[PATCH] public double getLInfNorm() { return entry.getLInfNorm(); }
+[PATCH] public double getLInfNorm() { size(); return(double)entries.next(); }
+[PATCH] public double getLInfNorm() { return max; }
+[PATCH] public double getLInfNorm() { iter.next(); return max; }
+[PATCH] public double getLInfNorm() throws Exception { throw new UnsupportedOperationException(""); }
+[PATCH] public final double getLInfNorm() { return 0.0; }
+[PATCH] public double getLInfNorm() { init(); return max; }
+[PATCH] public double getLInfNorm() throws Exception){ throw new UnsupportedOperationException(""); }
+[PATCH] public double getLInfNorm() { return0; }
+[PATCH] public double getLInfNorm() { return current.value; }
+[PATCH] public double getLInfNorm() throws IOException){ return 0.0; }
+[PATCH] public double getLInfNorm() throws JXPathException {
+[PATCH] public double getLInfNorm() { return(double)entries.next(); }
+[PATCH] public double getLInfNorm() { return(double)entries.size(); }
+[PATCH] public double getLInfNorm() { hasNext(); return iter.next(); }
+[PATCH] public double getLInfNorm() throws java.math.Exception {
+[PATCH] public double getLInfNorm() { size(); return max; }
+[PATCH] public double getLInfNorm() throws Throwable {
+[PATCH] public double getLInfNorm() { init(); }
+[PATCH] public double getLInfNorm() { iter.reset(); }
+[PATCH] private final double getLInfNorm() {
+[PATCH] public double getLInfNorm() { reset();
+[PATCH] public double getLInfNorm() throws return 0.0;
+[PATCH] public double getLInfNorm() throws IOException){
+[PATCH] public double getLInfNorm() { return this.threshold; }
+[PATCH] public final double getLInfNorm() {
+[PATCH] public double getLInfNorm() { clear();
+[PATCH] public double getLInfNorm() throws IOException){ return 0; }
+[PATCH] public double getLInfNorm() throws IOException { return 0; }
+[PATCH] public final double getLInfNorm() { return 0; }
+[PATCH] public double getLInfNorm() { clear(); return max; }
+[PATCH] public double getLInfNorm() throws SQLException {
+[PATCH] public double getLInfNorm() { clear(); return 0; }
+[PATCH] public double getLInfNorm() { iter.reset();
+[PATCH] public double getLInfNorm() throws new UnsupportedOperationException("");
+[PATCH] public double getLInfNorm() { clearEntry();
+[PATCH] public double getLInfNorm() throws PageException {
+[PATCH] public double getLInfNorm() throws LongException {
+[PATCH] public double getLInfNorm() throws AnalyzerException {
+[PATCH] public double getLInfNorm() throws NotConnectedException {
+[PATCH] public double getLInfNorm() throws java.math.Exception){
+[PATCH] public double getLInfNorm() { reset(); }
+[PATCH] public double getLInfNorm() throws NoSuchElementException {
+[PATCH] public double getLInfNorm() { break; }
+[PATCH] public double getLInfNorm() throws NoSuchMethodException {
+[PATCH] private double getLInfNorm() throws Exception {
+[PATCH] public double getLInfNorm() { clear(); }
+[PATCH] public double getLInfNorm() { checkEnd();
+[PATCH] public double getLInfNorm() throws UnsupportedOperationException {
+[PATCH] public double getLInfNorm() { init();
+[PATCH] public double getLInfNorm() throws err){
+[PATCH] public double getLInfNorm() throws IllegalStateException {
+[PATCH] private double getLInfNorm() throws IOException {
+[PATCH] public double getLInfNorm() throws ObjectManagerException){
+[PATCH] public double getLInfNorm() { rewind();
+[PATCH] public double getLInfNorm() { }
+[PATCH] final Iterator iter = entries.iterator();
+[PATCH] private double getLInfNorm() {
+[PATCH] public double getLInfNorm();
+[PATCH] public void getLInfNorm();
+[PATCH] protected double getLInfNorm();
+[PATCH] private double getLInfNorm();
+[PATCH] entrySet().iterator();
+[PATCH] }
+[PATCH]
+);
+*/

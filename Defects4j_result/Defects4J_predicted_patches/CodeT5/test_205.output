@@ -1,0 +1,100 @@
+[PATCH] if(k >= 0 && m instanceof CapturesArguments){
+[PATCH] if(k < i.getArguments().length){
+[PATCH] if(k >= 2 && m instanceof CapturesArguments){
+[PATCH] if(k < getArgumentsCount() && m instanceof CapturesArguments){
+[PATCH] if(k >= 0 && k < getArguments().length){
+[PATCH] if(k < invocation.getArguments().length){
+[PATCH] if(k >= 0 && k < arguments.length){
+[PATCH] if(k < argumentCount && m instanceof CapturesArguments){
+[PATCH] if(k >= 0 && k < i.getArguments().length){
+[PATCH] if(k >= argCount && m instanceof CapturesArguments){
+[PATCH] if(k >= 0 && k < n.getArguments().length){
+[PATCH] if(k >= 0 && k < m.getArguments().length){
+[PATCH] if(k >= 1 && m instanceof CapturesArguments){
+[PATCH] if(k < getArgumentCount() && m instanceof CapturesArguments){
+[PATCH] if(k >= argumentCount && m instanceof CapturesArguments){
+[PATCH] if(k >= 0 && k < invocation.getArguments().length){
+[PATCH] if(k < argsCount && m instanceof CapturesArguments){
+[PATCH] if(k <argumentCount && m instanceof CapturesArguments){
+[PATCH] if(k < getArgumentsCount && m instanceof CapturesArguments){
+[PATCH] if(k >= 0 && i.getArguments()!= null){
+[PATCH] if(k >= 0 && k <Arguments.size()){
+[PATCH] if(k < argumentsCount && m instanceof CapturesArguments){
+[PATCH] if(k >= 0 && k < arguments.size()){
+[PATCH] if(k >= 0 && v.getArguments().length > k){
+[PATCH] if(k >= 0 && k < argumentMatchers.size()){
+[PATCH] if(k >= 0 && m instanceof CapturingArguments){
+[PATCH] if(k >= 0 && k <= arguments.length){
+[PATCH] if(k < arguments.length){
+[PATCH] if(k < ArgumentCount && m instanceof CapturesArguments){
+[PATCH] if(k >= 0 && k < getArgumentsCount()){
+[PATCH] if(k < getArguments().length){
+[PATCH] if(k >= 0 && v.getArguments()!= null){
+[PATCH] if(k >= 0 && k < args.length){
+[PATCH] if(k < argCount && m instanceof CapturesArguments){
+[PATCH] if(k >= 0 && k < getLength() - 1){
+[PATCH] if(k >= 0 && k <= arguments.size()){
+[PATCH] if(k >= 0 && k <Arguments.getArguments().length){
+[PATCH] if(k >= 0 && m instanceof CaptureArguments){
+[PATCH] if(k >= 0 && m instanceof CanCapturesArguments){
+[PATCH] if(k < 2 && m instanceof CapturesArguments){
+[PATCH] if(k < m.getArguments().length){
+[PATCH] if(k >= 0 && t.getArguments()!= null){
+[PATCH] if(k >= 0 && v instanceof CapturesArguments){
+[PATCH] if(k >= 0 && k < arguments.size){
+[PATCH] if(k >= 0 && k <Arguments.size() - 1){
+[PATCH] if(k >= 0 && k < matchers.size()){
+[PATCH] if(k < argumentMatchers.size()){
+[PATCH] if(k < arguments.size()){
+[PATCH] if(k >= 0 && k < len){
+[PATCH] if(k >= 0 && m instanceof ReversibleArguments){
+[PATCH] if(k < g.getArguments().length){
+[PATCH] if(k < instance.getArguments().length){
+[PATCH] if(k >= 2 && k < getArguments().length){
+[PATCH] if(k <(( CapturesArguments)m).argumentsCount){
+[PATCH] if(k < n.getArguments().length){
+[PATCH] if(k >= 2 && k <= 16){
+[PATCH] if(k >= 0 && k <CapturesArguments.size()){
+[PATCH] if(k < arguments.size){
+[PATCH] if(!(m instanceof CapturesArguments)) {
+[PATCH] if(k >= 0 && CapturesArguments.MARKER_COUNT){
+[PATCH] if(k >= 0 && k < getArgumentCount()){
+[PATCH] if(k < w.getArguments().length){
+[PATCH] if(k >= 0 && m instanceof RefinableArguments){
+[PATCH] if(k >= 0 && k < argumentTypes.length){
+[PATCH] if(k >= 0 && k <= 16){
+[PATCH] if(k < l.getArguments().length){
+[PATCH] if(k >= 0 && k < getArgumentsCount() - 1){
+[PATCH] if(k >= 0 && m instanceof CaptureArguments){
+[PATCH] if(k >= 0 && k < 2){
+[PATCH] if(k >= 0 && m instanceof Captures arguments){
+[PATCH] if(k < j.getArguments().length){
+[PATCH] if(k < p.getArguments().length){
+[PATCH] if(k < actual.getArguments().length){
+[PATCH] if(k >= 0 && CapturesArguments.BUFFER_SIZE){
+[PATCH] if(k < Matcher.getArguments().length){
+[PATCH] if(k >= 0 && k <Arguments.size){
+[PATCH] if(k <InContext.getArguments().length){
+[PATCH] if(k >= 0 && m instanceof RefineryArguments){
+[PATCH] if(k >= 0 && k <Arguments.getArgumentsCount()){
+[PATCH] if(k < getArgumentsCount()){
+[PATCH] if(k < Matcher.getArgumentsCount()){
+[PATCH] if(k >= 2 && k <= 3){
+[PATCH] if(k >= 0 && k <Arguments.length){
+[PATCH] if(k < args.length){
+[PATCH] if(k < receiver.getArguments().length){
+[PATCH] if(k >= 0 && k < argumentsCount){
+[PATCH] if(k >= 2 && k <= 9){
+[PATCH] if(k <().getArguments().length){
+[PATCH] if(k >= minArgumentsCount){
+[PATCH] if(m instanceof CapturesArguments){
+[PATCH] if(k >= argumentsCount){
+[PATCH] if(k >= getArgumentsCount()){
+[PATCH] if(k % 2 == 0){
+[PATCH] if(k < getArgumentCount()){
+[PATCH] if(k >= argumentCount){
+[PATCH] if(k >= argCount){
+[PATCH] if(k < getParameters().length){
+[PATCH] if(k < args.size){
+[PATCH] if(k < len){
+[PATCH] if(k < getArgumentsCount){

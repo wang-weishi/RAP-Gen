@@ -1,0 +1,100 @@
+[PATCH] if(pType == Token.THIS){ if(assignLhsChild!= null){ return false; }
+[PATCH] if(pType == Token.THIS){ if(assignLhsChild!= null){ return true; }
+[PATCH] if(pType == Token.THIS){ return true; }
+[PATCH] if(pType == Token.THIS){ t.report(n, level, GLOBAL_THIS); return true; }
+[PATCH] if(pType == Token.NAME){ Node llhs = n.getFirstChild(); if(llhs!= null){ return false; }
+[PATCH] if(pType == Token.THIS){ Node llhs = n.getNext(); if(llhs!= null){ return false; }
+[PATCH] if(pType == Token.THIS){ Node llhs = n.getNext(); if(llhs!= null){ return true; }
+[PATCH] if(pType == Token.NAME){ Node llhs = n.getFirstChild(); if(llhs!= null){ return true; }
+[PATCH] if(pType == Token.THIS){ JSDocInfo jsDoc = n.getJSDocInfo(); return true; }
+[PATCH] if(pType == Token.NEW){ if(assignLhsChild!= null){ return false; }
+[PATCH] if(pType == Token.DO){ if(assignLhsChild!= null){ return false; }
+[PATCH] if(pType == Token.THIS){ return false; }
+[PATCH] if(pType == Token.THIS){ JSDocInfo jsDoc = t.getJsDocInfo(); return true; }
+[PATCH] if(pType == Token.NAME){ if(assignLhsChild!= null){ return false; }
+[PATCH] if(pType == Token.CASE || pType == Token.DEFAULT){ if(assignLhsChild!= null){ return false; }
+[PATCH] if(pType == Token.NEW){ Node llhs = n.getFirstChild(); if(llhs!= null){ return false; }
+[PATCH] if(pType == Token.DO){ if(assignLhsChild!= null){ return true; }
+[PATCH] for(Node llhs : n.getChildren()){ if(llhs.getType() == Token.THIS){ return true; }
+[PATCH] } else if(pType == Token.THIS){ if(assignLhsChild!= null){ return false; }
+[PATCH] if(pType == Token.NEW){ if(assignLhsChild!= null){ return true; }
+[PATCH] if(pType == Token.THIS){ if(parent!= null && parent.getType() == Token.VAR){ return false; }
+[PATCH] if(pType == Token.THIS){ JSDocInfo jsDoc = t.getJSDocInfo(); return true; }
+[PATCH] if(pType == Token.THIS){ n.setJSDocInfo(jsDoc); return true; }
+[PATCH] if(pType == Token.FUNCTION){ if(assignLhsChild!= null){ return false; }
+[PATCH] for(Node llhs : n.getAncestors()){ if(llhs.getType() == Token.THIS){ return true; }
+[PATCH] if(pType == Token.NEW){ Node llhs = n.getFirstChild(); if(llhs!= null){ return true; }
+[PATCH] if(pType == Token.THIS){ if(parent!= null && parent.getType() == Token.VAR){ return true; }
+[PATCH] if(pType == Token.THIS){ JSDocInfo jsDoc = n.getJSDocInfo(); return false; }
+[PATCH] if(pType == Token.GETPROP){ if(assignLhsChild!= null){ return true; }
+[PATCH] if(pType == Token.NAME){ if(assignLhsChild!= null){ return true; }
+[PATCH] for(Node llhs : n.getFirstChild().getNext().getNext()){ if(llhs == null){ return false; }
+[PATCH] if(pType == Token.CASE || pType == Token.DEFAULT){ if(assignLhsChild!= null){ return true; }
+[PATCH] for(Node llhs : n.getChildren()){ if(llhs.getType() == Token.THIS){ return false; }
+[PATCH] if(pType == Token.THIS){ JSDocInfo jsDoc = t.getJsDocInfo(); return false; }
+[PATCH] for(Node llhs : n.getAncestors()){ if(llhs.getType() == Token.THIS){ return false; }
+[PATCH] if(pType == Token.THIS){ node = n; if(assignLhsChild!= null){ return false; }
+[PATCH] if(pType == Token.THIS){ node = n; if(assignLhsChild!= null){ return true; }
+[PATCH] if(pType == Token.THIS){ JSDocInfo jsDoc = t.getJSDocInfo(); return false; }
+[PATCH] if(pType == Token.GETPROP){ if(assignLhsChild!= null){ return false; }
+[PATCH] if(pType == Token.NAME && n.getFirstChild().getType() == Token.THIS){ return true; }
+[PATCH] if(pType == Token.NAME || pType == Token.GETPROP){ if(assignLhsChild!= null){ return true; }
+[PATCH] } else if(pType == Token.THIS){ if(assignLhsChild!= null){ return true; }
+[PATCH] if(pType == Token.THIS){ if(llhs!= null){ return false; }
+[PATCH] if(pType == Token.THIS){ visitGlobalThis(t, n, parent); return true; }
+[PATCH] if(pType == Token.NAME || pType == Token.GETPROP){ if(assignLhsChild!= null){ return false; }
+[PATCH] if(pType == Token.NAME){ return true; }
+[PATCH] if(pType == Token.THIS){ parent.getFirstChild().setNext(n); return true; }
+[PATCH] if(pType == Token.THIS){ JSDocInfo jsDoc = new JSDocInfo(t.getModule()); return true; }
+[PATCH] if(pType == Token.FUNCTION){ if(assignLhsChild!= null){ return true; }
+[PATCH] for(Node llhsChild : n.getFirstChild().getNext()){ if(llhsChild == null){ return false; }
+[PATCH] if(pType == Token.CALL){ if(assignLhsChild!= null){ return false; }
+[PATCH] if(pType == Token.THIS){ JSDocInfo jsDoc = null; return false; }
+[PATCH] for(Node llhs : n.getFirstChild().getNext()){ if(llhs == null){ return false; }
+[PATCH] if(pType == Token.THIS){ JSDocInfo jsDoc = new JSDocInfo(t.getModule()); return false; }
+[PATCH] while(n.getType() == Token.NAME){ n = n.getFirstChild();
+[PATCH] } else if(pType == Token.DO){ if(assignLhsChild!= null){ return false; }
+[PATCH] if(pType == Token.THIS){ if(nextLhsChild!= null){ return false; }
+[PATCH] } else if(pType == Token.THIS){ return true; }
+[PATCH] if(pType == Token.THIS){ if(llhs!= null){ return true; }
+[PATCH] if(pType == Token.THIS){ JSDocInfo jsDoc = getJSDocInfo(t.getModule()); return true; }
+[PATCH] if(pType == Token.THIS){ JSDocInfo jsDoc = null; return true; }
+[PATCH] if(pType == Token.NAME && n.getString().equals("prototype")) { return true; }
+[PATCH] if(pType == Token.NAME && n.getString().equals("prototype")) { return false; }
+[PATCH] if(pType == Token.THIS){ node = n; return true; }
+[PATCH] if(pType == Token.THIS){ visitGlobalThis(t, n); return true; }
+[PATCH] if(pType == Token.VAR){ if(assignLhsChild!= null){ return false; }
+[PATCH] if(pType == Token.THIS){ if(llhs == null){ return false; }
+[PATCH] if(pType == Token.CALL){ if(assignLhsChild!= null){ return true; }
+[PATCH] if(pType == Token.THIS){ return n!= parent.getFirstChild(); }
+[PATCH] if(pType == Token.THIS){ assignLhsChild = n; return true; }
+[PATCH] if(pType == Token.THIS){ if(nextLhsChild!= null){ return true; }
+[PATCH] if(pType == Token.CASE || pType == Token.DEFAULT){ return true; }
+[PATCH] } else if(pType == Token.THIS){ return false; }
+[PATCH] if(pType == Token.CASE || pType == Token.DEFAULT){ return false; }
+[PATCH] if(pType == Token.DO){ return true; }
+[PATCH] return n.getType() == Token.THIS;
+[PATCH] if(pType == Token.NAME){ return false; }
+[PATCH] if(pType == Token.NAME){ return n.hasChildren(); }
+[PATCH] t.report(n, level, GLOBAL_THIS); return true;
+[PATCH] if(pType == Token.FUNCTION){ return true; }
+[PATCH] if(pType == Token.THIS){ return n.hasChildren(); }
+[PATCH] if(pType == Token.THIS){ return!1; }
+[PATCH] } else if(pType == Token.NAME){ return false; }
+[PATCH] else if(pType == Token.THIS){ return true; }
+[PATCH] } else if(pType == Token.NAME){ return true; }
+[PATCH] if(pType == Token.DO){ return false; }
+[PATCH] if(pType == Token.THIS){ break; }
+[PATCH] if(pType == Token.NEW){ return true; }
+[PATCH] if(pType == Token.VAR){ return true; }
+[PATCH] return n.checkTreeEqualsSilent(parent);
+[PATCH] n.setJSType(jsDoc); return true;
+[PATCH] return n.hasChildren();
+[PATCH] compiler.reportCodeChange(); return true;
+[PATCH] nodeType = n.getType();
+[PATCH] throw new IllegalStateException("");
+[PATCH] skipChildren();
+[PATCH] return true;
+[PATCH] break;
+[PATCH] ;
+[PATCH] continue;

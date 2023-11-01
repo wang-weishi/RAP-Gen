@@ -1,0 +1,100 @@
+[PATCH] if(t.getScopeDepth() < 2){
+[PATCH] if(t.getScopeDepth() == 0){
+[PATCH] if(t.getScopeDepth() == 2){
+[PATCH] if(t.getScopeDepth() == 1){
+[PATCH] if(t.getScopeDepth()!= 2){
+[PATCH] if(t.getScopeDepth() < 1){
+[PATCH] if(t.getScopeDepth() <= 1){
+[PATCH] if(t.getScopeDepth()!= 0){
+[PATCH] if(t.getScopeDepth() < 3){
+[PATCH] if(!t.inGlobalScope()){
+[PATCH] if(t.getScopeDepth()!= 1){
+[PATCH] if(!t.getInput().isExtern()){
+[PATCH] if(t.getScopeDepth() < 4){
+[PATCH] if(t.getScopeDepth() > 1){
+[PATCH] if(!t.getScopeDepth() == 2){
+[PATCH] if(t.getScopeDepth() > 0){
+[PATCH] if(t.getScopeDepth() == 3){
+[PATCH] if(t.getScopeDepth() == -1){
+[PATCH] if(++t.getScopeDepth() == 2){
+[PATCH] if(t.getScopeDepth() % 2 == 0){
+[PATCH] if(t.getScopeDepth() --1 == 0){
+[PATCH] if(!t.inExterns()){
+[PATCH] if(t.getScopeDepth() / 2!= 0){
+[PATCH] if(t.getScopeDepth() == NO_SCOPE){
+[PATCH] if(t.getScopeDepth() == RANGE){
+[PATCH] if(!t.getScopeDepth() == 1){
+[PATCH] if(t.getScopeDepth() == NO_STATEMENT){
+[PATCH] if(t.getScopeDepth() == NOT_GLOBAL){
+[PATCH] if(--t.getScopeDepth() == 0){
+[PATCH] if(!t.getScopeDepth() - 1){
+[PATCH] if(n.getType() == Token.FUNCTION){
+[PATCH] if(!t.inFunctionScope()){
+[PATCH] if(t.getScopeDepth() == Token.FUNCTION){
+[PATCH] if(++t.getScopeDepth() == 1){
+[PATCH] if(t.getScopeDepth() < 5){
+[PATCH] if(t.getScopeDepth() - 1 == 0){
+[PATCH] if(t.getScopeDepth() == MAX_SCOPE){
+[PATCH] if(t.getScopeDepth() == 5){
+[PATCH] if(t.getScopeDepth() == T_VAR){
+[PATCH] if(!t.inExtern()){
+[PATCH] if(t.getScopeDepth() == TOP){
+[PATCH] if(--t.getScopeDepth() == 1){
+[PATCH] if(!t.getScopeDepth() -1){
+[PATCH] if(t.getScopeDepth()!= -1){
+[PATCH] if(t.getScopeDepth() == 4){
+[PATCH] if(!t.getScope().isGlobal()){
+[PATCH] if(++t.getScopeDepth() < 2){
+[PATCH] if(t.getScopeDepth() - 1 == count){
+[PATCH] if(!t.inFunction()){
+[PATCH] if(t.getScopeDepth() == DANGLING){
+[PATCH] if(!t.getScopeDepth() == 0){
+[PATCH] if(t.getScopeDepth() == NOT_CONSTANT){
+[PATCH] if(++t.getScopeDepth() == 0){
+[PATCH] if(t.getScopeDepth() == NO_LEVEL){
+[PATCH] if(t.getScopeDepth() == GLOBAL){
+[PATCH] if(t.getScopeDepth() - 1 == n){
+[PATCH] if(t.getScopeDepth() == MAX_STATEMENT){
+[PATCH] if(--t.getScopeDepth() < 2){
+[PATCH] if(t.getScopeDepth() > 2){
+[PATCH] if(!t.inExternScope()){
+[PATCH] if(t.getScopeDepth() == level){
+[PATCH] if(!t.getInput().inExtern()){
+[PATCH] if(NodeUtil.isExpressionNode(n)) {
+[PATCH] if(t.getScopeDepth() == NO_GLOBAL){
+[PATCH] if(t.getScopeDepth() == Node.FUNCTION){
+[PATCH] if(t.getScopeDepth() == MAX_WINDOW){
+[PATCH] if(!t.getScopeDepth() < 2){
+[PATCH] if(t.getScopeRoot()!= null){
+[PATCH] if(t.getScopeDepth() == MAX_DEPTH){
+[PATCH] if(t.getScopeDepth() > MAX_SCOPE){
+[PATCH] if(t.getScopeDepth() <2){
+[PATCH] if(t.getScopeDepth() == root){
+[PATCH] if(t.getScopeDepth() <= 2){
+[PATCH] if(t.getScopeDepth() > TOP_SCOPE){
+[PATCH] if(t.getScopeDepth() - 1 == level){
+[PATCH] if(--t.getScopeDepth() < 1){
+[PATCH] if(t.getScopeDepth() == DELEGATE){
+[PATCH] if(t.getScopeDepth() == NO_OBJECT){
+[PATCH] if(t.getScopeDepth() == BOTH){
+[PATCH] if(t.getScopeDepth() == NO_WINDOW){
+[PATCH] if(NodeUtil.isExpressionNode(parent)) {
+[PATCH] if(t.getScopeDepth() == T_BLOCK){
+[PATCH] if(t.getScopeDepth() == T_FUNCTION){
+[PATCH] if(t.getScopeDepth() == T_BREAK){
+[PATCH] if(t.getScopeDepth() == UNSAFE){
+[PATCH] if(t.getScopeDepth() == INITIAL_SCOPE){
+[PATCH] if(t.getScopeDepth() ==2){
+[PATCH] if(t.getScopeDepth() - 1 == index){
+[PATCH] if(t.getScopeDepth() == HARD){
+[PATCH] if(t.getScopeRoot() == null){
+[PATCH] if(t.getScopeDepth() < 0){
+[PATCH] if(t.getScopeRoot() == this){
+[PATCH] if(t.getScopeDepth() >= 2){
+[PATCH] if(t.getScopeDepth() - 1 == t){
+[PATCH] if(!t.inLocalScope()){
+[PATCH] if(t.getScopeDepth() --1){
+[PATCH] if(data.size() == 0){
+[PATCH] if(!t.inClosure()){
+[PATCH] if(!inGlobalScope()){
+[PATCH] if(!t.inExtern();

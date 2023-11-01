@@ -1,0 +1,100 @@
+[PATCH] if(x < 0 || x > 100){
+[PATCH] if(x < 0 || x > 1){
+[PATCH] if(x < 0 && prev!= '-'){
+[PATCH] if(x < 0 || x > 0.0){
+[PATCH] if(x < 0 || x > 10){
+[PATCH] if(x < 0 || x > INT_MAX){
+[PATCH] if(x < 0 && prev!= '0'){
+[PATCH] if(x < 0 || x > 9999){
+[PATCH] if(x < 0 || x > 999){
+[PATCH] if(x < 0 || x > MIN_VALUE){
+[PATCH] if(x < 0 || x > 1000){
+[PATCH] if(x < 0 || x > MAX_VALUE){
+[PATCH] if(x < 0 || prev!= '-'){
+[PATCH] if(x < 0 || x > LAST_CHAR){
+[PATCH] if(x < 0 || x > 0){
+[PATCH] if(x < 0 || x > -1){
+[PATCH] if(x < 0 || prev!= '0'){
+[PATCH] if(x < 0 || x > '9'){
+[PATCH] if(x < 0 || y > 0){
+[PATCH] if(x < 0 || negativeZero){
+[PATCH] if(x < 0 && prev!= '-'){
+[PATCH] if(negativeZero && prev!= '-'){
+[PATCH] if(prev == '-' || prev == '+'){
+[PATCH] if(x < 0 || x > 90){
+[PATCH] if(x < 0 || x > '-'){
+[PATCH] if(x < 0 || x > 10000){
+[PATCH] if(x < 0 || x > 0xFFFF){
+[PATCH] if(negativeZero && prev!= '0'){
+[PATCH] if(x == 0.0 && prev!= '-'){
+[PATCH] if(negativeZero && x < 0 || x > 100){
+[PATCH] if(x < 0 || x > 9){
+[PATCH] if(x < 0 || x > 100000){
+[PATCH] if(x < 0.0 && prev!= '-'){
+[PATCH] if(negativeZero && x < 0 || x > 1){
+[PATCH] if(x < 0 || x > 0xFF){
+[PATCH] if(y == 0 && prev!= '0'){
+[PATCH] if(x < 0 || x > 0){
+[PATCH] if(x > 0.0 && prev!= '-'){
+[PATCH] if(x < 0 || x > 20){
+[PATCH] if(x < 0 || x > MAXIMUM_VALUE){
+[PATCH] if(x < 0 ||!negativeZero){
+[PATCH] if(prev == '-' || x > 0.0){
+[PATCH] if(negativeZero && x < 0){
+[PATCH] if(y == 0 && prev!= '-'){
+[PATCH] if(x < 0 || x > 0xff){
+[PATCH] if(x < 0 || x > ZERO){
+[PATCH] if(x < 0 || x > 1.0){
+[PATCH] if(negativeZero && x < 0 || x > 0){
+[PATCH] if(x < 0 || x > 0xffff){
+[PATCH] if(y > 0 && prev!= '-'){
+[PATCH] if(x < 0 || x > INITIAL_VALUE){
+[PATCH] if(x < 0 || x > SHORT){
+[PATCH] if(0 < x && prev!= '-'){
+[PATCH] if(x < 0 || firstChar!= '-'){
+[PATCH] if(x < 0 || x > MINIMUM_VALUE){
+[PATCH] if(x < 0 || x > max){
+[PATCH] if(x < 0 || x > INT_SPACE){
+[PATCH] if(x < 0 || x > lastChar()){
+[PATCH] if(!negativeZero && prev!= '-'){
+[PATCH] if(x < 0 && prev!= '9'){
+[PATCH] if(y > 0 && prev!= '0'){
+[PATCH] if(x < 0 || x > 0xfff){
+[PATCH] if(x < 0 || x > 5 + 10){
+[PATCH] if(negativeZero && x < 0.0){
+[PATCH] if(prev == '0' || prev == '-'){
+[PATCH] if(x < 0 || x > 0.0()){
+[PATCH] if(x < 0 || y == 0){
+[PATCH] if(x < 0 || x > 999999){
+[PATCH] if(x < 0 || x > 65535){
+[PATCH] if(negativeZero && x < 0 || x > 10){
+[PATCH] if(x < 0 || x > 0.5){
+[PATCH] if(x < 0 || x > 0xFFFFFFFF){
+[PATCH] if(x < 0 || x > FIRST_CHAR){
+[PATCH] if(x < 0 || b == '-'){
+[PATCH] if(negativeZero && x < 0 || x > 9999){
+[PATCH] if(x < 0 || x > INT_ZERO){
+[PATCH] if(x < 0 || x > 0xffffffff){
+[PATCH] if(x < 0 || x > maxValue){
+[PATCH] if(x < 0 || x > LAST_CHARACTER){
+[PATCH] if(x < 0 || x > 200){
+[PATCH] if(negativeZero && prev!= '-'){
+[PATCH] if(x < 0 || x > 500){
+[PATCH] if(x < 0 || x > FIRST_VALUE){
+[PATCH] if(x < 0 || x > 32){
+[PATCH] if(x < 0 || x > 1){
+[PATCH] if(x < 0 || x > 7){
+[PATCH] if(negativeZero && x < 0 || x > 999){
+[PATCH] if(x < 0 || x > SMALL_PADDING){
+[PATCH] if(x < 0 || x > -4){
+[PATCH] if(negativeZero && x < 0 || x > 1000){
+[PATCH] if(x < 0 || x > INT_PLUS){
+[PATCH] if(prev == '-'){
+[PATCH] if(x < 0 || x > SHORT_ARROW){
+[PATCH] if(x < 0 || x > NOT_ZERO){
+[PATCH] if(x < 0 || x > 99){
+[PATCH] if(negativeZero && firstChar == '-'){
+[PATCH] if(x < 0 || x > LAST_VALUE){
+[PATCH] if(x < 0 || x > scale){
+[PATCH] if(x < 0 || x > this.max){
+[PATCH] if(x < 0 || x > 17){

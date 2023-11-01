@@ -1,0 +1,100 @@
+[PATCH] if(tree.isEmpty()){
+[PATCH] if(tree.getAttribute()){
+[PATCH] if(tree.getAttribute("position")!= null){
+[PATCH] if(tree.getDomainOrder() == DomainOrder.DESCENDING){
+[PATCH] if(tree.getAttribute() == null){
+[PATCH] if(tree.isAbsolute()){
+[PATCH] if(tree.getRoot() == null){
+[PATCH] if(tree.getAttribute("position")== null){
+[PATCH] if(tree.getDomainOrder() == DomainOrder.HORIZONTAL){
+[PATCH] if(tree.getAttribute("normal")!= null){
+[PATCH] if(!tree.getAttribute()){
+[PATCH] if(( Boolean)tree.getAttribute()){
+[PATCH] if(tree.isInverted()){
+[PATCH] if(tree.getAttribute("area")== null){
+[PATCH] if(tree.getAttribute("XY")!= null){
+[PATCH] if(tree.getDomainOrder() == DomainOrder.ASCENDING){
+[PATCH] if(tree.getNode() == null){
+[PATCH] if(tree.getAttribute("transform")== null){
+[PATCH] if(tree.getAttribute("transform")!= null){
+[PATCH] if(tree.getAttribute("axis")|| tree.getAxis()!= null){
+[PATCH] if(tree.getAttribute("coordinates")!= null){
+[PATCH] if(((Boolean)tree.getAttribute()).booleanValue()){
+[PATCH] if(((Boolean)tree.getAttribute())== false)) {
+[PATCH] if(( Boolean)tree.getAttribute())&&(!tree.isAbsolute()){
+[PATCH] if(tree.getAttribute("axis")== RectangleConstraint.HORIZONTAL){
+[PATCH] if(tree.getAttribute("line")!= null){
+[PATCH] if(( Boolean)tree.getAttribute())&&(!tree.isVertical()){
+[PATCH] if(tree.getDomainOrder() == DomainOrder.HARD){
+[PATCH] if(tree.getAttribute() == Boolean.VALUE_NULL){
+[PATCH] if(tree.getAttribute("background")!= null){
+[PATCH] if(tree.getNode().getAbsoluteRoot() == null){
+[PATCH] if(tree.getAttribute() == BSPTree.ATTRIBUTE_NAME){
+[PATCH] if(tree.hasNode()){
+[PATCH] if(tree.getAttribute("normal")== false){
+[PATCH] if(tree.getAttribute() == BSPTree.ATTRIBUTE_RELATIVE){
+[PATCH] if(tree.getAttribute("axis")== Boolean.POSITIVE_INFINITY){
+[PATCH] if(tree.getAutoRangeIncludesZero()){
+[PATCH] if(( Boolean)tree.getAttribute())&&(!0.0)) {
+[PATCH] if(tree.getAttribute() == WHOLE_COLLECTION){
+[PATCH] if(tree.getAbsoluteRoot() == null){
+[PATCH] if(tree.getAttribute("axis")== Boolean.ON){
+[PATCH] if(tree.getAttribute("center")!= null){
+[PATCH] if(tree.getAttribute("transform")== Boolean.FALSE){
+[PATCH] if(tree.getAttribute("axis")== 0){
+[PATCH] if(tree.getAttribute() == Object.class){
+[PATCH] if(tree.getAttribute("A")) {
+[PATCH] if(( Boolean)tree.getAttribute()).booleanValue()){
+[PATCH] if(tree.getDomain() == null){
+[PATCH] if(tree.hasMoreElements()){
+[PATCH] if(tree.getAttribute("transform")== false){
+[PATCH] if(tree.getLeaf() == null){
+[PATCH] if(((Boolean)tree.getAttribute()).boolean()){
+[PATCH] if(tree.getAttribute() == Boolean.valueOf(false)) {
+[PATCH] if(tree.getAttribute("normal")== null){
+[PATCH] if(tree.getAttribute() == Boolean.valueOf(0)) {
+[PATCH] if(tree.getAttribute("axis")== RectangleEdge.TOP){
+[PATCH] if(tree.getAttribute() == Boolean.ON){
+[PATCH] if(tree.getAttribute("axis")== null){
+[PATCH] if(tree.getAttribute("transform")== Boolean.TRUE){
+[PATCH] if(tree.getAttribute("area")== Boolean.FALSE){
+[PATCH] if(tree.getAttribute("value")== null){
+[PATCH] if(tree.getAttribute("id")== null){
+[PATCH] if(tree.getEmpty()){
+[PATCH] if(tree.getAttribute() == Boolean.FALSE){
+[PATCH] if(tree.getAttribute("area")!= null){
+[PATCH] if(tree.getAttribute() == Boolean.TRUE){
+[PATCH] if(((Boolean)tree.getAttribute())== false){
+[PATCH] if(tree.getAttribute("Shape")!= null){
+[PATCH] if(tree.hasChildren()){
+[PATCH] if(tree.getAttribute("area")== false){
+[PATCH] if(tree.getAttribute("p")) {
+[PATCH] if(tree.getAttribute("coordinates")== null){
+[PATCH] if(tree.getAttribute("position")) {
+[PATCH] if(tree.getAttribute("position")== Boolean.FALSE){
+[PATCH] if(tree.getAttribute("area")== Boolean.ON){
+[PATCH] if(!tree.getVisible()){
+[PATCH] if(tree.getAttribute("id")!= null){
+[PATCH] if(tree.getAttribute("transform")== Boolean.ON){
+[PATCH] if(tree.getAttribute("xyz")!= null){
+[PATCH] if(!tree.computeBounds()){
+[PATCH] if(tree.getAttribute("root")!= null){
+[PATCH] if(tree.getMultiline()){
+[PATCH] if(tree.getAttribute("position")== Boolean.ON){
+[PATCH] if(tree.getNode()){
+[PATCH] if(tree.isVertical()){
+[PATCH] if(tree.hasEmpty()){
+[PATCH] if(tree.getLeaf()){
+[PATCH] if(tree.inTree()){
+[PATCH] if(tree.getLeaf() == false){
+[PATCH] if(tree.isSquare()){
+[PATCH] if(tree.hasNodes()){
+[PATCH] if(tree.getAttribute() == true){
+[PATCH] if(tree.getAttribute() == false){
+[PATCH] if(tree.isRoot()){
+[PATCH] if(tree.hasRoot()){
+[PATCH] if(tree.containsEmpty()){
+[PATCH] if(tree.isAttribute()){
+[PATCH] if(tree.isDirectory()){
+);
+;

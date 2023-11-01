@@ -1,0 +1,100 @@
+[PATCH] if(comment.getValue().indexOf("@preserve")== -1 || comment.getValue().indexOf("\n"))!= -1){
+[PATCH] if(comment.getValue().indexOf("@preserve")== -1 || comment.getValue().indexOf("\\n"))!= -1){
+[PATCH] if(comment.getValue().indexOf("@preserve")== -1 || comment.getValue().indexOf("@license")) {
+[PATCH] if(comment.getValue().indexOf("*/")== -1 || comment.getValue().indexOf("\n */")== -1){
+[PATCH] if(comment.getValue().indexOf("@preserve")== -1 || comment.getValue().indexOf("@license")) == -1){
+[PATCH] if(comment.getValue().indexOf(" * @")!= -1 || comment.getValue().indexOf("\n * @")!= -1){
+[PATCH] if(comment.getValue().indexOf("@preserve")!= -1 || comment.getValue().indexOf("\n"))!= -1){
+[PATCH] if(comment.getValue().indexOf(" * @")== -1 || comment.getValue().indexOf("\n * @")!= -1){
+[PATCH] if(comment.getValue().indexOf("@block")== -1 || comment.getValue().indexOf("\\n"))!= -1){
+[PATCH] if(comment.getValue().indexOf("#")!= -1 || comment.getValue().indexOf("\n"))!= -1){
+[PATCH] if(comment.getValue().indexOf("@preserve")== -1 || comment.getValue().indexOf("\n")) == -1){
+[PATCH] if(comment.getValue().indexOf("@preserve")== -1 || comment.getValue().indexOf("@license")== -1){
+[PATCH] if(comment.getValue().indexOf("@preserve")== -1 || comment.getValue().indexOf("\\n")) == -1){
+[PATCH] if(comment.getValue().indexOf("@block")!= -1 || comment.getValue().indexOf("\n"))!= -1){
+[PATCH] if(comment.getValue().indexOf("@fileoverview")!= -1 || comment.getValue().indexOf("\n"))!= -1){
+[PATCH] if(comment.getValue().indexOf("* @")== -1 || comment.getValue().indexOf("\n * @")!= -1){
+[PATCH] if(comment.getValue().indexOf("@block")== -1 || comment.getValue().indexOf("\n * @")!= -1){
+[PATCH] if(comment.getValue().indexOf("@block")== -1 || comment.getValue().indexOf("\n"))!= -1){
+[PATCH] if(comment.getValue().indexOf("@preserve")== -1 || comment.getValue().indexOf("\\n * @license")) {
+[PATCH] if(comment.getValue().indexOf("*/")== -1 || comment.getValue().indexOf("\\n")) {
+[PATCH] if(comment.getValue().indexOf("@preserve")== -1 || comment.getValue().indexOf("@license"))!= -1){
+[PATCH] if(comment.getValue().indexOf("@fileoverview")== -1 || comment.getValue().indexOf("@preserve")!= -1){
+[PATCH] if(comment.getValue().indexOf("@BLOCK")== -1 || comment.getValue().indexOf("\\n"))!= -1){
+[PATCH] if(comment.getValue().indexOf("@preserve")== -1 || comment.getValue().indexOf("\\n *");
+[PATCH] if(comment.getValue().indexOf("@BLOCK")!= -1 || comment.getValue().indexOf("\n"))!= -1){
+[PATCH] if(comment.getValue().indexOf("<!--")== -1 || comment.getValue().indexOf("\\n"))!= -1){
+[PATCH] if(comment.getValue().indexOf("@preserve")== -1 || comment.getValue().indexOf("\n @preserve")!= -1){
+[PATCH] if(comment.getValue().indexOf("BLOCK")!= -1 || comment.getValue().indexOf("\n"))!= -1){
+[PATCH] if(comment.getValue().indexOf("@preserve")== -1 || comment.getValue().indexOf("\n * @license")) {
+[PATCH] if(comment.getValue().indexOf("* @")!= -1 || comment.getValue().indexOf("\n * @")!= -1){
+[PATCH] if(comment.getValue().indexOf("@fileoverview")== -1 || comment.getValue().indexOf("\n"))!= -1){
+[PATCH] if(comment.getValue().indexOf("@")!= -1 || comment.getValue().indexOf("\n"))!= -1){
+[PATCH] if(comment.getValue().indexOf("@preserve")> -1 || comment.getValue().indexOf("\n"))!= -1){
+[PATCH] if(comment.getValue().indexOf(" *@")!= -1 || comment.getValue().indexOf("\n * @")!= -1){
+[PATCH] if(comment.getValue().indexOf("@block")== -1 || comment.getValue().indexOf("\\n")) {
+[PATCH] if(comment.getValue().indexOf("* @")!= -1 || comment.getValue().indexOf("\n"))!= -1){
+[PATCH] if(comment.getValue().indexOf("@preserve")== -1 || comment.getValue().indexOf("\n *").length() == 0){
+[PATCH] if(comment.getValue().indexOf("@preserve")!= -1 && comment.getValue().indexOf("\n")) {
+[PATCH] if(comment.getValue().indexOf("/* @")== -1 || comment.getValue().indexOf("\n * @")!= -1){
+[PATCH] if(comment.getValue().indexOf("*/")== -1 || comment.getValue().indexOf("\\n/")== -1){
+[PATCH] if(comment.getValue().indexOf("*@")!= -1 || comment.getValue().indexOf("\n * @")!= -1){
+[PATCH] if(comment.getValue().indexOf("@preserve")== -1 || comment.getValue().indexOf("\n")== -1){
+[PATCH] if(comment.getValue().indexOf(" * @")!= -1 || comment.getValue().indexOf("\n"))!= -1){
+[PATCH] if(comment.getValue().indexOf("@block")!= -1 || comment.getValue().indexOf("\\n"))!= -1){
+[PATCH] if(comment.getValue().indexOf("BLOCK")== -1 || comment.getValue().indexOf("\n"))!= -1){
+[PATCH] if(comment.getValue().indexOf('@')== -1 || comment.getValue().indexOf("\n * @")!= -1){
+[PATCH] if(comment.getValue().indexOf("@preserve")== -1 || comment.getValue().indexOf("\\n")) {
+[PATCH] if(comment.getValue().indexOf("\n")== -1 || comment.getValue().indexOf("\n *")!= -1){
+[PATCH] if(comment.getValue().indexOf("@preserve")== -1 || comment.getValue().indexOf("\n */")== -1){
+[PATCH] if(comment.getValue().indexOf("@interface")== -1 || comment.getValue().indexOf("\\n"))!= -1){
+[PATCH] if(comment.getValue().indexOf("@preserve")== -1 || comment.getValue().indexOf("\n").equals(0)) {
+[PATCH] if(comment.getValue().indexOf("*/")== -1 || comment.getValue().indexOf("\n */")!= -1){
+[PATCH] if(comment.getValue().indexOf("@block")== -1 || comment.getValue().indexOf("\\n")) == -1){
+[PATCH] if(comment.getValue().indexOf("@preserve")== -1 || comment.getValue().indexOf("\n").length() == 0){
+[PATCH] if(comment.getValue().indexOf("@preserve")== -1 || comment.getValue().indexOf("\\n * @copyright")) {
+[PATCH] if(comment.getValue().indexOf("@preserve")== -1 || comment.getValue().indexOf("\n * @preserve")!0){
+[PATCH] if(comment.getValue().indexOf("@body")!= -1 || comment.getValue().indexOf("\n"))!= -1){
+[PATCH] if(comment.getValue().indexOf("@import")== -1 || comment.getValue().indexOf("\n"))!= -1){
+[PATCH] if(comment.getValue().indexOf("@")!= -1 && comment.getValue().indexOf("\n")) {
+[PATCH] if(comment.getValue().indexOf("@preserve")== -1 || comment.getValue().indexOf("\\n * "@license")) {
+[PATCH] if(comment.getValue().indexOf("@preserve")== -1 || comment.getValue().indexOf("\n"))!= -1){
+[PATCH] if(comment.getValue().indexOf("@preserve")== -1 || comment.getValue().indexOf("\n" +"\n")) {
+[PATCH] if(comment.getValue().indexOf("@preserve")== -1 || comment.getValue().indexOf("\n").contains(0)) {
+[PATCH] if(comment.getValue().indexOf("@preserve")== -1 && comment.getValue().indexOf("\n")) {
+[PATCH] if(comment.getValue().indexOf("@preserve")== -1 || comment.getValue().indexOf("\\n")== -1){
+[PATCH] if(comment.getValue().indexOf('\n')== -1 || comment.getValue().indexOf("\n *")!= -1){
+[PATCH] if(comment.getValue().indexOf("@license")== -1 || comment.getValue().indexOf("@preserve")!= -1){
+[PATCH] if(comment.getValue().indexOf("@preserve")!= -1 && comment.getValue().indexOf("\\n")) {
+[PATCH] if(comment.getValue().indexOf('@')!= -1 && comment.getValue().indexOf("\\n")) {
+[PATCH] if(comment.getValue().indexOf("@preserve")== -1 || comment.getValue().indexOf("\\n *", 0)) {
+[PATCH] if(comment.getValue().indexOf("@")!= -1 && comment.getValue().indexOf("\\n")) {
+[PATCH] if(comment.getValue().indexOf("\n" +"*/")== -1){
+[PATCH] if(comment.getValue().indexOf("@root")== -1 || comment.getValue().indexOf("\\n")) {
+[PATCH] if(comment.getValue().indexOf("@preserve")== -1 || comment.getValue().indexOf("\\n *")) {
+[PATCH] if(comment.getValue().indexOf('@')!= -1 && comment.getValue().indexOf("\n")) {
+[PATCH] if(comment.getValue().indexOf("@preserve")== -1 || comment.getValue().indexOf("\n *");
+[PATCH] if(comment.getValue().indexOf("@preserve")!-1 && comment.getValue().indexOf("\n")) {
+[PATCH] if(comment.getValue().indexOf("<!--")) {
+[PATCH] if(comment.getValue().indexOf("@preserve")!= -1 && comment.getValue().indexOf("\n" +"\n")) {
+[PATCH] if(comment.getValue().indexOf("@preserve")== -1 || comment.getValue().indexOf("\n" +"\n *");
+[PATCH] if(comment.getValue().indexOf("@preserve")== -1 || comment.getValue().indexOf("\n").indexOf('@license')) {
+[PATCH] if(comment.getValue().indexOf("@preserve")== -1 || comment.getValue().indexOf("\\n *").equals(0){
+[PATCH] if(comment.getValue().indexOf(" * @")!= -1){
+[PATCH] if(comment.getValue().indexOf("@preserve")== -1){
+[PATCH] if(comment.getValue().indexOf("@license")== -1 || comment.getValue().indexOf("\n * @copyright")) {
+[PATCH] if(comment.getValue().indexOf(" *").endIndex() == -1){
+[PATCH] if(comment.getValue().indexOf("\\n")) {
+[PATCH] if(comment.getValue().indexOf("@license")) {
+[PATCH] if(comment.getValue().indexOf("\n" +"--")!= -1){
+[PATCH] if(comment.getValue().indexOf("@\n")) {
+[PATCH] if(comment.getValue().indexOf("\n" +"--")== -1){
+[PATCH] if(comment.getValue().indexOf(" *").length() == 0){
+[PATCH] if(comment.getValue().indexOf("[BLOCK]")== -1){
+[PATCH] if(comment.getValue().indexOf("\n")) {
+[PATCH] if(comment.getValue().indexOf("\n" +" *")== -1){
+[PATCH] if(comment.getValue().indexOf("*/")== -1){
+[PATCH] if(comment.getValue().indexOf("}\n")== -1){
+[PATCH] if(comment.getValue().indexOf("\n").length() == 0){
+[PATCH] if(comment.getValue().indexOf("\n")) {
+[PATCH] if(comment.getValue().indexOf("(\n"))!= -1){

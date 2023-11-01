@@ -1,0 +1,100 @@
+[PATCH] } else if(children.length > index){
+[PATCH] } else if(children.length > index+1){ childNodes.add(index, children[i]); } else { throw new IndexOutOfBoundsException(""); }
+[PATCH] } else if(children.length > 1){ childNodes.add(children[0]); } else { throw new IndexOutOfBoundsException(""); }
+[PATCH] } else if(index < children.length - 1){ childNodes.add(children[i]); } else { throw new IndexOutOfBoundsException(""); }
+[PATCH] } else if(children.length > index+1){ childNodes.add(index, children[i]); } else { throw new IllegalArgumentException(""); }
+[PATCH] } else if(children!= null){ for(int i = children.length - 1; i >= 0; i--){ removeChild(in); }
+[PATCH] } else if(children.length > index + 1){ childNodes.add(index, children[i]); } else { throw new IndexOutOfBoundsException(""); }
+[PATCH] } else if(children[0].getNodeType() == Token.BLOCK || children[0].getNodeType() == Token.SCRIPT){
+[PATCH] } else if(children.length > index){ throw new IndexOutOfBoundsException(""); }
+[PATCH] } else if(children.length > index+1){ childNodes.add(index, children[i]); }
+[PATCH] } else if(children.length > 1){ childNodes.add(index, children[0]); } else { throw new IndexOutOfBoundsException(""); }
+[PATCH] } else if(children.length > 1){ childNodes.add(children[0]); } else { throw new IllegalArgumentException(""); }
+[PATCH] } else if(index < children.length - 1){ childNodes.add(children[i]); index++; }
+[PATCH] }
+[PATCH] } else if(children.length > index){ throw new IllegalArgumentException(""); }
+[PATCH] } else if(children.length > index){ childNodes.add(index, children); }
+[PATCH] } else if(children.length > index + 1){
+[PATCH] } else if(index < children.length - 1){
+[PATCH] } else if(children.length > 1){ childNodes.add(children[0]); index--; }
+[PATCH] } else if(children.length > 1){ childNodes.add(children[0]); }
+[PATCH] } else if(index < children.length - 1){ childNodes.add(children[i]); ++index; }
+[PATCH] } else if(children.length > 1){
+[PATCH] } else if(index < children.length - 1){ throw new IndexOutOfBoundsException(""); }
+[PATCH] } else if(children.length > index + 1){ childNodes.add(index, children[i]); }
+[PATCH] } else if(children.length > index){ childNodes.add(index, children[i]); }
+[PATCH] } else if(children.length > 1){ int siblingIndex = childNodes.size() - 1; index--; }
+[PATCH] } else if(children.length > i){ throw new IllegalArgumentException(""); }
+[PATCH] } else if(children.length > i){ throw new IndexOutOfBoundsException(""); }
+[PATCH] } else if(index < children.length - 1){ childNodes.add(child); index++; }
+[PATCH] } else if(children.length > index+1){
+[PATCH] } else if(children.length > index+1){ childNodes.add(index, children); }
+[PATCH] } else if(children.length > index+1){ throw new IndexOutOfBoundsException(""); }
+[PATCH] } else if(children.length > index){ ++index; }
+[PATCH] } while(!childNodes.isEmpty() && index < children.length - 1){
+[PATCH] } else if(children.length > i){
+[PATCH] } while(children.length > i - 1){
+[PATCH] } else if(children.length > 1){ index++; }
+[PATCH] } else if(children.length > 1){ childNodes.add(child); index--; }
+[PATCH] } else if(children.length > 1){ childNodes.add(index, children[0]); }
+[PATCH] } else if(children.length > index+1){ throw new IllegalArgumentException(""); }
+[PATCH] } while(childNodes.size() > index + 1){
+[PATCH] } else if(children.length > index+1){ childNodes.remove(index); }
+[PATCH] } else if(children.length > index + 1){ throw new IndexOutOfBoundsException(""); }
+[PATCH] } else if(childNodes.size() > index + 1){
+[PATCH] } else if(children.length > index+1){ ++index; }
+[PATCH] } else if(children.length > index+1){ --index; }
+[PATCH] } else if(children.length > index + 1){ childNodes.remove(index); }
+[PATCH] } else if(children.length > i){ index++; }
+[PATCH] } else if(index < children.length - 1){ index++; }
+[PATCH] } else if(index + 1 < children.length){
+[PATCH] } else if(children.length > 1){ ++index; }
+[PATCH] } else if(index < children.length){
+[PATCH] } else if(children.length > index){ return; }
+[PATCH] } else if(children.length > i){ ++index; }
+[PATCH] } else if(children.length == 0){
+[PATCH] } while(index < children.length - 1){
+[PATCH] } while(in.getNextSiblingIndex() < index){
+[PATCH] } else if(children.length > index){ }
+[PATCH] } else if(children.length > index){ --index; }
+[PATCH] } else if(children.length > 1){ return; }
+[PATCH] } while(childNodes.size() > index+1){
+[PATCH] } while(children.length > i-1){
+[PATCH] } else if(index + 1 == children.length){
+[PATCH] } else if(childNodes.size() > index){
+[PATCH] } while(childNodes.size() > index){
+[PATCH] } else if(children.length!= 0){
+[PATCH] } else if(children.length > i){ }
+[PATCH] } else if(children.length > 0){
+[PATCH] } else if(children.length > index){ {
+[PATCH] } while(index < childNodes.size();
+[PATCH] } while(children.length > i);
+[PATCH] } if(children.length > index){
+[PATCH] } while(children.length > i){
+[PATCH] } while(children.length!= 0){
+[PATCH] } while(in.hasChildren()){
+[PATCH] } else if(index > 0){
+[PATCH] } if(children.length > 1){
+[PATCH] } else if children.length > index){
+[PATCH] } else if(indexes > 0){
+[PATCH] } else if(index >= 0){
+[PATCH] } catch(Throwable e){ }
+[PATCH] } catch(Throwable ex){ }
+[PATCH] } catch(Throwable in){
+[PATCH] } catch(RuntimeException in){
+[PATCH] } return;
+[PATCH] } finally {
+[PATCH] } }
+[PATCH] } else {
+[PATCH] }
+[PATCH] } ;
+[PATCH] } {
+[PATCH] };
+[PATCH] } :
+[PATCH] ;
+[PATCH] }
+[PATCH] };
+[PATCH] )}
+[PATCH]
+
+);

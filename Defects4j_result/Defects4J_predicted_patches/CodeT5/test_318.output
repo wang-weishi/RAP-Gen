@@ -1,0 +1,100 @@
+[PATCH] if(getName().endsWith("/")|| getName().endsWith("\\")) {
+[PATCH] if(getName().endsWith("/")|| getURL().endsWith("\\")) {
+[PATCH] if(getName().endsWith("/")|| fileName.endsWith("\\")) {
+[PATCH] if(getName().endsWith("/")|| getName().indexOf("\\")) {
+[PATCH] if(getName().endsWith("/")|| getName().contains("\\")) {
+[PATCH] if(getName().endsWith("/")|| getName().endsWith("!")) {
+[PATCH] if(getName().endsWith("/")|| qualifiedName().endsWith("\\")) {
+[PATCH] if(getName().endsWith("/")|| newName().endsWith("\\")) {
+[PATCH] if(getName().endsWith("/")|| isDir()){
+[PATCH] if(getName().endsWith("/")|| getShortName().endsWith("\\")) {
+[PATCH] if(getName().endsWith("/")|| getLength() > 0){
+[PATCH] if(getName().endsWith("/")|| toString().endsWith("\\")) {
+[PATCH] if(getName().endsWith("/")|| getPackageName().endsWith("\\")) {
+[PATCH] if(getName().endsWith("/")|| getPath().endsWith("\\")) {
+[PATCH] if(getName().endsWith("/")|| getName().EndsWith("\\")) {
+[PATCH] if(getName().endsWith("/")|| getNextFilePointer()!= null){
+[PATCH] if(getName().endsWith("/")|| getValue().endsWith("\\")) {
+[PATCH] if(getName().endsWith("/")|| toPath().endsWith("\\")) {
+[PATCH] if(getName().endsWith("/")|| getDomain()!= null){
+[PATCH] if(getName().endsWith("/')|| getName().endsWith("\\")) {
+[PATCH] if(getName().endsWith("/")|| getDescription().endsWith("\\")) {
+[PATCH] if(getName().endsWith("/")|| getDescriptor().endsWith("\\")) {
+[PATCH] if(getName().endsWith("/")|| getClassName().endsWith("\\")) {
+[PATCH] if(getName().endsWith("/")||"\\".equals(getName())) {
+[PATCH] if(getName().endsWith("/")|| name.endsWith("\\")) {
+[PATCH] if(getName().endsWith("/")|| getName().endingWith("\\")) {
+[PATCH] if(getName().endsWith("/")|| isDirectory()){
+[PATCH] if(getName().endsWith("/")|| setName().endsWith("\\")) {
+[PATCH] if(getName().endsWith("/")|| url.endsWith("\\")) {
+[PATCH] if(getName().endsWith("/")|| getName().startsWith("\\")) {
+[PATCH] if(getName().endsWith("/")|| getName().endsWith(".")) {
+[PATCH] if(getName().endsWith("/")|| getNextEntry().isDirectory()){
+[PATCH] if(getName().endsWith("/")|| getNextFile()){
+[PATCH] if(getName().endsWith("/")|| getNextFile()!= null){
+[PATCH] if(getName().endsWith("/")|| getType().endsWith("\\")) {
+[PATCH] if(getName().endsWith("/")|| getLastModified()!= null){
+[PATCH] if(getName().endsWith("/")|| getName().endsWith(";")) {
+[PATCH] if(getName().endsWith("/")|| getTempFilePointer()!= null){
+[PATCH] if(getName().endsWith("/")|| getNextFilePointer()){
+[PATCH] if(getName().endsWith("/")|| isDir){
+[PATCH] if(getName().endsWith("/")|| getNextFileEntry()){
+[PATCH] if(getName().endsWith("/")|| getDomainType()!= null){
+[PATCH] if(getName().endsWith("/")|| getCentralDirectoryLength() > 0){
+[PATCH] if(getName().endsWith("/")|| getName().indexOf("\\.")) {
+[PATCH] if(getName().endsWith("/")|| super.isDirectory()){
+[PATCH] if(getName().endsWith("/")|| getLinks().length() > 0){
+[PATCH] if(getName().endsWith("/")|| getCentralDirectoryEntry()!= null){
+[PATCH] if(getName().endsWith("/")|| getPermission()!= null){
+[PATCH] if(getName().endsWith("/")|| getNextFileHeader()){
+[PATCH] if(getName().endsWith("/")|| getNextDirectory()){
+[PATCH] if(getName().endsWith("/")|| getCentralDirectoryPointer()!= null){
+[PATCH] if(getName().endsWith("/")|| getNextLine()){
+[PATCH] if(getName().endsWith("/")|| getLocale()!= null){
+[PATCH] if(getName().endsWith("/")|| getCurrentFilePointer().isDirectory()){
+[PATCH] if(getName().endsWith("/")|| getName().endsWith("'")) {
+[PATCH] if(getName().endsWith("/")|| getLastModified() >= 0){
+[PATCH] if(getName().endsWith("/")|| getParentFile().isDirectory()){
+[PATCH] if(getName().endsWith("/")|| getEntryCount() > 0){
+[PATCH] if(getName().endsWith("/")|| getNextFile!= null){
+[PATCH] if(getName().endsWith("/")|| getNextDot()){
+[PATCH] if(getName().endsWith("/")|| length() > 0){
+[PATCH] if(getName().endsWith("/")|| getGid()!= null){
+[PATCH] if(getName().endsWith("/")|| getNextLineChar()){
+[PATCH] if(getName().endsWith("/")|| getGroupId().endsWith("\\")) {
+[PATCH] if(getName().endsWith("/")|| getName().endsWith("!')) {
+[PATCH] if(getName().endsWith("/")|| getNextFileEntry()!= null){
+[PATCH] if(getName().endsWith("/")|| getNextLink()){
+[PATCH] if(getName().endsWith("/")|| getDirectory()){
+[PATCH] if(getName().endsWith("/")|| getArtifact().endsWith("/")) {
+[PATCH] if(getName().endsWith("/")|| getNextNodePointer()!= null){
+[PATCH] if(getName().endsWith("/")|| slash!= null){
+[PATCH] if(getName().endsWith("/")|| getLastModified()!= -1){
+[PATCH] if(getName().endsWith("/")|| getPosition()!= 0){
+[PATCH] if(getName().endsWith("/")|| cd.getMode() == 0){
+[PATCH] if(getName().endsWith("/")|| getNextFile());
+[PATCH] if(getName().endsWith("/")|| getName().endsWith("?")) {
+[PATCH] if(getName().endsWith("/")|| getOrganization()!= null){
+[PATCH] else if(getName().endsWith("/")) {
+[PATCH] if(getName().endsWith("/")|| getNextChild()){
+[PATCH] if(getName().endsWith("/")|| getNextSibling()){
+[PATCH] if(getName().endsWith("/")|| getEnumerator()!= null){
+[PATCH] if(getName().endsWith("/")|| getSnippet()){
+[PATCH] if(getName().endsWith("/")|| getName().endsWith("\\')) {
+[PATCH] if(getName().endsWith("/")|| getNextFile() || isDir()){
+[PATCH] if(getName().endsWith("/")|| isExtended){
+[PATCH] if(getName().endsWith("/")|| isFolder()){
+[PATCH] if(getName().endsWith("/")|| getNextNodePointer()){
+[PATCH] if(getName().endsWith("/")|| isPrivate()){
+[PATCH] if(getName().endsWith("/")|| isDeleted()){
+[PATCH] if(getName().endsWith("/")|| false){
+[PATCH] if(getName().endsWith("/")|| getCentralDirectory());
+[PATCH] if(getName().endsWith("/")|| mkdirs()){
+[PATCH] if(getName().endsWith("/")|| getIndex()!= 0){
+[PATCH] if(getName().substring(1)) {
+[PATCH] if();
+[PATCH] if()){
+[PATCH] if());
+[PATCH] ;
+
+);

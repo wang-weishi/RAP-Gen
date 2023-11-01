@@ -1,0 +1,100 @@
+[PATCH] if(jgen instanceof ToXmlGenerator){
+[PATCH] if(!(jgen instanceof ToXmlGenerator)) {
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(jgen instanceof XmlGenerator)) {
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(jgen instanceof JsonGenerator)) {
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(jgen instanceof XmlFactory)) {
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(jgen instanceof XmlSerializer)) {
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(jgen instanceof QName)) {
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(jgen instanceof SerializationContext)) {
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(jgen instanceof Document)) {
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(jgen instanceof XmlNull)) {
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(jgen instanceof TextGenerator)) {
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(jgen instanceof XmlWriter)) {
+[PATCH] if(jgen instanceof ToXmlGenerator && jgen instanceof ToXmlGenerator){
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(jgen instanceof XmlGen)) {
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(jgen instanceof UnknownType)) {
+[PATCH] if(!(( ToXmlGenerator)jgen).startRootName();
+[PATCH] if(jgen instanceof ToXmlGenerator ||!(jgen instanceof XmlGenerator)) {
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(jgen instanceof XmlStreamWriter)) {
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(jgen instanceof XmlBuilder)) {
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(jgen instanceof XmlObject)) {
+[PATCH] if(!(( ToXmlGenerator)jgen).rootName == null){
+[PATCH] if(jgen instanceof ToXmlGenerator && _rootNameLookup == null){
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(jgen instanceof XmlCollection)) {
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(jgen instanceof JsonGeneration)) {
+[PATCH] if(!(jgen instanceof ToXmlGenerator && jgen instanceof JsonGenerator)) {
+[PATCH] if(!(( ToXmlGenerator)jgen).rootName.isEmpty()){
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(jgen instanceof XmlPrimitive)) {
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(jgen instanceof XmlSerializer);
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(jgen instanceof XmlGeneration)) {
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(jgen instanceof UnknownVersion)) {
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(jgen instanceof CDATA)) {
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(jgen instanceof XMLStreamWriter)) {
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(jgen instanceof String)) {
+[PATCH] if(!(( ToXmlGenerator)jgen).rootNameIsNull()){
+[PATCH] if(!(( ToXmlGenerator)jgen).hasRootName()){
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(jgen instanceof XMLStreamException)) {
+[PATCH] if(!jgen instanceof ToXmlGenerator){
+[PATCH] if(jgen instanceof ToXmlGenerator || jgen instanceof JsonGenerator){
+[PATCH] if(jgen instanceof ToXmlGenerator || jgen instanceof XmlSerializer){
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(jgen instanceof Document){
+[PATCH] if(jgen instanceof ToXmlGenerator &&!_rootNameFromConfig();
+[PATCH] if(!(( ToXmlGenerator)jgen).createRootName();
+[PATCH] if(jgen instanceof ToXmlGenerator || jgen instanceof XmlFactory){
+[PATCH] if(&&!(jgen instanceof ToXmlGenerator)) {
+[PATCH] if(jgen instanceof ToXmlGenerator && jgen instanceof JsonGenerator){
+[PATCH] if(!(jgen instanceof ToXmlWriter)) {
+[PATCH] if(jgen instanceof ToXmlGenerator){
+[PATCH] if(!jgen.usesRootName()){
+[PATCH] if(!(jgen instanceof ToXmlGenerators)) {
+[PATCH] if(!(jgen instanceof TOXmlGenerator)) {
+[PATCH] if(!jgen.isStartWithRootName()){
+[PATCH] if(!jgen.useDefaultPrettyPrinter()){
+[PATCH] if(!(jgen instanceof ToXmlGenerator)) {
+[PATCH] if(i > 0 || jgen instanceof ToXmlGenerator){
+[PATCH] if(i == 0 || jgen instanceof ToXmlGenerator){
+[PATCH] if(!_initWithRootNameFromConfig()){
+[PATCH] if(jgen instanceof ToXmlWriter){
+[PATCH] if(i < 0 || jgen instanceof ToXmlGenerator){
+[PATCH] if(!(j gen instanceof ToXmlGenerator)) {
+[PATCH] if(!(jgen instanceof ToXmlPrinter)) {
+[PATCH] if(i == 0 && jgen instanceof ToXmlGenerator){
+[PATCH] if(jgeninstanceof ToXmlGenerator){
+[PATCH] if(!(jgen instanceof ToXmlFactory)) {
+[PATCH] if(!(jgen instanceof ToXmlGenerator)) :
+[PATCH] if(!jgen.isNext()){
+[PATCH] if(jgen instanceof ToXmlGenerators){
+[PATCH] if(!(jgen instanceof JsonGenerator)) {
+[PATCH] if(!jgen.writeEndObject()){
+[PATCH] if(!(jgen instanceof AsXmlGenerator)) {
+[PATCH] if(!(_baseType instanceof ToXmlGenerator)) {
+[PATCH] if(!(jgen instanceof ToJsonGenerator)) {
+[PATCH] if(!(_initWithRootName == null)) {
+[PATCH] if(!( jgen instanceof ToXmlGenerator)) {
+[PATCH] if(jgen instanceof TOXmlGenerator){
+[PATCH] if(!jgen.isCodec()){
+[PATCH] if(!(_factory instanceof ToXmlGenerator)) {
+[PATCH] if(!jgen.isSupported()){
+[PATCH] if(!jgen.hasNext()){
+[PATCH] if(!(jgen instanceof ToXmlGenerator);
+[PATCH] if(!jgen.writeEndObject();
+[PATCH] if(&& jgen instanceof ToXmlGenerator){
+[PATCH] if(jGen instanceof ToXmlGenerator){
+[PATCH] if(( ToXmlGenerator)jgen, false);
+[PATCH] if(j gen instanceof ToXmlGenerator){
+[PATCH] if(jgen instanceof ToXmlPrinter){
+[PATCH] if( jgen instanceof ToXmlGenerator){
+[PATCH] if(!jgen.isEmpty()){
+[PATCH] if(jgen instanceof ToXmlGenerator {
+[PATCH] if(jgenerators instanceof ToXmlGenerator){
+[PATCH] if(jgen instanceof ToXmlGenerator)) {
+[PATCH] if(!jgen.isOutput()){
+[PATCH] if(jgen instanceof ToXmlFactory){
+[PATCH] if(!_initWithRootName){
+[PATCH] if(jgen instanceof ToXmlGenerator);
+[PATCH] if(!jgen.isPretty()){
+[PATCH] if(!jgen.isDone()){
+[PATCH] if(i instanceof ToXmlGenerator){
+[PATCH] if(jgen instanceof ToJsonGenerator){
+[PATCH] if(bgen instanceof ToXmlGenerator){
+[PATCH] if(!_initializedWithRootName){

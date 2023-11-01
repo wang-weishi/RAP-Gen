@@ -1,0 +1,100 @@
+[PATCH] if(expectedLength!= rawCentralDirectoryData.length){
+[PATCH] if(!rawCentralDirectoryData.length.equals(expectedLength)) {
+[PATCH] if(!expectedLength.equals(rawCentralDirectoryData.length)) {
+[PATCH] if(!hasCentralDirectory()){
+[PATCH] if(!rawCentralDirectoryData.length.matches(expectedLength)) {
+[PATCH] if(rawCentralDirectoryData.length!= expectedLength){
+[PATCH] if(!centralDirectoryData.length.equals(expectedLength)) {
+[PATCH] if(!centralDirectoryData.length.matches(expectedLength)) {
+[PATCH] if(!encounteredLength.equals(rawCentralDirectoryData.length)) {
+[PATCH] if(!foundLength(expectedLength, rawCentralDirectoryData.length)) {
+[PATCH] if(!declaredLength.equals(rawCentralDirectoryData.length)) {
+[PATCH] if(!expectedLength.isEqual(rawCentralDirectoryData.length)) {
+[PATCH] if(!rawCentralDirectoryData.length.isEqual(expectedLength)) {
+[PATCH] if(!decodedLength.equals(expectedLength)) {
+[PATCH] if(!rawCentralDirectoryData.length.isMatch(expectedLength)) {
+[PATCH] if(!rawCentralDirectoryData.length.isEquals(expectedLength)) {
+[PATCH] if(!hasCentralDirectoryStart()){
+[PATCH] if(!expectLength.equals(rawCentralDirectoryData.length)) {
+[PATCH] if(!baseCentralDirectoryData.length.equals(expectedLength)) {
+[PATCH] if(!hasCentralDirectoryData.length().equals(expectedLength)) {
+[PATCH] if(!expectedLength.isMatch(rawCentralDirectoryData.length)) {
+[PATCH] if(!bytesMatch(expectedLength, rawCentralDirectoryData)) {
+[PATCH] if(!byteMatch(expectedLength, rawCentralDirectoryData)) {
+[PATCH] if(!expectedLength.matches(rawCentralDirectoryData.length)) {
+[PATCH] if(!lenMatch(expectedLength, rawCentralDirectoryData)) {
+[PATCH] if(!getCentralDirectoryData().length.equals(expectedLength)) {
+[PATCH] if(!lenMatch(expectedLength, rawCentralDirectoryData.length)) {
+[PATCH] if(!setCentralDirectoryData(rawCentralDirectoryData)) {
+[PATCH] if(!baseCentralDirectoryData.length.matches(expectedLength)) {
+[PATCH] if(!rawCentralDirectoryData.equals(expectedLength)) {
+[PATCH] if(!actualCentralDirectoryData.length.equals(expectedLength)) {
+[PATCH] if(!hasCentralDirectoryData.length().matches(expectedLength)) {
+[PATCH] if(!parsedCentralDirectoryData.length.equals(expectedLength)) {
+[PATCH] if(!srcCentralDirectoryData.length.equals(expectedLength)) {
+[PATCH] if(!hasCentralDirectorySupported()){
+[PATCH] if(!def.equals(rawCentralDirectoryData)) {
+[PATCH] if(!rawCentralDirectoryData.hasLength(expectedLength)) {
+[PATCH] if(!rawCentralDirectoryData.length.match(expectedLength)) {
+[PATCH] if(!centralDirectoryData.length.isEqual(expectedLength)) {
+[PATCH] if(!rawCentralDirectoryData.length().equals(expectedLength)) {
+[PATCH] if(!data.length.equals(expectedLength)) {
+[PATCH] if(!centralDirectoryData.equals(expectedLength)) {
+[PATCH] if(!actualCentralDirectoryData.length.matches(expectedLength)) {
+[PATCH] if(!expectedLength.matchesCentralDirectory(rawCentralDirectoryData)) {
+[PATCH] if(!srcCentralDirectoryData.length.matches(expectedLength)) {
+[PATCH] if(( expectedLength!= rawCentralDirectoryData.length)< 0){
+[PATCH] if(!hasCentralDirectoryDone()){
+[PATCH] if(centralDirectoryData!= null){
+[PATCH] if(!hasCentralDirectoryData.lengthMatch(expectedLength)) {
+[PATCH] if(rawCentralDirectoryData!= null){
+[PATCH] if(!hasCentralDirectoryChanged()){
+[PATCH] if(!rawCentralDirectoryData.lengthEquals(expectedLength)) {
+[PATCH] if(!(( expectedLength & ~expectedLength))!= 0){
+[PATCH] if(!foundLength(expectedLength, rawCentralDirectoryData)) {
+[PATCH] if(!hasCentralDirectoryData.lengthEquals(expectedLength)) {
+[PATCH] if(!hasCentralDirectoryData.lengthMatches(expectedLength)) {
+[PATCH] if(!canonicalizeCentralDirectoryData()){
+[PATCH] if(!hasUncompressedSize ||!hasCompressedSize){
+[PATCH] if(!setCentralDirectoryLength(expectedLength)) {
+[PATCH] if(expectedLength!= RawCentralDirectoryData.length){
+[PATCH] if(!readCentralDirectoryData()){
+[PATCH] if(!rawCentralDirectoryData.matches(expectedLength)) {
+[PATCH] if(!hasCentralDirectoryData()){
+[PATCH] if(!isUTF8(expectedLength)) {
+[PATCH] if(!hasUncompressedSize ||!hasCentralDirectoryStart()){
+[PATCH] if(!decodedLength.matches(expectedLength)) {
+[PATCH] if(!hasUncompressedSize ||!hasDiskStart){
+[PATCH] if(!hasCentralDirectoryLenient()){
+[PATCH] if(( rawCentralDirectoryData.length!= expectedLength)) {
+[PATCH] if(!hasCentralDirectorySet()){
+[PATCH] if(!new ZipLong(expectedLength)).trim();
+[PATCH] if(!def.matchesCentralDirectory()){
+[PATCH] if(!expectedLength.matchesCentralDirectory()){
+[PATCH] if(!hasCentralDirectoryComplete()){
+[PATCH] if(!differsFrom(expectedLength)) {
+[PATCH] if(!isCompressed()){
+[PATCH] if(!hasCentralDirectoryValid()){
+[PATCH] if(!hasCentralDirectoryLength()){
+[PATCH] if(!hasCentralDirectoryEnd()){
+[PATCH] if(!foundLength(expectedLength)) {
+[PATCH] if(!reparseRawCentralDirectoryData()){
+[PATCH] if(rawCentralDirectoryData == null){
+[PATCH] if(!hasCentralDirectoryStarted()){
+[PATCH] if(!hasCentralDirectoryVisible()){
+[PATCH] if(!isCentralDirectory()){
+[PATCH] if(!isCentralDirectorySupported()){
+[PATCH] if(!isLenient()){
+[PATCH] if(!isCentralDirectoryValid()){
+[PATCH] if(!hasCentralDirectorySize()){
+[PATCH] if(!hasCentralDirectoryError()){
+[PATCH] if(!hasCentralDirectoryCompressed()){
+[PATCH] if(!fromCentralDirectory()){
+[PATCH] if(!readCentralDirectory()){
+[PATCH] if(!isActual()){
+[PATCH] if(!hasCentralDirectory();
+[PATCH] if(!isNormalized()){
+[PATCH] if(!isCopied()){
+[PATCH] if(!isSupported()){
+[PATCH] if(!initialized){
+[PATCH] if(!remaining--){

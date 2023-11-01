@@ -1,0 +1,100 @@
+[PATCH] if(provided!= null || requiresLevel.isOn()){
+[PATCH] if(parent!= null){
+[PATCH] if(provided!= null && provided.requiresLevel == requiresLevel){
+[PATCH] if(provided!= null && provided.name == null){
+[PATCH] if(provided!= null || needsLevel.isOn()){
+[PATCH] if(provided!= null && provided.requireNode == null){
+[PATCH] if(provided!= null && requiresLevel.isOn()){
+[PATCH] if(provided!= null && provided.declaration == n){
+[PATCH] if(provided!= null && provided.inputName == null){
+[PATCH] if(provided!= null && provided.namespace == null){
+[PATCH] if(provided!= null && provided.required == null){
+[PATCH] if(provided!= null ||!provided.isReferenced()){
+[PATCH] if(provided!= null && provided.requireNode == n){
+[PATCH] if(provided!= null && provided.module!= null){
+[PATCH] if(provided!= null && provided.argumentCount == 2){
+[PATCH] if(provided == null){
+[PATCH] if(provided!= null || requiredNames.isEmpty()){
+[PATCH] if(provided!= null && provided.typeDecl == null){
+[PATCH] if(provided!= null && provided.mayHaveSideEffects()){
+[PATCH] if(provided!= null && provided.getArguments() == null){
+[PATCH] if(provided!= null || requiresLevel == CheckLevel.ERROR){
+[PATCH] if(provided!= null || provided.name!= null){
+[PATCH] if(provided!= null && provided.argumentName == null){
+[PATCH] if(provided!= null ||!provided.isProvided()){
+[PATCH] if(provided!= null && provided.name.isEmpty()){
+[PATCH] if(provided!= null || requiredLevel.isOn()){
+[PATCH] if(provided!= null || requiresLevel == CheckLevel.OFF){
+[PATCH] if(provided!= null && provided.docInfo!= null){
+[PATCH] if(provided!= null ||!provided.canCreateFromString()){
+[PATCH] if(provided!= null || provided.namespace!= null){
+[PATCH] if(required!= null || requiresLevel.isOn()){
+[PATCH] if(provided!= null && provided.canBeCalled()){
+[PATCH] if(provided!= null && provided.argumentNames == null){
+[PATCH] if(provided!= null ||requiresLevel.isOn()){
+[PATCH] if(provided!= null && provided.isAll()){
+[PATCH] if(provided!= null || provided.inputName!= null){
+[PATCH] if(provided!= null && provided.isSimpleName()){
+[PATCH] if(provided!= null && provided.mustBeInitialized()){
+[PATCH] if(provided!= null && provided.canRemove()){
+[PATCH] if(provided!= null || requiresLevel == CheckLevel.WARNING){
+[PATCH] if(provided!= null || provided.requiresLevel!= 0){
+[PATCH] if(provided!= null && provided.isReferenced()){
+[PATCH] if(provided!= null && provided.requiredNames == null){
+[PATCH] if(provided!= null && provided.toStringTree == n){
+[PATCH] if(provided!= null || hasReferenceName(ns)) {
+[PATCH] if(provided!= null || provided.requiredNames!= null){
+[PATCH] if(provided!= null && provided.asName == null){
+[PATCH] if(parent!= null && provided!= null){
+[PATCH] if(provided!= null && provided.isSurrogate()){
+[PATCH] if(provided!= null && provided.getRequire()!= null){
+[PATCH] if(provided!= null || references.size() == 1){
+[PATCH] if(provided!= null && provided.requiresLevel > requiresLevel){
+[PATCH] if(provided!= null || providesGlobalState()){
+[PATCH] if(provided!= null && provided.canCreateFromString()){
+[PATCH] if(provided!= null || provided.requiresLevel > requiresLevel){
+[PATCH] if(provided!= null && provided.isRequired()){
+[PATCH] if(provided!= null && provided.Namespace == null){
+[PATCH] if(provided!= null && provided.firstModule == null){
+[PATCH] if(provided!= null && provided.scope == null){
+[PATCH] if(provided!= null || mayHaveSideEffects()){
+[PATCH] if(provided!= null && provided.fullName() == null){
+[PATCH] if(provided!= null && provided.requires == null){
+[PATCH] if(provided!= null ||!provided.wasProvided()){
+[PATCH] if(provided!= null && provided.arguments == null){
+[PATCH] if(provided!= null && provided.declaration == null){
+[PATCH] if(provided!= null && provided.canBeInitialized()){
+[PATCH] if(provided!= null && provided.canBePassed()){
+[PATCH] if(provided!= null && provided.requireNode == left){
+[PATCH] if(provided!= null && provided.canBeProvide()){
+[PATCH] if(provided!= null || namespace!= null){
+[PATCH] if(provided!= null || provided.module!= null){
+[PATCH] if(provided!= null && provided.scope == this){
+[PATCH] if(provided!= null || ns!= null){
+[PATCH] if(provided!= null && provided.needActivation){
+[PATCH] if(provided!= null && provided.isConstructor()){
+[PATCH] if(provided!= null || typeDecl == null){
+[PATCH] if(provided!= null || requiresLevel > 1){
+[PATCH] if(provided!= null || providesGlobalNames()){
+[PATCH] if(provided!= null && provided.mustBeCalled){
+[PATCH] if(provided!= null && provided.getArguments() == n){
+[PATCH] if(provided!= null && provided.canBePassed){
+[PATCH] if(provided!= null || needActivation){
+[PATCH] if(explicitModule!= null){
+[PATCH] if(propagated!= null){
+[PATCH] if(providesLevel == null){
+[PATCH] if(moduleGraph!= null){
+[PATCH] if(provided!= null || isRequired){
+[PATCH] if(encountered!= null){
+[PATCH] if(!provided.provided){
+[PATCH] if(originalRoot!= null){
+[PATCH] if(!provided!= null){
+[PATCH] if(returnName!= null){
+[PATCH] if(methodName!= null){
+[PATCH] if(--provided!= null){
+[PATCH] if(referenced!= null){
+[PATCH] if(value!= null){
+[PATCH] if(null == provided){
+[PATCH] if
+);
+;

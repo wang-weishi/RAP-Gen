@@ -1,0 +1,100 @@
+[PATCH] } else if(contains(value, index + 1, 2, false)) {
+[PATCH] } else if(contains(value, index + 1, 2, null)) {
+[PATCH] } else if(contains(value, index + 1, 2, "G")) {
+[PATCH] } else if(contains(value, index + 1, 2,"ABCxyz")) {
+[PATCH] } else if(contains(value, index + 1, 2, 0)) {
+[PATCH] } else if(contains(value, index + 1, 2, "GE")) {
+[PATCH] } else if(contains(value, index + 1, 2,"GER")) {
+[PATCH] } else if(contains(value, index + 1, 2,"GID")) {
+[PATCH] } else if(contains(value, index + 1, 3,"GETELEM")) {
+[PATCH] } else if(contains(value, index + 1, 2,"G")) {
+[PATCH] } else if(contains(value, index - 1, 2, false)) {
+[PATCH] } else if(contains(value, index - 1, 2, null)) {
+[PATCH] } else if(contains(value, index + 1, 2,"CAESAR")) {
+[PATCH] } else if(contains(value, index + 1, 2, 4,"X")) {
+[PATCH] } else if(contains(value, index + 1, 0, null)) {
+[PATCH] } else if(contains(value, index + 1, 2,"GETELEM")) {
+[PATCH] } else if(contains(value, index + 1, 3,"GNOR")) {
+[PATCH] } else if(contains(value, index + 1, 2, true)) {
+[PATCH] } else if(contains(value, index + 1, 2,"THIS")) {
+[PATCH] } else if(contains(value, index, 2,"GETELEM")) {
+[PATCH] } else if(contains(value, index + 1, 2,"GH")) {
+[PATCH] } else if(contains(value, index + 1, 2, 3,"CY")) {
+[PATCH] } else if(contains(value, index + 1, 2, "CE")) {
+[PATCH] } else if(contains(value, index + 1, 2, "GER")) {
+[PATCH] } else if(contains(value, index, 2,"GREGORIAN")) {
+[PATCH] } else if(contains(value, index - 1, 2, "G")) {
+[PATCH] } else if(contains(value, index + 1, 2,"CE")) {
+[PATCH] } else if(contains(value, index, 3,"GREGORIAN")) {
+[PATCH] } else if(contains(value, index + 1, 2,"ABCxyz")) {
+[PATCH] } else if(contains(value, index + 1, 2, "2")) {
+[PATCH] } else if(contains(value, index + 1, 2,"THIS")) {
+[PATCH] } else if(contains(value, index + 1, 2,"GNOR")) {
+[PATCH] } else if(index == 1 && contains(value, 0, 1,"G")) {
+[PATCH] } else if(contains(value, index + 1, 2,"0")) {
+[PATCH] } else if(contains(value, index + 1, 2, "CY")) {
+[PATCH] } else if(contains(value, index + 1, 2, 'M')) {
+[PATCH] } else if(contains(value, index + 1, 2,"CY")) {
+[PATCH] } else if(contains(value, index + 1, 2, 6,"Z")) {
+[PATCH] } else if(contains(value, index, 2,"CAESAR")) {
+[PATCH] } else if(contains(value, index - 1, 2, 0)) {
+[PATCH] } else if(contains(value, index + 1, 2, 4,"CE")) {
+[PATCH] } else if(contains(value, index + 1, 2, 'G')) {
+[PATCH] } else if(contains(value, index + 1, 2, 4,"Y")) {
+[PATCH] } else if(contains(value, index + 1, 2, 6,"X")) {
+[PATCH] } else if(contains(value, index + 1, 2, 7)) {
+[PATCH] } else if(contains(value, index + 1, 4, null)) {
+[PATCH] } else if(indexOf(value, index + 1) >= 0){
+[PATCH] } else if(contains(value, index, 3,"GNOR")) {
+[PATCH] } else if(contains(value, index, 2,"ABCxyz")) {
+[PATCH] } else if(contains(value, index + 1, 5, 0)) {
+[PATCH] } else if(contains(value, index + 1, 2, false,"greatest");
+[PATCH] } else if(startsWith(value, index)) {
+[PATCH] } else if(indexOf(value, index)) >= 0){
+[PATCH] } else if(indexOf(value, index))!= -1){
+[PATCH] } else if(index == 1){
+[PATCH] } else if(indexOf(value, index) >= 0){
+[PATCH] } else if(index < value.length()){
+[PATCH] } else if(index == 0){
+[PATCH] } else if(value.indexOf('G') >= 0){
+[PATCH] } else if(index < result.getLength()){
+[PATCH] } else if(isIndex(value, index)) {
+[PATCH] } else if(index < length){
+[PATCH] } else if(index + 1 < size()){
+[PATCH] } else if(index + 1 == len()){
+[PATCH] } else if(index + 1 == size()){
+[PATCH] } else if(index + 1 == length){
+[PATCH] } else if(index + 1 < length){
+[PATCH] } else if(index < 1){
+[PATCH] } else if(index + 1 < size){
+[PATCH] } else if(isNaN(value)) {
+[PATCH] } else if(index < start.length){
+[PATCH] } else if(index == start){
+[PATCH] } else if(index < size()){
+[PATCH] } else if(index - 1 == index){
+[PATCH] } else if(isIndex(value)) {
+[PATCH] } else if(isInverted()){
+[PATCH] } else if(index < 0){
+[PATCH] } else if(index < start){
+[PATCH] } else if(index < methodCount){
+[PATCH] } else if(index < 10){
+[PATCH] } else if(index < typeCount){
+[PATCH] } else if(index < size){
+[PATCH] } else if(index < len){
+[PATCH] } else if(index < 100){
+[PATCH] } else if(sawFunction){
+[PATCH] } else if(index < n){
+[PATCH] } else if(index < end){
+[PATCH] } else if(index < maxLength){
+[PATCH] } else if(index < 5){
+[PATCH] } else if(index == null){
+[PATCH] } else if(returns){
+[PATCH] } else {
+[PATCH] return true;
+[PATCH] }){
+[PATCH] {
+[PATCH] ;
+);
+
+;
+());

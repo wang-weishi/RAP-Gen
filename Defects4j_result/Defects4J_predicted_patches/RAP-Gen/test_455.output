@@ -1,0 +1,100 @@
+[PATCH] else if(type == Collection.class){ return new LinkedList<Object>(); }
+[PATCH] if(type == Collection.class){ if(!MockUtil.isCollectionType(type)) { return null; }
+[PATCH] if(type == Collection.class){ return new LinkedList<Object>(); }
+[PATCH] if(TypeUtils.isArray(type)) { if(type == Collection.class){ return new LinkedList<Object>(); }
+[PATCH] if(TypeUtils.isCollection(type)) { if(type == Collection.class){ return new LinkedList<Object>(); }
+[PATCH] else if(TypeUtils.isArray(type)) { if(type == Collection.class){ return new LinkedList<Object>(); }
+[PATCH] if(type.isArray()){ if(Collection.class.isAssignableFrom(type.getComponentType())) { return null; }
+[PATCH] if(type.isArray()){ if("[]".equals(type.getComponentType())) { return null; }
+[PATCH] if(TypeUtils.isArray(type)) { if(type == List.class){ return new LinkedList<Object>(); }
+[PATCH] if(TypeUtils.isCollection(type)) { if(type == List.class){ return new LinkedList<Object>(); }
+[PATCH] if(type == Collection.class){ if(!MockitoAnnotations.isWrapperType(type)) { return null; }
+[PATCH] if(type == List.class){ if(!MockUtil.isCollectionType(type)) { return null; }
+[PATCH] if(type.isArray()){ if(!MockitoAnnotations.isWrapperType(type)) { return null; }
+[PATCH] else if(TypeUtils.isArray(type)) { if(type == List.class){ return new LinkedList<Object>(); }
+[PATCH] if(type == Collection.class){ if(!MockitoAnnotations.isCollectionType(type)) { return null; }
+[PATCH] if(type == Collection.class){ return null; } else if(type == List.class){ return new LinkedList<Object>(); }
+[PATCH] if(type == Collection.class){ return this; } else if(type == List.class){ return new LinkedList<Object>(); }
+[PATCH] if(type == Collection.class){ if(!ObjectUtils.isCollection(type)) { return null; }
+[PATCH] if(type == Collection.class){ if(!MockUtil.isCollectionWrapper(type)) { return null; }
+[PATCH] if(type == Collection.class){ if(!Mockito.isCollectionType(type)) { return null; }
+[PATCH] else if(type.isArray()){ if(!MockitoAnnotations.isWrapperType(type)) { return null; }
+[PATCH] else if(type == List.class){ return new LinkedList<Object>(); }
+[PATCH] else if(type == Collection.class){ return List.class; }
+[PATCH] if(type == List.class){ if(!MockitoAnnotations.isWrapperType(type)) { return null; }
+[PATCH] if(type.isArray()){ if(!MockUtil.isWrapperType(type)) { return null; }
+[PATCH] if(type.isArray()){ if(!ObjectUtils.isCollection(type)) { return null; }
+[PATCH] if(type == Collection.class){ if(!MockUtilities.isCollectionType(type)) { return null; }
+[PATCH] if(type.isArray()){ if(!MockUtil.isCollection(type)) { return null; }
+[PATCH] if(type == Collection.class){ if(!MockitoAnnotations.isPrimitiveOrWrapper(type)) { return null; }
+[PATCH] if(type == Collection.class){ if(!mockUtil.isCollectionType(type)) { return null; }
+[PATCH] if(type == Collection.class){ if(!MockUtil.isCollectionValue(type)) { return null; }
+[PATCH] else if(TypeUtils.isCollection(type)) { if(type == List.class){ return new LinkedList<Object>(); }
+[PATCH] if(type == Collection.class){ return List.class; }
+[PATCH] else if(type == Collection.class){ return this; } else if(type == List.class){ return this; }
+[PATCH] if(type == List.class){ if(!MockUtil.isArray(type)) { return null; }
+[PATCH] if(type == Collection.class){ if(Primitives.isCollectionWrapper(type)) { return null; }
+[PATCH] if(type == Collection.class){ if(!MockUtil.isArray(type)) { return null; }
+[PATCH] if(type.isArray()){ if(!MockitoAnnotations.isCollectionType(type)) { return null; }
+[PATCH] if(type.isArray()){ if(!MockitoAnnotations.isCollection(type)) { return null; }
+[PATCH] if(type.isArray()){ if(Primitives.isContainerType(type)) { return null; }
+[PATCH] if(type == Collection.class){ return new LinkedList<Object>(); } else if(type == List.class){ return this; }
+[PATCH] if(type == Collection.class){ return this; } else if(type == List.class){ return this; }
+[PATCH] if(type.isArray()){ if(!MockUtil.isCollectionType(type)) { return null; }
+[PATCH] if(type == List.class){ if(!MockitoAnnotations.isCollectionType(type)) { return null; }
+[PATCH] if(type == Collection.class){ if(!MockUtil.isCollectionWrapperType(type)) { return null; }
+[PATCH] if(type == Collection.class){ if(!MockitoAnnotations.isEnabled(type, false)) { return null; }
+[PATCH] if(type.isArray()){ if(!ObjectUtilities.isCollection(type)) { return null; }
+[PATCH] if(type == Collection.class){ return new LinkedList<Object>(); } else if(type == List.class){ return null; }
+[PATCH] if(type == Collection.class){ if(!MockitoAnnotations.isEnabled(type)) { return null; }
+[PATCH] if(type == Collection.class){ return null; }
+[PATCH] else if(type == Collection.class){ return Collections.emptyList(); }
+[PATCH] if(type == Collection.class){ return List.class; } else if(type == List.class){ return ArrayList.class; }
+[PATCH] if(type == Collection.class){ return new LinkedList<Object>(); } else if(type == List.class){ return list; }
+[PATCH] else if(type == Collection.class){ return this; }
+[PATCH] if(type == Collection.class){ if(!ObjectUtilities.isCollection(type)) { return null; }
+[PATCH] if(type.isArray()){ if(!ObjectUtil.isCollection(type)) { return null; }
+[PATCH] if(type == List.class){ return new LinkedList<Object>(); }
+[PATCH] if(type == Collection.class){ return null; } else if(type == List.class){ return ArrayList.class; }
+[PATCH] else if(type == Collection.class){ return null; }
+[PATCH] else if(type.isArray()){ if(!ObjectUtils.isCollection(type)) { return null; }
+[PATCH] if(type.isArray()){ if(!MockUtilities.isCollection(type)) { return null; }
+[PATCH] if(type == Collection.class){ return Collections.emptyList(); } else if(type == List.class){ return null; }
+[PATCH] else if(type == List.class){ return Collections.emptyList(); } else if(type == Map.class){ return null; }
+[PATCH] if(TypeUtils.isCollection(type)) { if(type == List.class){ return Collections.emptyList(); }
+[PATCH] if(type.isArray()){ if(TypeUtils.isCollection(type)) { return Array.asList(type); }
+[PATCH] else if(type == Collection.class){ return Collections.emptyList(); } else if(type == List.class){ return null; }
+[PATCH] else if(type.isArray()){ if(!MockUtil.isCollection(type)) { return null; }
+[PATCH] else if(type == List.class){ return Collections.emptyList(); }
+[PATCH] if(type == Collection.class){ return Collections.emptyList(); }
+[PATCH] if(type.isArray()){ if(!ObjectUtilities.isPrimitive(type)) { return null; }
+[PATCH] else if(type == Collection.class){ return null; } else if(type == List.class){ return ArrayList.class; }
+[PATCH] else if(type.isArray()){ if(TypeUtils.isCollection(type)) { return Array.asList(type); }
+[PATCH] if(type == List.class){ return Collections.emptyList(); } else if(type == Map.class){ return null; }
+[PATCH] else if(type == Collection.class){ return collection; } else if(type == List.class){ return list; }
+[PATCH] if(type == Collection.class){ return collection; } else if(type == List.class){ return list; }
+[PATCH] if(type == Collection.class){ return List.class; } else if(type == List.class){ return LinkedList.class; }
+[PATCH] if(type == Collection.class){ return this; }
+[PATCH] if(type == Collection.class){ return ArrayList.class; } else if(type == List.class){ return LinkedList.class; }
+[PATCH] if(type.isArray()){ if(Primitives.isContainerType(type)) { return Array.newInstance(type); }
+[PATCH] if(type.isArray()){ if(Primitives.isContainerType(type)) { return Array.newArrayList(); }
+[PATCH] if(type.isArray()){ if(!ObjectUtils.isCollection(type)) { return Array.asList(type); }
+[PATCH] if(type.isArray()){ if("[]".equals(type.getComponentType())) { return Array.newArrayList(); }
+[PATCH] if(TypeUtils.isCollection(type)) { if(type == List.class){ return null; }
+[PATCH] if(TypeUtils.isCollection(type)) { if(type == Collection.class){ return null; }
+[PATCH] else if(type == Collection.class){ return ArrayList.class; }
+[PATCH] if(type == List.class){ return Collections.emptyList(); }
+[PATCH] else if(type == Collection.class){ return new ArrayList<Object>(); }
+[PATCH] if(type.isArray()){ if(TypeUtils.isCollection(type)) { return Array.newArrayList(); }
+[PATCH] if(type.isArray()){ if(Primitives.isPrimitiveOrWrapper(type)) { return Array.newArrayList(); }
+[PATCH] if(type == Collection.class){ return ArrayList.class; }
+[PATCH] else if(Primitives.isCollectionType(type)) { if(""); }
+[PATCH] if(Primitives.isCollectionType(type)) { if(""); }
+[PATCH] else if(type == List.class){ return ArrayList.class; }
+[PATCH] else if(type == List.class){ return null; }
+[PATCH] if(Collection.class.isAssignableFrom(type)) { if(""); }
+[PATCH] if(List.class.isAssignableFrom(type)) { if(""); }
+[PATCH] if(type == List.class){ return null; }
+[PATCH] if(type == Collection.class){ if(return null; }
+[PATCH] if(type == List.class){ return ArrayList.class; }
+[PATCH] if(type == Collection.class){ if(""); }

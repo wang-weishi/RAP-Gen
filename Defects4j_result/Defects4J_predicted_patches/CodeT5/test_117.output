@@ -1,0 +1,100 @@
+[PATCH] if(rValue.isQualifiedName()){
+[PATCH] if(rValue.isJSType()){
+[PATCH] if(rValue.isType()){
+[PATCH] if(rValue.isFunction()){
+[PATCH] if(rValue.isGenericType()){
+[PATCH] if(rValue.isVar()){
+[PATCH] if(rValue.isGetProp()){
+[PATCH] if(rValue.isEnum()){
+[PATCH] if(rValue.isScalar()){
+[PATCH] if(rValue.isLiteral()){
+[PATCH] if(rValue.isEnumType()){
+[PATCH] if(rValue.isOptionalArg()){
+[PATCH] if(rValue.isFirstChild()){
+[PATCH] if(rValue.isNativeType()){
+[PATCH] if(rValue.isName()){
+[PATCH] if(rValue.isSubTypeOf(lValue)) {
+[PATCH] if(rValue.isFormalType()){
+[PATCH] if(rValue.isEquivalentTo(lValue)) {
+[PATCH] if(rValue.isString()){
+[PATCH] if(rValue.isJsonType()){
+[PATCH] if(rValue.isAsType()){
+[PATCH] if(rValue.isKeyword()){
+[PATCH] if(rValue.isNumber()){
+[PATCH] if(rValue.isNumerator()){
+[PATCH] if(rValue.isReturn()){
+[PATCH] if(rValue.isEnumParameterType()){
+[PATCH] if(rValue.isOneChild()){
+[PATCH] if(rValue.isNumeric()){
+[PATCH] if(rValue.isTemplateType()){
+[PATCH] if(rValue.isJType()){
+[PATCH] if(rValue.isNoType()){
+[PATCH] if(rValue.isSingleton()){
+[PATCH] if(rValue.isScriptType()){
+[PATCH] if(rValue.isNative()){
+[PATCH] if(rValue.isSignature()){
+[PATCH] if(rValue.isSimpleType()){
+[PATCH] if(rValue.isQuery()){
+[PATCH] if(rValue.isEqualityType()){
+[PATCH] if(rValue.isBinary()){
+[PATCH] if(rValue.getJSType()!= null){
+[PATCH] if(rValue.isTyping()){
+[PATCH] if(rValue.isJavaType()){
+[PATCH] if(rValue.isFnLiteral()){
+[PATCH] if(rValue.isMaybe()){
+[PATCH] if(rValue.isObjectType()){
+[PATCH] if(rValue.isWithType()){
+[PATCH] if(rValue.isUnary()){
+[PATCH] if(rValue.isCase()){
+[PATCH] if(rValue.isPredType()){
+[PATCH] if(rValue.isDefined()){
+[PATCH] if(rValue.isClassType()){
+[PATCH] if(rValue.isFUNCTION()){
+[PATCH] if(rValue.isRegularType()){
+[PATCH] if(rValue.isFunctionType()){
+[PATCH] if(rValue.isTypedProperty()){
+[PATCH] if(rValue.isSequenceType()){
+[PATCH] if(rValue.isVal()){
+[PATCH] if(rValue.isBracket()){
+[PATCH] if(rValue.isForIn()){
+[PATCH] if(rValue.isLitType()){
+[PATCH] if(rValue.isDate()){
+[PATCH] if(rValue.isUnknownType()){
+[PATCH] if(rValue.isTypeName()){
+[PATCH] if(rValue.isConstant()){
+[PATCH] if(rValue.isConstructor()){
+[PATCH] if(rValue.isGeneric()){
+[PATCH] if(rValue.isTypeParameter()){
+[PATCH] if(rValue.isKey()){
+[PATCH] if(rValue.isToken()){
+[PATCH] if(rValue.isIf()){
+[PATCH] if(rValue.isFieldName()){
+[PATCH] if(rValue.isField()){
+[PATCH] if(rValue.isJavaType()){
+[PATCH] if(rValue.isFactory()){
+[PATCH] if(rValue.isDef()){
+[PATCH] if(rValue.isOp()){
+[PATCH] if(rValue.isBoolean()){
+[PATCH] if(rValue.isConverter()){
+[PATCH] if(rValue.is Function()){
+[PATCH] if(rValue.isEmpty()){
+[PATCH] if(rValue.is JSType()){
+[PATCH] if(rValue.isGetter()){
+[PATCH] if(rValue.isOk()){
+[PATCH] if(rValue.isAnd()){
+[PATCH] if(rValue.isCall()){
+[PATCH] if(rValue.isUnion()){
+[PATCH] if(rValue.isVariable()){
+[PATCH] if(rValue.isText()){
+[PATCH] if(rValue.isPlural()){
+[PATCH] if(rValue.isFunctions()){
+[PATCH] if(rValue.isEquivalentTo(null)) {
+[PATCH] if(rValue.isJSType()!= null){
+[PATCH] if(rValue.isSubTypeOf(lValue));
+[PATCH] if(rValue.isSubTypeOf(this)) {
+[PATCH] if(rValue.getJSType()!= null {
+[PATCH] if(rValue.isQualifiedName()){
+[PATCH] if(rValue.isJSType()){
+[PATCH] if(rValue.isJSType()) {
+[PATCH] {
+);

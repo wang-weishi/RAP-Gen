@@ -1,0 +1,100 @@
+[PATCH] if(endIndex == this.data.size()){
+[PATCH] if(endIndex == -1){
+[PATCH] if(startIndex == -1){
+[PATCH] if(endIndex == this.data.size()){
+[PATCH] if(startIndex < 0){
+[PATCH] if(getIndex(start)== -1){
+[PATCH] if(startIndex == this.data.size()){
+[PATCH] if(endIndex == 0){
+[PATCH] if(startIndex > this.data.size()){
+[PATCH] if(startIndex == -1 && endIndex == 0){
+[PATCH] if(endIndex > this.data.size()){
+[PATCH] if(getIndex(start)< 0){
+[PATCH] if(endIndex ==this.data.size()){
+[PATCH] if(endIndex < 0){
+[PATCH] if(endIndex == this.data.size() {
+[PATCH] if(beginIndex == this.data.size()){
+[PATCH] if(startIndex == -1 && endIndex == null){
+[PATCH] if(startIndex == -1 * endIndex){
+[PATCH] if(this.data.size() == endIndex){
+[PATCH] if(startIndex == 0){
+[PATCH] if(startIndex == -1 && endIndex < 0){
+[PATCH] if(startIndex == -1 && endIndex == 1){
+[PATCH] if(endIndex== this.data.size()){
+[PATCH] if(endIndex == WHOLE_COLLECTION){
+[PATCH] if(indexOf(start, endIndex)== -1){
+[PATCH] if(beginIndex == -1){
+[PATCH] if(( endIndex - startIndex)== 0){
+[PATCH] if(startIndex < 0 && endIndex == -1){
+[PATCH] if(getIndex(start) == -1){
+[PATCH] if(endIndex == getPeriodType()){
+[PATCH] if(startIndex == -1.0){
+[PATCH] if(endIndex == this.getItemCount()){
+[PATCH] if(endIndex == index(start)) {
+[PATCH] if(getIndex(start)) == -1){
+[PATCH] if(newIndex == -1){
+[PATCH] if(endIndex == Integer.MIN_VALUE){
+[PATCH] if(startIndex == -1 || endIndex == 0){
+[PATCH] if(index < 0){
+[PATCH] if(endIndex == this.length()){
+[PATCH] if(endIndex == get(start){
+[PATCH] if(endIndex == -1 && getIndex(start);
+[PATCH] if(startIndex == this.data.size()){
+[PATCH] if(this.data.size() < endIndex){
+[PATCH] if(i == this.data.size()){
+[PATCH] if(endIndex == UNSPECIFIED_END){
+[PATCH] if(endIndex == get(start)) {
+[PATCH] if(this.data.size() == 0){
+[PATCH] if(endIndex == this.data.size());
+[PATCH] if(eIndex == -1){
+[PATCH] if(intIndex == -1){
+[PATCH] if(endIndex == null){
+[PATCH] if(( endIndex - startIndex)< 0){
+[PATCH] if(endIndex == get(start);
+[PATCH] if(endIndex == - 1){
+[PATCH] if(( endIndex - startIndex)== 0){
+[PATCH] if(index == -1){
+[PATCH] if(INDEX(start)== -1){
+[PATCH] if(startIndex == -1 + endIndex){
+[PATCH] if(--endIndex == -1){
+[PATCH] if(endIndex == start){
+[PATCH] if(endIndex == getMillis()){
+[PATCH] if(endIndex == getIndex(start);
+[PATCH] if(startIndex - 1 == endIndex){
+[PATCH] if(endIndex == this.index){
+[PATCH] if(endIndex - startIndex == 0){
+[PATCH] if(endIndex == index(start){
+[PATCH] if(startIndex == - 1){
+[PATCH] if(inIndex == -1){
+[PATCH] if(startIndex == -1){
+[PATCH] if(endIndex == this.length){
+[PATCH] if(emptyIndex == -1){
+[PATCH] if(startIndex == -1;
+[PATCH] if(getIndex(start){
+[PATCH] if(endIndex == INDEX_ZERO){
+[PATCH] if(columnIndex == -1){
+[PATCH] if(startIndex == null){
+[PATCH] if(endIndex == -1 {
+[PATCH] if(startIndex == -1);
+[PATCH] if(currentIndex == -1){
+[PATCH] if(startIndex == -1 {
+[PATCH] if(oldIndex < 0){
+[PATCH] if(startIndex > endIndex){
+[PATCH] if(endIndex == +1){
+[PATCH] if(getIndex(start);
+[PATCH] if(origIndex < 0){
+[PATCH] if(emptyIndex < 0){
+[PATCH] if(columnIndex < 0){
+[PATCH] if(newIndex < 0){
+[PATCH] if(eIndex < 0){
+[PATCH] if(posIndex < 0){
+[PATCH] if(endIndex == startIndex){
+[PATCH] if(endIndex == range){
+[PATCH] if(-1 == endIndex){
+[PATCH] if(startIndex, endIndex){
+[PATCH] if(offset < 0){
+[PATCH] if(0 == endIndex){
+[PATCH] if(1 == endIndex){
+[PATCH] ;
+[PATCH] if
+

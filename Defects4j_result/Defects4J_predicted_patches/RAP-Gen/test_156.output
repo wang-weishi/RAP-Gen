@@ -1,0 +1,100 @@
+[PATCH] if(result!= null){
+[PATCH] if(result!= null && result.isUnknownType()){
+[PATCH] if(result!= null && result.isVoidType()){
+[PATCH] if(result!= null && result.isUnionType()){
+[PATCH] if(result!= null && result.isNoType()){
+[PATCH] if(result!= null && result.isString()){
+[PATCH] if(result!= null && result.equals(that)) {
+[PATCH] if(result!= null && result.isType()){
+[PATCH] if(result!= null && result.isObject()){
+[PATCH] if(result!= null && result.isNone()){
+[PATCH] if(result!= null && result.isNativeType()){
+[PATCH] if(result!= null && result.isOptionalArg()){
+[PATCH] if(result!= null && result.isTemplateType()){
+[PATCH] if(result!= null || result.isUnknownType()){
+[PATCH] if(result!= null && result.isEnumType()){
+[PATCH] if(result!= null &&!result.isVoid()){
+[PATCH] if(result!= null && result instanceof UnionType){
+[PATCH] if(result!= null && result.isEmpty()){
+[PATCH] if(result!= null && result.isErrorType()){
+[PATCH] if(result!= null && result.isVoid()){
+[PATCH] if(result!= null && result.isUndefined()){
+[PATCH] if(result!= null && result.isGenericType()){
+[PATCH] if(result!= null &&!result.isEmpty()){
+[PATCH] if(result!= null &&!result.isNone()){
+[PATCH] if(result!= null &&!result.isObject()){
+[PATCH] if(result!= null && result.equals(this)) {
+[PATCH] if(that.isSubtype(result)) {
+[PATCH] if(result!= null && result.isShortType()){
+[PATCH] if(result!= null && result.isPrimitive()){
+[PATCH] if(result!= null && result.isMapType()){
+[PATCH] if(result!= null && result.isInterface()){
+[PATCH] if(result!= null && result.isScalarType()){
+[PATCH] if(result!= null || result.isVoidType()){
+[PATCH] if(result!= null && result.isNaN()){
+[PATCH] if(result!= null && result.isAliased()){
+[PATCH] if(result!= null && result.isJSType()){
+[PATCH] if(result!= null &&!result.isString()){
+[PATCH] if(result!= null && result.isUnsupportedType()){
+[PATCH] if(result!= null && result.isAll()){
+[PATCH] if(result!= null && result.isSingletonType()){
+[PATCH] if(result!= null &&!result.isUndefined()){
+[PATCH] if(result!= null && result.isNumber()){
+[PATCH] if(result!= null || result.equals(that)) {
+[PATCH] if(result!= null && result.isNull()){
+[PATCH] if(result!= null && result.isFunctionPrototype()){
+[PATCH] if(result!= null && result.isFunctionType()){
+[PATCH] if(result!= null && result.isObjectType()){
+[PATCH] if(result!= null && result.isNumeric()){
+[PATCH] if(result!= null && result.isJsonType()){
+[PATCH] if(result!= null || result instanceof UnionType){
+[PATCH] if(result!= null && result.isUnknownType());
+[PATCH] if(that.isEmptyType() || result!= null){
+[PATCH] if(result!= null && result.isTopType()){
+[PATCH] if(result!= null && result.isValueType()){
+[PATCH] if(result!= null && result.isKnownType()){
+[PATCH] if(result!= null && result.isInstanceType()){
+[PATCH] if(result!= null && result.isPresent()){
+[PATCH] if(result!= null &&!this.isObject()){
+[PATCH] if(result!= null && result.isUNKNOWN()){
+[PATCH] if(that == null ||!this.isObject()){
+[PATCH] if(result!= null && result.isTypes()){
+[PATCH] if(result!= null && result.isInstance()){
+[PATCH] if(!result.isEquivalentTo(that)) {
+[PATCH] if(result!= null && result.isDeleted()){
+[PATCH] if(this.isEquivalentTo(that)) {
+[PATCH] if(result!= null && result.isConstructor()){
+[PATCH] if(that.equals(result)) {
+[PATCH] if(result!= null && result.isBoolean()){
+[PATCH] if(result!= null && result.isInteger()){
+[PATCH] if(result!= null && result.isClass()){
+[PATCH] if(result!= null && result.isUnion()){
+[PATCH] if(result!= null && result instanceof JSType){
+[PATCH] if(that instanceof UnionType){
+[PATCH] if(that == null || result!= null){
+[PATCH] if(that.isEquivalentTo(result)) {
+[PATCH] if(result!= null && result.isUnknownType()){
+[PATCH] if(result!= null &&!result.isUnknownType());
+[PATCH] if(!result.isUnknownType()){
+[PATCH] if(!result.isVoidType()){
+[PATCH] if(result!= null){
+[PATCH] if(that instanceof JSType && result!= null){
+[PATCH] if(that.isNone()){
+[PATCH] if(result!= null){
+[PATCH] if(result!= null);
+[PATCH] if(result!= null {
+[PATCH] if(this.isVoid()){
+[PATCH] if(that.isEmpty()){
+[PATCH] if(that.isInstance()){
+[PATCH] if(this.isEmpty()){
+[PATCH] if(that.isType()){
+[PATCH] if(that.isAll()){
+[PATCH] if(that == null){
+[PATCH] if( result!= null){
+[PATCH] if(this instanceof UnionType){
+[PATCH] if(result!= undefined){
+[PATCH] if(return result!= null){
+[PATCH] if(result!= null()){
+[PATCH] if(result!= null'){
+[PATCH] if(result!= null){
+[PATCH] if(result instanceof UnionType){

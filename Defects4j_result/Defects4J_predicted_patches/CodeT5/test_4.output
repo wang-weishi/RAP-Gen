@@ -1,0 +1,100 @@
+[PATCH] if(endIndex < 0 && endIndex == this.data.size()){
+[PATCH] if(endIndex < 0 || endIndex > this.data.size()){
+[PATCH] if(endIndex < 0 && startIndex == this.data.size()){
+[PATCH] if(endIndex < 0 && endIndex > this.data.size()){
+[PATCH] if(endIndex < 0 && startIndex == -1){
+[PATCH] if(endIndex < 0 || endIndex == this.data.size()){
+[PATCH] if(endIndex < 0){
+[PATCH] if(endIndex < 0 && startIndex > this.data.size()){
+[PATCH] if(endIndex < 0 && index == this.data.size()){
+[PATCH] if(endIndex < 0 && endIndex >= this.data.size()){
+[PATCH] if(endIndex < 0 && endIndex >= getItemCount()){
+[PATCH] if(endIndex < 0 && startIndex <= this.data.size()){
+[PATCH] if(startIndex < 0 && endIndex > this.data.size()){
+[PATCH] if(endIndex < 0 && beginIndex > this.data.size()){
+[PATCH] if(endIndex < 0 && startPosition == this.data.size()){
+[PATCH] if(endIndex < 0 && getIndex(start)== -1){
+[PATCH] if(endIndex < 0 && endIndex == getSeriesCount() - 1){
+[PATCH] if(endIndex < 0 && startIndex > endIndex){
+[PATCH] if(endIndex < 0 || endIndex > getDataItemCount()){
+[PATCH] if(endIndex < 0 && startIndex == end.getStartIndex()){
+[PATCH] if(endIndex < 0 || startIndex > endIndex){
+[PATCH] if(endIndex < 0 && index == -1){
+[PATCH] if(endIndex < 0 && this.data.size() == 0){
+[PATCH] if(endIndex < 0 && readValue(startIndex)== null){
+[PATCH] if(endIndex < 0 && endIndex == data.size()){
+[PATCH] if(endIndex < 0 || endIndex > data.size()){
+[PATCH] if(endIndex < 0 && startIndex >= this.data.size()){
+[PATCH] if(endIndex < 0 && fromIndex > this.data.size()){
+[PATCH] if(endIndex < 0 && indexes[endIndex] == -1){
+[PATCH] if(endIndex < 0 && startIndex > end.getStartIndex()){
+[PATCH] if(endIndex < 0 && toIndex == this.data.size()){
+[PATCH] if(endIndex < 0 && endIndex == getSeriesCount()){
+[PATCH] if(endIndex < 0 || endIndex > getSeriesCount()){
+[PATCH] if(endIndex < 0 && indexOf(start)== -1){
+[PATCH] if(endIndex < 0 && startIndex == endIndex){
+[PATCH] if(endIndex < 0 && fromIndex == this.data.size()){
+[PATCH] if(endIndex < 0 && getPosition(startIndex)== -1){
+[PATCH] if(endIndex < 0 || index > this.data.size()){
+[PATCH] if(endIndex < 0 && getIndex(start)== null){
+[PATCH] if(endIndex < 0 && this.data.size() > 0){
+[PATCH] if(endIndex < 0 && endIndex == Integer.MAX_VALUE){
+[PATCH] if(endIndex < 0 && endIndex!= this.data.size()){
+[PATCH] if(endIndex < 0 && getPeriodType() == TimeSeries.class){
+[PATCH] if(endIndex < 0 && toIndex > this.data.size()){
+[PATCH] if(endIndex < 0 && endIndex == Collections.size()){
+[PATCH] if(endIndex < 0 && getStartIndex() == end){
+[PATCH] if(endIndex < 0 && startIndex > end.getIndex()){
+[PATCH] if(endIndex < 0 && indexOf(start, endIndex)< 0){
+[PATCH] if(beginIndex < 0 && endIndex > this.data.size()){
+[PATCH] if(endIndex < 0 && endIndex>this.data.size()){
+[PATCH] if(endIndex < 0 && lastIndexOf(start, endIndex)< 0){
+[PATCH] if(endIndex < 0 && fromIndex == -1){
+[PATCH] if(endIndex < 0 && startIndex!= this.data.size()){
+[PATCH] if(endIndex < 0 && getIndex(startIndex)== -1){
+[PATCH] if(endIndex < 0 && getCount(endIndex)== -1){
+[PATCH] if(endIndex < 0 && endIndex > getSeriesCount()){
+[PATCH] if(endIndex < 0 && startPosition == this.startIndex){
+[PATCH] if(endIndex < 0 && endIndex == List.class){
+[PATCH] if(endIndex < 0 && getStartIndex() == -1){
+[PATCH] if(endIndex < 0 && indexOf(start)< 0){
+[PATCH] if(endIndex < 0 && endIndex == getDataItemCount()){
+[PATCH] if(endIndex < 0 && getTimePeriod(startIndex)== null){
+[PATCH] if(endIndex < 0 && endIndex == Long.MAX_VALUE){
+[PATCH] if(endIndex < 0 && indices[endIndex] == -1){
+[PATCH] if(endIndex < 0 && endIndex >= getLength()){
+[PATCH] if(endIndex < 0 && endIndex > getDataItemCount()){
+[PATCH] if(endIndex < 0 && startIndex > getEndIndex()){
+[PATCH] if(endIndex < 0 && endIndex - startIndex < maximumItemCount){
+[PATCH] if(endIndex < 0 && endIndex == List.size()){
+[PATCH] if(endIndex < 0 && getStartIndex() == this.startIndex){
+[PATCH] if(endIndex < 0 && -1 <= startIndex){
+[PATCH] if(endIndex < 0 && endIndex == -1){
+[PATCH] if(endIndex == this.data.size()){
+[PATCH] if(endIndex < 0 &&!isInverted()){
+[PATCH] if(endIndex < 0 && endIndex > data.size()){
+[PATCH] if(endIndex < 0 && endIndex == size()){
+[PATCH] if(endIndex < 0 && startIndex - 1 == size()){
+[PATCH] if(endIndex < 0 && this.data.size() < 1){
+[PATCH] if(endIndex < 0 && startIndex == null){
+[PATCH] if(endIndex < 0 && startIndex == end.getIndex()){
+[PATCH] if(endIndex < 0 && getIndex(start)== end){
+[PATCH] if(endIndex < 0 - 1){
+[PATCH] if(endIndex < 0 &&!isEmpty(startIndex)) {
+[PATCH] if(endIndex > this.data.size()){
+[PATCH] if(endIndex < 0 && getIndex(start)< 0){
+[PATCH] if(endIndex < 0 && INDEX_EMPTY == this.range){
+[PATCH] if(endIndex < 0 && fromIndex == endIndex){
+[PATCH] if(endIndex < 0 && startIndex > endIndex){
+[PATCH] if(endIndex < 0 && start == null){
+[PATCH] if(endIndex < 0 && getIndex(start)) {
+[PATCH] if(endIndex < 0 && endIndex - startIndex < 2){
+[PATCH] if(endIndex < 0 && getIndex(start);
+[PATCH] if(endIndex < 0 && getPosition(startIndex)== null){
+[PATCH] if(!emptyRange && endIndex < 0){
+[PATCH] if(endIndex < 0 && range!= null){
+[PATCH] if(endIndex < 0 && startIndex == 1){
+[PATCH] if(endIndex < 0 && getBase() == null){
+[PATCH] if(endIndex < 0 &&!isPartial()){
+[PATCH] if(endIndex < 0 && endIndex == List.SIZE){
+[PATCH] if(endIndex < 0 && getIndex(start)+ 1 == endIndex){

@@ -1,0 +1,100 @@
+[PATCH] if(!NodeUtil.mayHaveSideEffects(lhs)) {
+[PATCH] if(!NodeUtil.mayHaveSideEffects(cond)) {
+[PATCH] if(!mayEffectMutableState(lhs)) {
+[PATCH] if(!isForInlining(lhs, elseOp)) {
+[PATCH] if(!NodeUtil.mayHaveSideEffects(elseOp)) {
+[PATCH] if(NodeUtil.isAssignmentOp(thenOp)) {
+[PATCH] if(!NodeUtil.mayMoveTo(lhs, elseOp)) {
+[PATCH] if(!NodeUtil.mayEffectMutableState(lhs)) {
+[PATCH] if(!NodeUtil.isLiteralValue(lhs)) {
+[PATCH] if(!NodeUtil.mayHaveSideEffects(thenOp)) {
+[PATCH] if(!isEquivalent(lhs, elseOp)) {
+[PATCH] if(!areNodesEqualForInlining(lhs, elseOp)) {
+[PATCH] if(NodeUtil.mayHaveSideEffects(lhs)) {
+[PATCH] if(!NodeUtil.isLiteralValue(cond)) {
+[PATCH] if(!isInlining(lhs, elseOp)) {
+[PATCH] if(mayHaveSideEffects(lhs)) {
+[PATCH] if(!NodeUtil.mayEqualMutableState(lhs, elseOp)) {
+[PATCH] if(mayEffectMutableState(lhs)) {
+[PATCH] if(!NodeUtil.mayHaveSideEffects(lhs, elseOp)) {
+[PATCH] if(!NodeUtil.mayHaveSideEffects(left)) {
+[PATCH] if(NodeUtil.mayHaveSideEffects(cond)) {
+[PATCH] if(!NodeUtil.mayMatchMutableState(lhs, elseOp)) {
+[PATCH] if(!areNodesEqualForInlining(thenOp, elseOp)) {
+[PATCH] if(isNodesEqualForInlining(lhs, elseOp)) {
+[PATCH] if(!NodeUtil.mayMoveToFront(lhs, elseOp)) {
+[PATCH] if(!NodeUtil.mayBeEquivalent(lhs, elseOp)) {
+[PATCH] if(!NodeUtil.mayApplyMutableState(lhs)) {
+[PATCH] if(NodeUtil.isAssignmentOp(lhs)) {
+[PATCH] if(!NodeUtil.mayMoveTo(thenOp, elseOp)) {
+[PATCH] if(isNodeForInlining(lhs, elseOp)) {
+[PATCH] if(!isObjectLitKey(lhs, elseOp)) {
+[PATCH] if(!NodeUtil.mayAssignMutableState(lhs)) {
+[PATCH] if(NodeUtil.isExpressionNode(thenOp)) {
+[PATCH] if(areNodesEqualForInlining(lhs, elseOp)) {
+[PATCH] if(isForInlining(lhs, elseOp)) {
+[PATCH] if(!areNodesEqualForInlining(left, right)) {
+[PATCH] if(!NodeUtil.mayEliminate(lhs, elseOp)) {
+[PATCH] if(!willEffectMutableState(lhs)) {
+[PATCH] if(!argsMayHaveSideEffects(lhs)) {
+[PATCH] if(!NodeUtil.mayEffectMutableState(lhs, elseOp)) {
+[PATCH] if(areNodesEqualForInlining(thenOp, elseOp)) {
+[PATCH] if(!isEnteringNewCfgNode()){
+[PATCH] if(!isNodesEqualForInlining(lhs, elseOp)) {
+[PATCH] if(!isNodeAttached(lhs, elseOp)) {
+[PATCH] if(!canMoveTo(lhs, elseOp)) {
+[PATCH] if(!alwaysEffectMutableState(lhs)) {
+[PATCH] if(!NodeUtil.mayHaveSideEffects(lhs), elseOp)) {
+[PATCH] if(mayMoveTo(lhs, elseOp)) {
+[PATCH] if(!NodeUtil.isAssignmentOp(thenOp)) {
+[PATCH] if(!allNodesEqualForInlining(lhs, elseOp)) {
+[PATCH] if(!isEnteringNewCfg()){
+[PATCH] if(!thenOp.isEquivalentTo(elseOp)) {
+[PATCH] if(!mightEffectMutableState(lhs)) {
+[PATCH] if(!mustEffectMutableState(lhs)) {
+[PATCH] if(!n.isEquivalentTo(lhs)) {
+[PATCH] if(!NodeUtil.isAssignmentOp(lhs)) {
+[PATCH] if(!forInlining(lhs, elseOp)) {
+[PATCH] if(NodeUtil.isAssignmentOp(cond)) {
+[PATCH] if(isNodeMatch(lhs, elseOp)) {
+[PATCH] if(!equalOp(lhs, elseOp)) {
+[PATCH] if(!NodeUtil.mayEliminate(cond)) {
+[PATCH] if(NodeUtil.isExpressionNode(cond)) {
+[PATCH] if(isNodeAttached(lhs, elseOp)) {
+[PATCH] if(!thenEffectMutableState(lhs)) {
+[PATCH] if(NodeUtil.isAssignmentOp(elseOp)) {
+[PATCH] if(!lhs.equals(elseOp)) {
+[PATCH] if(!mayHaveSideEffects(lhs)) {
+[PATCH] if(NodeUtil.isLiteralValue(cond)) {
+[PATCH] if(n.getType() == Token.HOOK){
+[PATCH] if(!weHaveSideEffects(lhs)) {
+[PATCH] if(!isLiteralValue(lhs)) {
+[PATCH] if(isNodeEqual(lhs, elseOp)) {
+[PATCH] if(!isConditionalOp(lhs)) {
+[PATCH] if(!isConditionalOp(thenOp)) {
+[PATCH] if(NodeUtil.isLiteralValue(lhs)) {
+[PATCH] if(NodeUtil.isForInlining(cond)) {
+[PATCH] if(!isEnteringNewCfgNodes()){
+[PATCH] if(!sideEffectMutableState(lhs)) {
+[PATCH] if(n.getType() == Token.IF){
+[PATCH] if(mayApplyMutableState(lhs)) {
+[PATCH] if(!NodeUtil.isLiteralValue(thenOp)) {
+[PATCH] if(!isExprAssign(thenOp)) {
+[PATCH] if(!isExpressionNode(lhs)) {
+[PATCH] if(!isEnteringNewExpr()){
+[PATCH] if(!shouldEffectMutableState(lhs)) {
+[PATCH] if(isNestedAssign(thenOp)) {
+[PATCH] if(!isSafeAssign(thenOp)) {
+[PATCH] if(!isNestedAssign(thenOp)) {
+[PATCH] if(!isImmutableValue(lhs)) {
+[PATCH] if(isAssignmentOp(thenOp)) {
+[PATCH] if(isAssignmentOp(lhs)) {
+[PATCH] if(!isExpressionNode(thenOp)) {
+[PATCH] if(!isAssignmentOp(lhs)) {
+[PATCH] if(!isConditionExpression(lhs)) {
+[PATCH] if(!n.hasChildren()){
+[PATCH] if(isConditionExpression(lhs)) {
+[PATCH] if(!isActual()){
+[PATCH] if(n.hasChildren()){
+[PATCH] if(!isAssignAllowed()){
+[PATCH] if(!isVoid()){

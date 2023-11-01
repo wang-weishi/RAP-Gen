@@ -1,0 +1,100 @@
+[PATCH] } else if(parent!= null){
+[PATCH] } else if(parent.getType() == Token.ASSIGN){
+[PATCH] } else if(ns!= null){
+[PATCH] } else if(ns.onlyAffectsClassDef){
+[PATCH] } else if(NodeUtil.isExpressionNode(parent)) {
+[PATCH] } else if(parent.getType()!= Token.ASSIGN){
+[PATCH] } else if(n.getType() == Token.ASSIGN){
+[PATCH] } else if(parent.getType() == Token.FUNCTION){
+[PATCH] } else if(parent.getType()!= Token.FUNCTION){
+[PATCH] } else if(!NodeUtil.isExpressionNode(parent)) {
+[PATCH] } else if(parent.getType() == Token.CALL){
+[PATCH] } else if(NodeUtil.isExprAssign(parent)) {
+[PATCH] } else if(nameNode.getType() == Token.NAME){
+[PATCH] } else if(nameNode == null){
+[PATCH] } else if(onlyAffectsClassDef){
+[PATCH] } else if(parent.getType() == Token.NAME){
+[PATCH] } else if(parent.getType()!= Token.CALL){
+[PATCH] } else if(n == parent.getFirstChild()){
+[PATCH] } else if(parent.getType()!= Token.GETPROP){
+[PATCH] } else if(NodeUtil.isGetProp(parent)) {
+[PATCH] } else if(parent == null){
+[PATCH] } else if(NodeUtil.isExprAssign(n)) {
+[PATCH] } else if(node.getType() == Token.ASSIGN){
+[PATCH] } else if(( parent.getType() == Token.ASSIGN){
+[PATCH] } else if(NodeUtil.isGetProp(n)) {
+[PATCH] } else if(n.getType() == Token.GETPROP){
+[PATCH] } else if(( parent.getType()!= Token.ASSIGN){
+[PATCH] } else if(!NodeUtil.isExprAssign(parent)) {
+[PATCH] } else if(( n.getType() == Token.ASSIGN){
+[PATCH] } else if(parent.getType() == Token.GETPROP){
+[PATCH] } else if(( n.getType() == Token.ASSIGN)) {
+[PATCH] } else if(parent!= null || nameNode == null){
+[PATCH] } else if(NodeUtil.isAssignmentOp(parent)) {
+[PATCH] } else if(parent.getType()!= Token.NAME){
+[PATCH] } else if(NodeUtil.isExpressionNode(n)) {
+[PATCH] } else if(parent.getType() == Token.VAR){
+[PATCH] } else if(!NodeUtil.isLiteralValue(parent)) {
+[PATCH] } else if(recordNode.getType() == Token.ASSIGN){
+[PATCH] } else if(NodeUtil.isName(n)) {
+[PATCH] } else if(ns!= null && nameNode == null){
+[PATCH] } else if(parent.getFirstChild()!= n){
+[PATCH] if(parent.getType() == Token.ASSIGN){
+[PATCH] } else if(NodeUtil.isName(parent)) {
+[PATCH] } else if(n.getType() == Token.NAME){
+[PATCH] } else if(ns == null){
+[PATCH] } else if(nameNode.getType() == Token.FUNCTION){
+[PATCH] } else if("prototype".equals(name)) {
+[PATCH] } else if(NodeUtil.isAssignmentOp(n)) {
+[PATCH] } else if(NodeUtil.isLiteralValue(parent)) {
+[PATCH] } else if(parent.getType()!= Token.SCRIPT){
+[PATCH] } else if(parent!= null.getFirstChild()){
+[PATCH] } else if(!nameNode.isQualifiedName()){
+[PATCH] } else if(noAffectsClassDef){
+[PATCH] } else if(scope.isGlobal()){
+[PATCH] } else if(!t.inGlobalScope()){
+[PATCH] } else if(parent!= null){
+[PATCH] if(ns.onlyAffectsClassDef){
+[PATCH] } else if(t.inGlobalScope()){
+[PATCH] } else if(OnlyAffectsClassDef){
+[PATCH] } else if(n == parent){
+[PATCH] } else if(!n.isQualifiedName()){
+[PATCH] } else if(nodesToKeep == null){
+[PATCH] } else if(_nodeType == Token.ASSIGN){
+[PATCH] } else if(namespace == null){
+[PATCH] } else if(externallyDefined){
+[PATCH] } else if(namespace!= null){
+[PATCH] } else if(notAffectsClassDef){
+[PATCH] } else if(!node.isQualifiedName()){
+[PATCH] } else if(inExterns){
+[PATCH] } else if(parent!= n){
+[PATCH] } else if(_onlyAffectsClassDef){
+[PATCH] } else if(inExternallyDefined){
+[PATCH] } else if(parent!= null == n){
+[PATCH] } else if(compiler.isNormalized()){
+[PATCH] } else if(sawFunction){
+[PATCH] } else if(ns instanceof JsName){
+[PATCH] } else if(parent== null){
+[PATCH] } else if(currentNode!= null){
+[PATCH] } else if(parent, n){
+[PATCH] } else if(parent instanceof Node){
+[PATCH] } else if(scope == null){
+[PATCH] } else if(n instanceof Name){
+[PATCH] } else if(parent!= null {
+[PATCH] } else if(current == null){
+[PATCH] } else if(n!= parent){
+[PATCH] } else if(parent){
+[PATCH] if(parent!= null){
+[PATCH] if(ns!= null){
+[PATCH] } else if(parent){
+[PATCH] } else if(parent);
+[PATCH] } else {
+[PATCH] }, n);
+[PATCH] return;
+[PATCH] {
+[PATCH] });
+[PATCH] ;
+[PATCH] }
+[PATCH] };
+[PATCH]
+);

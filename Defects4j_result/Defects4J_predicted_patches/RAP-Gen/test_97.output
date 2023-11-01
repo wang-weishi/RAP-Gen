@@ -1,0 +1,100 @@
+[PATCH] if(option.hasArg() &&(option.getArgName()!= null)) {
+[PATCH] if(option.hasArg() ||(option.hasArgName()!= null)) {
+[PATCH] if(option.hasArg() ||(option.getArgName()!= null)) {
+[PATCH] if(option.hasArg() ||(option.hasArgName() &&!option.isRequired())) {
+[PATCH] if(option.hasArg() ||(option.hasArgName() && option.isRequired())) {
+[PATCH] if(option.hasArg() ||(option.hasArgName() &&!option.isRequired())) {
+[PATCH] if(option.hasArg() ||(option.isRequired() || option.isRequired())) {
+[PATCH] if(option.hasArg() ||(option.hasArgName() &&!option.isRequired()){
+[PATCH] if(option.hasArg() ||(option.hasArgName() = true)) {
+[PATCH] if(option.hasArg() ||(option.hasArgName() &&!option.isExtern())) {
+[PATCH] if(option.hasArg() ||(option.hasArgName() && option.isOptionalArg())) {
+[PATCH] if(option.hasArg() ||(option.hasArgName() &&!option.isDeprecated())) {
+[PATCH] if(hasArg() ||(option.hasArgName() && option.getArgName()!= null)) {
+[PATCH] if(option.hasArg() ||(option.hasArgName() && option.isVarArgs())) {
+[PATCH] if(option.hasArg() ||(option.hasArgName() &&!option.isArgs()){
+[PATCH] if(option.hasArg() ||(option.hasArgName() && option.isArgRequired())) {
+[PATCH] if(option.hasArg() ||(option.hasArgName() && option.isArgArgs())) {
+[PATCH] if(option.hasArg() ||(option.isRequired() &&!option.isRequired())) {
+[PATCH] if(option.hasArg() ||(option.hasArgName()?"" :"")) {
+[PATCH] if(!required &&(option.hasArg() || option.getArgName()!= null)) {
+[PATCH] if(option.hasArg() ||(option.hasArgName() && option.isArgValue())) {
+[PATCH] if(option.hasArg() ||(option.hasArgName() > null)) {
+[PATCH] if(option.hasArg() || option.hasArgName()){
+[PATCH] if(option.hasArg() ||(option.hasArgName())&&!option.isRequired()){
+[PATCH] if(option.hasArg() ||(option.hasArgName() && name.length() > 0)) {
+[PATCH] if(option.hasArg() ||(option.hasArgName() && option.isArgName())) {
+[PATCH] if(option.hasArg() ||(option.hasArgName() && option.isArgs())) {
+[PATCH] if(option.hasArg() ||(option.hasArgName() && flag.isRequired())) {
+[PATCH] if(option.hasArg() ||(option.hasArgName() &&!option.isOptionalArg()){
+[PATCH] if(option.hasArg() ||(option.hasArgName() && option.isLongOpt())) {
+[PATCH] if(option.hasArg() ||(option.hasArgName() && option.isArg()){
+[PATCH] if(option.hasArg() ||(option.hasArgName() && option.isArgValid())) {
+[PATCH] if(option.hasArg() ||(option.hasArgName() &&!option.isNoArg()){
+[PATCH] if(option.hasArg() ||(option.hasArgName() && options.isRequired())) {
+[PATCH] if(opt.hasArg() ||(option.hasArgName() &&!option.isRequired())) {
+[PATCH] if(option.hasArg() ||(option.hasArgName() && option.isArgNamed()){
+[PATCH] if(option.hasArg() ||(option.hasArgName() && option.isArg())){
+[PATCH] if(option.hasArg() ||(option.hasArgName() && option.isArgNamed())){
+[PATCH] if(option.hasArg() ||(option.hasArgName() &&!argument.isRequired())) {
+[PATCH] if(!option.hasArg() &&(option.getArgName()!= null)) {
+[PATCH] if(option.hasArg() ||(option.hasArgName() && option.isArgType())) {
+[PATCH] if(option.hasArg() ||(option.hasArgName() && option.isRequired()){
+[PATCH] if(option.hasArg() ||(option.hasArgName() &&")!= null)) {
+[PATCH] if(option.hasArg() ||(option.hasArgName() == null)) {
+[PATCH] if(option.hasArg() ||(option.hasArgName() &&!"")) {
+[PATCH] if(argument.hasArg() &&(option.getArgName()!= null)) {
+[PATCH] if(option.hasArg() ||(option.hasArgName() && option.isArgWrapped())) {
+[PATCH] if(option.hasArg() ||(option.isRequired() ||!option.isRequired())) {
+[PATCH] if(hasArg() ||(option.hasArgName() &&!option.isRequired())) {
+[PATCH] if(option.hasArg() ||(option.hasArgName() = false)) {
+[PATCH] if(option.hasArg() && option.getArgName()!= null){
+[PATCH] if(opt.hasArg() ||(option.hasArgName()!= null)) {
+[PATCH] if(option.hasArg() ||(option.hasArgName() && option.isArgs()){
+[PATCH] if(option.hasArg() ||(option.hasArgName() = null)) {
+[PATCH] if(option.hasArg() ||(option.hasArgName() && null)) {
+[PATCH] if(option.hasArg() ||(option.hasArgName() && option.isArgOn())){
+[PATCH] if(option.hasArgument() &&(option.getArgName()!= null)) {
+[PATCH] if(option.hasArg(); &&(option.getArgName()!= null)) {
+[PATCH] if(option.hasArg() ||(option.hasArgName() && i!= null)) {
+[PATCH] if(option.hasArg() &&(option.getArgumentName()!= null)) {
+[PATCH] if(option.hasArg() ||(option. hasArgName()!= null)) {
+[PATCH] if(option.hasArg() ||(option.hasArgName() == true)) {
+[PATCH] if(option.hasArgName() &&(option.getArgName()!= null)) {
+[PATCH] if(option.hasArg() ||(option.hasArgName() && option.isArg());
+[PATCH] if(opt.hasArg() &&(option.getArgName()!= null)) {
+[PATCH] if(option.hasArg() || option.getArgName()!= null){
+[PATCH] if(options.hasArg() ||(option.hasArgName()!= null)) {
+[PATCH] if(option. hasArg() &&(option.getArgName()!= null)) {
+[PATCH] if( option.hasArg() &&(option.getArgName()!= null)) {
+[PATCH] if(option.hasArg() ||(option.hasArgName() &&!null)) {
+[PATCH] if(option.hasArg() ||(option.hasArgName() &&)!= null)) {
+[PATCH] if(option.hasArg() ||(option.hasArgName() && option.isArgOn()){
+[PATCH] if(option.hasArg() ||(option.hasArgName() &&")!= null){
+[PATCH] if(!option.hasArg() ||(option.getArgName()!= null)) {
+[PATCH] if(option.hasArg() ||(option.hasArgName() && option.isArgAsIdentifier())){
+[PATCH] if(option.hasArg() &&(option.getArgName()!= null)) {
+[PATCH] if(options.hasArg() &&(option.getArgName()!= null)) {
+[PATCH] if(option.hasArg() ||(option.hasArgName()!null)) {
+[PATCH] if(i.hasArg() &&(option.getArgName()!= null)) {
+[PATCH] if(argument.hasArg() ||(option.hasArgName()!= null)) {
+[PATCH] if(option.hasArg() ||(option.getArgumentName()!= null)) {
+[PATCH] if(option.hasArgument() ||(option.hasArgName()!= null)) {
+[PATCH] if(option.hasArgs() &&(option.getArgName()!= null)) {
+[PATCH] if(hasArg() ||(option.hasArgName()!= null)) {
+[PATCH] if(option.hasArg() &&( option.getArgName()!= null)) {
+[PATCH] if(option.hasArg() ||(option.hasArgName() && true)) {
+[PATCH] if(option.hasArg() ||!option.hasArgName()){
+[PATCH] if(arg.hasArg() &&(option.getArgName()!= null)) {
+[PATCH] if(option.hasArg() ||(option.hasArgName() == false)) {
+[PATCH] if(this.hasArg() &&(option.getArgName()!= null)) {
+[PATCH] if(option.hasArg() ||(option.hasArgName() &&"){
+[PATCH] if(option.hasArg() ||(option.hasArgName() &&
+[PATCH] if(hasArg() &&(option.getArgName()!= null)) {
+[PATCH] if(option.hasArg() ||(option.hasArgName())) {
+[PATCH] if(option.hasArg() ||!option.isRequired()){
+[PATCH] if(option.hasArg() || option.isRequired()){
+[PATCH] if(option.hasArg()){
+[PATCH] if(option.hasArg() || option.isArgName()){
+[PATCH] if(!required){
+[PATCH] if(!option.hasArg()){

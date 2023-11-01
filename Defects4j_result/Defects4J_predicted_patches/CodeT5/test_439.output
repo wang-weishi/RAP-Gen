@@ -1,0 +1,100 @@
+[PATCH] if(varName.length() == 0){ synthesizedExternsInput.addVar(varName); } else { Preconditions.checkState(varsToDeclareInExterns.contains(varName)); }
+[PATCH] if(!varsToDeclareInExterns.contains(varName)) { throw new IllegalArgumentException("VarCheck should have caught this undefined variable"); }
+[PATCH] if(varName.length() == 0){ synthesizedExternsInput.addValue(varName); } else { Preconditions.checkState(varsToDeclareInExterns.contains(varName)); }
+[PATCH] if(varsToDeclareInExterns.contains(varName)) { synthesizedExternsInput.addVar(varName); } else { throw new IllegalStateException("VarCheck should have caught this undefined variable"); }
+[PATCH] if(!varsToDeclareInExterns.contains(varName)) { throw new IllegalArgumentException("VarCheck should have caught this undefined var"); }
+[PATCH] if(varsToDeclareInExterns.contains(varName)) { compiler.reportCodeChange(); } else { throw new IllegalStateException("VarCheck should have caught this undefined variable"); }
+[PATCH] if(varsToDeclareInExterns.contains(varName)) { synthesizedExternsInput.remove(varName); } else { throw new IllegalStateException("VarCheck should have caught this undefined variable"); }
+[PATCH] if(varName.length() == 0){ synthesizedExternsInput.addToken(Token.VAR); } else { Preconditions.checkState(varName.equals(nameNode.getString())); }
+[PATCH] if(varsToDeclareInExterns.contains(varName)) { synthesizedExternsInput.addVar(varName); } else { throw new IllegalStateException("VarCheck should have caught this undefined var"); }
+[PATCH] if(varsToDeclareInExterns.size() == 1){ synthesizedExternsInput.add(varName); } else { throw new IllegalStateException("VarCheck should have caught this undefined variable"); }
+[PATCH] if(varsToDeclareInExterns.contains(varName)) { if(getSynthesizedExternsInput().isExported(varName)) { synthesizedExternsInput.addVar(varName); }
+[PATCH] if(varName.length() > 0){ if(!varsToDeclareInExterns.contains(varName)) { throw new IllegalArgumentException("VarCheck should have caught this undefined variable"); }
+[PATCH] if(varsToDeclareInExterns.contains(varName)) { synthesizedExternsInput.addVar(varName); } else { throw new IllegalArgumentException("VarCheck should have caught this undefined variable"); }
+[PATCH] if(varsToDeclareInExterns.contains(varName)) { synthesizedExternsInput.remove(varName); } else { throw new IllegalArgumentException("VarCheck should have caught this undefined variable"); }
+[PATCH] if(varsToDeclareInExterns.contains(varName)) { if(strictExternCheck){ throw new IllegalArgumentException("VarCheck should have caught this undefined variable"); }
+[PATCH] if(varsToDeclareInExterns.contains(varName)) { if(strictExternCheck){ throw new IllegalArgumentException("VarCheck should have caught this undefined var name"); }
+[PATCH] if(varName.length() > 0){ if(!varsToDeclareInExterns.contains(varName)) { throw new IllegalArgumentException("VarCheck should have caught this undefined var name"); }
+[PATCH] if(!varsToDeclareInExterns.contains(varName)) { throw new IllegalArgumentException("VarCheck should have caught this undefined var name"); }
+[PATCH] if(!varsToDeclareInExterns.contains(varName)) { throw new IllegalStateException("VarCheck should have caught this undefined var"); }
+[PATCH] if(varsToDeclareInExterns.contains(varName)) { synthesizedExternsInput.remove(varName); } else { throw new IllegalStateException("VarCheck should have caught this undefined var"); }
+[PATCH] if(!varsToDeclareInExterns.contains(varName)) { throw new IllegalStateException("VarCheck should have caught this undefined variable"); }
+[PATCH] if(varsToDeclareInExterns.size() == 1){ synthesizedExternsInput.remove(varName); } else { throw new IllegalStateException("VarCheck should have caught this undefined variable"); }
+[PATCH] if(varsToDeclareInExterns.isEmpty()){ synthesizedExternsInput.addVar(varName); } else { throw new IllegalStateException("VarCheck should have caught this undefined variable"); }
+[PATCH] if(varName.length() == 0){ synthesizedExternsInput.addVar(varName); } else { Preconditions.checkState(varName.equals(currentInput.getVarName())); }
+[PATCH] if(varName.length() == 0){ synthesizedExternsInput.addVar(varName); } else { Preconditions.checkState(varName.equals(this.varName)); }
+[PATCH] if(!varsToDeclareInExterns.contains(varName)) { compiler.report(JSError.make(Token.VAR, varName)); } else { throw new IllegalStateException("VarCheck should have caught this undefined variable"); }
+[PATCH] if(varsToDeclareInExterns.contains(varName)) { compiler.reportCodeChange(); } else { throw new IllegalArgumentException("VarCheck should have caught this undefined variable"); }
+[PATCH] if(varsToDeclareInExterns.contains(varName)) { compiler.reportCodeChange(); } else { throw new IllegalStateException("VarCheck should have caught this undefined var"); }
+[PATCH] if(varName.length() == 0){ synthesizedExternsInput.addVar(varName); } else { Preconditions.checkState(varName.equals("")); }
+[PATCH] if(!varsToDeclareInExterns.contains(varName)) { compiler.report(JSError.make(Token.VAR, varName)); }
+[PATCH] if(varsToDeclareInExterns.contains(varName)) { if(getSynthesizedExternsInput().isSanityCheck()){ throw new IllegalStateException(""); }
+[PATCH] if(varsToDeclareInExterns.contains(varName)) { if(getSynthesizedExternsInput().isSanityCheck()){ throw new IllegalStateException("VarCheck should have caught this undefined variable"); }
+[PATCH] if(!varsToDeclareInExterns.contains(varName)) { throw new IllegalArgumentException("VarCheck should have caught this undefined var" +" in externs."); }
+[PATCH] if(varName.length() == 0){ synthesizedExternsInput.addVar(varName); } else { throw new IllegalStateException("VarCheck should have caught this undefined var"); }
+[PATCH] if(varsToDeclareInExterns.size() == 1){ synthesizedExternsInput.addVar(varName); } else { throw new IllegalStateException("VarCheck should have caught this undefined variable"); }
+[PATCH] if(varsToDeclareInExterns.contains(varName)) { if(strictExternCheck){ throw new IllegalStateException("VarCheck should have caught this undefined variable"); }
+[PATCH] if(varName.length() == 0){ synthesizedExternsInput.addToken(Token.VAR); } else { Preconditions.checkState(varName.equals(this.varName)); }
+[PATCH] if(varName.length() == 0){ synthesizedExternsInput.addVar(varName); } else { throw new IllegalStateException("VarCheck should have caught this undefined variable"); }
+[PATCH] if(!varsToDeclareInExterns.contains(varName)) { synthesizedExternsInput.addVar(varName); } else { throw new IllegalStateException("VarCheck should have caught this undefined variable"); }
+[PATCH] if(varsToDeclareInExterns.contains(varName)) { synthesizedExternsInput.addVar(varName); } else { throw new IllegalStateException("VarCheck should have caught this undefined var name"); }
+[PATCH] if(varName.length() > 0){ if(!varsToDeclareInExterns.contains(varName)) { throw new IllegalArgumentException("VarCheck should have caught this undefined var"); }
+[PATCH] if(varName.length() > 0){ if(!varsToDeclareInExterns.contains(varName)) { throw new IllegalArgumentException("VarCheck should have caught this undefined var name."); }
+[PATCH] if(varsToDeclareInExterns.contains(varName)) { if(compiler.getCodingConvention().isExported(varName)) { throw new IllegalArgumentException("VarCheck should have caught this undefined variable"); }
+[PATCH] if(varsToDeclareInExterns.contains(varName)) { if(strictExternCheck){ throw new IllegalStateException("VarCheck should have caught this undefined var name"); }
+[PATCH] if(varsToDeclareInExterns.contains(varName)) { synthesizedExternsInput.addValue(varName); } else { throw new IllegalStateException("VarCheck should have caught this undefined variable"); }
+[PATCH] if(varsToDeclareInExterns.contains(varName)) { if(compiler.getCodingConvention().isExported(varName)) { throw new IllegalArgumentException("VarCheck should have caught this undefined var name"); }
+[PATCH] if(!varsToDeclareInExterns.contains(varName)) { throw new IllegalArgumentException("VarCheck should have caught this undefined var" +"for name:" + varName); }
+[PATCH] if(!varsToDeclareInExterns.contains(varName)) { synthesizedExternsInput.addVar(varName); }
+[PATCH] if(varName.length() == 0){ synthesizedExternsInput.addValue(varName); } else { Preconditions.checkState(varName.equals("")); }
+[PATCH] if(varsToDeclareInExterns.contains(varName)) { if(strictExternCheck &&!varsToDeclareInExterns.isEmpty()){ throw new IllegalStateException("VarCheck should have caught this undefined variable"); }
+[PATCH] if(varsToDeclareInExterns.contains(varName)) { if(strictExternCheck){ throw new IllegalArgumentException(""); }
+[PATCH] if(varsToDeclareInExterns.size() == 1){ synthesizedExternsInput.add(varName); } else { throw new IllegalArgumentException("VarCheck should have caught this undefined variable"); }
+[PATCH] if(varsToDeclareInExterns.contains(varName)) { synthesizedExternsInput.addVar(varName); } else { throw new IllegalArgumentException("VarCheck should have caught this undefined var"); }
+[PATCH] if(varsToDeclareInExterns.contains(varName)) { input.declareVariable(varName); } else { throw new IllegalStateException("VarCheck should have caught this undefined variable"); }
+[PATCH] if(varsToDeclareInExterns.contains(varName)) { compiler.reportCodeChange(); } else { throw new IllegalStateException("VarCheck should have caught this undefined varname" +" in externs."); }
+[PATCH] if(!varsToDeclareInExterns.contains(varName)) { compiler.report(JSError.make(NodeUtil.getSourceName(currentInput), UNDEFINED_EXTERN_VAR_ERROR, varName)); }
+[PATCH] if(varsToDeclareInExterns.contains(varName)) { if(getSynthesizedExternsInput().isSanityCheck()){ throw new IllegalStateException("VarCheck should have caught this undefined var name"); }
+[PATCH] if(varsToDeclareInExterns.contains(varName)) { synthesizedExternsInput.remove(varName); } else { throw new IllegalArgumentException("VarCheck should have caught this undefined var"); }
+[PATCH] if(varName.length() > 0){ if(!varsToDeclareInExterns.contains(varName)) { throw new IllegalStateException("VarCheck should have caught this undefined variable"); }
+[PATCH] if(varName.length() == 0){ synthesizedExternsInput.addValue(varName); } else { throw new IllegalStateException("VarCheck should have caught this undefined var"); }
+[PATCH] if(varsToDeclareInExterns.size() == 1){ synthesizedExternsInput.add(varName); } else { throw new IllegalStateException("VarCheck should have caught this undefined var"); }
+[PATCH] if(varsToDeclareInExterns.contains(varName)) { CompilerInput varInput = getSynthesizedExternsInput(); if(varInput!= null && varInput.isExported(varName)) { return; }
+[PATCH] if(varsToDeclareInExterns.size() > 1){ synthesizedExternsInput.addVar(varName); } else { throw new IllegalStateException("VarCheck should have caught this undefined variable"); }
+[PATCH] if(varsToDeclareInExterns.contains(varName)) { if(strictExternCheck){ throw new IllegalArgumentException("VarCheck should have caught this undefined var"); }
+[PATCH] if(varsToDeclareInExterns.contains(varName)) { compiler.reportCodeChange(); } else { throw new IllegalStateException("VarCheck should have caught this undefined var name"); }
+[PATCH] if(varsToDeclareInExterns.size() == 1){ synthesizedExternsInput.remove(varName); } else { throw new IllegalArgumentException("VarCheck should have caught this undefined variable"); }
+[PATCH] if(varsToDeclareInExterns.contains(varName)) { if(strictExternCheck &&!varsToDeclareInExterns.isEmpty()){ throw new IllegalArgumentException("VarCheck should have caught this undefined variable"); }
+[PATCH] if(varsToDeclareInExterns.contains(varName)) { if(getSynthesizedExternsInput().isSanityCheck()){ throw new IllegalStateException("VarCheck should have caught this undefined var name."); }
+[PATCH] if(varsToDeclareInExterns.contains(varName)) { if(strictExternCheck){ throw new IllegalStateException(""); }
+[PATCH] if(!varsToDeclareInExterns.contains(varName)) { compiler.report(JSError.make(NodeUtil.getSourceName(currInput), UNDECLARED_VAR_ERROR, varName)); }
+[PATCH] if(varsToDeclareInExterns.contains(varName)) { if(strictExternCheck){ throw new IllegalArgumentException("VarCheck should have caught this undefined var name."); }
+[PATCH] if(!varsToDeclareInExterns.contains(varName)) { compiler.report(JSError.make(NodeUtil.getSourceName(currentInput), STRIP_VAR_ERROR, varName)); }
+[PATCH] if(varsToDeclareInExterns.contains(varName)) { compiler.reportCodeChange(); } else { throw new IllegalStateException("VarCheck should have caught this undefined var name."); }
+[PATCH] if(varName.length() > 0){ if(!varsToDeclareInExterns.contains(varName)) { throw new IllegalStateException("VarCheck should have caught this undefined var name"); }
+[PATCH] if(varsToDeclareInExterns.contains(varName)) { if(compiler.getCodingConvention().isExported(varName)) { throw new IllegalArgumentException("VarCheck should have caught this undefined var name."); }
+[PATCH] if(varsToDeclareInExterns.contains(varName)) { synthesizedExternsInput.remove(varName); }
+[PATCH] if(varName.length() == 0){ synthesizedExternsInput.addVar(varName); } else { throw new IllegalStateException("VarCheck should have caught this undefined var name"); }
+[PATCH] if(!varsToDeclareInExterns.contains(varName)) { compiler.report(JSError.make(NodeUtil.getSourceName(currInput), STRIP_VAR_ERROR, varName)); }
+[PATCH] if(!varsToDeclareInExterns.contains(varName)) { compiler.report(JSError.make(NodeUtil.getSourceName(currentInput), UNDECLARED_VAR_ERROR, varName)); }
+[PATCH] if(varsToDeclareInExterns.contains(varName)) { compiler.reportCodeChange(); return; }
+[PATCH] if(varsToDeclareInExterns.contains(varName)) { synthesizedExternsInput.addVar(varName); }
+[PATCH] if(varsToDeclareInExterns.contains(varName)) { if(strictExternCheck){ throw new RuntimeException(""); }
+[PATCH] if(!varsToDeclareInExterns.contains(varName)) { throw new IllegalArgumentException(""); }
+[PATCH] if(!varsToDeclareInExterns.contains(varName)) { return; }
+[PATCH] if(varsToDeclareInExterns.contains(varName)) { return; }
+[PATCH] if(varsToDeclareInExterns.contains(varName)) { continue; }
+[PATCH] synthesizedExternsInput.addVar(varName);
+[PATCH] synthesizedExternsInput.removeVar(varName);
+[PATCH] synthesizedExternsInput.addVar(varName);
+[PATCH] currInput.setVarName(varName);
+[PATCH] synthesizedExternsInput.addVariable(varName);
+[PATCH] synthesizedExternsInput.addDeclaration(varName);
+[PATCH] synthesizedExternsInput.addReference(varName);
+[PATCH] synthesizedExternsInput.remove(varName);
+[PATCH] synthesizedExternsInput.removeVar(varName);
+[PATCH] synthesizedExternsInput.addValue(varName);
+[PATCH] currInput.setVar(varName);
+[PATCH] compiler.reportCodeChange();
+[PATCH] ;
+);

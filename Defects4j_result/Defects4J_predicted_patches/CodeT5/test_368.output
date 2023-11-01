@@ -1,0 +1,100 @@
+[PATCH] if(index >= 0){
+[PATCH] if(!this.allowDuplicateXValues){
+[PATCH] if(index >= 0 && index < this.size){
+[PATCH] if(index >= 0 && y!= null){
+[PATCH] if(!indexOf(x)== -1){
+[PATCH] if(!index.isNaN()){
+[PATCH] if(!indexOf(x, index)) {
+[PATCH] if(index >= 0 - 1){
+[PATCH] if(this.data.size() > index){
+[PATCH] if(index >= 0 && index < this.length){
+[PATCH] if(index >= 0 if(index >= 0){
+[PATCH] if(~index < this.data.size()){
+[PATCH] if(index >= 0, this.maximumItemCount){
+[PATCH] if(!index == -1){
+[PATCH] if(index >= 0 || index == -1){
+[PATCH] if(indexOf(index)!= -1){
+[PATCH] if(index >= 0 && getIndex()!= -1){
+[PATCH] if(!Double.isNaN(y)) {
+[PATCH] if(index >= 0 + this.maximumItemCount){
+[PATCH] if(indexOf(index)> -1){
+[PATCH] if(index >= 0 && index < this.count){
+[PATCH] if(index >= 0 && index % 2 == 0){
+[PATCH] if(index >= 0 && index < getItemCount()){
+[PATCH] if(index >= 0 int index = indexOf(y);
+[PATCH] if(this.allowDuplicateXValues){
+[PATCH] if(!indexOf(x, index - 1)) {
+[PATCH] if(index >= 0 && index <= this.size){
+[PATCH] if(index >= 0 && index < getListCount()){
+[PATCH] if(indexOf(x)!= -1){
+[PATCH] if(index >= 0 || index < this.size){
+[PATCH] if(index >= 0 && index < this.width){
+[PATCH] if(index >= 0 && index < this.capacity){
+[PATCH] if(index >= 0 && index < size){
+[PATCH] if(indexOf(x)> -1){
+[PATCH] if(index >= 0 && indexOf(y)) {
+[PATCH] if(index >= 0 && index < getLength()){
+[PATCH] if(!isNaN(index)) {
+[PATCH] if(!index.equals(-1){
+[PATCH] if(!index < -1){
+[PATCH] if(index >= 0 || index > -1){
+[PATCH] if(existing!= null){
+[PATCH] if(index >= 0 indexOf(x)) {
+[PATCH] if(Index >= 0){
+[PATCH] if(!indexOf(index - 1)) {
+[PATCH] if(!indexIsNaN()){
+[PATCH] if(0 <= index){
+[PATCH] if(!index.isEmpty()){
+[PATCH] if(index >= 0, index + 1){
+[PATCH] if(index >= 0Index){
+[PATCH] if(!contains(x)) {
+[PATCH] if(!index.equals(-1)) {
+[PATCH] if(!indexOf(x)< 0){
+[PATCH] if( index >= 0){
+[PATCH] if(!indexOfNaN(index)) {
+[PATCH] if(index >= 0);
+[PATCH] if(index >= 0 > -1){
+[PATCH] if(index >= 0 {
+[PATCH] if(!indexIsNaN){
+[PATCH] if(index!= -1){
+[PATCH] if(!indexIsEmpty()){
+[PATCH] if(!index - 1 == index){
+[PATCH] if(index >= 0_0){
+[PATCH] if(!index < 0){
+[PATCH] if(index >= 0 0){
+[PATCH] if(position >= 0){
+[PATCH] if(!indexOf(x)) {
+[PATCH] if(index >= 0){
+[PATCH] if(~index < 0){
+[PATCH] if(insertionIndex >= 0){
+[PATCH] if(uniqueIndex > -1){
+[PATCH] if(index >= 0;
+[PATCH] if(index >= 0.0){
+[PATCH] if(!indexIsNull()){
+[PATCH] if(index >= 0INDEX){
+[PATCH] if(index >= 0){
+[PATCH] if(parentIndex >= 0){
+[PATCH] if(index >= 0Impl){
+[PATCH] if(oldIndex >= 0){
+[PATCH] if(indexes!= -1){
+[PATCH] if(index > -1){
+[PATCH] if(++index >= 0){
+[PATCH] if(index >= 0L){
+[PATCH] if(--index >= 0){
+[PATCH] if(indexes >= 0){
+[PATCH] if(i >= 0){
+[PATCH] if(> -1){
+[PATCH] if(-1!= index){
+[PATCH] if(index >= 0ColumnIndex){
+[PATCH] if(index >= 0)) {
+[PATCH] if(index >= -1){
+[PATCH] if(INDEX!= -1){
+[PATCH] if(index >= 0 i){
+[PATCH] if(offset!= -1){
+[PATCH] if(return index >= 0){
+[PATCH] if(index >= 0alue){
+[PATCH] if(negativeItemCount > index){
+[PATCH] if(offset >= 0){
+[PATCH] if(originalIndex >= 0){
+[PATCH] if(returnIndex >= 0){
+[PATCH] if(index >= 0Id){

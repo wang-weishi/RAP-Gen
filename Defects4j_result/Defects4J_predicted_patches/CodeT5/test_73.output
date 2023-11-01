@@ -1,0 +1,100 @@
+[PATCH] if(entityValue!= 0){ if(isHex){ entityValue = -entityValue; }
+[PATCH] if(entityValue!= 0){ if(( entityValue - 1)% 2!= 0){ return 0; }
+[PATCH] if(entityValue!= 0){ if(( entityValue - start)% 2!= 0){ return 0; }
+[PATCH] if(entityValue!= 0){ if(lastChar == '"'){ return 2; }
+[PATCH] if(entityValue!= 0){ if(lastChar == '"'){ return 0; }
+[PATCH] if(entityValue!= 0){ if(Character.isDigit(firstChar)) { return 1; }
+[PATCH] out.write('\\');
+[PATCH] if(entityValue!= 0){ if(Character.isDigit(firstChar)) { return 0; }
+[PATCH] if(entityValue!= 0){ if(lastChar == '"'){ entityValue = -entityValue; continue; }
+[PATCH] if(entityValue!= 0){ if(( entityValue % 2)!= 0){ return 0; }
+[PATCH] if(entityValue!= 0){ if(lastChar == '"'){ entityValue = -entityValue; }
+[PATCH] if(entityValue!= 0){ if(( entityValue >> 4)!= '0')throw new NumberFormatException(""); }
+[PATCH] if(entityValue!= 0){ if(lastChar == '"'){ out.write('\\'); return 2; }
+[PATCH] if(entityValue!= 0){ if(( char)entityValue).length() == 0){ return 0; }
+[PATCH] if(entityValue!= 0){ if(lastChar == '"'){ return -1; }
+[PATCH] if(entityValue!= 0){ if(( entityValue % 16)!= 0){ return 0; }
+[PATCH] if(entityValue!= 0){ if(Character.isDigit(firstChar)) { return 2; }
+[PATCH] if(entityValue!= 0){ if(( entityValue % 100)!= 0){ return 0; }
+[PATCH] if(entityValue!= 0){ out.write('\\'); return 2; }
+[PATCH] if(entityValue!= 0){ if(( entityValue >>> 4)!= '0')throw new NumberFormatException(""); }
+[PATCH] if(entityValue!= 0){ if(lastChar == '"'){ return -2; }
+[PATCH] if(entityValue!= 0){ if(firstChar == '"'){ entityValue = -entityValue; continue; }
+[PATCH] if(entityValue!= 0){ if(Character.isISOControl(firstChar)) { return 0; }
+[PATCH] if(entityValue!= 0){ if(lastChar == '"'){ out.write('\\'); }
+[PATCH] if(entityValue!= 0){ if(isHex){ return 2; }
+[PATCH] if(entityValue!= 0){ if(Character.isDigit(lastChar)) { return 0; }
+[PATCH] if(entityValue!= 0){ out.write('\\'); return 2 + start + 1; }
+[PATCH] if(entityValue!= 0){ if(lastChar == '"'){ return entityValue + 2; }
+[PATCH] if(entityValue!= 0){ if(( entityValue % 2)!= 0){ out.write('\\'); }
+[PATCH] if(entityValue!= 0){ if(firstChar == '"'){ entityValue = -entityValue; }
+[PATCH] if(entityValue!= 0){ if(firstChar == '"'){ return 2; }
+[PATCH] if(entityValue!= 0){ if(firstChar == '"'){ return 0; }
+[PATCH] if(entityValue!= 0){ if(lastChar == '"'){ return 1; }
+[PATCH] if(entityValue!= 0){ if(lastChar == '\\'){ return 0; }
+[PATCH] if(entityValue!= 0){ if(lastChar == Character.ESCAPE_NON_NUMERIC){ return 2; }
+[PATCH] if(entityValue!= 0){ if(isHex){ entityValue = -entityValue; continue; }
+[PATCH] if(entityValue!= 0){ if(( entityValue - 1)< 0){ return 0; }
+[PATCH] if(entityValue!= 0){ if(lastChar == '"'){ return index + 2; }
+[PATCH] if(entityValue!= 0){ if(lastChar == '\\'){ return 2; }
+[PATCH] if(entityValue!= 0){ if(( entityValue >> 4)!= '0')return 0; }
+[PATCH] if(entityValue!= 0){ if(lastChar == '"'){ throw new NumberFormatException(""); }
+[PATCH] if(entityValue!= 0){ if(( entityValue - start)% 2!= 0){ return 1; }
+[PATCH] if(entityValue!= 0){ if(lastChar == '"'){ return input.length() + 2; }
+[PATCH] if(entityValue!= 0){ if(isHex){ entityValue = -entityValue; return 2; }
+[PATCH] if(entityValue!= 0){ if(lastChar == '"'){ out.write('\\'); return 0; }
+[PATCH] if(entityValue!= 0){ if(lastChar == '"'){ out.write('"'); }
+[PATCH] if(entityValue!= 0){ if(Character.isDigit(lastChar)) { return 1; }
+[PATCH] if(entityValue!= 0){ if(Character.isISOControl(lastChar)) { return 0; }
+[PATCH] if(entityValue!= 0){ if(( entityValue >>> 4)!= '0')return 0; }
+[PATCH] if(entityValue!= 0){ if(( entityValue + 1)% 2!= 0)return 0; }
+[PATCH] if(entityValue!= 0){ if(lastChar == '"'){ return end + 2; }
+[PATCH] if(entityValue!= 0){ if(( end - start)< 2){ out.write('\\'); }
+[PATCH] if(entityValue!= 0){ if(( entityValue % 10)!= 0){ return 0; }
+[PATCH] if(entityValue!= 0){ if(lastChar == '"'){ out.write('\\'); return 1; }
+[PATCH] if(entityValue!= 0){ if(Character.isWhitespace(firstChar)) { return 0; }
+[PATCH] if(entityValue!= 0){ if(isHex){ return 0; }
+[PATCH] if(entityValue!= 0){ if(index > 0){ out.write('\\'); }
+[PATCH] if(entityValue!= 0){ if(lastChar == '0'){ return 2; }
+[PATCH] if(entityValue!= 0){ if(( entityValue >> 4)!= '0')break; }
+[PATCH] if(entityValue!= 0){ if(lastChar == '"'){ return index + 1; }
+[PATCH] if(entityValue!= 0){ if(( entityValue % 128)!= 0){ return 0; }
+[PATCH] if(entityValue!= 0){ if(lastChar == '"'){ return start + 2; }
+[PATCH] if(entityValue!= 0){ if(( entityValue / 2)!= 0){ return 0; }
+[PATCH] if(entityValue!= 0){ if(( entityValue % 2)!= 0){ return 1; }
+[PATCH] if(entityValue!= 0){ if(lastChar == '"'){ entityValue = '0'; }
+[PATCH] if(entityValue!= 0){ if(i > 0){ out.write('\\'); }
+[PATCH] if(entityValue!= 0){ if(lastChar == '"'){ return ~index; }
+[PATCH] if(entityValue!= 0){ if(lastChar == '"'){ entityValue = 0; }
+[PATCH] if(entityValue!= 0){ if(firstChar == '"'){ return -2; }
+[PATCH] if(entityValue!= 0){ if(index == 1){ return 0; }
+[PATCH] if(entityValue!= 0){ if(lastChar == '"'){ return end; }
+[PATCH] if(entityValue!= 0){ if(lastChar == '.'){ return 0; }
+[PATCH] if(entityValue!= 0){ out.write('\\'); }
+[PATCH] if(lastChar == '"'){ out.write('\\'); return 2; }
+[PATCH] if(entityValue!= 0){ out.write('\ufffd'); }
+[PATCH] if(entityValue!= 0){ throw new NumberFormatException(""); }
+[PATCH] out.write('\\'); out.write('u');
+[PATCH] out.write('$');
+[PATCH] out.write('\ufffd');
+[PATCH] out.write(( char)firstChar);
+[PATCH] out.write('@');
+[PATCH] out.write('%');
+[PATCH] out.write('%');
+[PATCH] out.write('' + firstChar);
+[PATCH] out.write("\ufffd");
+[PATCH] out.write('#');
+[PATCH] out.write('.');
+[PATCH] out.write('u');
+[PATCH] out.write(firstChar);
+[PATCH] out.write("\u");
+[PATCH] out.write(':');
+[PATCH] out.write('\u');
+[PATCH] out.write('U');
+[PATCH] out.write('"');
+[PATCH] out.write('_');
+[PATCH] out.write('[');
+[PATCH] out.write('/');
+[PATCH] out.write('0');
+[PATCH] outputCharacter(firstChar);
+[PATCH] out.write('-');

@@ -1,0 +1,100 @@
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 0.0, epsilon)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 0.0, eps)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 0.0, epsilon))){
+[PATCH] if(!MathUtils.equal(getEntry(i, col), 0.0, epsilon)) {
+[PATCH] if(MathUtils.equals(getEntry(i, col), 0.0, epsilon)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col),0.0, epsilon)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 0.0, epsilon)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 0.0, epsilon)) {
+[PATCH] if(!MathUtils.compare(getEntry(i, col), 0.0, epsilon)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 0.0)) {
+[PATCH] if(!MathUtils.eq(getEntry(i, col), 0.0, epsilon)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 0.0 - epsilon)) {
+[PATCH] if(! MathUtils.equals(getEntry(i, col), 0.0, epsilon)) {
+[PATCH] if(!MathUtils.matches(getEntry(i, col), 0.0, epsilon)) {
+[PATCH] if!MathUtils.equals(getEntry(i, col), 0.0, epsilon)) {
+[PATCH] if(!MathUtils.equals(getentry(i, col), 0.0, epsilon)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 0.0 + epsilon)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col)) || 0.0 < epsilon){
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 0.0, alpha)) {
+[PATCH] if(!MathUtils.equals(getEntry[i, col), 0.0, epsilon)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 1.0, epsilon)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 0.0, cutoff)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 0.0, 1)) {
+[PATCH] if!MathUtils.equals(getEntry(i, col), 0.0, epsilon)) {
+[PATCH] if(MathUtils.abs(getEntry(i, col), 0.0, epsilon)) {
+[PATCH] if(Double.isNaN(getEntry(i, col), 0.0, epsilon)) {
+[PATCH] if(!MathUtils.equals(getValue(i, col), 0.0, epsilon)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 0.0], epsilon)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 0.0, constant)) {
+[PATCH] if(!MathUtils.intersect(getEntry(i, col), 0.0, epsilon)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 0.0, i)) {
+[PATCH] if("0".equals(getEntry(i, col), 0.0, epsilon)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 0.0, 30)) {
+[PATCH] if(-MathUtils.equals(getEntry(i, col), 0.0, epsilon)) {
+[PATCH] if(MathUtils.equal(getEntry(i, col), 0.0, epsilon)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 0.0 or epsilon)) {
+[PATCH] if(( MathUtils.abs(getEntry(i, col), 0.0, epsilon))){
+[PATCH] if(!MathUtils.equals(getInfo(i, col), 0.0, epsilon)) {
+[PATCH] if();!MathUtils.equals(getEntry(i, col), 0.0, epsilon)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, column), 0.0, epsilon)) {
+[PATCH] if(!MathUtils.equals(getEntry( i, col), 0.0, epsilon)) {
+[PATCH] if(MathUtils.equals(getEntry(i, col), 0.0, epsilon))){
+[PATCH] if(!MathUtils.contains(getEntry(i, col), 0.0, epsilon)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, 0), 0.0, epsilon)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 0.0, tolerance)) {
+[PATCH] if(~MathUtils.equals(getEntry(i, col), 0.0, epsilon)) {
+[PATCH] if(MatrixUtils.equals(getEntry(i, col), 0.0, epsilon)) {
+[PATCH] if(!MathUtils.Equals(getEntry(i, col), 0.0, epsilon)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 0.0, precision)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 0.0, values)) {
+[PATCH] if(!MathUtils.equals(get entry(i, col), 0.0, epsilon)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 0.0, threshold)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 0.0, null)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 0.0, slope)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 0.0, true)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col)) || 0.0 == epsilon){
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 0.0, p)) {
+[PATCH] if("".equals(getEntry(i, col), 0.0, epsilon)) {
+[PATCH] if(( MathUtils.equals(getEntry(i, col), 0.0, epsilon))){
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 0.0, numerator)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 0.0, epsilon): {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 0.0, result)) {
+[PATCH] if(!MathUtils.equals(get Entry(i, col), 0.0, epsilon)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 0.0, epsilon))) {
+[PATCH] if(!DoubleUtils.equals(getEntry(i, col), 0.0, epsilon)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 0.0, propertyName)) {
+[PATCH] if(!MathUtils.equal(getEntry(i, col), 0.0, eps)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 0.0, w)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 0.0, value)) {
+[PATCH] if("0".equals(getEntry(i, col), 0.0, epsilon)) {
+[PATCH] if(!Math.equals(getEntry(i, col), 0.0, epsilon)) {
+[PATCH] if(false.equals(getEntry(i, col), 0.0, epsilon)) {
+[PATCH] if(MathUtils.equals(getEntry(i, col), 0.0, eps)) {
+[PATCH] if(Double.equals(getEntry(i, col), 0.0, epsilon)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 0.0, x)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 0.0): {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 0.0, zero)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col)) < 0.0){
+[PATCH] if(( f.equals(getEntry(i, col), 0.0, epsilon))){
+[PATCH] if(!MathUtils.eq(getEntry(i, col), 0.0)) {
+[PATCH] if(!MathUtils.equal(getEntry(i, col), 0.0, epsilon))){
+[PATCH] if(MathUtils.abs(getEntry(i, col), 0.0, epsilon))){
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 0.0, epsilon)) :
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 0.0, epsilon)){
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 0.0, alpha))){
+[PATCH] if(!getEntry(i, col), 0.0, epsilon)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col))){
+[PATCH] if(!MathUtils.equals(getEntry(i, col)) {
+[PATCH] if()!= getEntry(i, col), 0.0, epsilon)) {
+[PATCH] if()!= getEntry(i, col), 0.0, epsilon){
+[PATCH] if(( 0.0 - epsilon)< 0.0){
+[PATCH] if(getEntry(i, col)< 0.0){
+[PATCH] if(i!= getEntry(i, col)) {
+[PATCH] if(i!= col){
+[PATCH] if(i == col){
+[PATCH] if(i > col){
+[PATCH] if(i < col){
+[PATCH] if("");
+[PATCH] if
+);

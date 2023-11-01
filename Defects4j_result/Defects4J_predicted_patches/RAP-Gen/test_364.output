@@ -1,0 +1,100 @@
+[PATCH] return equalStrings(namespaceURI, nodeNS);
+[PATCH] return equalStrings(namespaceURI, nodeNS);
+[PATCH] return equalStrings(nodeNS, defaultNamespace);
+[PATCH] return equalStrings(nodeNS, defaultNamespace);
+[PATCH] return equalStrings(defaultNamespaceURI, nodeNS);
+[PATCH] return equalStrings(nodeNS, namespaceURI);
+[PATCH] return equalStrings(namespaceURI, nodeNS); }
+[PATCH] return equalStrings(name, nodeNS);
+[PATCH] return equalStrings(nodeNS, node);
+[PATCH] return equalStrings(name, nodeNS);
+[PATCH] return equalStrings(defaultNamespace, nodeNS);
+[PATCH] return equalStrings(defaultNamespace, nodeNS);
+[PATCH] return equalStrings(nodeNS, getDefaultNamespaceURI());
+[PATCH] return equalStrings(nodeNS, defaultNamespaceURI);
+[PATCH] return equalStrings(nodeNS, node);
+[PATCH] return equalStrings(nodeNS, nodeName);
+[PATCH] return equalStrings(nodeNS, namespaceURI);
+[PATCH] return equalString(namespaceURI, nodeNS);
+[PATCH] return equalStrings(id, nodeNS);
+[PATCH] return equalStrings(nodeNS, nodeNameTest);
+[PATCH] return equalStrings(nodeNS, nodeName);
+[PATCH] return equalString(namespaceURI, nodeNS);
+[PATCH] return equalStrings(nodeURI, nodeNS);
+[PATCH] return equalStrings(id, nodeNS);
+[PATCH] return equalStrings(nodeURI, nodeNS);
+[PATCH] return equalStrings(nodeNS, nodeNameTest);
+[PATCH] return equalStrings(nodeName, nodeNS);
+[PATCH] return equalStrings(xmlNamespaceURI, nodeNS);
+[PATCH] return equalStrings(prefix, nodeNS);
+[PATCH] return equalStrings(prefix, nodeNS);
+[PATCH] return equalStrings(nodeName, nodeNS);
+[PATCH] return equalStrings(nodeNS, nodePI);
+[PATCH] return equalStrings(localName, nodeNS);
+[PATCH] return equalStrings(localName, nodeNS);
+[PATCH] return equalStrings(nodeNS, defaultValue);
+[PATCH] return equalStrings(nodeNS, nodePI);
+[PATCH] return equalStrings(nodeNS, DefaultNamespaceURI);
+[PATCH] return equalStrings(testName, nodeNS);
+[PATCH] return equalStrings(namespaceURI, nodeNS);,
+[PATCH] return equalStrings(nodeNamespace, nodeNS);
+[PATCH] return equalStrings(xmlNS, nodeNS);
+[PATCH] return equalStrings(xmlNS, nodeNS);
+[PATCH] return equalStrings(nodeNS, expectedNamespaceURI);
+[PATCH] return equalStrings(testName, nodeNS);
+[PATCH] return equalStrings(nodeNS, nodeNamespace);
+[PATCH] return equalStrings(namespaceURI, nodeNamespace);
+[PATCH] return equalStrings(tagName, nodeNS);
+[PATCH] return equalStrings(namespaceURI, nodeNS); /
+[PATCH] return equalStrings(nodeNS, testName);
+[PATCH] return equalStrings(globalNamespaceURI, nodeNS);
+[PATCH] return equalStrings(nodeNS, defaultValue);
+[PATCH] return equalStrings(nodeNS, nodeP);
+[PATCH] return equalStrings(nodeNamespace, nodeNS);
+[PATCH] return equalStrings(namespaceURI, nodeNamespace);
+[PATCH] return equalStrings(namespaceURI, nodeNS); +
+[PATCH] return equalStrings(tagName, nodeNS);
+[PATCH] return equalStrings(namespaceURI, nodeNS); :
+[PATCH] return equalStrings(namespaceURI, nodeNS); *
+[PATCH] return equalStrings(nodeNS, globalNamespaceURI);
+[PATCH] return equalStrings(nodeNS, nodeNamespace);
+[PATCH] return equalStrings(localURI, nodeNS);
+[PATCH] return equalStrings(namespaceURI, nodeNS); ||
+[PATCH] return equalStrings(localURI, nodeNS);
+[PATCH] return equalStrings(nodeNS, nodePrefix);
+[PATCH] return equalStrings(nodeNS, nodeP);
+[PATCH] return equalStrings(nsURI, nodeNS);
+[PATCH] return equalStrings(nodeNS, testName);
+[PATCH] return equalStrings(nodeNS, id);
+[PATCH] return equalStrings(nsURI, nodeNS);
+[PATCH] return equalStrings(nodeNS, strictNamespaceURI);
+[PATCH] return equalStrings(domainURI, nodeNS);
+[PATCH] return equalStrings(alias, nodeNS);
+[PATCH] return equalStrings(namespaceURI, nodeNS); //
+[PATCH] return equalStrings(titleName, nodeNS);
+[PATCH] return equalStrings(nodeNS, defaultNamespace); }
+[PATCH] return equalStrings(nodeNS, localNameTest);
+[PATCH] return equalStrings(nodeNS, prefix);
+[PATCH] return equalStrings(nodeNS, baseNamespace);
+[PATCH] return equalStrings(nodeNS, nodeTest);
+[PATCH] return equalStrings(nodeNS, unknownNamespaceURI);
+[PATCH] return equalStrings(nodeNS, absoluteNamespaceURI);
+[PATCH] return equalStrings(xmlns, nodeNS);
+[PATCH] return equalStrings(nodeNS, id);
+[PATCH] return equalStrings(nodeNS, namespace);
+[PATCH] return equalStrings(namespaceURI, nodeNS); e
+[PATCH] return equalStrings(nodeNS, nodePrefix);
+[PATCH] return equalStrings(attributeName, nodeNS);
+[PATCH] return equalStrings(domainURI, nodeNS);
+[PATCH] return equalStrings(xmlns, nodeNS);
+[PATCH] return equalString(nodeNS, defaultNamespace);
+[PATCH] return equalStrings(wildcard, nodeNS);
+[PATCH] return equalStrings(titleName, nodeNS);
+[PATCH] return equalStrings(nodeNS, nodeN);
+[PATCH] return equalStrings(baseNamespaceURI, nodeNS);
+[PATCH] return equalStrings(namespaceURI, nodeNS); or
+[PATCH] return equalStrings(nodeNS, baseNamespace);
+[PATCH] return equalStrings(wildcard, nodeNS);
+[PATCH] return equalStrings(nodeNS, nodeType);
+[PATCH] return equalStrings(namespaceURI, nodeNS); {
+[PATCH] return equalStrings(namespaceURI, nodeNS); case

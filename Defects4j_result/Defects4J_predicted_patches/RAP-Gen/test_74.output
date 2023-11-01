@@ -1,0 +1,100 @@
+[PATCH] if(version == null){
+[PATCH] if(version!= null){
+[PATCH] if(version.length() == 0){
+[PATCH] if(version.startsWith("java")) {
+[PATCH] if(VERSION_TRIM_SIZE > 0){
+[PATCH] public static float toJavaVersionAsInt(String version){
+[PATCH] public static float toJavaVersionAsInt(version){
+[PATCH] if(version.indexOf('.') >= 0){
+[PATCH] if(!Character.isDigit(version)) {
+[PATCH] if(version.length() < 1){
+[PATCH] if(version.length() < 0){
+[PATCH] if(toJavaVersionAsInt(version)) {
+[PATCH] if(version.length() > 0){
+[PATCH] synchronized public static float toJavaVersionAsInt(String version){
+[PATCH] synchronized static public float toJavaVersionAsInt(String version){
+[PATCH] if(version.startsWith("java.")) {
+[PATCH] if(version.equals("")) {
+[PATCH] if(version == null ||!version.length()){
+[PATCH] if(version instanceof String){
+[PATCH] if(version = version.trim().toLowerCase()){
+[PATCH] if(version == null)version = JAVA_VERSION;
+[PATCH] if(version_TRIM_SIZE > 0){
+[PATCH] if(version.trim().length() == 0){
+[PATCH] if(JAVA_VERSION_TRIMTED == null){
+[PATCH] public static float toJavaVersionInt(version){
+[PATCH] if(version.length() < 4){
+[PATCH] static public float toJavaVersionAsInt(String version){
+[PATCH] if(toJavaVersionAsInt(version, 0)) {
+[PATCH] if(version.startsWith("Java")) {
+[PATCH] if(version.startsWith("")) {
+[PATCH] if(VERSION_TRIM_SIZE == 0){
+[PATCH] if(JAVA_VERSION_TRIMTED == true){
+[PATCH] if(version == null ||!version.length() {
+[PATCH] if(JAVA_VERSION_TRIM == null){
+[PATCH] if(version.indexOf(".0") >= 0){
+[PATCH] if(toJavaVersionAsInt(version)!= null){
+[PATCH] if(JAVA_VERSION_TRIMTED == false){
+[PATCH] Preconditions.checkNotNull(version);
+[PATCH] public static float toJavaVersionToInt(version){
+[PATCH] if(JAVA_VERSION_TRIMMED == false){
+[PATCH] if(!version.startsWith("java")) {
+[PATCH] if(JAVA_VERSION_TRIMMED == true){
+[PATCH] if(version == JAVA_VERSION_TRIMMED){
+[PATCH] return toVersionInt(version, 0.0f);
+[PATCH] if(!JAVA_VERSION_TRIMMED){
+[PATCH] if(!version.equals("")) {
+[PATCH] public static float toJavaVersionInt(String version){
+[PATCH] public static float toJavaVersionToInt(String version){
+[PATCH] if(version.indexOf('.')< 0){
+[PATCH] if(version.trim().length() < 0){
+[PATCH] while(version.indexOf('.') >= 0){
+[PATCH] public static int toJavaVersionAsInt(String version){
+[PATCH] if(version== null){
+[PATCH] if(version == JAVA_VERSION_INT){
+[PATCH] public static float toJavaVersionAsInt(version);
+[PATCH] if(version.length() < 2){
+[PATCH] if(version.length() < 5){
+[PATCH] if(version.equals("java")) {
+[PATCH] if(!version.isEmpty()){
+[PATCH] if(version == JAVA_VERSION_TRIM){
+[PATCH] if(version == null {
+[PATCH] public static int toJavaVersionAsInt(version){
+[PATCH] if(JAVA_VERSION_TRIMMED){
+[PATCH] if(version = version.trim(); }
+[PATCH] } else if(version == null){
+[PATCH] if(toVersionAsInt(version)) {
+[PATCH] if(version == null)return 0;
+[PATCH] if(java_versionAsInt!= null){
+[PATCH] if(version.length() < 3){
+[PATCH] if(version instanceof char[]){
+[PATCH] return toVersionInt(version, 0);
+[PATCH] if(version instanceof byte[]){
+[PATCH] if(version == JAVA_VERSION){
+[PATCH] if(version = version.trim();
+[PATCH] if(version" == null){
+[PATCH] } else if(version!= null){
+[PATCH] if( version == null){
+[PATCH] if(version instanceof int){
+[PATCH] if(versionnull == null){
+[PATCH] if(version == null){
+[PATCH] if(versionName == null){
+[PATCH] if(version!null){
+[PATCH] if(versionString == null){
+[PATCH] if(version!= null){
+[PATCH] if(version, null){
+[PATCH] if(isSupported()){
+[PATCH] if(version < 0){
+[PATCH] if(version!= null {
+[PATCH] if(version){
+[PATCH] if(versionEmpty()){
+[PATCH] if(versions!= null){
+[PATCH] checkVersion(version);
+[PATCH] if(version){
+[PATCH] validate(version);
+[PATCH] if(version {
+[PATCH] if(version);
+[PATCH] if(version{
+[PATCH] if(version
+[PATCH] try {
+[PATCH] ;

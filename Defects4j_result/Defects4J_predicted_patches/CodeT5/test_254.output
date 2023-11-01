@@ -1,0 +1,100 @@
+[PATCH] if(type!= null &&!type.equals("form")) { if(data.size() == 0)continue; }
+[PATCH] if(type!= null &&!"".equals(type)) { if(data.isEmpty()){ continue; }
+[PATCH] if(type!= null &&!"".equals(type)) { if(data.size() == 0)continue; }
+[PATCH] if(type!= null &&!type.equals("form")) { if(data.isEmpty()){ continue; }
+[PATCH] if(type!= null &&!type.equals("submit")) { if(data.size() == 0)continue; }
+[PATCH] if(type!= null &&!type.equals("submit")) { if(data.isEmpty()){ continue; }
+[PATCH] if(!Form.class.isAssignableFrom(type)) { if(data.size() == 0)continue; }
+[PATCH] if(type == null || type.length() == 0){ continue; }
+[PATCH] if(!Validate.isTrue(type.equals("form")|| type.equals("textarea"))){ continue; }
+[PATCH] if(type!= null &&!type.equals("form")) { if(data.size() == 0){ continue; }
+[PATCH] if(type!= null){ if(!Validate.isTrue(type.equals("form")) continue; }
+[PATCH] if(type!= null &&!type.equals("form")) { continue; }
+[PATCH] if(!Validate.isTrue(type.equals("http")|| type.equals("https"))){ continue; }
+[PATCH] if(type!= null &&!Validate.isEmpty(type)) { if(data.size() == 0)continue; }
+[PATCH] if(!Validate.isTrue(type.equals("form"))){ continue; }
+[PATCH] if(type!= null &&!type.equals("file")) { continue; }
+[PATCH] if(type!= null &&!"".equals(type)) { if(data.size() == 0){ continue; }
+[PATCH] if(type!= null &&!"".equals(type)) { if(data.isEmpty())continue; }
+[PATCH] if(type!= null){ if(!Validate.isTrue(type.equals("form")) { continue; }
+[PATCH] if(!Form.class.isAssignableFrom(type)) { continue; }
+[PATCH] if(type == null || type.length() == 0)continue; if("textarea".equals(name)) { continue; }
+[PATCH] if(type!= null &&!String.isEmpty(type)) { if(data.size() == 0)continue; }
+[PATCH] if(type!= null &&!type.equals("number")) { if(data.size() == 0)continue; }
+[PATCH] if(!Validate.isTrue(type.equals("string"))){ continue; }
+[PATCH] if(type!= null &&!type.equals("FORM")) { if(data.size() == 0)continue; }
+[PATCH] if(!Validate.isTrue(type.equals("form")|| type.equals("url"))){ continue; }
+[PATCH] if(!Validate.isTrue(type.equals("form")|| type.equals("cookie"))){ continue; }
+[PATCH] if(type!= null &&!type.equals("form")) { if(name.length() == 0)continue; }
+[PATCH] if(!Validate.isTrue(type.equals("form")) { continue; }
+[PATCH] if(type!= null &&!type.equals("submit")) { continue; }
+[PATCH] if(!Form.class.isAssignableFrom(type)) { if(data.contains(name)) { continue; }
+[PATCH] if(!Validate.isTrue(type.equals("form")|| type.equals("title"))){ continue; }
+[PATCH] if(type!= null &&!type.equals("form")) { if(data.length() == 0)continue; }
+[PATCH] if(type!= null &&!type.equals("textarea")) { if(data.size() == 0)continue; }
+[PATCH] if(!Validate.isTrue(type.equals("http")|| type.equals("https")) { continue; }
+[PATCH] if(type!= null &&!"".equals(type)) { if(data.length() == 0)continue; }
+[PATCH] if(type!= null &&!type.equals("checkbox")) { if(data.size() == 0)continue; }
+[PATCH] if(!Validate.isTrue(type.equals("form"))){ if(name!= null)continue; }
+[PATCH] if(type == null || type.length() == 0)continue; if("button".equals(type)) { continue; }
+[PATCH] if(type!= null &&!type.equals("*")) { if(data.size() == 0)continue; }
+[PATCH] if(type!= null &&!type.equals("form")) { if(data.isEmpty())continue; }
+[PATCH] if(type!= null &&!type.equals("submit")) { if(data.size() == 0){ continue; }
+[PATCH] if(type!= null){ if(!Validate.isTrue(type.equals("submit")) continue; }
+[PATCH] if(type!= null &&!value.equalsIgnoreCase(type)) { if(data.size() == 0)continue; }
+[PATCH] if(!Validate.isTrue(type.equals("number")|| type.equals("string"))){ continue; }
+[PATCH] if(!Validate.isTrue(type.equals("form")) { if(name!= null)continue; }
+[PATCH] if(type == null || type.length() == 0)continue; if("readonly".equals(type)) { continue; }
+[PATCH] if(!Form.class.isAssignableFrom(type)) { if(data.size() == 0){ continue; }
+[PATCH] if(!Formable.class.isAssignableFrom(type)) { if(data.size() == 0)continue; }
+[PATCH] if(!Validate.isTrue(type.equals("file"))){ continue; }
+[PATCH] if(type!= null &&!"".equals(type)) continue; if("textarea".equals(name)) { continue; }
+[PATCH] if(!Validate.isTrue(type.equals("form")|| type.equals("param"))){ continue; }
+[PATCH] if(type!= null &&!type.equals("multipart")) { if(data.size() == 0)continue; }
+[PATCH] if(type!= null &&!type.equals("string")) { if(data.size() == 0)continue; }
+[PATCH] if(type!= null &&!type.equals("submit")) { if(name.length() == 0)continue; }
+[PATCH] if(!Validate.isEmpty(type)) { if(data.size() == 0)continue; }
+[PATCH] if(type!= null &&!type.equals("submit")) { if(data.length() == 0)continue; }
+[PATCH] if(type!= null &&!type.equals("FORM")) { if(data.isEmpty()){ continue; }
+[PATCH] if(type!= null &&!"".equals(type)) { if(data.length() == 0){ continue; }
+[PATCH] if(!FormBuilder.class.isAssignableFrom(type)) { if(data.size() == 0)continue; }
+[PATCH] if(type!= null &&!type.equals("submit")) { if(data.isEmpty())continue; }
+[PATCH] if("form".equals(type)) { if(data.size() == 0)continue; }
+[PATCH] if(type!= null &&!type.equals("http")) { if(data.size() == 0)continue; }
+[PATCH] if(!Validate.isTrue(type.equals("form")|| type.length() == 0)) { continue; }
+[PATCH] if(type!= null){ if(!Validate.isTrue(type.equals("string")) { continue; }
+[PATCH] if(type!= null &&!Validate.isEmpty(type)) { if(data.size() == 0){ continue; }
+[PATCH] if(type!= null &&!type.equals("form")) { if(data.length() == 0){ continue; }
+[PATCH] if(type!= null &&!value.equalsIgnoreCase(type)) { if(data.isEmpty()){ continue; }
+[PATCH] if(!Validate.isTrue(type.equals("url"))){ continue; }
+[PATCH] if(!Validate.isTrue(type.equals("form")|| type.equals("date"))){ continue; }
+[PATCH] if(type!= null &&!type.equals("checkbox")) { if(data.isEmpty()){ continue; }
+[PATCH] if(type!= null &&!type.equals("*")) { if(data.isEmpty()){ continue; }
+[PATCH] if(type!= null &&!type.equals("form")) { if(data.size() == 0)break; }
+[PATCH] if(type!= null){ if(!Validate.isTrue(type.length() == 1)) { continue; }
+[PATCH] if(type!= null &&!type.equals("form")) { if(data.size() == 0)continue;
+[PATCH] if(type!= null){ if(!Validate.isTrue(type.equals("string")) continue; }
+[PATCH] if(type!= null){ if(!Validate.isTrue(type.equals("submit")) { continue; }
+[PATCH] if(type!= null &&!type.equals("text")) { continue; }
+[PATCH] if(type!= null){ if(!Validate.isTrue(type.equals("file")) { continue; }
+[PATCH] if(!Validate.isTrue(type == null)||!type.equals("form")) { continue; }
+[PATCH] if(type!= null &&!"".equals(type)) { continue; }
+[PATCH] if(type!= null &&!type.equals("button")) { continue; }
+[PATCH] if(type!= null){ if(!Validate.isEmpty(type)) { continue; }
+[PATCH] if(type!= null &&!type.equals("submit")) { if(data.size() == 0)continue;
+[PATCH] if(type!= null &&!"".equals(type)) { if(data.size() == 0)continue;
+[PATCH] if(!Validate.isTrue(type.equals("text"))){ continue; }
+[PATCH] if(type!= null &&!Validate.isTrue(type.equals("form"))){ continue; }
+[PATCH] if(!Validate.isTrue(type.equals("string")) { continue; }
+[PATCH] if(type!= null &&!type.equals("textarea")) { continue; }
+[PATCH] if(!formData.contains(name)) { if(type!= null)continue; }
+[PATCH] if(!forms.contains(name)) { if(type!= null)continue; }
+[PATCH] if(type!= null &&!type.equals("string")) { continue; }
+[PATCH] if(type!= null &&!type.equals("http")) { continue; }
+[PATCH] if(!Validate.isTrue(type.equals("submit")) { continue; }
+[PATCH] if(!ValidFormType.VALID_FORM_TYPE.equals(type)) { continue; }
+[PATCH] if(type!= null &&!type.equals("time")) { continue; }
+[PATCH] if(!Formable.class.isAssignableFrom(type)) { continue; }
+[PATCH] if(!Validate.isTrue(type.equals("form"))){ if(data.size() == 0)continue;
+[PATCH] if(!formals.contains(name)) { if(type!= null)continue; }
+[PATCH] if(type!= null &&!type.equals("html")) { continue; }

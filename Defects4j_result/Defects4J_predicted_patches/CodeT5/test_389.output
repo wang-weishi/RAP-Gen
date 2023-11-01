@@ -1,0 +1,100 @@
+[PATCH] if(( p2 * q2)!= q2){
+[PATCH] if(p2 < q2){
+[PATCH] if(( p2 - q2)< 1){
+[PATCH] if(p2 * q2 >= 1E-6){
+[PATCH] if(( p2 - q2)> 1){
+[PATCH] if(( p2 * q2)> 1){
+[PATCH] if(p2 * q2 >= 1.0){
+[PATCH] if(p2 * q2 >= 1){
+[PATCH] if(p2 * q2 >= 1E-20){
+[PATCH] if(p2 * q2 >= 1 || p2 < 1){
+[PATCH] if(( p2 * q2)!= 1){
+[PATCH] if(p2 * q2 >= 1e-5){
+[PATCH] if(p2 / q2 >= 1 || p2 < 1){
+[PATCH] if(p2 / q2 >= 1){
+[PATCH] if(p2 * q2 >= 1E-10){
+[PATCH] if(p2 < q2 || p2 > q2){
+[PATCH] if(p2 * q2 >= 1 || p2 == 0){
+[PATCH] if(( p2 * q2)!= p2){
+[PATCH] if(( p2 + q2)> p1){
+[PATCH] if(p2 * q2 >= 1 || p2 == 1){
+[PATCH] if(p2 > q2){
+[PATCH] if(p2 * q2 >= 100000){
+[PATCH] if(( p2 / q2)!= 1){
+[PATCH] if(p2 * q2 >= 1 / p2){
+[PATCH] if(p2 * q2 >= 1 || p2 > 1){
+[PATCH] if(( p2 * q2)!= 0){
+[PATCH] if(p2 * q2 >= 1E-5){
+[PATCH] if(p2 * q2 >= 1e-20){
+[PATCH] if(p2 * q2 >= 1e-6){
+[PATCH] if(p2 * q2 >= q2){
+[PATCH] if(p2 * q2 >= 1 - p1){
+[PATCH] if(p2 + q2 > p1){
+[PATCH] if(( p2 - q2)% 2!= 0){
+[PATCH] if(( p2 - q2)% 1!= 0){
+[PATCH] if(p2 - q2 >= 1){
+[PATCH] if(( p2 / q2)> 1){
+[PATCH] if(( p2 - q2)/ 2 >= 1){
+[PATCH] if(p2 * q2 >= 1000000){
+[PATCH] if(p2 * q2 >= 1L){
+[PATCH] if(( p2 * q2)!= -1){
+[PATCH] if(p2 * q2 >= 1E-12){
+[PATCH] if(p2 * q2 >= 1e-15){
+[PATCH] if(p2 / q2 >= 1E-6){
+[PATCH] if(( p2 % q2)!= 0){
+[PATCH] if(( p2 * q2)< 0){
+[PATCH] if(( p2 - q2)* 1 >= 1){
+[PATCH] if(( p2 * q2)> 1.0){
+[PATCH] if(( p2 * q2)> 1E-6){
+[PATCH] if(( p2 * q2)< 1){
+[PATCH] if(p2 / q2 >= 1 || p2 == 0){
+[PATCH] if(p2 * q2 >= 1E-9){
+[PATCH] if(p2 * q2 >= 1E-7){
+[PATCH] if(p2 * q2 >= 1 / p2 - 1){
+[PATCH] if(( p2 + q2)> 1){
+[PATCH] if(p2 * q2 >= 1D){
+[PATCH] if(p2 * q2 >= 100000000000){
+[PATCH] if(p2 * q2 >= 1d){
+[PATCH] if(p2 * q2 >= 1e-10){
+[PATCH] if(p2 * q2 >= 1E-30){
+[PATCH] if(( p2 - q2)* 1 >= 1.0){
+[PATCH] if(( p2 - q2)/ 2 >= 1.0){
+[PATCH] if(!(p2 < q2)) {
+[PATCH] if(p2 * q2 >= 1E-4){
+[PATCH] if(( p2 | q2)> 1){
+[PATCH] if(p2 / q2 >= 1 || p2 == 1){
+[PATCH] if(!(p2 * q2 > p1)) {
+[PATCH] if(( p2 - q2)< 0){
+[PATCH] if(p2 * q2 >= 1E-15){
+[PATCH] if(!(p2 * q2)!= q2){
+[PATCH] if(( p2 * q2)> 0){
+[PATCH] if(p2 or q2 > p1){
+[PATCH] if(p2 * q2 >= 100000000){
+[PATCH] if(( p2 + q2)> p4){
+[PATCH] if(p2 * q2 >= 1E-17){
+[PATCH] if(p2 * q2 >= 1 || p2 > overflow){
+[PATCH] if(( p2 - q2)* 1 >= p1){
+[PATCH] if(p2 / q2 >= 1.0){
+[PATCH] if(p2 * q2 >= 1E-8){
+[PATCH] if(( p2 * q2)!= Q2){
+[PATCH] if(p2 | q2 >= 1){
+[PATCH] if(p2 * q2 >= 1 {
+[PATCH] if(p2 * q2 >= 1E-13){
+[PATCH] if(p2 || q2 > p1){
+[PATCH] if(( p2 * q2) >= q2){
+[PATCH] if(p2 % q2!= 0){
+[PATCH] if(( p2 - q2) >= 1){
+[PATCH] if(( p2 - q2)== 0){
+[PATCH] if(p2 * q2 >= 1e-9){
+[PATCH] if(p2 * q2 >= 10000000){
+[PATCH] if(p2 | q2 > p1){
+[PATCH] if(p2 * q2 >= 1;
+[PATCH] if(p2 * q2 >= 1.5){
+[PATCH] if(p2 / q2 > 1){
+[PATCH] if(p2 >= q2){
+[PATCH] if(p2 % q2 >= 1){
+[PATCH] if(p2 * q2 >= 1{
+[PATCH] if(q2 < p2){
+[PATCH] if( p2 < q2){
+[PATCH] if(p2 == q2){
+[PATCH] if(n >= maxIterations){

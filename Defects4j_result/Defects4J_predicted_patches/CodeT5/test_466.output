@@ -1,0 +1,100 @@
+[PATCH] if(declaredType.isNullable() || declaredType.isCollection()){
+[PATCH] if(valueToSuppress.isNullable() || valueToSuppress.isCollection()){
+[PATCH] if(declaredType.isNullable() &&!declaredType.isEmpty()){
+[PATCH] if(declaredType.isNull() || declaredType.isVoid()){
+[PATCH] if(valueToSuppress.isNull() || declaredType.isVoid()){
+[PATCH] if(valueToSuppress.isNotNull() || declaredType.isVoid()){
+[PATCH] if(valueToSuppress.isNullable() || valueToSuppress.isReferenceType()){
+[PATCH] if(declaredType.isNullType() || declaredType.isVoidType()){
+[PATCH] if(declaredType.isNullable() &&!declaredType.isReferenceType()){
+[PATCH] if(declaredType.isContainerType() || declaredType.isCollectionType()){
+[PATCH] if(declaredType.isNotNull() || declaredType.isVoid()){
+[PATCH] if(valueToSuppress.isPrimitive() || declaredType.isReferenceType()){
+[PATCH] if(valueToSuppress.isNotNull() || declaredType.isReferenceType()){
+[PATCH] if(declaredType.isNullable() &&!declaredType.isPrimitive()){
+[PATCH] if(declaredType.isPrimitive() || declaredType.isReferenceType()){
+[PATCH] if(valueToSuppress.isNotNull() || declaredType.isContainerType()){
+[PATCH] if(declaredType.isNullable() || declaredType.isReferenceType()){
+[PATCH] if(valueToSuppress == null ||!valueToSuppress.isNullable()){
+[PATCH] if(valueToSuppress.isNullable() || valueTypeToSuppress.isCollection()){
+[PATCH] if(declaredType.isNullable() &&!declaredType.isCollection()){
+[PATCH] if(valueToSuppress.isNullable() || valueToSuppress.isBoolean()){
+[PATCH] if(declaredType.isEmptyType() || declaredType.isVoidType()){
+[PATCH] if(valueToSuppress.isNullable() && declaredType.isReferenceType()){
+[PATCH] if(valueToSuppress.isPrimitive() || valueToSuppress.isReferenceType()){
+[PATCH] if(declaredType.isNone() || declaredType.isVoid()){
+[PATCH] if(valueToSuppress.isNullable() || valueToSuppress.isCollection()){
+[PATCH] if(valueToSuppress == null ||!valueToSuppress.isBoolean()){
+[PATCH] if(declaredType.isNullable() || declaredType.isSingleton()){
+[PATCH] if(valueToSuppress.isNullable() || valueToSuppress.isVoid()){
+[PATCH] if(valueToSuppress.isNotNull() || valueToSuppress.isBoolean()){
+[PATCH] if(declaredType.isNullable() || declaredType.isContainerType()){
+[PATCH] if(valueToSuppress.isNotNull() || valueToSuppress.isBoolean()){
+[PATCH] if(declaredType.isNone() || declaredType.isCollection()){
+[PATCH] if(declaredType.isNullable() || declaredType.isStatic()){
+[PATCH] if(declaredType.isNullable() &&!declaredType.isStatic()){
+[PATCH] if(declaredType.isNullable() &&!declaredType.isContainerType()){
+[PATCH] if(valueToSuppress.isNotNull() || valueToSuppress.isVoid()){
+[PATCH] if(valueToSuppress.isNullable() || valueToSuppress.isEmpty()){
+[PATCH] if(valueToSuppress.isFieldNull()){
+[PATCH] if(declaredType.isNullable() || declaredType.isAbstract()){
+[PATCH] if(declaredType.isContainerType() || declaredType.isVoidType()){
+[PATCH] if(valueToSuppress.isNullable() || valueToSuppress.isContainerType()){
+[PATCH] if(valueToSuppress.isNullable() || valueToSuppress.isArray()){
+[PATCH] if(valueToSuppress.isNullable() || valueToSuppress.isDate()){
+[PATCH] if(declaredType.isNullable() &&!declaredType.isReferencedValue()){
+[PATCH] if(valueToSuppress.isNotNull() || declaredType.isNullable()){
+[PATCH] if(declaredType == null || declaredType.isReferenceType()){
+[PATCH] if(valueToSuppress.isNotNull() || valueToSuppress.isVoid()){
+[PATCH] if(valueToSuppress.isNotNull() || declaredType.isPrimitive()){
+[PATCH] if(declaredType.isPrimitive() || declaredType.isCollection()){
+[PATCH] if(valueToSuppress.isNullable() || declaredType.isReferenceType()){
+[PATCH] if(declaredType.isNullable() || declaredType.isArray()){
+[PATCH] if(declaredType.isNullable() &&!declaredType.isRawClass()){
+[PATCH] if(valueToSuppress.isLiteralValue()){
+[PATCH] if(declaredType.isContainerType() || declaredType.isSingletonType()){
+[PATCH] if(declaredType.isNullable() &&!declaredType.isWrapperType()){
+[PATCH] if(declaredType.isNULL() || declaredType.isVoid()){
+[PATCH] if(valueToSuppress.isNotNull() || declaredType.isCollection()){
+[PATCH] if(declaredType.isVoid() || declaredType.isReferenceType()){
+[PATCH] if(declaredType.isFieldNull() || declaredType.isCollection()){
+[PATCH] if(valueToSuppress == null || declaredType.isNullable()){
+[PATCH] if(valueToSuppress.isNull() || valueToSuppress.isVoid()){
+[PATCH] if(declaredType == null || declaredType.isContainerType()){
+[PATCH] if(valueToSuppress.isPresent() &&!declaredType.isPrimitive()){
+[PATCH] if(declaredType.isPrimitive() || declaredType.isStatic()){
+[PATCH] if(declaredType.isCollection() || declaredType.isReferenceType()){
+[PATCH] if(valueToSuppress.isNoNull() || declaredType.isVoid()){
+[PATCH] if(valueToSuppress == null || declaredType.isContainerType()){
+[PATCH] if(valueToSuppress == null || declaredType.isReferenceType()){
+[PATCH] if(declaredType.isNullable() || declaredType.isReferencedType()){
+[PATCH] if(valueToSuppress.isNullable()){
+[PATCH] if(declaredType.isNullable() &&!declaredType.isAbstract()){
+[PATCH] if(valueToSuppress.isPrimitive() || valueToSuppress.isBoolean()){
+[PATCH] if(valueToSuppress.isContainerType()){
+[PATCH] if(declaredType.isNullable() &&!declaredType.isArray()){
+[PATCH] if(valueToSuppress.isReferenceType()){
+[PATCH] if(declaredType.isNullable() || declaredType.isPrimitive()){
+[PATCH] if(valueToSuppress.isNull()){
+[PATCH] if(declaredType.isNullable() || declaredType.isEnum()){
+[PATCH] if(declaredType.isNullable() || declaredType.isVoid()){
+[PATCH] if(valueToSuppress.isNullable() || valueToSuppress.isEnum()){
+[PATCH] if(declaredType.isNullable()){
+[PATCH] if(declaredType.isFieldNull()){
+[PATCH] if(declaredType == null || declaredType.isNullable()){
+[PATCH] if(valueToSuppress.isPresent()){
+[PATCH] if(valueToSuppress.isEmpty()){
+[PATCH] if(valueToSuppress.isJsonNull()){
+[PATCH] if(declaredType.isLiteralValue()){
+[PATCH] if(declaredType.isContainerType()){
+[PATCH] if(valueToSuppress.isNestable()){
+[PATCH] if(declaredType.isEmpty()){
+[PATCH] if(valueToSuppress.isString()){
+[PATCH] if(valueToSuppress.isNotNull()){
+[PATCH] if(declaredType.isField()){
+[PATCH] if(valueToSuppress.isDate()){
+[PATCH] if(declaredType.isNull()){
+[PATCH] if(valueToSuppress.isNonNull()){
+[PATCH] if(valueToSuppress.isImmutableValue()){
+[PATCH] if(valueToSuppress.isQuotedString()){
+[PATCH] if(valueToSuppress.isRequiredField()){

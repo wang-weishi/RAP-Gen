@@ -1,0 +1,100 @@
+[PATCH] } else if(length >= 4){ formatBigIntegerBinary(value, buf, offset, length, negative); }
+[PATCH] } else if(length >= 4){ formatBigIntegerBinary(value, buf, offset, length, negative); } else {
+[PATCH] } else if(length == 10){ formatBigIntegerBinary(value, buf, offset, length, negative); } else {
+[PATCH] buf[offset] =(byte)(negative? 1 : 0); return offset + length;
+[PATCH] } else if(length == 10){ formatBigIntegerBinary(value, buf, offset, length, negative); }
+[PATCH] } else if(length == 2){ formatBigIntegerBinary(value, buf, offset, length, negative); } else {
+[PATCH] return formatBigIntegerBinary(value, buf, offset, length, negative);
+[PATCH] } else if(length >= 4){ formatBigIntegerBinary(value, buf, offset, length, negative); } else { size = 0; }
+[PATCH] } else if(length > 10){ formatBigIntegerBinary(value, buf, offset, length, negative); }
+[PATCH] } else if(length == 10){ formatBigIntegerBinary(value, buf, offset, length, negative); } else { size = 9; }
+[PATCH] buf[offset] =(byte)(negative? 0x7f : 0x80); return offset + length;
+[PATCH] } else if(length == 10){ formatBigIntegerBinary(value, buf, offset, length, negative); } else { size = 2; }
+[PATCH] } else if(length <= 10){ formatBigIntegerBinary(value, buf, offset, length, negative); }
+[PATCH] } else if(length >= 4){ formatBigIntegerBinary(value, buf, offset, length, negative); } else { written += length; }
+[PATCH] } else if(length == 2){ formatBigIntegerBinary(value, buf, offset, length, negative); }
+[PATCH] buf[offset] =(byte)(negative? 0xff : 0x80); return offset + length;
+[PATCH] } else if(length >= 4){ formatBigIntegerBinary(value, buf, offset, length, negative); } else { break; }
+[PATCH] } else if(length < 10){ formatBigIntegerBinary(value, buf, offset, length, negative); }
+[PATCH] } else if(length <= 10){ formatBigIntegerBinary(value, buf, offset, length, negative); } else {
+[PATCH] } else if(length < 10){ formatBigIntegerBinary(value, buf, offset, length, negative); } else {
+[PATCH] } else if(length > 4){ formatBigIntegerBinary(value, buf, offset, length, negative); }
+[PATCH] } else if(length >= 10){ formatBigIntegerBinary(value, buf, offset, length, negative); }
+[PATCH] buf[offset] =(byte)(negative? 0x10 : 1); return offset + length;
+[PATCH] } else if(length > 8){ formatBigIntegerBinary(value, buf, offset, length, negative); }
+[PATCH] buf[offset] =(byte)(negative? 0xff : 1); return offset + length;
+[PATCH] } else if(length > 10){ formatBigIntegerBinary(value, buf, offset, length, negative); } else {
+[PATCH] } else if(length >= 10){ formatBigIntegerBinary(value, buf, offset, length, negative); } else {
+[PATCH] buf[offset] =(byte)(negative? 0x7e : 0x80); return offset + length;
+[PATCH] } else if(length >= 8){ formatBigIntegerBinary(value, buf, offset, length, negative); }
+[PATCH] } else if(length <= 8){ formatBigIntegerBinary(value, buf, offset, length, negative); }
+[PATCH] buf[offset] =(byte)(negative? 0x7c : 0x80); return offset + length;
+[PATCH] } else if(length <= 18){ formatBigIntegerBinary(value, buf, offset, length, negative); }
+[PATCH] } else if(length == 10){ return formatBigIntegerBinary(value, buf, offset, length, negative); }
+[PATCH] buf[offset] =(byte)(negative? 0x10 : 0x8); return offset + length;
+[PATCH] buf[offset] =(byte)(negative? 0x7f : 0xc0); return offset + length;
+[PATCH] buf[offset] =(byte)(negative? 0x10 : 0); return offset + length;
+[PATCH] } else if(length == 2){ return formatBigIntegerBinary(value, buf, offset, length, negative); }
+[PATCH] } else if(length > 9){ formatBigIntegerBinary(value, buf, offset, length, negative); }
+[PATCH] buf[offset] =(byte)(value << 3)-(negative? 1 : 0); return offset + length;
+[PATCH] } else if(length >= 2){ formatBigIntegerBinary(value, buf, offset, length, negative); }
+[PATCH] buf[offset] =(byte)(negative? 0x7F : 0x80); return offset + length;
+[PATCH] buf[offset] =(byte)(negative? 0x7f : 1); return offset + length;
+[PATCH] buf[offset] =(byte)(negative? 0xc0 : 1); return offset + length;
+[PATCH] buf[offset] =(byte)(negative? 0x9 : 1); return offset + length;
+[PATCH] } else if(length >= 5){ formatBigIntegerBinary(value, buf, offset, length, negative); }
+[PATCH] buf[offset] =(byte)(( negative? 0xff : 0x80); return offset + length;
+[PATCH] buf[offset++] =(byte)(negative? 1 : 0); return offset + length;
+[PATCH] buf[offset] =(byte)(negative? 0x6f : 0x80); return offset + length;
+[PATCH] buf[offset] =(byte)(negative? 0x7f : 0x8); return offset + length;
+[PATCH] } else if(length <= 2){ formatBigIntegerBinary(value, buf, offset, length, negative); }
+[PATCH] } else if(length >= 6){ formatBigIntegerBinary(value, buf, offset, length, negative); }
+[PATCH] } else if(length > 2){ formatBigIntegerBinary(value, buf, offset, length, negative); }
+[PATCH] return formatBigIntegerOctalBytes(value, buf, offset, length, negative);
+[PATCH] return formatLongBinary(value, buf, offset, length);
+[PATCH] buf[offset] =(byte)(negative? 0x7f : 0xc4); return offset + length;
+[PATCH] buf[offset] =(byte)(negative? 0x7c : 0x8); return offset + length;
+[PATCH] buf[offset] =(byte)(negative? 0x7c : 1); return offset + length;
+[PATCH] buf[offset] =(byte)(negative? 0 : 1); return offset + length;
+[PATCH] return formatIntegerBinary(value, buf, offset, length, negative);
+[PATCH] return formatBigDecimalBinary(value, buf, offset, length, negative);
+[PATCH] buf[offset] =(byte)(negative? 1 : 0); return length;
+[PATCH] buf[offset] =(byte)Integer.MIN_VALUE; return offset + length;
+[PATCH] buf[offset] =(byte)(0xc0 |(value >> 6));
+[PATCH] if(length == 10){ formatBigIntegerBinary(value, buf, offset, length, negative); }
+[PATCH] return formatBigIntegerBase64(value, buf, offset, length, negative);
+[PATCH] buf[offset] =(byte)(value >>> 8); return offset + length;
+[PATCH] if(length >= 4){ formatBigIntegerBinary(value, buf, offset, length, negative); }
+[PATCH] buf[offset] =(byte)(value << 8); return offset + length;
+[PATCH] buf[offset] =(byte)(negative? 0x7f : 0x80);
+[PATCH] buf[offset] =(byte)(length - 1); return offset + length;
+[PATCH] buf[offset] =(byte)(0xc0 |(value >> 8));
+[PATCH] return formatSignedLongBinary(value, buf, offset, length, negative);
+[PATCH] if(length == 2){ formatBigIntegerBinary(value, buf, offset, length, negative); }
+[PATCH] return formatBigIntegerBigEndian(value, buf, offset, length, negative);
+[PATCH] buf[offset] =(byte)(0xc0 |(length >> 4));
+[PATCH] buf[offset] =(byte)(negative? 0x10 : 1);
+[PATCH] buf[offset] =(byte)(negative? 0x10 : 0x8);
+[PATCH] buf[offset] =(byte)(0xc0 |(length >> 6));
+[PATCH] buf[offset] =(byte)(value << 6); return offset + length;
+[PATCH] buf[offset] =(byte)(negative? 0xff : 1);
+[PATCH] buf[offset] =(byte)0; return offset + length;
+[PATCH] buf[offset] =(byte)(negative? 0xff : 0x80);
+[PATCH] buf[offset] =(byte)(negative? 1 : 0);
+[PATCH] return formatUnsignedShortBinary(value, buf, offset, length);
+[PATCH] return formatBigIntegerBigDecimal(value, buf, offset, length, negative);
+[PATCH] return formatBigIntegerBinary(value, buf, offset, length);
+[PATCH] buf[offset++] =(byte)(negative? 1 : 0);
+[PATCH] return formatBigInteger(value, buf, offset, length, negative);
+[PATCH] buf[offset] =(byte)(value >> 8);
+[PATCH] return formatOctalBytes(value, buf, offset, length);
+[PATCH] } else if(length == 10){
+[PATCH] } else if(length > 9){
+[PATCH] } else if(length == 2){
+[PATCH] } else if(length > 10){
+[PATCH] length = 9;
+[PATCH] ++length;
+[PATCH] break;
+[PATCH] continue;
+[PATCH] ;
+);

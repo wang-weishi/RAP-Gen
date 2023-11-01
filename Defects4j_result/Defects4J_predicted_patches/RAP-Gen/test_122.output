@@ -1,0 +1,100 @@
+[PATCH] if(inputs.size() > 0){
+[PATCH] if(inputs.size() > 1){
+[PATCH] if(options.addChangeListener(this)) {
+[PATCH] if(hasInputs()){
+[PATCH] if(options.compilerOptions.externExportsPath()){
+[PATCH] if(options.externExportsPath!= null){
+[PATCH] if(options.compilerOptions.hasInputs()){
+[PATCH] if(options.dependencyOptions.needsManagement()){
+[PATCH] if(options.withInputs()){
+[PATCH] if(options.externExportsPath){
+[PATCH] if(options.externExportsPath).isEmpty()){
+[PATCH] if(inputs.length() > 0){
+[PATCH] if(options.inputs.size() > 0){
+[PATCH] if(inputs.size() > inputs.size()){
+[PATCH] if(passes.size() > 0){
+[PATCH] if(options.inputMap.size() > 0){
+[PATCH] if(inputs!= null){
+[PATCH] if(options.getInputs()){
+[PATCH] if(options.inputMap.values().length > 0){
+[PATCH] if(options.compilerInfo.hasInputs()){
+[PATCH] if(options.dependencyOptions.externExportsPath()){
+[PATCH] if(options.skipAllPasses){
+[PATCH] if(inputs.size() < inputs.size()){
+[PATCH] if(inputs &&!options.skipAllPasses){
+[PATCH] if(options.compilerOptions.needsManagement()){
+[PATCH] if(hasAnyInputs()){
+[PATCH] if(inputs.size() > inputsById.size()){
+[PATCH] if(options.prefetchInputs()){
+[PATCH] if(options.getInputs()); staleInputs = true;
+[PATCH] if(options.compilerOptions.isNormalized()){
+[PATCH] if(options.addDependencyPasses()){
+[PATCH] if(options.externExportsPath).getInputs()){
+[PATCH] if(options.compilerOptions.mayHaveSideEffects()){
+[PATCH] if(options.dependencyOptions.hasInputs()){
+[PATCH] if(hasErrors()){
+[PATCH] if(options.compilerOptions.getInputs()){
+[PATCH] if(options.intermediatePasses){
+[PATCH] if(inputs.size() > 2){
+[PATCH] if(inputs!= null &&!options.sideEffects){
+[PATCH] if(options.compilerOptions.externExportsPath){
+[PATCH] if(inputs.length > 0){
+[PATCH] if(inputs.values().length > 0){
+[PATCH] if(options.inputs.length() > 0){
+[PATCH] if(options.hasInputs()){
+[PATCH] if(inputs.size() > 4){
+[PATCH] if(targets.size() > 0){
+[PATCH] if(options.requireInputs()){
+[PATCH] if(options.externExportsPath()){
+[PATCH] if(options.addInputs()){
+[PATCH] if(options.addChangeHandler()){
+[PATCH] if(!options.skipAllPasses){
+[PATCH] if(!options.dependencyOptions.needsManagement()){
+[PATCH] if(options.sourceMapOutputPath!= null){
+[PATCH] if(options.addOngoingPass()){
+[PATCH] if(options.dependencyOptions.needsChange()){
+[PATCH] if(options.inputMap.keySet()){
+[PATCH] if(options.getInputs()!= null){
+[PATCH] if(inputs.hasAllInputs()){
+[PATCH] if(options.compilerOptions.withInputs()){
+[PATCH] if(listeners.size() > 0){
+[PATCH] if(inputs. size() > 0){
+[PATCH] if(inputs.size() > 3){
+[PATCH] if(options.injectables!= null){
+[PATCH] if(options.withInputs){
+[PATCH] if(passes.size() > 1){
+[PATCH] if(options.addPasses()){
+[PATCH] if(inputs).size() > 0){
+[PATCH] if(inputs.size() > 10){
+[PATCH] if(options.redeclareInputs()){
+[PATCH] if(options.allowMemberExprAsPath){
+[PATCH] if(hasAnyPass()){
+[PATCH] if(inputs.size()){
+[PATCH] if(options.loadInputs()){
+[PATCH] if(passConfig.hasInputs()){
+[PATCH] if(hasAnyPassTypes()){
+[PATCH] if(options.dependsOn()){
+[PATCH] if(inputs.size() > 6){
+[PATCH] if(hasAllPasses()){
+[PATCH] if(options.allPasses){
+[PATCH] if(options.passes){
+[PATCH] if(hasAnyPassHandlers()){
+[PATCH] if(hasAnyPassHandler()){
+[PATCH] if(inputs.isEmpty()){
+[PATCH] if(options.requiresManagement()){
+[PATCH] if(options.extraPasses){
+[PATCH] if(options.needManagement()){
+[PATCH] if(mayHaveSideEffects()){
+[PATCH] if(options.toLowerCase()){
+[PATCH] if(options.addInput()){
+[PATCH] if(hasAnyPassCode()){
+[PATCH] if(options.sideEffects){
+[PATCH] if(options.parsingInputs){
+[PATCH] if(options.inputGroups){
+[PATCH] if(checkInputs()){
+[PATCH] if(options.validation){
+[PATCH] if(inputs){
+[PATCH] if(passes){
+[PATCH] if
+);
+;

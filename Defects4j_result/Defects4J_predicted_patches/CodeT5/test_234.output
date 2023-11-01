@@ -1,0 +1,100 @@
+[PATCH] if(values.size() > 1){
+[PATCH] if(values.size() == 1){
+[PATCH] if(!values.isEmpty()){
+[PATCH] if(values.size() > 0){
+[PATCH] if(!values.isEmpty())throw new IllegalArgumentException("");
+[PATCH] if(!values.isEmpty())throw new RuntimeException("");
+[PATCH] if(values.size() > 1 &&!values.isEmpty()){
+[PATCH] if(!values.isEmpty())throw new IllegalStateException("");
+[PATCH] if(values.size() > 0 &&!values.isEmpty()){
+[PATCH] if(values.size() > 1)
+[PATCH] if(values.size() > 0)
+[PATCH] if(!values.isEmpty())throw new IOException("");
+[PATCH] if(values.size() == 1)throw new IllegalStateException("");
+[PATCH] if(values.size() == 1 ||!values.isEmpty()){
+[PATCH] if(values.size() == 1)throw new RuntimeException("");
+[PATCH] if(values.size() == 1)throw new IllegalArgumentException("");
+[PATCH] if(!values.isEmpty())break;
+[PATCH] if(!values.isEmpty() && values.size() == 1){
+[PATCH] if(values!= null &&!values.isEmpty()){
+[PATCH] if(values.size() == 1)
+[PATCH] if(values.size() > 1 ||!values.isEmpty()){
+[PATCH] if(!values.isEmpty())throw new Kit.codeBug();
+[PATCH] if(1 == values.size()){
+[PATCH] if(values.size() == 1 &&!values.isEmpty()){
+[PATCH] if(values!= null && values.size() > 1){
+[PATCH] if(!values.isEmpty())throw new JXPathException("");
+[PATCH] if(!values.isEmpty())throw new JsonMappingException("");
+[PATCH] if(values.size() == 1)throw new IOException("");
+[PATCH] if(values.size() > 1)) {
+[PATCH] if(( status == 200)&&!values.isEmpty()){
+[PATCH] if(values.size() == 1()){
+[PATCH] if(!values.isEmpty())throw Kit.codeBug();
+[PATCH] if(values!= null && values.size() > 0){
+[PATCH] if(values.size() == 1)throw Kit.codeBug();
+[PATCH] if(1; if(!values.isEmpty()){
+[PATCH] if(!values.isEmpty())throw new JXPathInvalidSyntaxException("");
+[PATCH] if(values.size() == 1)) {
+[PATCH] if(!values.isEmpty())throw new AnalyzerException("");
+[PATCH] if(values.size() > 0)) {
+[PATCH] if(values.size() > 1 &&!values.isEmpty()){
+[PATCH] if(values.size() > 0 && values.remove(0)) {
+[PATCH] if(values.size() == 1)throw new JXPathException("");
+[PATCH] if(values.size() > 1 && values.remove(0)) {
+[PATCH] if(values.size() > 1()){
+[PATCH] if(!values.isEmpty())throw new JXPathInvalidAccessException("");
+[PATCH] if(!values.isEmpty()) throw new IllegalArgumentException("");
+[PATCH] if(1, values.isEmpty()){
+[PATCH] if(!values.isEmpty())throw new JXPathInvalidRequestException("");
+[PATCH] if(!values.isEmpty() && values.size() > 1){
+[PATCH] if(1 if(!values.isEmpty()){
+[PATCH] if(values.size() > 0()){
+[PATCH] if(1.0 == values.size()){
+[PATCH] if(!values.isEmpty())throw new ParseException("");
+[PATCH] if(!values.isEmpty())throw new BadRequestException("");
+[PATCH] if(!values.isEmpty())throw new AssertionError("");
+[PATCH] if(values.size() &&!values.isEmpty()){
+[PATCH] if(1 &&!values.isEmpty()){
+[PATCH] if(!values.isEmpty())throw new NullPointerException("");
+[PATCH] if(!values.isEmpty())throw new UnsupportedOperationException("");
+[PATCH] if(!values.isEmpty())
+[PATCH] if(values.size() == 1) {
+[PATCH] if(!values.isEmpty())continue;
+[PATCH] if(!values.isEmpty())throw new Exception("");
+[PATCH] if(1.0 &&!values.isEmpty()){
+[PATCH] if(1)if(!values.isEmpty()){
+[PATCH] if(values.isEmpty())throw new IllegalArgumentException("");
+[PATCH] if(status == 200 ||!values.isEmpty()){
+[PATCH] if(values.size() > 0))
+[PATCH] if(values.isEmpty()){
+[PATCH] if(!values.isEmpty())throw new HttpException("");
+[PATCH] if(!values.isEmpty())throw new NoSuchElementException("");
+[PATCH] if(values.size() == 1){
+[PATCH] if(!values.isEmpty())throw new IndexOutOfBoundsException("");
+[PATCH] if(v == null ||!values.isEmpty()){
+[PATCH] if(values.size() == 1)return;
+[PATCH] if(values.size() > 1))
+[PATCH] if(1,!values.isEmpty()){
+[PATCH] if(values.isEmpty())throw new RuntimeException("");
+[PATCH] if( values.size() > 1){
+[PATCH] if(values.isEmpty())throw new IllegalStateException("");
+[PATCH] if(> 0 &&!values.isEmpty()){
+[PATCH] if(1, values.size() > 0){
+[PATCH] if(1 if(!values.isEmpty())
+[PATCH] if(values.size() == 1)break;
+[PATCH] if(1, values.size() > 0)
+[PATCH] if(1 if(values.isEmpty()){
+[PATCH] if(1==values.size()){
+[PATCH] if(1, values.size()){
+[PATCH] if(values.length() > 1){
+[PATCH] if(values.length() > 0){
+[PATCH] if(!values.isEmpty()) {
+[PATCH] if(1 == values.isEmpty()){
+[PATCH] if(values.size() == 1):
+[PATCH] if(values!values.isEmpty()){
+[PATCH] if(values.size() > 1):
+[PATCH] if(Values.size() > 1){
+[PATCH] if( values.size() > 0){
+[PATCH] if(!values.isEmpty());
+[PATCH] if(values.size() >1){
+[PATCH] if(Values.size() > 0){

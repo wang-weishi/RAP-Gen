@@ -1,0 +1,100 @@
+[PATCH] if(a0 == overflow){
+[PATCH] if(a0 < overflow){
+[PATCH] if(a0 <= overflow){
+[PATCH] if(a0 > 1l){
+[PATCH] if(a0 > overflow){
+[PATCH] if(a0 > 1L){
+[PATCH] if(a0 < 1l){
+[PATCH] if(a0 == r0){
+[PATCH] if(a0 >= overflow){
+[PATCH] if(a0 - 1l >= overflow){
+[PATCH] if(a0 < 1L){
+[PATCH] if(a0 > MAX_VALUE){
+[PATCH] if(a0 - 1L >= overflow){
+[PATCH] if(a0 - 1l > overflow){
+[PATCH] if(a0 * 1l >= overflow){
+[PATCH] if(a0 <= overflow){
+[PATCH] if(a0 + 1L > overflow){
+[PATCH] if(a0 [1] > overflow){
+[PATCH] if(a0 > maxDenominator){
+[PATCH] if(a0 - 1L > overflow){
+[PATCH] if(a0 * 1L >= overflow){
+[PATCH] if(overflow!= a0){
+[PATCH] if(a0 + 1l > overflow){
+[PATCH] if(a0 & 1l!= overflow){
+[PATCH] if(a0 == 1l){
+[PATCH] if(a0 / 1l > overflow){
+[PATCH] if(a0 % 1l!= overflow){
+[PATCH] if(a0 ==overflow){
+[PATCH] if(a0 | 1l >= overflow){
+[PATCH] if(a0 / 1l >= overflow){
+[PATCH] if(a0 > 1){
+[PATCH] if(a0 > r0){
+[PATCH] if(a0 = r0 > overflow){
+[PATCH] if(overflow > a0){
+[PATCH] if(a0 & 1L!= overflow){
+[PATCH] if(a0, r0 > overflow){
+[PATCH] if(a0 | 1l > overflow){
+[PATCH] if(a1 > overflow){
+[PATCH] if(a0 & 1l > overflow){
+[PATCH] if(a0 a1 > overflow){
+[PATCH] if(a0 == -1L){
+[PATCH] if(a0 > 1 l){
+[PATCH] if(a0 > this.overflow){
+[PATCH] if(a0 [1] >= overflow){
+[PATCH] if(a0 >> 1l!= overflow){
+[PATCH] if(a0 == -1l){
+[PATCH] if(a0 == MAX_VALUE){
+[PATCH] if(a0 * 1l > overflow){
+[PATCH] if(a0 >> 1L!= overflow){
+[PATCH] if(a0 + 1 > overflow){
+[PATCH] if(a0 > 1long){
+[PATCH] if(a0 & 1l >= overflow){
+[PATCH] if(a0 1l > overflow){
+[PATCH] if(a0 <overflow){
+[PATCH] if(a0 * 1L > overflow){
+[PATCH] if(a0 >overflow){
+[PATCH] if(a0 > oneL){
+[PATCH] if(a0 r0 > overflow){
+[PATCH] if(a0 == 0){
+[PATCH] if(a0 >1l){
+[PATCH] if(this.a0 > overflow){
+[PATCH] if(a0 / 1l!= overflow){
+[PATCH] if(a0 >> 1l > overflow){
+[PATCH] if(a0 = overflow){
+[PATCH] if(r0 > a0){
+[PATCH] if(a0 & 1L > overflow){
+[PATCH] if(a0 in overflow){
+[PATCH] if(a0 < underflow){
+[PATCH] if(a0 [1] == overflow){
+[PATCH] if(a0 >> 1L > overflow){
+[PATCH] if(a0 == 1L){
+[PATCH] if(a0 >1L){
+[PATCH] if(a01 > overflow){
+[PATCH] if(a0< overflow){
+[PATCH] if(a0 - 1l < overflow){
+[PATCH] if(a0 > one){
+[PATCH] if(a0 == value){
+[PATCH] if( a0 == overflow){
+[PATCH] if(a0 > a0){
+[PATCH] if(a0 >> 1L == overflow){
+[PATCH] if(r0 < a0){
+[PATCH] if(a0 [1]!= overflow){
+[PATCH] if(a0 == underflow){
+[PATCH] if(a0 > value){
+[PATCH] if(a0 instanceof overflow){
+[PATCH] if(a0 <= Overflow){
+[PATCH] if(a0 == Overflow.ONE){
+[PATCH] if(a0 << 1L){
+[PATCH] if(a0 >> 1l >= overflow){
+[PATCH] if(a0, r0 < overflow){
+[PATCH] if(a0 >> 1l == overflow){
+[PATCH] if(a0 [1] < overflow){
+[PATCH] if(a0 : overflow){
+[PATCH] if(a0 - 1l >= overflow){
+[PATCH] if(a0 <Overflow){
+[PATCH] if(a0 & 1L >= overflow){
+[PATCH] if(a0 >= overflow){
+[PATCH] if(a0 - 1L < overflow){
+[PATCH] if(a0 = r0;
+[PATCH] if(a0 - 1l <= overflow){

@@ -1,0 +1,100 @@
+[PATCH] for(int i = startIndex; i < thisBuf.length; i++){
+[PATCH] for(int i = startIndex, thisBuf.length; i < thisBuf.length; i++){
+[PATCH] for(int i = startIndex, thisBuf.length - 1; i >= 0; i++){
+[PATCH] for(int i = startIndex, len = thisBuf.length; i < len; i++){
+[PATCH] for(int i = startIndex + 1; i < thisBuf.length; i++){
+[PATCH] for(int i = startIndex, len; i < thisBuf.length; i++){
+[PATCH] for(int i = startIndex; i < thisBuf.length - 1; i++){
+[PATCH] for(int i = startIndex, size; i < thisBuf.length; i++){
+[PATCH] for(int i = startIndex, len - 1; i < thisBuf.length; i++){
+[PATCH] for(int i = startIndex, endIndex = size; i < thisBuf.length; i++){
+[PATCH] for(int i = startIndex, thatBuf.length; i < thisBuf.length; i++){
+[PATCH] for(int i = startIndex; i <thisBuf.length; i++){
+[PATCH] for(int i = startIndex, thisBuf.length - 1; i >= startIndex; i++){
+[PATCH] for(int i = startIndex, length; i < thisBuf.length; i++){
+[PATCH] for(int i = startIndex: startIndex + 1; i < thisBuf.length; i++){
+[PATCH] for(int i = startIndex, endIndex = length; i < thisBuf.length; i++){
+[PATCH] for(int i = start; i < thisBuf.length; i++){
+[PATCH] for(int i = startIndex, endIndex = 0; i < thisBuf.length; i++){
+[PATCH] for(int i = startIndex, int len = thisBuf.length; i < len; i++){
+[PATCH] for(int i = startIndex, k = 0; i < thisBuf.length; i++){
+[PATCH] for(int i = startIndex, length - 1; i < thisBuf.length; i++){
+[PATCH] for(int i = startIndex; i< thisBuf.length; i++){
+[PATCH] for(int i = startIndex+1; i < thisBuf.length; i++){
+[PATCH] for(int i = startIndex: startIndex + size; i < thisBuf.length; i++){
+[PATCH] for(int i = startIndex, startLen; i < thisBuf.length; i++){
+[PATCH] for(int i = startIndex: thisBuf.length; i < thisBuf.length; i++){
+[PATCH] for(int i = startIndex : thisBuf.length; i < thisBuf.length; i++){
+[PATCH] for(int i = startIndex; i < thisBuffer.length; i++){
+[PATCH] for(int i = startIndex, j = 0; i < thisBuf.length; i++){
+[PATCH] for(int i = startIndex, len -= startIndex; i < thisBuf.length; i++){
+[PATCH] for(int i = startIndex, start + size; i < thisBuf.length; i++){
+[PATCH] for(int i = startIndex, n = thisBuf.length; i < n; i++){
+[PATCH] for(int i = startIndex, which = 0; i < thisBuf.length; i++){
+[PATCH] for(int i = startIndex, it.length; i < thisBuf.length; i++){
+[PATCH] for(int i = startIndex, size - 1; i < thisBuf.length; i++){
+[PATCH] for(int i = startIndex + 0; i < thisBuf.length; i++){
+[PATCH] for(int i = startIndex; i < thisBuf.length; i += 2){
+[PATCH] for(int i = startIndex; i < thisLen.length; i++){
+[PATCH] for(int i = startIndex, arr.length; i < thisBuf.length; i++){
+[PATCH] for(int i = startIndex;".length; i < thisBuf.length; i++){
+[PATCH] for(int i = startIndex; i < theBuf.length; i++){
+[PATCH] for(int i = startPos; i < thisBuf.length; i++){
+[PATCH] for(int i = startIndex, nsLen; i < thisBuf.length; i++){
+[PATCH] for(int i = startIndex, if(i < thisBuf.length; i++){
+[PATCH] for(int i = startIndex - 1; i < thisBuf.length; i++){
+[PATCH] for(int i = startIndex, endIndex; i < thisBuf.length; i++){
+[PATCH] for(int i = startIndex;i < thisBuf.length; i++){
+[PATCH] for(int i = startIndex; i < thisBuf.length"; i++){
+[PATCH] for(int i = startIndex + startLen; i < thisBuf.length; i++){
+[PATCH] for(int i = startIndex; i < thisBuf.length + 1; i++){
+[PATCH] for(int i =startIndex; i < thisBuf.length; i++){
+[PATCH] for(int i = 0; i < thisBuf.length; i++){
+[PATCH] for(int i = startIndex;; i < thisBuf.length; i++){
+[PATCH] for(int i = startOffset; i < thisBuf.length; i++){
+[PATCH] for(int i = startIndex; i + 1 < thisBuf.length; i++){
+[PATCH] for(int i = startIndex 0; i < thisBuf.length; i++){
+[PATCH] for(int i = startIndex0; i < thisBuf.length; i++){
+[PATCH] for(int i = startIndex; i < thisBuf.length && i < size; i++){
+[PATCH] for(int i = fromIndex; i < thisBuf.length; i++){
+[PATCH] for(int i = startIndex, num = thisBuf.length; i < num; i++){
+[PATCH] for(int i = startIndex; i < thisBuf.length, i++){
+[PATCH] for(int i = startIndex]; i < thisBuf.length; i++){
+[PATCH] for(int i = startIndex); i < thisBuf.length; i++){
+[PATCH] for(int i = startIndex; i < thisBuff.length; i++){
+[PATCH] for(int i = startIndex/size; i < thisBuf.length; i++){
+[PATCH] for(int i=startIndex; i < thisBuf.length; i++){
+[PATCH] for(int i = startIndex; i < thisBuf. length; i++){
+[PATCH] for(int i = startIndex; i < thisBuf.length;i++){
+[PATCH] for(int i = startIndex; i < thisBuf.length; ++i){
+[PATCH] for(int i = startPosition; i < thisBuf.length; i++){
+[PATCH] for(int i = startIndex || startIndex < thisBuf.length; i++){
+[PATCH] for(int i = startIndex; i < thisBuf.length; i++){
+[PATCH] for(int i = startIndex, endIndex = thisBuf.length; i < len; i++){
+[PATCH] for(int i = startIndex; i < THISBuf.length; i++){
+[PATCH] for(int i = startIndex, endIndex = thisBuf.length; i < endIndex; i++){
+[PATCH] for(int i = startIndex; i < thisBuf.length]; i++){
+[PATCH] for(int i = startLine; i < thisBuf.length; i++){
+[PATCH] for(int i = startIndex; i < thisBuf.length(); i++){
+[PATCH] for(int i = startIndex; i < thisBuf.length * 2; i++){
+[PATCH] for(int i = startIndex; i < thisbuf.length; i++){
+[PATCH] for(int i = startIndex; i a < thisBuf.length; i++){
+[PATCH] for(int i = startIndex; i < thisBuf == null; i++){
+[PATCH] for(int i = startIndex; i <ThisBuf.length; i++){
+[PATCH] for(int i = startIndex, endIndex = thisBuf.length; i < size; i++){
+[PATCH] for(int i = startIndex, endIndex = thisBuf.length; i < length; i++){
+[PATCH] for(int i = startIndex; i < thisPtr.length; i++){
+[PATCH] for(int i = startIndex, endIndex = thisBuf.length; i < n; i++){
+[PATCH] for(int i = startIndex; i < thisBuf.length ; i++){
+[PATCH] for(int i = startIndex; i < thisBuf.length); i++){
+[PATCH] for(int i = endIndex; i < thisBuf.length; i++){
+[PATCH] for(int i = startIndex ; i < thisBuf.length; i++){
+[PATCH] For(int i = startIndex; i < thisBuf.length; i++){
+[PATCH] for(int i = startIndex; i < thisBuf.length; i++)if(0 <= i){
+[PATCH] for(int i = startIndex; i '< thisBuf.length; i++){
+[PATCH] for(int i = startIndex, thisBuf.length - 1; i >= 0; i--){
+[PATCH] for(int i = startIndex; i < thatBuf.length; i++){
+[PATCH] for(int i = startIndex && i < thisBuf.length; i++){
+[PATCH] for(int i = startIndex; i in thisBuf.length; i++){
+[PATCH] for(int i = startIndex, in == thisBuf.length; i++){
+[PATCH] for(int i = startIndex; i < thisBuf.length; i++)if(i < size){

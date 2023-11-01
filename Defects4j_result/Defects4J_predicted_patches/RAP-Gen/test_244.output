@@ -1,0 +1,100 @@
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)) &&!Attribute.isBooleanAttribute(key)) {
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.length() == 0)) {
+[PATCH] if(!(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.length() == 0)) {
+[PATCH] if(!(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)))) {
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals("")&&!Attribute.isBooleanAttribute(key)))) {
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals('')&&!Attribute.isBooleanAttribute(key)))) {
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)) &&!Key.isEmptyAttribute(key)) {
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)&& Attribute.isBooleanAttribute(key)))) {
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)) &&!StringUtils.isEmpty(val)) {
+[PATCH] if(out.getSyntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)) &&!Attribute.isBooleanAttribute(key)) {
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)) &&!Attr.isBooleanAttribute(key)) {
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)) &&!Attr.isEmptyAttribute(key)) {
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)) &&!Util.isBooleanAttribute(val)) {
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)) &&!Validate.isEmpty(val)) {
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)&&!isBooleanAttribute(key)))) {
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)&&!Attribute.isBooleanAttribute(key))){
+[PATCH] if(!(out.syntax() == Document.OutputSettings.Syntax.html && val == null || val.equals(key)))) {
+[PATCH] if(!(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals("")))) {
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)) &&!isBooleanAttribute(key)) {
+[PATCH] if(out.getSyntax() == Document.OutputSettings.Syntax.html &&(val == null || val.length() == 0)) {
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(""))){
+[PATCH] if(this.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)) &&!out.isEmpty()){
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)) &&!WHOLE_COLLECTION){
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)) &&!ClassUtil.isBooleanAttribute(key)) {
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)) &&!isEmptyAttribute(key)) {
+[PATCH] if(!(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.length() == 0))){
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)) && out.isBooleanAttribute(key)) {
+[PATCH] if(!(out.syntax() == Document.OutputSettings.Syntax.html &&(key == null || key.equals("")|| val.equals("")))) {
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)) &&!out.isEmpty()){
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)|| Attribute.isBooleanAttribute(key)))) {
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)&&!WHOLE_COLLECTION)) {
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)) &&!Character.isWhitespace(val)) {
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)) &&!TextUtils.isEmpty(val)) {
+[PATCH] if(out.getSyntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)) &&!Key.isEmptyAttribute(key)) {
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)) &&!Attributes.isBooleanAttribute(key)) {
+[PATCH] if(!(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals('"')))) {
+[PATCH] if(!(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals("","")))) {
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)) &&!out.isEmptyAttribute(key)) {
+[PATCH] if(out.getSyntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)) &&!Util.isBooleanAttribute(val)) {
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)) &&!Style.isBooleanAttribute(key)) {
+[PATCH] if(out.getSyntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)) &&!Validate.isEmpty(val)) {
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals("")||!Key.isEmpty()){
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)) &&!Character.isBooleanAttribute(key)) {
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)&&!Attr.isBooleanAttribute(key))){
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)&&!Attribute.isBooleanAttribute(key)) {
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)) &&!ContentUtilities.isEmpty(val)) {
+[PATCH] if(out.getSyntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)) &&!isBooleanAttribute(key)) {
+[PATCH] if(out.getSyntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)) &&!out.isEmpty()){
+[PATCH] if(!(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals("", true)))) {
+[PATCH] if(!(out.syntax() == Document.OutputSettings.Syntax.html && val == null || val.equals(""))){
+[PATCH] if(!(out.syntax() == Document.OutputSettings.Syntax.html &&(key == null || key.equals(val)))) {
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)) &&!FormatUtils.isBooleanAttribute(val)) {
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)&&!BooleanAttribute(key)))) {
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)&&!0)) {
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)) &&!NodeUtil.isEmptyAttribute(key)) {
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)) &&!TextUtilities.isEmpty(val)) {
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)&&!Key.isEmptyAttribute(key))){
+[PATCH] if(!(out.syntax() == Document.OutputSettings.Syntax.html && val == null || val.equals(key))){
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)) &&!TypeUtils.isBooleanAttribute(val)) {
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)) &&!Util.isEmptyAttribute(key)) {
+[PATCH] if(!(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(""))){
+[PATCH] if(out.getSyntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(""))){
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)&&!StringUtils.isEmpty(val)) {
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)) && out.isBooleanAttribute(key))){
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)) &&!NodeUtil.isBooleanAttribute(val)) {
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key), false)) {
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)&&!Attr.isEmptyAttribute(key))){
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)&&!Character.isWhitespace(val)))) {
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals("")&&!Attribute.isBooleanAttribute(key))){
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)) &&!ObjectUtilities.isEmptyAttribute(val)) {
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals('"'))){
+[PATCH] if(!(out.syntax() == Document.OutputSettings.Syntax.html && val == null || val.length() == 0)) {
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)&&!Attr.isBooleanAttribute(key)) {
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)&&!Validate.isTrue(val)) {
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)&&!StringUtils.isEmpty(val))){
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key))){
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)) &&!XMLUtilities.isEmptyAttribute(val)) {
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)) &&!Attribute.isBooleanAttribute(key))){
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null ||!val.equals(""))){
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)) &&!Validate.isTrue(val.equals("");
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)&&!Key.isEmptyAttribute(key)) {
+[PATCH] if(!(out.syntax() == Document.OutputSettings.Syntax.html && val == null || val.equals("")&&!Attribute.isBooleanAttribute(key))){
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)&&!Util.isBooleanAttribute(val))){
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)&&!Attributes.isBooleanAttribute(key))){
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)&&!Attr.isEmptyAttribute(key)) {
+[PATCH] if(out.getSyntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)&&!Validate.isTrue(val)) {
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(key)&&!Validate.isBooleanAttribute(val))){
+[PATCH] if(!(out.syntax() == Document.OutputSettings.Syntax.html && val == null || val.equals("")&&!Attribute.isBooleanAttribute(key)) {
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html){
+[PATCH] if(out.isEnabled(Feature.WRITE_BIGDECIMAL_AS_PLAIN)) {
+[PATCH] if(out.getSyntax() == Document.OutputSettings.Syntax.html){
+[PATCH] if(out.isEnabled(Feature.QUOTE_NON_NUMERIC_CHARS)) {
+[PATCH] if(out.mode() == Document.OutputSettings.Mode.html){
+[PATCH] if(out.isEnabled(Feature.WRITE_BIGDECIMAL_AS_ARRAY)) {
+[PATCH] if(out.isEnabled(MapperFeature.WRITE_BIGDECIMAL_AS_PLAIN)) {
+[PATCH] if(out.isEnabled(Feature.WRITE_BIGDECIMAL_AS_HTML)) {
+[PATCH] if(val!= null &&!out.syntax() == Document.OutputSettings.Syntax.html){
+[PATCH] if(out.isEnabled(Feature.WRITE_BIGDECIMAL_AS_ASCII)) {
+[PATCH] if(out.isEnabled(Feature.WRITE_BIGDECIMAL_AS_STRING)) {
+[PATCH] if(out.getMode() == Document.OutputSettings.Syntax.html){

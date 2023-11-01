@@ -1,0 +1,100 @@
+[PATCH] if(!options.dependencyOptions.needsManagement()){
+[PATCH] if(options.dependencyOptions.needsManagement()){
+[PATCH] if(!options.dependencyOptions.requiresManagement()){
+[PATCH] if(!options. dependencyOptions.needsManagement()){
+[PATCH] if(!options.declarationOptions.needsManagement()){
+[PATCH] if(!options.dependencyOptions.needManagement()){
+[PATCH] if(options.compilerOptions.needsManagement()){
+[PATCH] if(options. dependencyOptions.needsManagement()){
+[PATCH] if(!options.dependencyOptions.dependsOn()){
+[PATCH] if(!options.dependencyOptions.ignorableInputs()){
+[PATCH] if(!options.dependencyOptions.shouldManagement()){
+[PATCH] if(!options.moduleOptions.needsManagement()){
+[PATCH] if(!options.compilerOptions.needsManagement()){
+[PATCH] if(options.moduleOptions.needsManagement()){
+[PATCH] if(!options.dependencyOptions.skipCallbacks()){
+[PATCH] if(options.dependencyOptions.requiresManagement()){
+[PATCH] if(!options.dependencyOptions.canBeUsed()){
+[PATCH] if(!options.closurePass){
+[PATCH] if(options.compilerOptions.externExportsPath()){
+[PATCH] if(compiler.isIdeMode()){
+[PATCH] if(!options.deserializationEnabled()){
+[PATCH] if(options.externExportsPath()!= null){
+[PATCH] if(compiler.isNormalized()){
+[PATCH] if(!this.functionInformationMap.needsManagement()){
+[PATCH] if(!options.dependencyOptions.canInject()){
+[PATCH] if(options.externExportsPath()){
+[PATCH] if(options.compilerOptions.canCreateUsingDefault()){
+[PATCH] if(options.compilerOptions.canOverrideAccessModifiers()){
+[PATCH] if(!options.dependencyOptions.needsReference()){
+[PATCH] if(!options.compiler.isNormalized()){
+[PATCH] if(! options.dependencyOptions.needsManagement()){
+[PATCH] if(!options.dependencyOptions.canAddDependency()){
+[PATCH] if(functionInformationMap.needsManagement()){
+[PATCH] if(!options.dependencyOptions.canBeReferenced()){
+[PATCH] if(!options.dependencyOptions.canBeRemoved()){
+[PATCH] if(options.compilerOptions.isNormalized()){
+[PATCH] if(!functionInformationMap.needsManagement()){
+[PATCH] if(!compiler.isNormalized()){
+[PATCH] if(!options.sideEffects){
+[PATCH] if(!options.sideEffectsAllowed()){
+[PATCH] if(options.needManagement()){
+[PATCH] if(!options.dependencyOptions.hasReferences()){
+[PATCH] if(!options.dependencyOptions.ignorableDeps()){
+[PATCH] if(!options.dependencyOptions.canRemove()){
+[PATCH] if(options.deserializationEnabled()){
+[PATCH] if(!options.dependencyOptions.canResolve()){
+[PATCH] if(!options.referenceOptions.needsManagement()){
+[PATCH] if(!options.dependencyOptions.usesManagement()){
+[PATCH] if(!options.dependencyOptions.wasManagement()){
+[PATCH] if(options.dependencyOptions.needManagement()){
+[PATCH] if(!options.dependencyOptions.canValidate()){
+[PATCH] if(!options.dependencyOptions.doesManagement()){
+[PATCH] if(!options.dependencyOptions.shouldRemove()){
+[PATCH] if(!options.dependencyOptions.shouldManage()){
+[PATCH] if(!options.dependencyOptions.enabledManagement()){
+[PATCH] if(this.functionInformationMap!= null){
+[PATCH] if(!options.dependencyOptions.canInline()){
+[PATCH] if(options.interactionOptions.needsManagement()){
+[PATCH] if(options.requiresManagement()){
+[PATCH] if(this.functionInformationMap.needsManagement()){
+[PATCH] if(options.dependencyOptions.shouldManagement()){
+[PATCH] if(!options.dependencyOptions.canAssignTo()){
+[PATCH] if(!options.dependencyOptions.isEnabled()){
+[PATCH] if(options.injectionOptions.needsManagement()){
+[PATCH] if(options.externExportsPath() == null){
+[PATCH] if(options.dependsOn()){
+[PATCH] if(compiler.getCodingConvention().isPure()){
+[PATCH] if(!options.compilerOptions.ignorableInputs()){
+[PATCH] if(!options.dependencyOptions.canStartWith()){
+[PATCH] if(options.compilerOptions.requiresManagement()){
+[PATCH] if(!options.sideEffectsAllowed){
+[PATCH] if(options.requireManagement()){
+[PATCH] if(this.functionInformationMap == null){
+[PATCH] if(options.parsingInputs){
+[PATCH] if(!options.sideEffects()){
+[PATCH] if(options.externExportsPath){
+[PATCH] if(!options.deserializationEnabled){
+[PATCH] if(!options.needManagement()){
+[PATCH] if(!options.dependencyOptions.canCreate();
+[PATCH] if(options.debuggingEnabled()){
+[PATCH] if(options.externExportsPath!= null){
+[PATCH] if(!options.dependencyOptions.canBeSet()){
+[PATCH] if(options.prefetchInputs()){
+[PATCH] if(functionInformationMap!= null){
+[PATCH] if(compiler.isOn()){
+[PATCH] if(mayHaveSideEffects()){
+[PATCH] if(options.sideEffects()){
+[PATCH] if(hasInputs()){
+[PATCH] if(options.sideEffects){
+[PATCH] if(options.closurePass){
+[PATCH] if(options.useCallbacks()){
+[PATCH] if(options.parsingInputs()){
+[PATCH] if(testDependencySorting){
+[PATCH] if(options.withInputs()){
+[PATCH] if(!options.parsingInputs){
+[PATCH] if(hasAnyInputs()){
+[PATCH] if(mayBePure()){
+[PATCH] if(!processInputs()){
+[PATCH] if(needManagement()){
+[PATCH] if(requiresManagement()){

@@ -1,0 +1,100 @@
+[PATCH] } else if(n.getJSType()!= null && n.getJSType().isUnknownType()){
+[PATCH] } else if(objNode.getJSType()!= null && childType.isUnknownType()){
+[PATCH] } else if(parent.getType() == Token.ASSIGN && parent.getFirstChild() == n){
+[PATCH] } else if(objNode.getJSType()!= null && objNode.getJSType().isUnknownType()){
+[PATCH] } else if(n.getJSType()!= null && n.getJSType().isNoObjectType()){
+[PATCH] } else if(parent.getType() == Token.CALL && parent.getFirstChild() == n){
+[PATCH] } else if(objNode.getJSType()!= null && childType.autoboxesTo()!= null){
+[PATCH] } else if(objNode.getJSType()!= null && parent.getJSType() instanceof EnumType){
+[PATCH] } else if(objNode.getJSType()!= null && objNode.isQualifiedName()){
+[PATCH] } else if(parent.getJSType()!= null && parent.getJSType() instanceof EnumType){
+[PATCH] } else if(!objNode.isQualifiedName() && parent.getJSType() instanceof EnumType){
+[PATCH] } else if(childType.isUnknownType() || childType.isUnionType()){
+[PATCH] } else if(objectNode.getJSType()!= null && parent.getJSType() instanceof EnumType){
+[PATCH] } else if(objNode.getJSType()!= null &&!objNode.isQualifiedName()){
+[PATCH] } else if(!typeRegistry.isForwardDeclaredProperty(property.getString(), childType)) {
+[PATCH] } else if(childType.isUnknownType()){
+[PATCH] } else if(!n.getJSType()!= null && n.getJSType().isUnknownType()){
+[PATCH] } else if(!objNode.getJSType()!= null && parent.getJSType() instanceof EnumType){
+[PATCH] } else if(!objNode.isGetProp() && parent.getJSType() instanceof EnumType){
+[PATCH] } else if(n.getJSType()!= null && parent.getJSType() instanceof EnumType){
+[PATCH] } else if(n.getJSType()!= null && childType.isUnknownType()){
+[PATCH] } else if(n.getJSType()!= null && n.getJSType().isEnumElementType()){
+[PATCH] } else if(n.getJSType()!= null && n.getJSType().isEnum()){
+[PATCH] } else if(!n.getJSType() instanceof EnumType && n.getJSType().isEnum()){
+[PATCH] } else if(objectNode.getJSType()!= null && childType.isUnknownType()){
+[PATCH] } else if(parent.getType() == Token.NEW && parent.getFirstChild() == n){
+[PATCH] } else if(!objNode.getJSType()!= null &&!objNode.isQualifiedName()){
+[PATCH] } else if(!objNode.getJSType()!= null && childType.isUnknownType()){
+[PATCH] } else if(objectNode.getJSType()!= null && childType.autoboxesTo()!= null){
+[PATCH] } else if(n.getJSType()!= null && n.getJSType().isInvalidatingType()){
+[PATCH] } else if(!objNode.getJSType()!= null && objNode.isQualifiedName()){
+[PATCH] } else if(!typeRegistry.isInvalidatingType(childType)) {
+[PATCH] } else if(!childType.isUnknownType() && parent.getJSType() instanceof EnumType){
+[PATCH] } else if(childType.isUnknownType() || childType.isEmptyType()){
+[PATCH] } else if(objNode.getJSType()!= null && childType.matchesObjectContext()){
+[PATCH] } else if(objectNode.getJSType()!= null && objNode.getJSType().isUnknownType()){
+[PATCH] } else if(objNode.getJSType()!= null && childType.equals(this.getJSType())) {
+[PATCH] } else if(!typeRegistry.isPropertyTypeDeclared(property.getString(), childType)) {
+[PATCH] } else if(parent.getJSType()!= null && parent.getJSType().isUnknownType()){
+[PATCH] } else if(!n.getJSType() instanceof EnumType && n.getJSType().isEnumElementType()){
+[PATCH] } else if(objNode.getJSType()!= null && objNode.getJSType().isNoObjectType()){
+[PATCH] } else if(parent.getJSType()!= null && parent.getJSType() == childType){
+[PATCH] } else if(!objNode.getJSType() instanceof EnumType && parent.getJSType() instanceof EnumType){
+[PATCH] } else if(n.getJSType()!= null && n.getJSType().isEnumParameterType()){
+[PATCH] } else if(objNode.getJSType()!= null && parent.getJSType() == childType){
+[PATCH] } else if(parent.getType() == Token.NEW && parent.getLastChild() == n){
+[PATCH] } else if(objectNode.getJSType()!= null && parent.getJSType() == childType){
+[PATCH] } else if(!parent.isQualifiedName() && parent.getJSType() instanceof EnumType){
+[PATCH] } else if(n.getJSType()!= null &&!objNode.isQualifiedName()){
+[PATCH] } else if(n.getJSType()!= null && n.getJSType().isUnionType()){
+[PATCH] } else if(!typeRegistry.isInvalidatableProperty(property.getString(), childType)) {
+[PATCH] } else if(property.getJSType()!= null && childType.isUnknownType()){
+[PATCH] } else if(!n.getJSType()!= null &&!objNode.isQualifiedName()){
+[PATCH] } else if(!n.getJSType() instanceof EnumType && n.getJSType().isEnumParameterType()){
+[PATCH] } else if(parent.getType() == Token.GETELEM && parent.getJSType() instanceof EnumType){
+[PATCH] } else if(objectNode.getJSType()!= null && objectNode.getJSType()!= null){
+[PATCH] } else if(!property.isQualifiedName() && childType.isUnknownType()){
+[PATCH] } else if(n.getJSType()!= null && n.getJSType().isSimpleName()){
+[PATCH] } else if(objNode.getJSType()!= null && objNode.getJSType().isInvalidatingType()){
+[PATCH] } else if(!childType.isUnknownType() && childType.isUnionType()){
+[PATCH] } else if(!n.isQualifiedName() && parent.getJSType() instanceof EnumType){
+[PATCH] } else if(objNode.getJSType()!= null && objNode.getJSType().isEnumElementType()){
+[PATCH] } else if(objNode.getLastChild()!= null && childType.isUnknownType()){
+[PATCH] } else if(n.getJSType()!= null && n.getJSType().isAssign()){
+[PATCH] } else if(!property.hasChildren() && childType.isUnknownType()){
+[PATCH] } else if(n.isNoSideEffectsCall()){
+[PATCH] } else if(objNode.getJSType()!= null && objNode.getJSType().isEnum()){
+[PATCH] } else if(!objNode.hasChildren() && parent.getJSType() instanceof EnumType){
+[PATCH] } else if(objNode.getJSType()!= null && objNode.isNoSideEffects()){
+[PATCH] } else if(n.getJSType()!= null &&!n.isQualifiedName()){
+[PATCH] } else if(!property.isString() && childType.isUnknownType()){
+[PATCH] } else if(!n.hasChildren() && childType.isUnknownType()){
+[PATCH] } else if(objNode.getLastChild().getString().equals("prototype")) {
+[PATCH] } else if(n.isQualifiedName() && childType.isUnknownType()){
+[PATCH] } else if(!property.getString().equals("prototype")) {
+[PATCH] } else if(childType.isUnknownType() || childType.isNullable()){
+[PATCH] } else if(n.getJSType()!= null && objNode.isQualifiedName()){
+[PATCH] } else if(n.isQualifiedName() && parent.getJSType() instanceof EnumType){
+[PATCH] } else if(objNode.getJSType()!= null && objNode.getJSType().isEnumParameterType()){
+[PATCH] } else if(!n.getLastChild().getString().equals("prototype")) {
+[PATCH] } else if(objNode.getJSType()!= null && childType.restrictByNotNullOrUndefined().isQualifiedName()){
+[PATCH] } else if(!objNode.getLastChild().isString()){
+[PATCH] } else if(!typeRegistry.canAssignTo(childType)) {
+[PATCH] } else if(childType.equals(getNativeType(ARRAY_TYPE))){
+[PATCH] } else if(!n.getJSType() instanceof EnumType && n.getJSType().isEnumElement()){
+[PATCH] } else if(property.getString().equals("prototype")) {
+[PATCH] } else if(nodeTypeMayHaveSideEffects(n)) {
+[PATCH] } else if(!objNode.isGetProp()){
+[PATCH] } else if(!childType.isUnknownType()){
+[PATCH] } else {
+[PATCH] } else if
+[PATCH] return;
+[PATCH] }){
+[PATCH] continue;
+[PATCH] } else
+[PATCH] ;
+[PATCH] });
+[PATCH] }
+[PATCH] {
+[PATCH] });

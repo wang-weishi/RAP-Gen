@@ -1,0 +1,100 @@
+[PATCH] if(cls.getName().startsWith(PREFIX_STRING)) {
+[PATCH] if(full.startsWith(PREFIX_STRING)|| cls.isInterface()){
+[PATCH] if(cls.getSuperclass()!= null){
+[PATCH] if(cls.getName().startsWith(prefix_STRING)) {
+[PATCH] if(cls.startsWith(PREFIX_STRING)|| cls.isInterface()){
+[PATCH] if(cls.startsWith(prefix_STRING)|| cls.isInterface()){
+[PATCH] if(raw.isAssignableFrom(cls)) {
+[PATCH] if(cls.startsWith(prefix_STRING)) {
+[PATCH] if(full.startsWith(prefix_STRING)|| cls.isInterface()){
+[PATCH] if(cls.isAssignableFrom(raw)) {
+[PATCH] if(raw.startsWith(PREFIX_STRING)|| cls.isInterface()){
+[PATCH] if(full.startsWith(PREFIX_STRING)|| cls == Object.class){
+[PATCH] if(full.startsWith(PREFIX_STRING)|| cls.isAbstract()){
+[PATCH] if(cls.startsWith(PREFIX_STRING)) {
+[PATCH] if(cls.equals(raw); cls = cls.getSuperclass()){
+[PATCH] if(full.startsWith(PREFIX_STRING)|| cls.isEnum()){
+[PATCH] if(cls.startsWith(raw); cls = cls.getSuperclass()){
+[PATCH] if(cls.startsWith(PREFIX_STRING)|| cls.isAbstract()){
+[PATCH] if(cls.isInterface() || cls.isAbstract()){
+[PATCH] if(full.startsWith(PACKAGE_STRING)|| cls.isInterface()){
+[PATCH] if(cls.isInterface()){
+[PATCH] if(full.startsWith(PREFIX_STRING)|| cls.isArray()){
+[PATCH] if(cls.isInterface() || cls.isEnum()){
+[PATCH] if(cls.getSimpleName()!= null){
+[PATCH] if(cls.name().startsWith(PREFIX_STRING)) {
+[PATCH] if(cls.startsWith(prefix_STRING)|| cls.isAbstract()){
+[PATCH] if(full.startsWith(PACKAGE_PREFIX)|| cls.isInterface()){
+[PATCH] if(cls.startsWith(PREFIX_STRING)|| cls.isEnum()){
+[PATCH] if(full.startsWith(Prefix_STRING)|| cls.isInterface()){
+[PATCH] if(cls.startsWith(Prefix_STRING)|| cls.isInterface()){
+[PATCH] if(cls.startsWith(raw)) {
+[PATCH] if(cls.getName().startsWith(SUFFIX_STRING)) {
+[PATCH] if(full.startsWith(PACKAGE_PREFIX)) {
+[PATCH] if(full.startsWith(SUFFIX_STRING)|| cls.isInterface()){
+[PATCH] if(cls.startsWith(prefix_STRING)|| cls.isEnum()){
+[PATCH] if(cls.getSimpleName().startsWith(PREFIX_STRING)) {
+[PATCH] if( cls.getName().startsWith(PREFIX_STRING)) {
+[PATCH] if(raw.startsWith(prefix_STRING)|| cls.isInterface()){
+[PATCH] if(cls.startsWith(PREFIX_STRING)|| cls.isArray()){
+[PATCH] if(cls.equals(raw); break main_check; }
+[PATCH] if(cls.getSuperclass()!= NoClass.class){
+[PATCH] if(cls.equals(raw); continue main_check; }
+[PATCH] if(cls.getName().startsWith(Prefix_STRING)) {
+[PATCH] if(cls.startsWith(prefix_STRING)|| cls.isArray()){
+[PATCH] if(full.startsWith(PREFIX_STRING)|| cls.isPrimitive()){
+[PATCH] if(cls.startsWith(raw)&& cls!= Object.class){
+[PATCH] if(cls.startsWith(raw)|| cls.isInterface()){
+[PATCH] if(cls.prefixedName().startsWith(PREFIX_STRING)) {
+[PATCH] if(partial.startsWith(cls.getSimpleName())) {
+[PATCH] if(prefix.equals(cls.getName())) {
+[PATCH] if( cls.getName().startsWith(prefix_STRING)) {
+[PATCH] if(cls.equals(raw); break main_check;
+[PATCH] if(prefix_STRING.equals(cls.getName())) {
+[PATCH] if(cls.getSimpleName().startsWith(prefix_STRING)) {
+[PATCH] if(cls.NAME().startsWith(PREFIX_STRING)) {
+[PATCH] if(cls.isInterface() || cls.isArray()){
+[PATCH] if(cls.prefixedClass().startsWith(PREFIX_STRING)) {
+[PATCH] if(cls.getSuperclass()!= Object.class){
+[PATCH] if(cls.prefix().startsWith(PREFIX_STRING)) {
+[PATCH] if(cls.getName().startsWith(FIRST_STRING)) {
+[PATCH] if(raw.getName().startsWith(prefix_STRING)) {
+[PATCH] if(cls.SimpleName().startsWith(PREFIX_STRING)) {
+[PATCH] if(raw.getName().startsWith(PREFIX_STRING)) {
+[PATCH] if(cls.name().startsWith(prefix_STRING)) {
+[PATCH] if(cls.getSuperclass()!= Class.class){
+[PATCH] if(class.getName().startsWith(prefix_STRING)) {
+[PATCH] if(partial.startsWith(cls.getName())) {
+[PATCH] if(cls.getName().startsWith( prefix_STRING)) {
+[PATCH] if(cls.tagName().startsWith(PREFIX_STRING)) {
+[PATCH] if(cls.startsWith(AbstractPointcutAdvisor.class)) {
+[PATCH] if(cls.getName().startsWith( PREFIX_STRING)) {
+[PATCH] if(cls.isInterface() || cls.isPrimitive()){
+[PATCH] if(!cls.isAssignableFrom(raw)) {
+[PATCH] if( cls.getSuperclass()!= null){
+[PATCH] if(cls.getSuperclass()!= Void.class){
+[PATCH] if(cls.getSuperclass()!= BaseClass.class){
+[PATCH] if(cls.Name().startsWith(PREFIX_STRING)) {
+[PATCH] if(cls.getSuperclass()!= Collection.class){
+[PATCH] if(cls.getName().startsWith(PREFIX_STRING);
+[PATCH] if(cls.getSuperclass()!= BaseType.class){
+[PATCH] if(cls.prefixesWith(PREFIX_STRING)) {
+[PATCH] if(cls.getSimpleName() == null){
+[PATCH] if(cls.startsWith(BASE_CLASS)) {
+[PATCH] if(full.startsWith(PACKAGE_NAME)) {
+[PATCH] if(cls.startsWith(raw)== false){
+[PATCH] if(cls.getSuperclass()!= Context.class){
+[PATCH] if(cls.getSuperclass()!= Factory.class){
+[PATCH] if(full.startsWith(BYTE_PREFIX)) {
+[PATCH] if(cls.getSuperclass()!= null){
+[PATCH] if(static.isAssignableFrom(cls)) {
+[PATCH] if(!cls.isInterface()){
+[PATCH] if(raw.equals(cls)) {
+[PATCH] if(cls.getSuperClass()!= null){
+[PATCH] if(cls.isAnnotationIntrospector()){
+[PATCH] if(cls.isArray()){
+[PATCH] if(cls.equals(raw);
+[PATCH] if(cls.getInterfaces()!= null){
+[PATCH] if(raw.getSuperclass()!= null){
+[PATCH] if(cls.isAbstract()){
+[PATCH] if(cls.hasSimpleName()){

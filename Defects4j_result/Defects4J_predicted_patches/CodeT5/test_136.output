@@ -1,0 +1,100 @@
+[PATCH] if(options.getLanguageIn() == LanguageMode.GLOBAL_THIS){
+[PATCH] if(options.getLanguageIn() == LanguageMode.LOCALE || options.checkGlobalThisLevel.isOn()){
+[PATCH] if(options.checkGlobalThisLevel!= null && options.checkGlobalThisLevel.isOn()){
+[PATCH] if(options.getLanguageIn() == LanguageMode.DEFAULT && options.checkGlobalThisLevel.isOn()){
+[PATCH] if(options.getLanguageIn() == LanguageMode.JAVA && options.checkGlobalThisLevel.isOn()){
+[PATCH] if(options.getLanguageIn() == LanguageMode.SCRIPT || options.checkGlobalThisLevel.isOn()){
+[PATCH] if(options.getLanguageIn() == LanguageMode.SCRIPT){
+[PATCH] if(options.getLanguageIn() == LanguageMode.CUSTOM && options.checkGlobalThisLevel.isOn()){
+[PATCH] if(options.getLanguageIn() == LanguageMode.LC){
+[PATCH] if(options.getLanguageIn() == LanguageMode.LOCALE && options.checkGlobalThisLevel.isOn()){
+[PATCH] if(options.getLanguageIn() == LanguageMode.DEFAULT || options.checkGlobalThisLevel.isOn()){
+[PATCH] if(options.getLanguageIn() == LanguageMode.MAIN && options.checkGlobalThisLevel.isOn()){
+[PATCH] if(options.getLanguageIn() == LanguageMode.WEAK_THIS){
+[PATCH] if(options.getLanguageIn() == LanguageMode.RUNNING && options.checkGlobalThisLevel.isOn()){
+[PATCH] if(options.getLanguageIn() == LanguageMode.DEBUG && options.checkGlobalThisLevel.isOn()){
+[PATCH] if(options.getLanguageIn() == LanguageMode.SUPPORTED && options.checkGlobalThisLevel.isOn()){
+[PATCH] if(options.getLanguageIn() == LanguageMode.ILE || options.checkGlobalThisLevel.isOn()){
+[PATCH] if(options.getLanguageIn() == LanguageMode.LOCALE){
+[PATCH] if(options.getLanguageIn() == LanguageMode.STRICT && options.checkGlobalThisLevel.isOn()){
+[PATCH] if(options.getLanguageIn() == LanguageMode.LANG || options.checkGlobalThisLevel.isOn()){
+[PATCH] if(options.getLanguageIn() == LanguageMode.ACCEPT_GLOBAL_THIS){
+[PATCH] if(options.getLanguageIn() == LanguageMode.TARGET && options.checkGlobalThisLevel.isOn()){
+[PATCH] if(options.getLanguageIn() == LanguageMode.STRICT || options.checkGlobalThisLevel.isOn()){
+[PATCH] if(options.getLanguageIn() == LanguageMode.PLAIN && options.checkGlobalThisLevel.isOn()){
+[PATCH] if(options.getGlobalThisLevel()!= null && options.checkGlobalThisLevel.isOn()){
+[PATCH] if(options.getLanguageIn() == LanguageMode.BUNDLE && options.checkGlobalThisLevel.isOn()){
+[PATCH] if(options.getLanguageIn() == LanguageMode.IS_GLOBAL_THIS){
+[PATCH] if(options.getLanguageIn() == LanguageMode.VERSION_1_2){
+[PATCH] if(options.getLanguageIn() == LanguageMode.CHECK_GLOBAL_THIS){
+[PATCH] if(options.getLanguageIn() == LanguageMode.EVERY_PASS){
+[PATCH] if(options.getLanguageIn() == LanguageMode.GREATER_THIS){
+[PATCH] if(options.getLanguageIn() == LanguageMode.CASE || options.checkGlobalThisLevel.isOn()){
+[PATCH] if(options.getLanguageIn() == LanguageMode.STRICT_ON_GLOBAL_THIS){
+[PATCH] if(options.getLanguageIn() == LanguageMode.ANDROID){
+[PATCH] if(options.getLanguageIn() == LanguageMode.START_AND_END){
+[PATCH] if(options.isGlobalThis() && options.checkGlobalThisLevel.isOn()){
+[PATCH] if(options.getLanguageIn() == LanguageMode.BEHAVIOR){
+[PATCH] if(options.getLanguageIn() == LanguageMode.EXTENDS_GLOBAL_THIS){
+[PATCH] if(options.getLanguageIn() == LanguageMode.DEFAULT_LOCALE){
+[PATCH] if(options.getLanguageIn() == LanguageMode.ALLOW_GLOBAL_THIS){
+[PATCH] if(options.getLanguageIn() == LanguageMode.WHOLE_THIS){
+[PATCH] if(options.getLanguageIn() == LanguageMode.USE_GLOBAL_THIS){
+[PATCH] if(options.getLanguageIn() == LanguageMode.START_OF_SCRIPT){
+[PATCH] if(options.getLanguageIn() == LanguageMode.WITH_GLOBAL_THIS){
+[PATCH] if(options.getLanguageIn() == LanguageMode.NO_THIS){
+[PATCH] if(options.getLanguageIn() == LanguageMode.SCRIPT || options.checkGlobalThisLevel!= null){
+[PATCH] if(options.getLanguageIn() == LanguageMode.ILLEGAL_NAME){
+[PATCH] if(options.getLanguageIn() == LanguageMode.BEST_THIS){
+[PATCH] if(options.getLanguageIn() == LanguageMode.FRONT){
+[PATCH] if(options.getLanguageIn() == LanguageMode.LOCALE || options.checkGlobalThisLevel!= null){
+[PATCH] if(options.getLanguageIn() == LanguageMode.INCLUDE_GLOBAL_THIS){
+[PATCH] if(options.getLanguageIn() == LanguageMode.ENFORCE_GLOBAL_THIS){
+[PATCH] if(options.getLanguageIn() == LanguageMode.UNSUPPORTED){
+[PATCH] if(options.getLanguageIn() == LanguageMode.LOG_GLOBAL_THIS){
+[PATCH] if(options.getLanguageIn() == LanguageMode.JSC_GLOBAL_THIS){
+[PATCH] if(options.getLanguageIn() == LanguageMode.JSC_USED_GLOBAL_THIS){
+[PATCH] if(useThreads && options.getGlobalThisLevel()!= null){
+[PATCH] if(options.getLanguageIn() == LanguageMode.LEGAL_THIS){
+[PATCH] if(options.getLanguageIn() == LanguageMode.AUTO_THIS){
+[PATCH] if(options.getLanguageIn() == LanguageMode.IE){
+[PATCH] if(options.getLanguageIn() == LanguageMode.ENGLISH && options.checkGlobalThisLevel!= null){
+[PATCH] if(options.getLanguageIn() == LanguageMode.GOTO && options.checkGlobalThisLevel!= null){
+[PATCH] if(options.getLanguageIn() == LanguageMode.JAVA && options.checkGlobalThisLevel!= null){
+[PATCH] if(options.getLanguageIn() == LanguageMode.WEAK_ERROR){
+[PATCH] if(options.getLanguageIn() == LanguageMode.BEST_EFFECT){
+[PATCH] if(options.getLanguageIn() == LanguageMode.LANG_GLOBAL){
+[PATCH] if(options.getLanguageIn() == LanguageMode.CONSTANTS_ONLY){
+[PATCH] if(options.getLanguageIn() == LanguageMode.SUPER){
+[PATCH] if(options.getLanguageIn() == LanguageMode.GETPROP && options.checkGlobalThisLevel!= null){
+[PATCH] if(options.getLanguageIn() == LanguageMode.LANG_GLOBAL && options.checkGlobalThisLevel!= null){
+[PATCH] if(options.getLanguageIn() == LanguageMode.NOT_SUPPORTED || options.checkGlobalThisLevel!= null){
+[PATCH] if(options.getLanguageIn() == LanguageMode.STRICT_STANDARD){
+[PATCH] if(options.getLanguageIn() == LanguageMode.DEFAULT && options.checkGlobalThisLevel!= null){
+[PATCH] if(options.getLanguageIn() == LanguageMode.VERSION_1_5){
+[PATCH] if(options.getLanguageIn() == LanguageMode.DEFAULT || options.checkGlobalThisLevel!= null){
+[PATCH] if(options.getLanguageIn() == LanguageMode.RC){
+[PATCH] if(options.hasGlobalThisLevel()){
+[PATCH] if(options.getLanguageIn() == LanguageMode.GREATER_IN){
+[PATCH] if(options.getLanguageIn() == LanguageMode.NON_GLOBAL){
+[PATCH] if(options.getLanguageIn() == LanguageMode.JAVA){
+[PATCH] if(options.getLanguageIn() == LanguageMode.SUPPORTED && options.checkGlobalThisLevel!= null){
+[PATCH] if(options.getLanguageIn() == LanguageMode.GREGORIAN){
+[PATCH] if(options.getLanguageIn() == LanguageMode.WEAK_ONLY){
+[PATCH] if(options.getLanguageIn() == LanguageMode.JAVA_SCRIPT){
+[PATCH] if(options.getLanguageIn() == LanguageMode.STRICT){
+[PATCH] if(options.getLanguageIn() == LanguageMode.MAIN){
+[PATCH] if(options.getLanguageIn() == LanguageMode.NOT_AVAILABLE){
+[PATCH] if(options.getLanguageIn() == LanguageMode.WEAK_DEBUG){
+[PATCH] if(useGlobalThisLevel.isOn()){
+[PATCH] if(options.isGlobalThisLevelOn()){
+[PATCH] if(options.checkGlobalThisLevel!= null){
+[PATCH] if(options.useGlobalThisLevel){
+[PATCH] if(options.isGlobalThis()){
+[PATCH] if(options.isGlobalThisLevel()){
+[PATCH] if(options.isGlobalThisCall()){
+[PATCH] if(options.isGlobalThisEnabled()){
+[PATCH] if(options.isGlobalThisPass()){
+[PATCH] if(options.isGlobalThisMode()){
+[PATCH] if(options.isGlobal()){
+[PATCH] if(options.isExtern){

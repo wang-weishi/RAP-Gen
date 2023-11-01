@@ -1,0 +1,100 @@
+[PATCH] if(!Character.isWhitespace(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+"); }
+[PATCH] if(!Character.isWhitespace(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+"); }
+[PATCH] if(!Character.isWhitespace(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\\\s*"); } continue; }
+[PATCH] if(!unquote){ if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+"); } continue; }
+[PATCH] } else if(!Character.isWhitespace(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+"); }
+[PATCH] if(!unquote){ if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+"); }
+[PATCH] } else if(!unquote){ if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+"); }
+[PATCH] if(!Character.isWhitespace(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\\\s*"); }
+[PATCH] if(!Character.isWhitespace(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\s*+"); }
+[PATCH] } else if(!Character.isWhitespace(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+"); }
+[PATCH] } else if(!unquote){ if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+"); } continue; }
+[PATCH] if(!Character.isWhitespace(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\\\s*"); continue; }
+[PATCH] if(!Character.isWhitespace(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\s*"); } continue; }
+[PATCH] if(!unquote){ if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+"); }
+[PATCH] } else if(!unquote){ if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+"); }
+[PATCH] if(!Character.isWhitespace(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\s*+"); }
+[PATCH] if(!Character.isWhitespace(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\\\s+"); } continue; }
+[PATCH] } else if(Character.isWhitespace(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+"); }
+[PATCH] if(!Character.isWhitespace(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+"); continue; }
+[PATCH] } else if(!Character.isWhitespace(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\\\s*"); }
+[PATCH] if(c == '\''){ if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+"); } continue; }
+[PATCH] if(!Character.isWhitespace(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+"); continue; }
+[PATCH] } else if(c == '\''){ if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+"); } continue; }
+[PATCH] if(!unquote){ if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+"); } continue; }
+[PATCH] if(Character.isWhitespace(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+"); } continue; }
+[PATCH] if(c == '\\'){ if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+"); } continue; }
+[PATCH] if(!Character.isWhitespace(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\\\s*"); } continue; }
+[PATCH] } else if(c == '\''){ if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+"); }
+[PATCH] if(!Character.isWhitespace(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\\\s*-"); }
+[PATCH] if(!Character.isWhitespace(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\\\s+"); }
+[PATCH] if(!unquote){ boolean wasWhite = true; regex.append("\\\\s*+"); } else { regex.append(c); }
+[PATCH] } else if(Character.isWhitespace(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+"); }
+[PATCH] if(c == '\\'){ boolean wasWhite = true; if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+"); }
+[PATCH] if(!unescape){ boolean wasWhite = true; regex.append("\\\\s*+"); } else { regex.append(c); }
+[PATCH] } else if(c == '\\'){ boolean wasWhite = true; if(!unquote){ wasWhite = true; regex.append("\\\\s*"); }
+[PATCH] if(!unquote){ if(!wasWhite){ wasWhite = true; regex.append("\\\\s*"); } continue; }
+[PATCH] if(!Character.isWhitespace(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\s*"); }
+[PATCH] if(!unescape){ boolean wasWhite = true; if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+"); }
+[PATCH] if(c == '\''){ if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+"); }
+[PATCH] } else if(!unquote){ if(!wasWhite){ wasWhite = true; regex.append("\\\\s*"); }
+[PATCH] if(!Character.isJavaIdentifierPart(( c))){ if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+"); }
+[PATCH] } else if(!Character.isWhitespace(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\s*+"); }
+[PATCH] if(!Character.isWhitespace(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\\\s*(\""); }
+[PATCH] if(!Character.isWhitespace(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\\\s*:"); continue; }
+[PATCH] if(Character.isWhitespace(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+"); }
+[PATCH] if(!Character.isWhitespace(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\s+"); } continue; }
+[PATCH] } else if(!unquote){ if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+"); } continue; }
+[PATCH] if(!unquote){ if(!wasWhite){ wasWhite = true; regex.append("\\s*+"); } continue; }
+[PATCH] if(!isValidChar(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+"); } continue; }
+[PATCH] if(!unescape){ boolean wasWhite = false; if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+"); }
+[PATCH] } else if(!Character.isWhitespace(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\\\s*-"); }
+[PATCH] if(!Character.isLetter(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+"); }
+[PATCH] if(!Character.isJavaIdentifierPart(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+"); }
+[PATCH] if(c == '\\'){ if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+"); }
+[PATCH] else if(!Character.isWhitespace(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+"); }
+[PATCH] if(!Character.isWhitespace(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\\\s*\""); }
+[PATCH] if(c == '\\'){ boolean wasWhite = true; if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+"); }
+[PATCH] if(!Character.isWhitespace(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\\\s*:"); }
+[PATCH] if(Character.isWhitespace(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+"); } continue; }
+[PATCH] if(!Character.isWhitespace(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\\\s*$"); } continue; }
+[PATCH] if(!Character.isWhitespace(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\s*"); continue; }
+[PATCH] if(!unquote){ boolean wasWhite = true; if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+"); }
+[PATCH] } else if(c == '\\'){ boolean wasWhite = true; if(!wasWhite){ wasWhite = true; regex.append("\\\\s*"); }
+[PATCH] if(!decodeEscapedChar(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+"); } continue; }
+[PATCH] } else if(!unescape){ boolean wasWhite = true; if(!wasWhite){ wasWhite = true; regex.append("\\\\s*"); }
+[PATCH] if(c == '\\'){ if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+"); }
+[PATCH] } else if(!Character.isWhitespace(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\\\s*\""); }
+[PATCH] if(!unquote){ if(!wasWhite){ wasWhite = true; regex.append("\\\\s*"); }
+[PATCH] if(!c.equals('"')) { if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+"); } continue; }
+[PATCH] if(Character.isWhitespace(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+"); }
+[PATCH] } else if(!Character.isWhitespace(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\s*+"); }
+[PATCH] if(!decodeUrl(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+"); } continue; }
+[PATCH] if(!Character.isWhitespace(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\s*+"); continue; }
+[PATCH] if(!Character.isWhitespace(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\\\s*-"); continue; }
+[PATCH] if(!Character.isJavaIdentifierPart(( c))){ if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+"); }
+[PATCH] } else if(!Character.isWhitespace(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\\\s+"); }
+[PATCH] else if(!Character.isWhitespace(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+"); }
+[PATCH] if(!Character.isWhitespace(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+-"); }
+[PATCH] } else if(Character.isWhitespace(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\\\s*"); }
+[PATCH] if(!Character.isWhitespace(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\\\s*?"); }
+[PATCH] } else if(c == '\u07FF'){ if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+"); }
+[PATCH] if(!Character.isJavaIdentifierPart(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+"); }
+[PATCH] if(!Character.isLetter(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+"); }
+[PATCH] if(!unescaped){ if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+"); } continue; }
+[PATCH] if(!unquote){ if(!wasWhite){ wasWhite = true; regex.append("\\s*+"); }
+[PATCH] if(!unquote){ if(!wasWhite){ wasWhite = true; regex.append("\\s*+"); }
+[PATCH] } else if(!unquote){ if(!wasWhite){ wasWhite = true; regex.append("\\\\s*"); } continue; }
+[PATCH] if(c == '\\'){ if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+"); } continue; }
+[PATCH] } else if(!unescaped){ if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+"); }
+[PATCH] } else if(!unquote){ if(!wasWhite){ wasWhite = true; regex.append("\\\\s*-"); }
+[PATCH] if(!unescape){ if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+"); } continue; }
+[PATCH] if(!unquote){ if(!wasWhite){ wasWhite = true; regex.append("\\s*+"); } continue; }
+[PATCH] } else if(!unquote){ if(!wasWhite){ wasWhite = true; regex.append("\\\\s*\""); }
+[PATCH] } else if(!unquote){ if(!wasWhite){ wasWhite = true; regex.append("\\s*+"); }
+[PATCH] } else if(!unquote){ if(!wasWhite){ wasWhite = true; regex.append("\\s*+"); }
+[PATCH] if(!unquote){ if(!wasWhite){ wasWhite = true; regex.append("\\\\s+"); } continue; }
+[PATCH] if(!wasWhite){ if(!unquote){ wasWhite = true; regex.append("\\\\s*+"); } continue; }
+[PATCH] if(!isValidChar(c)) { if(!wasWhite){ wasWhite = true; regex.append("\\\\s*+"); }
+[PATCH] if(c == '\\'){ wasWhite = true; regex.append("\\\\s*+"); } else { regex.append(c); }
+[PATCH] } else if(!unquote){ if(!wasWhite){ wasWhite = true; regex.append("\\\\s+"); }

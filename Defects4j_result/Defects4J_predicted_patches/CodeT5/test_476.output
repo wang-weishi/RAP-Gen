@@ -1,0 +1,100 @@
+[PATCH] if(( selected == null)|| selected.equals(option.getOpt())) {
+[PATCH] if("-".equals(option.getOpt())) {
+[PATCH] if(( selected == null)||Selected.equals(option.getOpt())) {
+[PATCH] if(( selected == null)||selected.equals(option.getOpt())) {
+[PATCH] if("".equals(option.getOpt())) {
+[PATCH] if(( selected == null)||Selected.equals(selected)) {
+[PATCH] if(( selected == null)&& option.getOpt()!= null)) {
+[PATCH] if(( selected == null)||"-".equals(selected.trim())) {
+[PATCH] if(( selected ==null)|| selected.equals(option.getOpt())) {
+[PATCH] if(( selected == null)|| current().equals(option.getOpt())) {
+[PATCH] if(( selected == null || selected.equals(option.getOpt())) {
+[PATCH] if(( selected == null)|| selection.equals(option.getOpt())) {
+[PATCH] if(( selected == null)&&(option.getOpt()!= null)) {
+[PATCH] if(( selected == null)|| getSelected().equals(option.getOpt())) {
+[PATCH] if("selected".equals(option.getOpt())) {
+[PATCH] else if(selected.equals(option.getOpt())) {
+[PATCH] if(( selected == null)|| selected.equals("")) {
+[PATCH] if(( selected == null)|| excluded.equals(option.getOpt())) {
+[PATCH] if(( selected == null)|| processed.equals(option.getOpt())) {
+[PATCH] if("opt".equals(option.getOpt())) {
+[PATCH] if((selected == null)|| selected.equals(option.getOpt())) {
+[PATCH] if(( selected == null)&& option.getOpt()!= null){
+[PATCH] if(selected.equals("-" + option.getOpt())) {
+[PATCH] if(( selected == null)||"-".equals(selected.getOpt())) {
+[PATCH] if(selected.equals("")) {
+[PATCH] if(selected.equals("" + option.getOpt())) {
+[PATCH] if(selected.equalsIgnoreCase(option.getOpt())) {
+[PATCH] if("--".equals(option.getOpt())) {
+[PATCH] if(( selected == null)|| selectable.equals(option.getOpt())) {
+[PATCH] if(( selected == null)|| selectedIndex.equals(option.getOpt())) {
+[PATCH] if("*".equals(option.getOpt())) {
+[PATCH] if(( selected == null)|| result.equals(option.getOpt())) {
+[PATCH] if(( selected == null)|| dataset.equals(option.getOpt())) {
+[PATCH] if(( selected == null)|| temp.equals(option.getOpt())) {
+[PATCH] if(( selected == null)|| transformed.equals(option.getOpt())) {
+[PATCH] if(( selected == null)|| selections.contains(option.getOpt())) {
+[PATCH] if(( selected == null)|| selected.equals(option.getopt())) {
+[PATCH] else if(( selected == null)&& option.getOpt()!= null)) {
+[PATCH] if(( selected == NULL)|| selected.equals(option.getOpt())) {
+[PATCH] if(( selected == null)|| selected.equals( option.getOpt())) {
+[PATCH] if(( selected == null)|| adjusted.equals(option.getOpt())) {
+[PATCH] if(( selected == null)|| chosen.equals(option.getOpt())) {
+[PATCH] if(( selected == null)|| actual.equals(option.getOpt())) {
+[PATCH] if(( selected == null)|| resolved.equals(option.getOpt())) {
+[PATCH] if(( selected == null)|| selector.equals(option.getOpt())) {
+[PATCH] if(( selected == null)|| existingSelectedOption(option.getOpt())) {
+[PATCH] if(( selected == null)|| resultSet.equals(option.getOpt())) {
+[PATCH] else if(( selected == null || selected.equals(option.getOpt())) {
+[PATCH] if(( selected == null)||"selected".equals(selected.trim())) {
+[PATCH] if(( selected == null)|| selected.equals(option.getOpts())) {
+[PATCH] if(( selected == null)||"-".equals(selected.substring(1))){
+[PATCH] else if("-".equals(option.getOpt())) {
+[PATCH] if(( selected == null)|| searched.equals(option.getOpt())) {
+[PATCH] if(( selected == null)|| merged.equals(option.getOpt())) {
+[PATCH] if("Selected".equals(option.getOpt())) {
+[PATCH] if(( selected == null)||"".equals(selected.trim())) {
+[PATCH] if(( selected == null)|| selected.equals(option.getArgs())) {
+[PATCH] if(selected.equals("-" + option.getOpt())) {
+[PATCH] if("Selected".equals(option.getKey())) {
+[PATCH] if(( selected == null)|| selected.equals(option.getArg())) {
+[PATCH] if(( selected == null ||!selected.equals(option.getOpt())) {
+[PATCH] if("true".equals(option.getOpt())) {
+[PATCH] if("selected".equals(option.getKey())) {
+[PATCH] if("-".equals(option.getOpt())) {
+[PATCH] if(( selected == null)|| String.equals(selected.trim())) {
+[PATCH] if(( selected == null)|| selected.equals(option.getName())) {
+[PATCH] if("").equals(option.getOpt())) {
+[PATCH] if(( selected == null)||"-".equals(selected.toString())) {
+[PATCH] else if(( selected == null)&& option.getOpt()!= null){
+[PATCH] if(( selected == null)|| SelectedOption.equals(selected)) {
+[PATCH] if(( selected == null)|| masked.equals(selected.getOpt())) {
+[PATCH] if(!selected.equals(option.getOpt())) {
+[PATCH] if(( selected == null)&& option.getOpt().length() > 0){
+[PATCH] if("yes".equals(option.getOpt())) {
+[PATCH] if(( selected == null)|| selected.equals(option.getValue())) {
+[PATCH] if(( selected == null)||"selected".equals(selected.getOpt())) {
+[PATCH] if("".equals(option.getKey())) {
+[PATCH] if(( selected == null)|| removedOption(selected.trim())) {
+[PATCH] if("\n".equals(option.getOpt())) {
+[PATCH] if(( selected == null)|| selected.equals(option.get opt())) {
+[PATCH] if(( selected == null)|| selected.equals(option.getOp())) {
+[PATCH] if("".equals(option.getLongOpt())) {
+[PATCH] if(( selected == null)|| selected.equals("-")) {
+[PATCH] if("+".equals(option.getOpt())) {
+[PATCH] if(( selected == null)|| selected.equals(option.GetOpt())) {
+[PATCH] if(( selected == null)|| selected.equals(option.getOption())) {
+[PATCH] else if("".equals(option.getOpt())) {
+[PATCH] if("").equals(option.getOpt())) {
+[PATCH] if("T".equals(option.getOpt())) {
+[PATCH] if("selected".equals(option.getLongOpt())) {
+[PATCH] if(( selected == null || selected.equals(option.getOpt()))){
+[PATCH] else if(( selected == null)||Selected.equals(selected)) {
+[PATCH] if(( selected == null)|| masked.equals(selected.trim())) {
+[PATCH] if("-".equals(option.getLongOpt())) {
+[PATCH] if("NO".equals(option.getOpt())) {
+[PATCH] if("".equals(option.getOpt())) {
+[PATCH] if('-'.equals(option.getOpt())) {
+[PATCH] if("YES".equals(option.getOpt())) {
+[PATCH] if(( selected == null)|| selected.equals(option.getParam())) {
+[PATCH] if(( selected == null)|| masked.equals(selected)) {

@@ -1,0 +1,100 @@
+[PATCH] if(t.getScopeDepth() < 2){
+[PATCH] if(t.getScopeDepth() == 1){
+[PATCH] if(t.getScopeDepth()!= 1){
+[PATCH] if(t.getScopeDepth() == 0){
+[PATCH] if(t.getScopeDepth() <= 1){
+[PATCH] if(t.getScopeDepth()!= 2){
+[PATCH] if(n.getType()!= Token.FUNCTION){
+[PATCH] if(t.getScopeDepth() < 3){
+[PATCH] if(t.getScopeDepth() == 2){
+[PATCH] if(t.getScopeDepth() < 1){
+[PATCH] if(t.getScopeDepth() % 2!= 0){
+[PATCH] if(t.getScopeDepth() -- <= 1){
+[PATCH] if(t.getScopeDepth() < 4){
+[PATCH] if(!t.getScopeDepth() == 1){
+[PATCH] if(t.getScopeDepth() > 1){
+[PATCH] if(!t.getScopeDepth() < 2){
+[PATCH] if(t.getScopeDepth() << 1){
+[PATCH] if(!t.getScopeDepth() - 1){
+[PATCH] if(t.getScopeDepth() > 2){
+[PATCH] if(!t.getScopeDepth() == 2){
+[PATCH] if(t.getScopeDepth()< 2){
+[PATCH] if(t.getScopeDepth()!= 4){
+[PATCH] if(t.getScopeDepth() <2){
+[PATCH] if(t.getScopeDepth()!1){
+[PATCH] else if(t.getScopeDepth() < 2){
+[PATCH] if(t.getScopeDepth() * 2 >= 1){
+[PATCH] if(t.getScopeDepth() + 1 < 2){
+[PATCH] if(t.getScopeDepth() ++;
+[PATCH] if(t.getScopeDepth() : 1){
+[PATCH] if(t.getScopedepth() < 2){
+[PATCH] if(t.getScopeDepth() ++ == 0){
+[PATCH] if(n.getType()!= Token.SCRIPT){
+[PATCH] if(t.getScopeDepth() / 2!= 0){
+[PATCH] if(t.getScopeDepth() @ 1){
+[PATCH] if(t.getScopeDepth() * 2 >= 3){
+[PATCH] else if(t.getScopeDepth() <= 1){
+[PATCH] if(n.getJSType()!= null){
+[PATCH] if( t.getScopeDepth() < 2){
+[PATCH] if(t.getScopeDepth() / 2!= 1){
+[PATCH] if(t.getScopeDepth() ] == 0){
+[PATCH] if(t.getScopeDepth() return;
+[PATCH] if(t.getScopeDepth() -- <= 0){
+[PATCH] if(t.getScopeDepth() < 5){
+[PATCH] if(t.getScopeDepth() ** 2!= 0){
+[PATCH] if(t.getScopeDepth() -= 2){
+[PATCH] if(t.getScopeDepth() += 1){
+[PATCH] if(t.getScopeDepth() * 2 >= 4){
+[PATCH] if(n.getType() == Token.FUNCTION){
+[PATCH] if(t.getScopeDepth() * 2!= 1){
+[PATCH] if(t.getScopeDepth() key == 0){
+[PATCH] if(t.getScopeDepth() final 1){
+[PATCH] else if(t.getScopeDepth() == 1){
+[PATCH] if(t.getScopeDepth()!= 3){
+[PATCH] if(t.getScopeDepth()-- <= 1){
+[PATCH] if(!t.getInput().isExtern()){
+[PATCH] if(t.getScopeDepth() ]!= 1){
+[PATCH] if(t.getScopeDepth()RB!= 1){
+[PATCH] if(t.getScopeDepth() notInGlobalScope){
+[PATCH] if(t.getScopeDepth() <= 2){
+[PATCH] if(n.getChildCount() < 2){
+[PATCH] if(n.getScopeDepth() <= 1){
+[PATCH] if(t.getScopeDepth() - 1!= 0){
+[PATCH] if(n.getScopeDepth() < 2){
+[PATCH] if(n.getChildCount()!= 1){
+[PATCH] if(t.getScopeDepth() - 1){
+[PATCH] if(t.getScopeDepth() : 0){
+[PATCH] if(t.getScopeDepth() = 0){
+[PATCH] if(t.getScope depth() < 2){
+[PATCH] if(t.getScopeDepth() @ 2){
+[PATCH] if(e.getScopeDepth() < 2){
+[PATCH] if(t.getScopeDepth() * 2 >= 2){
+[PATCH] if(t.getScopeDepth() >= 2){
+[PATCH] if(t.getScopeDepth() == 3){
+[PATCH] if(t.getScopeDepth() * 2 >= 5){
+[PATCH] if(t.getScopeLevel() < 2){
+[PATCH] if(t.getScopeDepth() > 0){
+[PATCH] if(t.getScopeDepth() break;
+[PATCH] if(t.getScopeDepth() >>> 1){
+[PATCH] if(t.getScopeDepth() + 1 == 2){
+[PATCH] if(t.getScopeDepth()== 1){
+[PATCH] if(t.getScopeDepth() * 2!= 0){
+[PATCH] if(t.getScopeDepth() 0){
+[PATCH] if(t.getScopeLevel() <= 1){
+[PATCH] if(t.getScopeDepth() < 6){
+[PATCH] if(T.getScopeDepth() < 2){
+[PATCH] if(t.getScopeDepth() 1){
+[PATCH] if(t.getScopeDepth() * 2 >= 9){
+[PATCH] if(t.getScopeDepth() None){
+[PATCH] if(t.getScopeDepth() }
+[PATCH] if(t.getScopeDepth() null){
+[PATCH] if(t.getScopeDepth() 3){
+[PATCH] if(t.getScopeDepth() {
+[PATCH] if(t.getScopeDepth() * 2 >= p);
+[PATCH] if(t.getScopeDepth() * 2 >= p;
+[PATCH] if(t.getScopeDepth()
+[PATCH] if(t.getScopeDepth() - 1 <= n){
+[PATCH] if(throw new IllegalStateException("");
+[PATCH] ;
+
+);

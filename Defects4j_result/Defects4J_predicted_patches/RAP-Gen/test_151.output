@@ -1,0 +1,100 @@
+[PATCH] t.getCompiler().report(JSError.make(t, n, level, GLOBAL_THIS));
+[PATCH] JSDocInfo jsDoc = t.getScope().getJSDocInfo(); if(jsDoc!= null){ return false; }
+[PATCH] t.report(n, level, GLOBAL_THIS, pType);
+[PATCH] compiler.report(JSError.make(t, n, level, GLOBAL_THIS));
+[PATCH] JSDocInfo jsDoc = t.getScope().getJSDocInfo();
+[PATCH] JSDocInfo jsDoc = parent.getJSDocInfo(); if(jsDoc!= null){ return false; }
+[PATCH] JSDocInfo jsDoc = parent.getJSDocInfo();
+[PATCH] while(n.getType() == Token.NAME){ n = n.getFirstChild();
+[PATCH] JSDocInfo jsDoc = t.getScope().getJSDocInfo(); if(jsDoc!= null){ return true; }
+[PATCH] JSDocInfo jsDoc = getJSDocInfo(n.getFirstChild()); if(jsDoc!= null){ return false; }
+[PATCH] while(n.getType() == Token.NAME){ n = n.getNext();
+[PATCH] JSDocInfo jsDoc = parent.getJSDocInfo(); if(jsDoc!= null){ return true; }
+[PATCH] while(n.getType()!= Token.FUNCTION){ n = n.getNext();
+[PATCH] int pType = n.getType(); if(pType!= Token.NAME){ return false; }
+[PATCH] JSDocInfo jsDoc = n.getJSDocInfo(); if(jsDoc!= null){ return false; }
+[PATCH] JSDocInfo jsDoc = parent.getJSDocInfo(); t.getCompiler().reportCodeChange();
+[PATCH] int pType = n.getType(); if(pType == Token.NAME){ return false; }
+[PATCH] t.report(n, level, GLOBAL_THIS);
+[PATCH] while(n.getType()!= Token.NAME){ n = n.getNext();
+[PATCH] JSDocInfo jsDoc = getJSDocInfo(n.getFirstChild()); if(jsDoc!= null){ return true; }
+[PATCH] JSDocInfo jsDoc = getJSDocInfo(n); if(jsDoc!= null){ return false; }
+[PATCH] for(int pType : n.getTypes()){ if(!level.isOn()){ return false; }
+[PATCH] JSDocInfo jsDoc = n.getJSDocInfo();
+[PATCH] t.getCompiler().report(JSError.make(t, n, level, UNKNOWN_TYPE));
+[PATCH] JSDocInfo jsDoc = n.getJSDocInfo(); if(jsDoc!= null){ return true; }
+[PATCH] compiler.report(JSError.make(t, n, level, GLOBAL_THIS, pType));
+[PATCH] t.getCompiler().report(JSError.make(t, n, level, MISSING_GLOBAL_THIS));
+[PATCH] t.getCompiler().report(JSError.make(t, n, level, MISSING_TYPE, pType));
+[PATCH] int pType = parent.getType(); if(pType!= Token.NAME){ return false; }
+[PATCH] compiler.report(JSError.make(t, n, level, MISSING_TYPE, pType));
+[PATCH] compiler.report(JSError.make(t, n, level, UNKNOWN_TYPE));
+[PATCH] for(Node n : n.children()){ if(!level.isOn()){ return false; }
+[PATCH] JSDocInfo jsDoc = t.getScope().getJSDocInfo(); return false;
+[PATCH] JSDocInfo jsDoc = parent.getJSDocInfo(); compiler.reportCodeChange();
+[PATCH] t.getCompiler().report(JSError.make(t, n, level, MISSING_TYPE));
+[PATCH] JSDocInfo jsDoc = getJSDocInfo(n); if(jsDoc!= null){ return true; }
+[PATCH] JSDocInfo jsDoc = t.getInput().getJSDocInfo(); if(jsDoc!= null){ return false; }
+[PATCH] JSType jsDoc = t.getScope().getJSDocInfo(); if(jsDoc!= null){ return false; }
+[PATCH] JSDocInfo jsDoc = t.getScope().getJSDocInfo(); return true;
+[PATCH] while(n.getType()!= Token.NAME){ n = n.getFirstChild();
+[PATCH] JSType jsDoc = parent.getJSDocInfo(); if(jsDoc!= null){ return false; }
+[PATCH] JSDocInfo jsDoc = getValueJSDocInfo(pType); if(jsDoc!= null){ return false; }
+[PATCH] JSDocInfo jsDoc = parent.getJSDocInfo(); return jsDoc!= null && jsDoc.isThis();
+[PATCH] while(n.getType() == Token.FUNCTION){ n = n.getNext();
+[PATCH] JSDocInfo jsDoc = compiler.getCodingConvention().getDefaultJSDocInfo(pType);
+[PATCH] jsDoc = t.getScope().getJSDocInfo();
+[PATCH] JSDocInfo jsDoc = t.getScope().getJSDocInfo(); compiler.reportCodeChange();
+[PATCH] compiler.report(JSError.make(t, n, level, GET_GLOBAL_THIS));
+[PATCH] jsDoc = compiler.getCodingConvention().getJSDocInfo(pType);
+[PATCH] t.report(n, level, ILLEGAL_NAME);
+[PATCH] compiler.report(JSError.make(t, n, level, MISSING_TYPE, pType));
+[PATCH] t.report(n, JSC_USED_GLOBAL_THIS, pType);
+[PATCH] compiler.report(JSError.make(t, n, level, MISSING_GLOBAL_THIS));
+[PATCH] compiler.report(JSError.make(t, n, level, INVALID_GLOBAL_THIS));
+[PATCH] ts.report(JSError.make(t, n, level, GLOBAL_THIS));
+[PATCH] compiler.report(JSError.make(t, n, level, MISSING_TYPE));
+[PATCH] compiler.report(JSError.make(t, n, NON_GLOBAL_THIS, level));
+[PATCH] JSDocInfo jsDoc = compiler.getNodeForCodeInsertion(pType);
+[PATCH] jsDoc = compiler.getCodingConvention().getDefaultJSDocInfo(pType);
+[PATCH] jsDoc = compiler.getNodeForCodeInsertion(pType);
+[PATCH] JSDocInfo jsDoc = compiler.getNodeForCodeInsertion(p);
+[PATCH] JSDocInfo jsDoc = n.getJSDocInfo(); compiler.reportCodeChange();
+[PATCH] JSDocInfo jsDoc = getJSDocInfo(n); compiler.reportCodeChange();
+[PATCH] jsDoc = t.getCompiler().getJSDocInfo();
+[PATCH] return!(pType == Token.NAME || pType == Token.ASSIGN);
+[PATCH] JSDocInfo jsDoc = parent.getJSDocInfo(); return false;
+[PATCH] t.report(n, level, GLOBAL_THIS, name);
+[PATCH] JSDocInfo jsDoc = parent.getJSDocInfo(); return true;
+[PATCH] jsDoc = compiler.getCodingConvention().convertType(pType);
+[PATCH] t.report(n, level, GLOBAL_THIS, pType);
+[PATCH] return!isEnteringNewCfgNode(n);
+[PATCH] JSDocInfo jsDoc = getJSDocInfo(n);
+[PATCH] t.report(n, level, VAR_NAME, pType);
+[PATCH] return!isEnteringNewCfgNode(pType);
+[PATCH] t.report(n, level, UNSAFE_THIS);
+[PATCH] JSDocInfo jsDoc = compiler.getCurrentJSDocInfo();
+[PATCH] JSDocInfo jsDoc = t.getInput().getJSDocInfo();
+[PATCH] jsDoc = parent.getJSDocInfo();
+[PATCH] Preconditions.checkState(pType == Token.NAME);
+[PATCH] JSDocInfo jsDoc = getJSDocInfo(n.getFirstChild());
+[PATCH] t.report(n, level, UNKNOWN_TYPE, pType);
+[PATCH] JSDoc jsDoc = t.getScope().getJSDocInfo();
+[PATCH] JSDocInfo jsDoc = t.getCompiler().getJSDocInfo();
+[PATCH] JSType jsDoc = parent.getJSDocInfo();
+[PATCH] jsDoc = compiler.getNodeForCodeInsertion(p);
+[PATCH] JSType jsDoc = n.getJSDocInfo();
+[PATCH] return!t.getInput().isExtern();
+[PATCH] jsDoc = getJSDocInfo(n);
+[PATCH] int pType = n.getType();
+[PATCH] jsDoc = n.getJSDocInfo();
+[PATCH] goTo(t, n);
+[PATCH] markThis(t, n);
+[PATCH] parent = parent.getParent();
+[PATCH] throw new IllegalStateException("");
+[PATCH] throw new IllegalArgumentException("");
+[PATCH] throw new RuntimeException("");
+[PATCH] markThis();
+[PATCH] codeBug();
+);
+;

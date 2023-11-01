@@ -1,0 +1,100 @@
+[PATCH] if(!values.isEmpty()){
+[PATCH] if(!values.isEmpty() &&!values.isEmpty()){
+[PATCH] if(values.size() > 0 &&!values.isEmpty()){
+[PATCH] if(values.size() > 1 &&!values.isEmpty()){
+[PATCH] if(values.size() > 0){
+[PATCH] if(values.size() > 1){
+[PATCH] if(!values.isEmpty() && values.size() > 0()){
+[PATCH] if(values.isEmpty()){ if(!values.isEmpty()){
+[PATCH] if(values.size() > 0()){
+[PATCH] if(!values.isEmpty() ||!values.isEmpty()){
+[PATCH] if(!values.isEmpty() && values.size() > 1()){
+[PATCH] if(!values.isEmpty() &&!names.isEmpty()){
+[PATCH] if(!Values.isEmpty() &&!values.isEmpty()){
+[PATCH] if(!values.isEmpty() &&!tokens.isEmpty()){
+[PATCH] if(values.isEmpty()){
+[PATCH] if(!values.isEmpty() &&!Values.isEmpty()){
+[PATCH] if(value.length() > 0 &&!values.isEmpty()){
+[PATCH] if(!values.isEmpty() && values.size() == 1()){
+[PATCH] if(!values.isEmpty() &&!content.isEmpty()){
+[PATCH] if(!values.isEmpty() &&!values.isNull()){
+[PATCH] if(!values.isEmpty() && values.size() > 0){
+[PATCH] if(!names.isEmpty() &&!values.isEmpty()){
+[PATCH] if(values.size() > 1 ||!values.isEmpty()){
+[PATCH] if(!values.isEmpty() && values.size() == 1){
+[PATCH] if(!values.isEmpty() &&!value.isEmpty()){
+[PATCH] if(values.isList()){ if(!values.isEmpty()){
+[PATCH] if(!values.isEmpty() && values.size() > 1){
+[PATCH] if(values.list()!= null &&!values.isEmpty()){
+[PATCH] if(!values.isEmpty() || values.size() > 1()){
+[PATCH] if(!values.isEmpty() &&! values.isEmpty()){
+[PATCH] if(values.hasList()){ if(!values.isEmpty()){
+[PATCH] if(values.size() > 1()){
+[PATCH] if(values.isEmpty()){ if(!names.isEmpty()){
+[PATCH] if(values.size() == 1 &&!values.isEmpty()){
+[PATCH] if(!values.isEmpty() && not values.isEmpty()){
+[PATCH] if(!values.isEmpty()&&!values.isEmpty()){
+[PATCH] if(!values.isEmpty() &&!values.isEmpty()){
+[PATCH] if(values.isEmpty()){ if(!name.isEmpty()){
+[PATCH] if(values.hasAny()){ if(!values.isEmpty()){
+[PATCH] if(values.length() > 0 &&!values.isEmpty()){
+[PATCH] if(values.hasOne()){ if(!values.isEmpty()){
+[PATCH] if(values.size() > 0 &&!names.isEmpty()){
+[PATCH] if(!values.isEmpty() &&!name.isEmpty()){
+[PATCH] if(!values.isEmpty() &&!values.hasAny()){
+[PATCH] if(!values.isEmpty() &&!data.isEmpty()){
+[PATCH] if(!values.isEmpty() &&!values.IsEmpty()){
+[PATCH] if(values.size() > 1 || values.isEmpty()){
+[PATCH] if(values.nonEmpty() &&!values.isEmpty()){
+[PATCH] if(values.size() > 0 ||!values.isEmpty()){
+[PATCH] if(! values.isEmpty() &&!values.isEmpty()){
+[PATCH] if(!values.isEmpty() &&!values.isEmpty()){
+[PATCH] if(!values.isEmpty()){ throw new IllegalArgumentException(""); }
+[PATCH] if(!values.isEmpty() &&!values.isEmpty());
+[PATCH] if(!values.isEmpty() &&!values.isEmpty();
+[PATCH] if(!values.isEmpty() &&!values.size() == 1){
+[PATCH] if(!isEmpty() &&!values.isEmpty()){
+[PATCH] if(values.list().size() > 0){
+[PATCH] if(nonNull(values.get(0))){
+[PATCH] if(values.list().size() > 0()){
+[PATCH] if(!names.isEmpty()){
+[PATCH] if(values.count() > 0()){
+[PATCH] if(values.list().size() > 1){
+[PATCH] if(values.length() > 0){
+[PATCH] if(!Values.isEmpty()){
+[PATCH] if(! values.isEmpty()){
+[PATCH] if(values.size() == 1){
+[PATCH] if(values.list().isEmpty()){
+[PATCH] if(!values.isEmpty()){
+[PATCH] if(values.length() > 0()){
+[PATCH] if(values.count() > 0){
+[PATCH] if(nonEmpty(values.size())) {
+[PATCH] if(values.size() > 0)
+[PATCH] if(nonNull(values.size())) {
+[PATCH] if(values.hasCount() > 0()){
+[PATCH] if(!values.isNull()){
+[PATCH] if(not values.isEmpty()){
+[PATCH] if(value.length() > 0){
+[PATCH] if(values.contains(value)) {
+[PATCH] if(values.nonEmpty()){
+[PATCH] if(index + 1 < values.size()){
+[PATCH] if(!value.isEmpty()){
+[PATCH] if(values.!values.isEmpty()){
+[PATCH] if(values.hasAll("value")) {
+[PATCH] if(!values.get().isEmpty()){
+[PATCH] if(notvalues.isEmpty()){
+[PATCH] if(values.hasMoreElements()){
+[PATCH] if(values.notEmpty()){
+[PATCH] if(values.size() > 0)) {
+[PATCH] if(values.size() > 1){
+[PATCH] if(values.size() > 0){
+[PATCH] if(values!values.isEmpty()){
+[PATCH] if(!values.isEmpty()) {
+[PATCH] if(notValues.isEmpty()){
+[PATCH] if(values.hasList()){
+[PATCH] if(values.isList()){
+[PATCH] if(values.isNotEmpty()){
+[PATCH] if(!values().isEmpty()){
+[PATCH] if(!values.hasEmpty()){
+[PATCH] if(values.size() > 1)
+[PATCH] if(!values.isEmpty()){

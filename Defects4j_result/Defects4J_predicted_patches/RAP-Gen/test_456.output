@@ -1,0 +1,100 @@
+[PATCH] Preconditions.checkNotNull(o1); Preconditions.checkNotNull(o2);
+[PATCH] Preconditions.checkNotNull(o1); Validate.notNull(o2);
+[PATCH] Validate.notNull(o1); Validate.notNull(o2);
+[PATCH] o1 = getValue(o1); o2 = getValue(o2);
+[PATCH] if(o1!= o2){ return o1.equals(o2); }
+[PATCH] Preconditions.checkArgument(o1!= null && o2!= null);
+[PATCH] o1 = checkNull(o1); o2 = checkNull(o2);
+[PATCH] o1 = validate(o1); o2 = Validate.notNull(o2);
+[PATCH] checkNotNull(o1); checkNotNull(o2);
+[PATCH] o1 = o1 == o2? null : o1.equals(o2);
+[PATCH] o1 = filterNull(o1); o2 = filterNull(o2);
+[PATCH] if(o1 == o2 || o2 == null){ return true; }
+[PATCH] o1 = select(o1); o2 = select(o2, null);
+[PATCH] Preconditions.checkNotNull(o1);
+[PATCH] if(( o1 == o2)&&(o2 == null)) return true;
+[PATCH] Preconditions.checkNotNull(o1); checkNotNull(o2);
+[PATCH] check(o1, o2);
+[PATCH] return o1!= null && o2!= null && o1.equals(o2);
+[PATCH] Preconditions.checkState(o1!= null && o2!= null);
+[PATCH] o1 = o1 == o2? null : o1.getClass();
+[PATCH] return o1!= null && o2!= null || o1.equals(o2);
+[PATCH] if(o1!= o2){ if(o1 == o2)return true;
+[PATCH] if(( o1 == o2)&&(o2 == null)); return true;
+[PATCH] o1 = checkNotNull(o1); o2 = checkNotNull(o2);
+[PATCH]? o1 == o2 : o1.equals(o2);
+[PATCH] o1 = getValue(o1); o2 = value(o2);
+[PATCH] Preconditions.checkTrue(o1!= null && o2!= null);
+[PATCH] o1 = normalize(o1); o2 = normalize(o2);
+[PATCH] Preconditions.checkNotNull(o1"); Preconditions.checkNotNull(o2);
+[PATCH] checkState(o1!= null && o2!= null);
+[PATCH] Preconditions.checkNotNull(o1); Preconditions.checkArgument(o2!= null);
+[PATCH] if(o1!= o2){ if(o1 == o2 return true; }
+[PATCH] Preconditions.checkNull(o1); Preconditions.checkNotNull(o2);
+[PATCH] o1 = check(o1); o2 = check(o2, null);
+[PATCH] if(o1 == o2 || o2 == null){ return false; }
+[PATCH] Preconditions.checkNotNull(o1); o2 = checkNotNull(o2);
+[PATCH] return o1!= o2 && o1.equals(o2);
+[PATCH] o1 = value(o1); o2 = value(o2);
+[PATCH] Preconditions.checkNotNull(o1); o2 = getValue(o2);
+[PATCH] checkArgument(o1!= null && o2!= null);
+[PATCH] if(o1 == o2){ return true; }
+[PATCH] o1 =(o1 == o2)? null : o1.getClass();
+[PATCH] o1 = getValue(o1); o2 = convert(o2, false);
+[PATCH] Preconditions.checkNotNull(o1); Preconditions.checkNull(o2);
+[PATCH] { if(o1 == o2 || o2 == null){ return true; }
+[PATCH] o1 = getValue(o1); o2 = convert(o2, true);
+[PATCH] assert(o1!= null && o2!= null);
+[PATCH] Preconditions.checkNotNull(o1, o2);
+[PATCH] Preconditions.checkNotNull(o1); Validate.isNull(o2);
+[PATCH] o1 = getValue(o1); o2 = convert(o2, null);
+[PATCH] Preconditions.checkNotNull(o1); o2 = convert(o2, null);
+[PATCH] checkNotNull(o1); Validate.notNull(o2);
+[PATCH] checkNotNull(o1, o2);
+[PATCH] validate(o1, o2);
+[PATCH] return o1!= null && o2!= null || o1.getClass().getName();
+[PATCH] Preconditions.checkNotNull(o1); verifyNotNull(o2);
+[PATCH] return o1 == o2 || o1.equals(o2);
+[PATCH] check(o1!= null && o2!= null);
+[PATCH] o1 = select(o1, o2);
+[PATCH] o1 = filter(o1, o2);
+[PATCH] if(o1!= o2){ throw new IllegalArgumentException(""); }
+[PATCH] if(o1!= o2){ return true; }
+[PATCH] sanityCheck(o1, o2);
+[PATCH] FunctorUtils.validate(o1, o2);
+[PATCH] o1 = convert(o1, o2);
+[PATCH] return(o1!= null && o2!= null);
+[PATCH] && o1!= null && o2!= null){
+[PATCH] (o1!= null && o2!= null);
+[PATCH] if(o1!= o2){ return false; }
+[PATCH] o1 =(o1 == null && o2 == null);
+[PATCH] o1 = checkEquals(o1, o2);
+[PATCH] return!(o1 instanceof Number && o2 instanceof Number);
+[PATCH] or(o1!= null && o2!= null);
+[PATCH] filter(o1, o2);
+[PATCH] return o1!= null && o2!= null){
+[PATCH]!(o1 instanceof Number && o2 instanceof Number);
+[PATCH] checkNull(o1, o2);
+[PATCH] o1 = resolve(o1, o2);
+[PATCH] Objects.check(o1, o2);
+[PATCH] o1 = check(o1, o2);
+[PATCH] assertEquals(o1, o2);
+[PATCH] test(o1, o2);
+[PATCH]!(o1 instanceof Number || o2 instanceof Number);
+[PATCH] checkEquals(o1, o2);
+[PATCH] matcher(o1, o2)== null;
+[PATCH] predicates(o1, o2);
+[PATCH] super(o1, o2);
+[PATCH] checkObject(o1, o2);
+[PATCH] o2 = getValue(o2);
+[PATCH] o1 = o1.getClass();
+[PATCH] validator(o1, o2);
+[PATCH] o1 = getValue(o1);
+[PATCH] checkNotNull(o1);
+[PATCH] null = getValue(o1);
+[PATCH]? o1 : o2;
+[PATCH] notNull(o1);
+[PATCH] assertNotNull(o1);
+[PATCH] removeWhitespace(o1);
+[PATCH] o1 =
+[PATCH] clear();

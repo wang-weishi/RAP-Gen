@@ -1,0 +1,100 @@
+[PATCH] if(expPos < decPos){ throw new NumberFormatException(""); }
+[PATCH] dec = str.substring(expPos + 1);
+[PATCH] mant = str.substring(0, expPos);
+[PATCH] dec = str.substring(expPos + 1, str.length());
+[PATCH] mant = str.substring(expPos + 1);
+[PATCH] exp = str.substring(expPos + 1, str.length());
+[PATCH] exp = str.substring(expPos + 1);
+[PATCH] System.err.println("Exponent indicator not followed by a digit.");
+[PATCH] if(expPos < declPos){ throw new NumberFormatException(""); }
+[PATCH] mant = str.substring(decPos + 1, expPos);
+[PATCH] System.err.println("Exponent indicator not followed by a digit");
+[PATCH] checkRange(mant, str.substring(0, expPos));
+[PATCH] if(expPos < 0){ throw new NumberFormatException(""); }
+[PATCH] String exp = str.substring(expPos + 1);
+[PATCH] if(expPos < len){ throw new NumberFormatException(""); }
+[PATCH] mant = str.substring(maxPos - 1, expPos);
+[PATCH] if(expPos < decPos){ throw new NumberFormatException(""); }
+[PATCH] checkDigits(mant, str.substring(0, expPos));
+[PATCH] checkRange(str.substring(0, expPos));
+[PATCH] checkRange(dec.substring(1, expPos));
+[PATCH] If(expPos < decPos){ throw new NumberFormatException(""); }
+[PATCH] dec = str.substring(0, expPos);
+[PATCH] de = str.substring(expPos + 1);
+[PATCH] processInteger(mant, str.substring(0, expPos));
+[PATCH] checkNumber(mant, str.substring(0, expPos));
+[PATCH] checkInterval(mant, str.substring(0, expPos));
+[PATCH] System.err.println("Decimal point not followed by a digit.");
+[PATCH] Dec = str.substring(expPos + 1, str.length());
+[PATCH] Dec = str.substring(decPos + 1, expPos);
+[PATCH] if(expPos < DecPos){ throw new NumberFormatException(""); }
+[PATCH] if(expPos < maxPos){ throw new NumberFormatException(""); }
+[PATCH] mant = str.substring(0, expPos + 1);
+[PATCH] throw new NumberFormatException("");
+[PATCH] if(expPos < decPos){ throws NumberFormatException(""); }
+[PATCH] d = str.substring(expPos + 1, str.length());
+[PATCH] Dec = str.substring(expPos + 1);
+[PATCH] if( expPos < decPos){ throw new NumberFormatException(""); }
+[PATCH] checkRange(str.substring(1, expPos));
+[PATCH] dec = str.substring(Dec.MIN_VALUE, expPos);
+[PATCH] checkRange(str.substring(expPos + 1), false);
+[PATCH] int expPos = str.indexOf('e')+ 1;
+[PATCH] checkRange(str.substring(0, expPos), false);
+[PATCH] Mant = str.substring(0, expPos);
+[PATCH] de = str.substring(expPos + 1, str.length());
+[PATCH] if(mant == null){ throw new NumberFormatException(""); }
+[PATCH] checkLenient() && expPos < str.length() - 1;
+[PATCH] checkRange(dec.length(), expPos);
+[PATCH] checkRange(dec.substring(1), expPos);
+[PATCH] checkDigits(mant,"Exponent indicator not followed by a digit");
+[PATCH] checkRange(dec.length(), expPos + 1);
+[PATCH] checkNumber('e' + str.substring(expPos - 1));
+[PATCH] checkRange(expPos - 1, decPos + 1);
+[PATCH] checkRange(expPos - 1, str.length() - 1);
+[PATCH] mod = str.substring(expPos + 1);
+[PATCH] e = str.substring(expPos + 1, str.length());
+[PATCH] dec = str.substring(expPos + 1);
+[PATCH] acc = str.substring(expPos + 1);
+[PATCH] mant = str.substring(0, expPos+1);
+[PATCH] System.err.println("Decimal point not followed by a digit");
+[PATCH] t = str.substring(expPos + 1);
+[PATCH] x = str.substring(expPos + 1);
+[PATCH] d = str.substring(expPos + 1);
+[PATCH] e = str.substring(expPos + 1);
+[PATCH] checkRange(str.substring(0, expPos), true);
+[PATCH] checkLenient() && expPos < str.length();
+[PATCH] r = str.substring(expPos + 1);
+[PATCH] checkRange(dec.substring(expPos + 1), false);
+[PATCH] checkRange(str.substring(expPos - 1));
+[PATCH] abs = Math.abs(expPos - 1);
+[PATCH] p = str.substring(expPos + 1);
+[PATCH] int expPos = str.indexOf('e')- 1;
+[PATCH] checkDigits(mant, str);
+[PATCH] checkLenient();
+[PATCH] in = str.substring(expPos + 1);
+[PATCH] Long exp = str.substring(expPos + 1);
+[PATCH] abs = str.indexOf('e')+ 1;
+[PATCH] checkRange(str.substring(expPos + 1));
+[PATCH] pos = str.indexOf('e')+ 1;
+[PATCH] c = str.substring(expPos + 1);
+[PATCH] n = str.substring(expPos + 1);
+[PATCH] real = str.substring(0, expPos);
+[PATCH] str = str.substring(expPos + 1);
+[PATCH] Dec value = str.substring(expPos + 1);
+[PATCH] checkRange(dec + 1, expPos);
+[PATCH] System.err.println("Negative values:" + str);
+[PATCH] checkRange(dec == null, exp);
+[PATCH] checkDigits(mant);
+[PATCH] handleUnexpectedNumberStart(mant, str);
+[PATCH] checkRange(dec, exp);
+[PATCH] Validate.isTrue(expPos >= 0);
+[PATCH] checkRange(decPos, expPos);
+[PATCH] checkExpiration(mant, expPos);
+[PATCH] checkNumberBounds(mant, str);
+[PATCH] checkExp(mant, expPos);
+[PATCH] ensureDigits(mant);
+[PATCH] checkRange(dec, expPos);
+[PATCH] assert(expPos < decPos);
+[PATCH] processIntegerExpression(mant, str);
+[PATCH] checkNumber(mant, str);
+[PATCH] checkRange(0, expPos);

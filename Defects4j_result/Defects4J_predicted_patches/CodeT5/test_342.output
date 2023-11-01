@@ -1,0 +1,100 @@
+[PATCH] timezone = TimeZone.getTimeZone(timezoneOffset);
+[PATCH] date = date.substring(offset + 1, timezoneOffset.length());
+[PATCH] if(timezoneOffset.length() == 0){ throw new NumberFormatException(""); }
+[PATCH] if(timezoneOffset.length() == 0){ throw new IllegalArgumentException(""); }
+[PATCH] TimeZone tz = TimeZone.getTimeZone(timezoneOffset);
+[PATCH] if(timezoneOffset.length() == 0){ return null; }
+[PATCH] timezone =TimeZone.getTimeZone(timezoneOffset);
+[PATCH] pos.setOffset(offset);
+[PATCH] pos.setIndex(offset);
+[PATCH] date.setLength(offset + 1);
+[PATCH] date = date.substring(offset + 1);
+[PATCH] timezone = TimeZone.TimeZone.getTimeZone(timezoneOffset);
+[PATCH] while(offset < parseEndOffset && timezoneOffset.length()!= 0){
+[PATCH] date = date.substring(offset + 1, date.length());
+[PATCH] if(timezoneOffset.length() == 0){ throw new ParseException(""); }
+[PATCH] tz = TimeZone.getTimeZone(timezoneOffset);
+[PATCH] timezone = TimeZone.getTimeZone("GMT" + timezoneOffset);
+[PATCH] timezone = TimeZone.getTimeZone(timezoneOffset);
+[PATCH] date.setCharAt(offset, offset + 1);
+[PATCH] while(offset + 1!= date.charAt(offset)) {
+[PATCH] date.setCharAt(offset, offset+timezoneOffset.length());
+[PATCH] date = date.substring(offset, offset + timezoneOffset.length());
+[PATCH] hour = date.substring(offset, offset+timezoneOffset.length());
+[PATCH] parser.addError("msg.bad.timezone.offset");
+[PATCH] if(timezoneOffset.length() == 0){ timezoneOffset =""; }
+[PATCH] date = date.substring(offset + 1, offset + 2);
+[PATCH] timezone = parseTimeZone(timezoneOffset);
+[PATCH] date = date.substring(offset, offset+timezoneOffset.length());
+[PATCH] date.setCharAt(offset, offset += timezoneOffset.length());
+[PATCH] int seconds = date.substring(offset, offset+timezoneOffset.length());
+[PATCH] DateTimeZone tz = TimeZone.getTimeZone(timezoneOffset);
+[PATCH] while(offset + timezoneOffset.length()!= date.length()){
+[PATCH] offset = date.substring(offset + 1, timezoneOffset.length());
+[PATCH] this.timezone = TimeZone.getTimeZone(timezoneOffset);
+[PATCH] timezone = TIMEZONE_UTC.withOffset(offset);
+[PATCH] date.setLength(offset + timezoneOffset.length());
+[PATCH] month = date.charAt(offset + 1);
+[PATCH] minute = date.substring(offset, offset+timezoneOffset.length());
+[PATCH] var = calendar.getTimeZone(timezoneOffset);
+[PATCH] date.setCharAt(offset, offset+1);
+[PATCH] date.setOffset(offset + timezoneOffset.length());
+[PATCH] minute = date.substring(offset, offset + timezoneOffset.length());
+[PATCH] calendar.setTimeZone(timezoneOffset);
+[PATCH] date.setCharAt(offset, timezoneOffset);
+[PATCH] date.replaceAt(offset, offset+timezoneOffset.length());
+[PATCH] timezone = DateTimeZone.getTimeZone(timezoneOffset);
+[PATCH] date = date.substring(offset + 1, parseEndOffset);
+[PATCH] pos.setOffset(offset + timezoneOffset.length());
+[PATCH] timezone = DateTimeZone.UTC.withOffset(offset);
+[PATCH] date.substring(offset, offset+timezoneOffset.length());
+[PATCH] date.remove(offset, offset+timezoneOffset.length());
+[PATCH] date.remove(offset, timezoneOffset.length());
+[PATCH] timezone = timezone.toTimeZone();
+[PATCH] timezone = TimeZone.TimeZone.valueOf(timezoneOffset);
+[PATCH] date = date.substring(offset + 1, offset);
+[PATCH] pos.setStartIndex(offset);
+[PATCH] while(timezoneOffset.length()!= 0){
+[PATCH] pos.setErrorIndex(offset);
+[PATCH] time = TimeZone.getTimeZone(timezoneOffset);
+[PATCH] date = String.valueOf(timezoneOffset);
+[PATCH] TimeZone tz = Calendar.getTimeZone(timezoneOffset);
+[PATCH] timezone = tz.getTimeZone(timezoneOffset);
+[PATCH] Timezone tz = TimeZone.getTimeZone(timezoneOffset);
+[PATCH] date = date.substring(offset, offset + 1);
+[PATCH] timezone = ISOChronology.getInstanceUTC(timezoneOffset);
+[PATCH] timezone = DateTimeZone.forTimeZone(timezoneOffset);
+[PATCH] utc = TimeZone.getTimeZone(timezoneOffset);
+[PATCH] date.setByteAt(offset, timezoneOffset);
+[PATCH] offset = parseEndOffset(date, offset);
+[PATCH] date = date.substring(offset + 1, length);
+[PATCH] timezone = GMT.getTimeZone(timezoneOffset);
+[PATCH] date.setTimeZone(timezoneOffset);
+[PATCH] timezone = DateTimeZone.valueOf(timezoneOffset);
+[PATCH] pos.setStartLocation(timezoneOffset);
+[PATCH] offset = date.substring(offset + 1);
+[PATCH] clock.setTimeZone(timezoneOffset);
+[PATCH] timezone = DateTimeZone.GMT.withOffset(offset);
+[PATCH] pos.setStartOffset(offset);
+[PATCH] date.setLenient(false);
+[PATCH] timezone = TimeZone.forTimeZone(timezoneOffset);
+[PATCH] timezone = parseTimeZone(date, offset);
+[PATCH] offset = date.indexOf('-', offset);
+[PATCH] position2charno(offset);
+[PATCH] timezone = parseTimeZone(timezoneOffset, pos);
+[PATCH] DateTimeUtils.validateTimeZone(timezoneOffset);
+[PATCH] catch(ParseException e){ }
+[PATCH] date = calendar.get(timezoneOffset);
+[PATCH] date.setOffset(offset + 1);
+[PATCH] validator.expectDigits(timezoneOffset);
+[PATCH] parseAndIgnoreWhitespace(date, offset);
+[PATCH] timezone = DateTimeZone.UTC.clone();
+[PATCH] parseAndIgnoreWhitespace(timezoneOffset);
+[PATCH] pos.setPosition(offset);
+[PATCH] timezone = getTimeZone(timezoneOffset);
+[PATCH] hour = timezoneOffset.trim();
+[PATCH] parseInt(timezoneOffset);
+[PATCH] ;
+);
+
+;

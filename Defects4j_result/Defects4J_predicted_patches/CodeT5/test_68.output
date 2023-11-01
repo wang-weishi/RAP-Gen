@@ -1,0 +1,100 @@
+[PATCH] if(tokenLen >= 4){ rule = selectNumberRule(Calendar.YEAR, tokenLen); }
+[PATCH] if(tokenLen == 4){ rule = selectNumberRule(Calendar.YEAR, tokenLen); }
+[PATCH] if(tokenLen >= 4){ rule = new TextField(Calendar.YEAR, years); }
+[PATCH] if(tokenLen >= 4){ rule =selectNumberRule(Calendar.YEAR, tokenLen); }
+[PATCH] rule = selectNumberRule(Calendar.YEAR, tokenLen);
+[PATCH] if(tokenLen >= 4){ rule = selectNumberRule(Calendar.YEAR, tokenLen);
+[PATCH] if(tokenLen >= 4){ rule = selectNumberRule(Calendar.YEAR, tokenLen); }
+[PATCH] if(tokenLen >= 4){ rule = selectNumberRule(calendar.YEAR, tokenLen); }
+[PATCH] if(tokenLen >= 4){ Rule rule = selectNumberRule(Calendar.YEAR, tokenLen); }
+[PATCH] if(tokenLen >= 4){ rule = new NumberRule(Calendar.YEAR, tokenLen); }
+[PATCH] if(tokenLen >= 4){rule = selectNumberRule(Calendar.YEAR, tokenLen); }
+[PATCH] if( tokenLen >= 4){ rule = selectNumberRule(Calendar.YEAR, tokenLen); }
+[PATCH] if(TokenLen >= 4){ rule = selectNumberRule(Calendar.YEAR, tokenLen); }
+[PATCH] if(tokenLen >= 4){ rule = createNumberRule(Calendar.YEAR, tokenLen); }
+[PATCH] if(tokenLen >= 4 { rule = selectNumberRule(Calendar.YEAR, tokenLen); }
+[PATCH] if(tokenLen >= 4){ rule = new TextField(Calendar.YEAR, YEAR); }
+[PATCH] if(tokenLen >= 3){ rule = selectNumberRule(Calendar.YEAR, tokenLen); }
+[PATCH] if(tokenLen >= 4){ rule = new TextField(Calendar.YEAR, years); }
+[PATCH] if(tokenLen >= 4){ rule = selectNumberRule(Calendar.YEAR, tokens); }
+[PATCH] if(tokenLen >= 4){ rule = selectNumberRule(Calendar.year, tokenLen); }
+[PATCH] if(tokenLen >= 4){ rule = selectNumberrule(Calendar.YEAR, tokenLen); }
+[PATCH] if(tokenLen >= 4){ rule = SelectNumberRule(Calendar.YEAR, tokenLen); }
+[PATCH] if(tokenLen >= 4){ rule = selectNumberRule(Calendar.YEAR, 4); }
+[PATCH] if(tokenLen >= 4){ rules = selectNumberRule(Calendar.YEAR, tokenLen); }
+[PATCH] if(tokenLen >= 4){ rule = selectNumberRule(Calendar.Year, tokenLen); }
+[PATCH] if(tokenLen >= 4){ rule = selectNumberRules(Calendar.YEAR, tokenLen); }
+[PATCH] if(tokenLen >= 4){ rule = selectNumberRule(Calendar.YEAR, mValue); }
+[PATCH] if(tokenLen >= 4){Rule = selectNumberRule(Calendar.YEAR, tokenLen); }
+[PATCH] if(tokenLen >= 4 && selectNumberRule(Calendar.YEAR, tokenLen);
+[PATCH] if(tokenLen >= 4){ rule =SelectNumberRule(Calendar.YEAR, tokenLen); }
+[PATCH] if(tokenLen >= 4){ rule = selectNumberRule(TimeZone.YEAR, tokenLen); }
+[PATCH] if(tokenLen > 4){ rule = selectNumberRule(Calendar.YEAR, tokenLen); }
+[PATCH] if(tokenLen >= 4){ rule = new SelectNumberRule(Calendar.YEAR, tokenLen); }
+[PATCH] if(tokenLen >= 4){ rule = new BigNumberRule(Calendar.YEAR, tokenLen); }
+[PATCH] if(tokenLen >= 4){ rule = new selectNumberRule(Calendar.YEAR, tokenLen); }
+[PATCH] if(tokenLen >= 4){ entry = selectNumberRule(Calendar.YEAR, tokenLen); }
+[PATCH] if(timeLen >= 4){ rule = selectNumberRule(Calendar.YEAR, tokenLen); }
+[PATCH] if(tokenLen >= 4){ rule = new TwoDigitYearField(Calendar.YEAR, years); }
+[PATCH] if(tokenLen >= 4){ rule = selectNumberRule(Calendar.YEAR, 2); }
+[PATCH] if(tokenLen >= 4){ token = selectNumberRule(Calendar.YEAR, tokenLen); }
+[PATCH] if(tokenLen >= 4){ rule = selectNumberRule(Calendar.YEAR, 0); }
+[PATCH] if(tokenLen >= 4){ rule = selectNumberRule(Calendar.YEAR, value); }
+[PATCH] if(TOKENLen >= 4){ rule = selectNumberRule(Calendar.YEAR, tokenLen); }
+[PATCH] if(tokenLen >= 4){ return selectNumberRule(Calendar.YEAR, tokenLen); }
+[PATCH] if(tokenLen >= 4){ rule = selectNumberRule(Calendar.YEAR, tokenLen);
+[PATCH] if(tokenLen >= 4){ rule = selectNumberRule(Calendar.YEAR, 3); }
+[PATCH] if(tokenLen >= 4){ word = selectNumberRule(Calendar.YEAR, tokenLen); }
+[PATCH] if(tokenLen >= 4){ rule = new LineNumberRule(Calendar.YEAR, tokenLen); }
+[PATCH] if(tokenLen >= 4){ rule = new TextField(Calendar.YEAR, years);
+[PATCH] if(tokenLen >= 4){ rule = selectNumberRule(Calendar. YEAR, tokenLen); }
+[PATCH] if(tokenLen >= 4){ rule = selectNumberRule(GregorianCalendar.YEAR, tokenLen); }
+[PATCH] if(tokenLen >= 4){ rule = selectNumberRule(Calendar.YEAR, tokenLen); }
+[PATCH] if(tokenLen >= 4){ ruleSet = selectNumberRule(Calendar.YEAR, tokenLen); }
+[PATCH] if(tokenLen >= 4){ rule = selectNumber Rule(Calendar.YEAR, tokenLen); }
+[PATCH] if(tokenLen >= 4){ rule = selectNumberRule(Calendar.YEAR, 13); }
+[PATCH] if(tokenLen >= 4){ target = selectNumberRule(Calendar.YEAR, tokenLen); }
+[PATCH] if(tokenLen >= 4){ rule = selectIntegerRule(Calendar.YEAR, tokenLen); }
+[PATCH] if(tokenLen >= 4){ rule = new NumberFormat(Calendar.YEAR, tokenLen); }
+[PATCH] if(tokenLen >= 4){ rule = selectNumberRule(Calendar.YEAR, tokenLen);}
+[PATCH] if(dateLen >= 4){ rule = selectNumberRule(Calendar.YEAR, tokenLen); }
+[PATCH] if(tokenLen >= 4){ rule = selectNumberRule(Calendar.YEAR, tokenLen; }
+[PATCH] if(tokenLen >= 4){ rule = selectedNumberRule(Calendar.YEAR, tokenLen); }
+[PATCH] if(tokenLen >= 4){ rule = new ValueRule(Calendar.YEAR, tokenLen); }
+[PATCH] if(tokenLen >= 4){ rule = selectNumberRule(Calendar.YEAR, indexRef); }
+[PATCH] if(calendarLen >= 4){ rule = selectNumberRule(Calendar.YEAR, tokenLen); }
+[PATCH] if(tokenLen >= 4){ rule = new TextField(Calendar.YEAR, yearValues); }
+[PATCH] if(tokenLen >= 4){ rule = new DateRule(Calendar.YEAR, tokenLen); }
+[PATCH] if(tokenLen == 3){ rule = selectNumberRule(Calendar.YEAR, tokenLen); }
+[PATCH] if(tokenLen >= 4){ rule = selectNumberRule(Gregorian.YEAR, tokenLen); }
+[PATCH] if(tokenLen >= 4){ rule = selectNumberRule(Calendar.YEAR, sampleNumChars); }
+[PATCH] if(tokenLen >= 4){ rule = selectNumberRule(Calendar.YEAR, tokenlen); }
+[PATCH] if(tokenLen >= 4){ rule = selectNumberRule(Calendar.YEAR, TOKEN_LEN); }
+[PATCH] if(tokenLen >= 4){ label = selectNumberRule(Calendar.YEAR, tokenLen); }
+[PATCH] if(tokenLen >= 4){ rule = selectNumberRule(Calendar.YEAR, TokenLen); }
+[PATCH] if(tokenLen >= 4){ rule = new TextField(Calendar.YEAR, tokenLen); }
+[PATCH] if(tokenLen >= 5){ rule = selectNumberRule(Calendar.YEAR, tokenLen); }
+[PATCH] if(tokenLen >= 4){ rule = selectNumberRule(Calendar.YEAR, 12); }
+[PATCH] if(tokenLen == 4){ rule = new TextField(Calendar.YEAR, years); }
+[PATCH] if(tokenLen >= 4){ rule = selectNumberRule(Calendar.YEAR, data); }
+[PATCH] if(tokenLen >= 4){ rule = selectNumberRule(Calendar.YEAR, totalDigits); }
+[PATCH] if(tokenLen >= 4){ rule = selectNumberRule(Calendar.YEAR, i); }
+[PATCH] if(tokenLen >= 4){ rule = selectNumberRule(Calendar.YEAR, TOKENLen); }
+[PATCH] if(tokenLen == 4){ rule = selectNumberRule(Calendar.YEAR, tokenLen);
+[PATCH] if(tokenLen >= 4){ rule = selectNumberRule(Calendar.YEAR, count); }
+[PATCH] if(tokenLen >= 4){ rule = selectNumberRule(Calendar.YEAR, tok); }
+[PATCH] if(tokenLen >= 4){ rule = selectNumberRule(Calendar.YEAR, tokenLen); // }
+[PATCH] if(tokenLen >= 4){ rule = selectNumberRule(Calendar.YEAR, bucket); }
+[PATCH] if(tokenLen >= 4){ rule = selectNumberRule(Calendar.YEAR, months); }
+[PATCH] if(tokenLen >= 4){ rule = selectNumberRule(Calendar.YEAR, tokenLen]; }
+[PATCH] if(tokenLen >= 4){ rule = selectNumberRule(Calendar.YEAR, 14); }
+[PATCH] if(tokenLen >= 4){ rule = selectNumberRule(Calendar.YEAR, currDate); }
+[PATCH] if(tokenLen >= 4){ rule = new TextField(Calendar.YEAR, Years); }
+[PATCH] if(tokenLen >= 4){ rule = new Field(Calendar.YEAR, years); }
+[PATCH] if(tokenLen >= 4){ rule = new TextField(Calendar.YEAR, getYears());
+[PATCH] if(tokenLen >= 4){ rule = selectNumberRule(Calendar.YEAR, tokenLen); }
+[PATCH] if(tokenLen >= 4){ rule = new StringField(Calendar.YEAR, years); }
+[PATCH] if(tokenLen >= 4){ rule = selectNumberRule(Calendar.YEAR, tokenLen); ; }
+[PATCH] if(tokenLen >= 4){ rule = selectNumberRule(Calendar.YEAR, tokenLen); 1 }
+[PATCH] if(tokenLen >= 4){ rule = new TextField(Calendar.YEAR, years);
+[PATCH] if(tokenLen >= 4){ rule = selectNumberRule(Calendar.YEAR, tokenLen); 4 }

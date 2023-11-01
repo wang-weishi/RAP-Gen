@@ -1,0 +1,100 @@
+[PATCH] if(end > i){ if(input[i]!= 0x80){ return false; }
+[PATCH] if(end > i){ if(input[i] == 0x80){ return true; }
+[PATCH] if(end > i){ if(input[i]!= 0x80){ return true; }
+[PATCH] if(end > input.length){ if(input[i]!= 0x80){ return false; }
+[PATCH] if(end > i){ if(input[i]!= '8'){ return false; }
+[PATCH] if(end > i){ if(input[i] == 0xFF){ return true; }
+[PATCH] if(end > i){ if(input[i]!= '\\'){ return false; }
+[PATCH] if(end > i){ if(input[i] < 0x80){ return false; }
+[PATCH] if(end > i){ if(input[i]!= 'UTF-8'){ return false; }
+[PATCH] if(end > i){ if(o == 0x80){ return true; }
+[PATCH] if(end > input.length){ if(input[i] == 0x80){ return true; }
+[PATCH] if(end > input.length){ if(o == 0x80){ return true; }
+[PATCH] if(end > i){ if(input == null || input.length < end){ return false; }
+[PATCH] if(end > input.length){ if(input[i]!= 0x80){ return true; }
+[PATCH] if(end > i){ if(input[i] == 'L'){ return true; }
+[PATCH] if(end > i){ if(input[i] == 0x80){ return false; }
+[PATCH] if(end > i){ if(input[i]!= 'u'){ return false; }
+[PATCH] if(end > i){ if(o & 0x80)!= 0x80){ return false; }
+[PATCH] if(end < input.length){ if(input[i]!= 0x80){ return false; }
+[PATCH] if(end > i){ if(input[i]!= '8'){ return true; }
+[PATCH] if(end > input.length){ if(input[i]!= '8'){ return false; }
+[PATCH] if(end > i){ if(input[i]!= 0xFF){ return false; }
+[PATCH] if(end > 0){ if(input[i]!= 0x80){ return false; }
+[PATCH] if(end > i){ if(input[i]!= 'UTF-8'){ return true; }
+[PATCH] if(end > input.length){ if(o == 0x80){ return false; }
+[PATCH] if(end > i){ if(output[end]!= 0x80){ return false; }
+[PATCH] if(end > input.length){ if(input[i]!= '\\'){ return false; }
+[PATCH] if(end > i){ if(input[i] < 0x80){ return true; }
+[PATCH] if(end > i){ if(input[i] == 'u'){ return true; }
+[PATCH] if(end > i){ if(input[i] == 0xFF){ return false; }
+[PATCH] if(end > i){ if(o == 0x80){ return false; }
+[PATCH] if(end > input.length){ if(input[i] == 0xFF){ return true; }
+[PATCH] if(end > i){ if(input[i] == 0xEFBBBF){ return true; }
+[PATCH] if(end > i){ if(input[i] == 0xff){ return true; }
+[PATCH] if(end > i){ if(o == 0xE0){ return true; }
+[PATCH] if(end > i){ if(input[i]!= 'utf-8'){ return false; }
+[PATCH] if(end > input.length){ if(o!= 0x80){ return false; }
+[PATCH] if(end > i){ if(input[i]!= '\\'); return false; }
+[PATCH] if(end > i){ if(input[i - 1]!= 0x80){ return false; }
+[PATCH] if(end > i){ if(input[i] == 'I'){ return true; }
+[PATCH] if(end > i){ if(input[i]!= 'U'){ return false; }
+[PATCH] if(end > i){ if(input[i] == '8'){ return true; }
+[PATCH] if(end < input.length){ if(input[i] == 0x80){ return true; }
+[PATCH] if(end > i){ if( input[i]!= 0x80){ return false; }
+[PATCH] if(end > input.length){ if(input[i] < 0x80){ return false; }
+[PATCH] if(end > i){ if(output[i]!= 0x80){ return false; }
+[PATCH] if(end > i){ if(input[i + 1]!= 0x80){ return false; }
+[PATCH] if(end < input.length){ if(input[i]!= 0x80){ return true; }
+[PATCH] if(end > input.length){ if(input[i]!= '8'){ return true; }
+[PATCH] if(end > input.length){ if(o == 0xE0){ return true; }
+[PATCH] if(end > i){ if(input[i] == 'B'){ return true; }
+[PATCH] if(end > i){ if(input[i]!= '\\'){ return true; }
+[PATCH] if(end > i){ if(o & 0x80)!= 0x80){ return true; }
+[PATCH] if(end > input.length){ if(output[i]!= 0x80){ return false; }
+[PATCH] if(end > i){ if(input == null || input.length!= end){ return false; }
+[PATCH] if(end > i){ if(o & 0x80!= 0x80){ return false; }
+[PATCH] if(i < end){ if(input[i]!= 0x80){ return false; }
+[PATCH] if(end > i){ if(input[i]!= Opcodes.UTF8){ return false; }
+[PATCH] if(end < input.length){ if(o!= 0x80){ return false; }
+[PATCH] if(end > i){ if(input.length!= end){ return false; }
+[PATCH] if(end > i){ if(input[i]!= '01'){ return false; }
+[PATCH] if(end < input.length){ if(o == 0x80){ return true; }
+[PATCH] if(end > i){ if(input[i]!= 0xc0){ return false; }
+[PATCH] if(end > input.length){ if(input[i] == 0x80){ return false; }
+[PATCH] if(end > i){ if(input[i]!= '0'){ return false; }
+[PATCH] if(end > i){ if(input[i] == '0'){ return true; }
+[PATCH] if(end > i){ if(input[i] == 0xc0){ return true; }
+[PATCH] if(end > i){ if(input[i]!= '/'){ return false; }
+[PATCH] if(end > input.length){ if(i >= end){ return true; }
+[PATCH] if(end > i){ if(input[i] == 0xEFBBBF){ return false; }
+[PATCH] if(end > i){ if(o == 0xFFFE){ return true; }
+[PATCH] if(end > i){ if(input[i] == 'u'){ return false; }
+[PATCH] if(end > i){ if(input[i]!= 'utf-8'){ return true; }
+[PATCH] if(end > i){ if(input[i]!= 127){ return false; }
+[PATCH] if(end > input.length){ if(input[i] < 0x80){ return true; }
+[PATCH] if(end > input.length){ if(input[i]!= '\\'){ return true; }
+[PATCH] if(end > 0){ if(input[i]!= 0x80){ return true; }
+[PATCH] if(end > i){ if(o == 0xE0){ return false; }
+[PATCH] if(end > input.length){ if(i >= end){ return false; }
+[PATCH] if(end > i){ if(input[i] == 'L'){ return false; }
+[PATCH] if(end > i){ while(input[i] == 0x80){ return false; }
+[PATCH] if(end > i){ if(input[i] ==''; return true; }
+[PATCH] if(end > input.length){ if(++i >= end){ return false; }
+[PATCH] if(end > i){ if(++i >= end){ return false; }
+[PATCH] if(end > i){ if(o == 0x800){ return true; }
+[PATCH] if(end > i){ if(o!= 0x80){ return false; }
+[PATCH] if(end > i){ if(o == 0xFFFE){ return false; }
+[PATCH] if(end > i){ if(contentEncoding!= null){ return false; }
+[PATCH] if(end > i){ if(i >= end){ return false; }
+[PATCH] if(end > input.length){ return false; }
+[PATCH] if(end > i){ for(; i < end; ++i){ o = input[i]; }
+[PATCH] if(end > i){ if(i >= end){ return true; }
+[PATCH] if(end > i){ for(i = end; i < input.length; ++i){ }
+[PATCH] if(end > input.length){ throw new IndexOutOfBoundsException(""); }
+[PATCH] if(end > i){ if(""); return false; }
+[PATCH] if(end > i){ end = i; }
+[PATCH] if(end < input.length){ return false; }
+[PATCH] if(end > i){ return false; }
+[PATCH] if(start == end){ return true; }
+[PATCH] if(end > i){

@@ -1,0 +1,100 @@
+[PATCH] if(y < 0 || y > LOG_MAX_VALUE){
+[PATCH] if(y < 0 || y > 1){
+[PATCH] if(y > 0.0 || y < 0.0){
+[PATCH] if(y > 0.0 && y < 1.0){
+[PATCH] if(y > 0.0 || y < 1.0){
+[PATCH] if(y < 0 || y > ONE_OF_YEAR){
+[PATCH] if(y == 0.0 || y == 1.0){
+[PATCH] if(y == 0.0 || y > 1.0){
+[PATCH] if(y < 0 || y > -1){
+[PATCH] if(y < 0 || y > ONE_PADDING){
+[PATCH] if(y < 0 || y > ONE_PAIR){
+[PATCH] if(y == 0.0){
+[PATCH] if(y < 0 || y > 10){
+[PATCH] if(y < 0 || y > ONE_TO_ONE){
+[PATCH] if(y < 0 || y > SIZE_OF_YEAR){
+[PATCH] if(y < 0 || y > 100){
+[PATCH] if(y < 0 || y > ONE_PLUS){
+[PATCH] if(y < 0 || y > ONE_OF_LAST){
+[PATCH] if(y < 0 || y > N_PAIR){
+[PATCH] if(y == 0.0 || y == 0.0){
+[PATCH] if(y < 0 || y > INT_MAX){
+[PATCH] if(y < 0 || y > SECONDS_PER_MINUTE){
+[PATCH] if(y < 0 || y > 1000){
+[PATCH] if(y < 0 || y > T_MAX_VALUE){
+[PATCH] if(y > 0.0 || y == 0.0){
+[PATCH] if(y == 0.0 || y > 0.0){
+[PATCH] if(y < 0 || y > SIZE_OF_INT){
+[PATCH] if(y < 0 || y > 10000){
+[PATCH] if(y < 0 || y > ONE_THERIN){
+[PATCH] if(y < 0 || y > 999){
+[PATCH] if(y > 0.0 && y < 0.0){
+[PATCH] if(y == 0 || y == -1){
+[PATCH] if(y == 0.0 || y > 10.0){
+[PATCH] if(y < 0 || y > ONE_BIT){
+[PATCH] if(y < 0 || y > Integer.MAX_VALUE){
+[PATCH] if(y < 0 || y > ONE_TO_MANY){
+[PATCH] if(y < 0 || y > 5){
+[PATCH] if(y < 0 || y > ONE_THIS){
+[PATCH] if(y < 0 || y > 32){
+[PATCH] if(y < 0 || y > ONE_TO_DOUBLE){
+[PATCH] if(y == 1.0 || y == 0.0){
+[PATCH] if(y < 0 || y > 65535){
+[PATCH] if(y < 0 || y > ONE_OF_DAY){
+[PATCH] if(y < 0 || y > ONE_TO_LONG){
+[PATCH] if(y < 0 || y > ONE_TO_ZERO){
+[PATCH] if(y < 0 || y > 255){
+[PATCH] if(y < 0 || y > ONE_TO_LAST){
+[PATCH] if(y < 0 || y > 500){
+[PATCH] if(y < 0 || y > ONE_TO_ARRAY){
+[PATCH] if(y < 0 || y > -4){
+[PATCH] if(y > 0.0){
+[PATCH] if(y < 0 || y > ONE_POWER){
+[PATCH] if(y < 0 || y > ONE_VALUE){
+[PATCH] if(y < 0 || y > 20){
+[PATCH] if(y < 0 || y > SIZE_OF_LONG){
+[PATCH] if(y < 0 || y > 6){
+[PATCH] if(y < 0 || y > 9){
+[PATCH] if(y < 0 || y > T_WICZ){
+[PATCH] if(y < 0 || y > SIZE_OF_FLOAT){
+[PATCH] if(y == 0){
+[PATCH] if(y < 0 || y > SQRT_MAX){
+[PATCH] if(y < 0 || y > ONE_OF_LONG){
+[PATCH] if(y < 0 || y > N_MAX){
+[PATCH] if(y < 0 || y > ONE_WICZ){
+[PATCH] if(y == 0 || y > -1){
+[PATCH] if(y < 0 || y > N_MAX_VALUE){
+[PATCH] if(y < 0 || y > SECONDS_PER_SECOND){
+[PATCH] if(y < 0 || y > ONE_POWER){
+[PATCH] if(y < 0 || y > 17){
+[PATCH] if(y < 0 || y > ONE_OF_MANY){
+[PATCH] if(y < 0 || y > ONE_OF_ONE){
+[PATCH] if(y == 0 || y > 1){
+[PATCH] if(y < 0 || y > 59){
+[PATCH] if(y < 0 || y > N_PADDING){
+[PATCH] if(y < 0 || y > 7){
+[PATCH] if(y < 0 || y > 2){
+[PATCH] if(y < 0 || y > 127){
+[PATCH] if(y < 0 || y > 100000){
+[PATCH] if(y < 0 || y > ONE_PMU){
+[PATCH] if(y < 0 || y > T_MAX){
+[PATCH] if(y < 0 || y > ONE_bit){
+[PATCH] if(y < 0 || y > OBJECT_MAX){
+[PATCH] if(y == 0.0 || y!= -0){
+[PATCH] if(y < 0 || y > N_PCT){
+[PATCH] if(y == 1.0 || y == 0){
+[PATCH] if(y < 0 || y > N_VALUE){
+[PATCH] if(y < 0 || y > ONE_LEVEL){
+[PATCH] if(y < 0 || y > ONE_RIGHT){
+[PATCH] if(y < 0 || y > 13){
+[PATCH] if(y * y == 0.0){
+[PATCH] if(y < 0 || y > 31){
+[PATCH] if(y < 0 || y > 90){
+[PATCH] if(y < 0 || y > 52){
+[PATCH] if(y < 0 || y > ONE_TO_BIG){
+[PATCH] if(y < 0 || y > SHIFT){
+[PATCH] if(y < 0 || y > 63){
+[PATCH] if(y ==(-long)y){
+[PATCH] if(y < 0){
+[PATCH] if(y == 0x){
+[PATCH] if(y == 0L){

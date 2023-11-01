@@ -1,0 +1,100 @@
+[PATCH] if(out!= null){ if(out.length < outAvail){ buffer = out; pos = outPos; readPos = outAvail; }
+[PATCH] if(out!= null){ if(outPos < outAvail){ buffer = out; pos = outPos; readPos = outAvail; }
+[PATCH] if(out!= null){ if(outPos < out.length){ buffer = out; pos = outPos; readPos = outAvail; }
+[PATCH] if(out!= null){ if(out.length == outAvail){ buffer = out; pos = outPos; readPos = outAvail; }
+[PATCH] if(out!= null){ if(outPos > outPos){ buffer = out; pos = outPos; readPos = outAvail; }
+[PATCH] if(checkInitialBuffer()){ if(out!= null){ buffer = out; pos = outPos; readPos = outAvail; }
+[PATCH] if(out!= null){ setInitialBuffer(out, outPos, outAvail); }
+[PATCH] if(!setInitialBuffer()){ if(out!= null){ buffer = out; pos = outPos; readPos = outAvail; }
+[PATCH] if(out!= null){ if(outPos > readPos){ buffer = out; pos = outPos; readPos = outAvail; }
+[PATCH] if(out!= null){ if(out.length!= outAvail){ buffer = out; pos = outPos; readPos = outAvail; }
+[PATCH] if(out!= null){ for(byte[] out : out){ setInitialBuffer(out, outPos, outAvail); }
+[PATCH] if(( outPos + outAvail)> 0){ if(out!= null){ buffer = out; pos = outPos; readPos = outAvail; }
+[PATCH] if(out!= null){ if(out.length < outAvail){ throw new IllegalArgumentException(""); }
+[PATCH] if(out!= null){ for(byte[] out : out){ buffer = out; pos = outPos; readPos = outAvail; }
+[PATCH] if(out!= null){ if(out.length > outAvail){ buffer = out; pos = outPos; readPos = outAvail; }
+[PATCH] if(out!= null){ if(outPos > pos){ buffer = out; pos = outPos; readPos = outAvail; }
+[PATCH] if(out!= null){ if(outPos < outLen){ buffer = out; pos = outPos; readPos = outAvail; }
+[PATCH] if(!setInitialBuffer()){ setInitialBuffer(out, outPos, outAvail); }
+[PATCH] if(out!= null){ setInitialBuffer(out, 0, outPos, outAvail); }
+[PATCH] if(out!= null){ if(outPos < outAvail){ pos = outPos; readPos = outAvail; }
+[PATCH] if(out!= null){ if(!out.length == outAvail){ buffer = out; pos = outPos; readPos = outAvail; }
+[PATCH] if(out!= null){ if(out.length < outAvail){ buffer = out; pos = 0; readPos = outPos; }
+[PATCH] if(( outPos + outAvail)< 0){ if(out!= null){ buffer = out; pos = outPos; readPos = outAvail; }
+[PATCH] if(out!= null){ if(out.length < outAvail){ buffer = out; pos = outPos; readPos = outavail; }
+[PATCH] if(out!= null){ if(outPos < out.length){ buffer = out; pos = outPos; readPos = outavail; }
+[PATCH] if(out!= null){ if(( outPos + outAvail)> 0){ buffer = out; pos = outPos; readPos = outAvail; }
+[PATCH] if(!setInitialBuffer(out, outPos, outAvail)) { setInitialBuffer(out, outPos, outAvail); }
+[PATCH] if(out!= null){ if(outPos < outAvail){ buffer = out; pos = outPos; readPos = outavail; }
+[PATCH] if(out!= null){ if(outPos > readPos){ pos = outPos; readPos = outAvail; }
+[PATCH] if(out!= null){ if(out.length < outAvail){ buffer = out; pos = outPos; readPos = outAVail; }
+[PATCH] if(( outPos < 0)||(outPos + outAvail > 0)) { throw new IllegalArgumentException(""); }
+[PATCH] if(out!= null){ if(outPos < 0 || outPos > outAvail){ throw new IllegalArgumentException(""); }
+[PATCH] if(out!= null){ if(outPos < outAvail){ buffer = out; pos = 0; readPos = outPos; }
+[PATCH] if(out!= null){ if(outPos < outAvail){ setInitialBuffer(out, outPos, outAvail); }
+[PATCH] if(out!= null){ if(outPos < out.length){ buffer = out; pos = outPos; readPos = outAVail; }
+[PATCH] if(out!= null){ if(out.length == outAvail){ buffer = out; pos = 0; readPos = 0; }
+[PATCH] if(out!= null){ if(out.length == outAvail){ buffer = out; pos = outPos; readPos = outavail; }
+[PATCH] if(out!= null){ for(int x = 0; x < out.length; x++){ buffer[x] = '1'; }
+[PATCH] if(out!= null){ if(out.length == 0){ buffer = null; pos = 0; readPos = 0; }
+[PATCH] if(out!= null){ for(byte[] out : out){ buffer = out; pos = outPos; readPos = out.length; }
+[PATCH] if(out!= null){ if(out == null ||!out.length){ out = null; pos = 0; readPos = 0; }
+[PATCH] if(out!= null){ int len = out.length; if(len > 0){ buffer = out; pos = 0; readPos = len; }
+[PATCH] if(out!= null){ if(out.length == outAvail){ buffer = out; pos = outPos; readPos = 0; }
+[PATCH] if(out!= null){ if(outPos < outAvail){ buffer = out; pos = outPos; readPos = outAVail; }
+[PATCH] if(out!= null){ setInitialBuffer(out, outPos, outAvail); } else { throw new IllegalArgumentException(""); }
+[PATCH] if(out!= null){ if(outPos > outPos){ buffer = out; pos = outPos; readPos = outavail; }
+[PATCH] if(out!= null){ if(out[0] == outAvail){ buffer = out; pos = 0; readPos = 0; }
+[PATCH] if(init()){ if(out!= null){ buffer = out; pos = outPos; readPos = outAvail; }
+[PATCH] if(out!= null){ if(out.length < outAvail){ buffer = out; pos = outPos; readPos = 0; }
+[PATCH] if(out!= null){ if(outPos < outAvail){ setInitialBuffer(out, pos, outPos, outAvail); }
+[PATCH] if(( outPos < 0)||(outPos + outAvail > 0)) { setInitialBuffer(out, outPos, outAvail); }
+[PATCH] if(out!= null){ if(outPos < out.length){ buffer = out; pos = outPos; readPos = outLen; }
+[PATCH] if(out!= null){ if(outPos < outAvail){ throw new IllegalArgumentException(""); }
+[PATCH] if(out!= null){ if(outPos > 0){ buffer = out; pos = outPos; readPos = outAvail; }
+[PATCH] if(out!= null){ if(outPos < out.length){ throw new IllegalArgumentException(""); }
+[PATCH] if(checkInitialBuffer()){ if(out!= null){ buffer = out; pos = outPos; readPos = outavail; }
+[PATCH] if(out!= null){ setInitialBuffer(out[0], outPos, outAvail); }
+[PATCH] if(out!= null){ if(( outPos + outAvail)> buffer.length){ buffer = out; pos = outPos; readPos = 0; }
+[PATCH] if(out!= null){ int len = out.length - outPos; if(len > 0){ setInitialBuffer(out, pos, len); }
+[PATCH] if(( outPos < 0)||(outPos + outAvail > 0)) { buffer = out; pos = 0; readPos = 0; }
+[PATCH] if(out!= null){ for(int x = 0; x < out.length; x++){ buffer[x] = '2'; }
+[PATCH] if(out!= null){ if(out.length < outAvail){ buffer = out; pos = outPos; readPos = outLen; }
+[PATCH] if(!setInitialBuffer()){ if(out!= null){ buffer = out; pos = outPos; readPos = outavail; }
+[PATCH] if(out!= null){ for(int x = 0; x < out.length; x++){ buffer = out[x]; pos = 0; }
+[PATCH] if(out!= null){ if(outPos < 0){ buffer = null; pos = 0; readPos = 0; }
+[PATCH] if(out!= null){ if(outPos < outLen){ buffer = out; pos = outPos; readPos = outLen; }
+[PATCH] if(out!= null){ for(int x = 0, y = 0; x < out.length; x++){ buffer[x] = '1'; }
+[PATCH] if(out!= null){ if(outPos < 0){ buffer = null; pos = outPos; readPos = 0; }
+[PATCH] if(out!= null){ if(outPos < 0){ out = null; pos = 0; readPos = 0; }
+[PATCH] if(out!= null){ if(outPos < out.length){ buffer = out; pos = outPos; readPos = 0; }
+[PATCH] if(out!= null){ if(out.length < outAvail){ throw new IOException(""); }
+[PATCH] if(( out == null || outPos + outAvail)> buffer.length){ throw new IllegalArgumentException(""); }
+[PATCH] if(out!= null){ for(byte[] out : out){ buffer = out; pos = outPos; readPos = outLen; }
+[PATCH] if(getInitialBuffer()!= null){ setInitialBuffer(out, outPos, outAvail); }
+[PATCH] if(out!= null){ setInitialBuffer(out, outPos, outAvail); } else { reset(); }
+[PATCH] if(init()){ if(out!= null){ buffer = out; pos = outPos; readPos = 0; }
+[PATCH] if(out!= null){ for(int x = 0; x < out.length; x += 2){ setImpl(x, 0, 0); }
+[PATCH] if(checkInitialBuffer()){ if(out!= null){ buffer = out; pos = outPos; readPos = 0; }
+[PATCH] if(out!= null){ if(outPos < 0){ pos = 0; readPos = outPos; }
+[PATCH] if(out!= null){ setInitialBuffer(out, pos, outPos, outAvail); }
+[PATCH] if(out!= null){ if(outPos + outAvail > buffer.length){ buffer = out; pos = outPos; readPos = 0; }
+[PATCH] if(out!= null){ for(int x = 0, y = 0; x < out.length; x++){ buffer[x] = '2'; }
+[PATCH] if(out!= null){ setInitialBuffer(out, outPos, outAvail); } else { pos = 0; }
+[PATCH] if(( outPos + outAvail)> 0){ if(out!= null){ buffer = out; pos = outPos; readPos = outavail; }
+[PATCH] if(out!= null){ if(outPos < 0){ throw new IllegalArgumentException(""); }
+[PATCH] if(out!= null){ if(outPos > outPos){ throw new IllegalArgumentException(""); }
+[PATCH] if(out!= null){ if(out.length < outAvail){ start = 0; }
+[PATCH] if(( outPos + outAvail)> 0){ if(out!= null){ buffer = out; pos = outPos; readPos = outAVail; }
+[PATCH] if(out!= null){ if(out.length < outAvail){ buffer = out; pos = 0; }
+[PATCH] if(out!= null){ setInitialBuffer(out, outPos, outAvail); } else { setInitialBuffer(out[outPos++]); }
+[PATCH] if(out!= null){ if(out.length < outAvail){ break; }
+[PATCH] if(out!= null){ for(int x = 0, len = out.length; x < len; ++x){ buffer[pos] = '1'; }
+[PATCH] if(out!= null){ if(outPos < outLen){ throw new IllegalArgumentException(""); }
+[PATCH] if(out!= null){ setInitialBuffer(out, outPos, outAvail); } else { setInitialBuffer(out[outPos]); }
+[PATCH] if(( out.length & 0x03)== 0){ if(out!= null){ buffer = out; pos = outPos; readPos = outLen; }
+[PATCH] if(out!= null){ if(out.length < outAvail){ buffer = out; pos = outPos; readPos = outAvail - 1; }
+[PATCH] if(out!= null){ for(int x = 0; x < out.length; x += 2){ setImpl(x, 0, 0, 0); }
+[PATCH] if(out!= null){ int len = out.length - outPos; if(len > buf.length){ buffer = out; pos = 0; }
+[PATCH] if(( out == null)||(out.length!= outAvail)) { if(!setInitialBuffer(outPos, outPos)) { init(); }
+[PATCH] if(out!= null){ setInitialBuffer(out, outPos, outAvail); } else { setInitialBuffer(out, 0, -1); }

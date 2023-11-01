@@ -1,0 +1,100 @@
+[PATCH] if(yMin * yMax < 0){ if(yMin == 0.0){ setResult(yMin, 0); return result; }
+[PATCH] if(yMin * yMax < 0){ setResult(yMin, 0); return result; }
+[PATCH] if(yMin * yMax < 0){ if(yInitial * yMin == 0.0){ return result; }
+[PATCH] if(yMin * yMax < 0){ if(yMin == 0.0){ setResult(yMin, 1); return result; }
+[PATCH] if(yMin * yMax < 0){ return solve(f, initial, yMin, max, yMax, initial, yInitial); }
+[PATCH] for(yMin : initial * yMax){ if(yMin < 0){ setResult(yMin, 0); return result; }
+[PATCH] if(yMin * yMax < 0){ if(yMin == 0.0){ return result; }
+[PATCH] if(yMin * yMax < 0){ setResult(yMin, 1); return result; }
+[PATCH] for(yMin : yMax){ if(yMin * yMin < 0){ setResult(yMin, 0); return result; }
+[PATCH] for(yMin : yMins){ if(yInitial * yMax < 0){ setResult(yMin, 0); return result; }
+[PATCH] if(yMin * yMax < 0){ return solve(f, min, yMin, max, yMax, initial, yInitial); }
+[PATCH] if(yMin * yMax < 0){ if(yInitial * yMin == 0.0){ setResult(yMin, 0); }
+[PATCH] for(yMin : yMins){ if(yMax * yMax < 0){ setResult(yMin, 0); return result; }
+[PATCH] if(yMin * yMax < 0){ if(yInitial == 0.0){ return result; }
+[PATCH] for(yMin : yMin){ if(yMax * yMax < 0){ setResult(yMin, 0); return result; }
+[PATCH] for(yMin : yMin){ if(yInitial * yMax < 0){ setResult(yMin, 0); return result; }
+[PATCH] for(yMin : initial * yMax){ if(yMin == 0.0){ setResult(yMin, 0); return result; }
+[PATCH] if(yMin * yMax < 0){ if(yMin == 1.0){ setResult(yMin, 0); return result; }
+[PATCH] if(yMin * yMax < 0){ if(yInitial == 0.0){ setResult(yMin, 0); return result; }
+[PATCH] for(yMin : yMax){ if(yMin < 0){ setResult(yMin, 0); return result; }
+[PATCH] while(yMin * yMax < 0){ setResult(yMin, 1);
+[PATCH] if(yMin * yMax < 0){ if(yMin > initial){ setResult(yMin, 0); return result; }
+[PATCH] if(yMin * yMax < 0){ if(yInitial * yMin == 0){ setResult(yMin, 0); return result; }
+[PATCH] for(yMin : yMax){ if(yMin == 0.0){ setResult(yMin, 0); return result; }
+[PATCH] if(yMin * yMax < 0){ if(yMin == 0.0){ setResult(yMin, 0); }
+[PATCH] if(yInitial * yMin < 0){ if(yMin == 0.0){ setResult(yMin, 0); return result; }
+[PATCH] if(yMin * yMax < 0){ if(yMin > max){ setResult(yMin, 0); return result; }
+[PATCH] for(yMin : yInitial * yMax){ if(yMin < 0){ setResult(yMin, 0); return result; }
+[PATCH] if(yMin * yMax < 0){ if(yInitial * yMin >= 0){ setResult(yMin, 1); return result; }
+[PATCH] if(yMin * yMax < 0){ if(yInitial * yMin == 0.0){ setResult(yMin, 1); }
+[PATCH] if(yMin * yMax < 0){ result(yMin, 0); return result; }
+[PATCH] for(yMin : yMax){ if(yInitial * yMin < 0){ setResult(yMin, 0); return result; }
+[PATCH] if(yMin * yMax < 0){ return solve(f, min, yInitial, max, yMin, initial, yInitial); }
+[PATCH] if(yMin * yMax < 0){ if(yMin == initial){ setResult(yMin, 0); return result; }
+[PATCH] for(yInitial : yMax){ if(yMin * yMin < 0){ setResult(yMin, 0); return result; }
+[PATCH] for(yMin : yMax){ if(yMin * yMin < 0){ setResult(yMin, 1); return result; }
+[PATCH] if(yMin * yMax < 0){ if(yInitial * yMin < 0){ setResult(yMin, 0); return result; }
+[PATCH] if(yMin * yMax < 0){ if(yInitial * yMin == max){ setResult(yMin, 1); return result; }
+[PATCH] for(yMin : yMins){ if(yInitial * yMax < 0){ setResult(yMin, 1); return result; }
+[PATCH] for(yMin : yInitial){ if(yMin * yMax < 0){ setResult(yMin, 0); return result; }
+[PATCH] if(yMin * yMax < 0){ if(yInitial * yMin >= 0){ setResult(yMin, 0); return result; }
+[PATCH] for(yMin : yMins){ if(yMax * yMax < 0){ setResult(yMin, 1); return result; }
+[PATCH] if(yMin * yMax < 0){ if(yMin > max){ setResult(yMin, 1); return result; }
+[PATCH] if(yMin * yMax < 0){ if(yInitial * yMin == 0.0){ throw new IllegalArgumentException(""); }
+[PATCH] if(yMin * yMax < 0){ if(yInitial * yMin == max){ setResult(yMin, 0); return result; }
+[PATCH] for(yMin : yMin){ if(yMax * yMax < 0){ setResult(yMin, 1); return result; }
+[PATCH] for(yMin : initial * yMax){ if(yMin < 0){ setResult(yMin, 1); return result; }
+[PATCH] if(yMin * yMax < 0){ if(yMin == max){ setResult(yMin, 0); return result; }
+[PATCH] if(yMin * yMax < 0){ if(yInitial * yMin == 0){ setResult(yMin, 1); return result; }
+[PATCH] for(yMin : yMinSet){ if(yInitial * yMax < 0){ setResult(yMin, 0); return result; }
+[PATCH] for(yMin : initial * yMax){ if(yMin > max){ setResult(yMin, 0); return result; }
+[PATCH] for(yMin : yMin){ if(yInitial * yMax < 0){ setResult(yMin, 1); return result; }
+[PATCH] if(yMin * yMax < 0){ if(yMin > initial){ setResult(yMin, 1); return result; }
+[PATCH] while(yMin * yMax < 0){ setResult(yMin, 0);
+[PATCH] if(yMin * yMax < 0){ if(yInitial * yMin > max){ setResult(yMin, 1); return result; }
+[PATCH] if(yMin * yMax < 0){ if(yInitial * yMin > 0){ setResult(yMin, 1); return result; }
+[PATCH] if(yMin * yMax < 0){ if(yInitial * yMin > max){ setResult(yMin, 0); return result; }
+[PATCH] if(yMin * yMax < 0){ if(yInitial == 0.0){ setResult(yMin, 1); return result; }
+[PATCH] if(yMin * yMax < 0){ if(yInitial - yMin == 0.0){ return result; }
+[PATCH] if(yMin * yMax < 0){ if(yInitial * yMin > 0){ setResult(yMin, 0); return result; }
+[PATCH] if(yMin * yMax < 0){ if(yMin == 0.0){ setResult(yMin, 0); return result; }
+[PATCH] for(yMin : initial * yMax){ if(yMin == 0.0){ setResult(yMin, 1); return result; }
+[PATCH] if(yMin * yMax < 0){ if(yMin == initial){ setResult(yMin, 1); return result; }
+[PATCH] if(yMin * yMax < 0){ setResult(yMin, 1); return result; }
+[PATCH] for(yMin : yMax){ if(yInitial * yMin < 0){ setResult(yMin, 1); return result; }
+[PATCH] while(yMin * yMax < 0){ setResult(yMin, 1);
+[PATCH] for(yMin : yMins){ if(yInitial * yMax < 0){ setResult(yMin, 0); }
+[PATCH] if(yMin * yMax < 0){ if(yInitial / yMin == 0.0){ return result; }
+[PATCH] for(yMin : yMax){ if(yMin * yMin < 0){ setResult(yMin, 0); }
+[PATCH] for(yMin : yMins){ if(yMax * yMax < 0){ setResult(yMin, 0); }
+[PATCH] if(yMin * yMax < 0){ if(yInitial * yMin == 0){ return result; }
+[PATCH] if(yMin * yMax < 0){ if(yInitial * yMin == 1.0){ return result; }
+[PATCH] if(yMin * yMax < 0){ if(yMin == 0.0){ setResult(yMin, 1); }
+[PATCH] if(yMin * yMax < 0){ if(yMin > max){ setMax(yMin, 0.0); }
+[PATCH] for(yMin : initial * yMax){ if(yMin < 0){ setResult(yMin, 0); }
+[PATCH] for(yMin * yMax < 0; yMin++){ if(yInitial * yMin == 0){ return result; }
+[PATCH] for(yMin : yMin){ if(yMax * yMax < 0){ setResult(yMin, 0); }
+[PATCH] if(yMin * yMax < 0){ if(setResult(yMin, 0); return result; }
+[PATCH] if(yMin * yMax < 0){ result(yMin, 1); return result; }
+[PATCH] if(yMin * yMax < 0){ if(yMin > max){ setMax(yMin, 0.0); return result; }
+[PATCH] if(yMin * yMax < 0){ if(yMin == 0.0){ throw new IllegalArgumentException(""); }
+[PATCH] if(yMin * yMax < 0){ if(yInitial * yMin == 0.0){ continue; }
+[PATCH] else if(yMin * yMax < 0){ if(yInitial * yMin == 0.0){ return result; }
+[PATCH] if(yMin * yMax < 0){ if(yInitial * yMin == 0.0){ result(yMin, 0); }
+[PATCH] if(yInitial * yMin < 0){ setResult(yMin, 0); return result; }
+[PATCH] for(yMin : yMin){ if(yInitial * yMax < 0){ setResult(yMin, 0); }
+[PATCH] else if(yMin * yMax < 0){ if(yInitial * yMin == 0.0){ setResult(yMin, 0); }
+[PATCH] if(yMin * yMax < 0){ throw new IllegalArgumentException(""); }
+[PATCH] if(yMin * yMax < 0){ if(getResult(yMin)< 0){ setResult(yMin, 0); }
+[PATCH] if(yMin * yMax < 0){ if(yMin > max){ setMax(yMin, 0); }
+[PATCH] if(yMin * yMax < 0){ if(yInitial - yMin == 0.0){ setResult(yMin, 0); }
+[PATCH] if(yMin * yMax < 0){ if(yInitial == initial){ return result; }
+[PATCH] if(yMin * yMax < 0){ if(yInitial * yMin == 1.0){ setResult(yMin, 0); }
+[PATCH] if(yMin * yMax < 0){ if(yMin == initial){ return result; }
+[PATCH] if(yMin * yMax < 0){ if(yInitial * yMin == max){ return result; }
+[PATCH] if(yMin * yMax < 0){ if(yInitial / yMin == 0.0){ setResult(yMin, 0); }
+[PATCH] else if(yMin * yMax < 0){ if(yInitial * yMin == 0.0){ setResult(yMin, 1); }
+[PATCH] if(yMin * yMax < 0){ if(yInitial * yMin == 2.0){ setResult(yMin, 1); }
+[PATCH] if(yMin * yMax < 0){ if(getResult(yMin, 0)== 0){ setResult(yMin, 0); }
+[PATCH] if(yMin * yMax < 0){ if(yMin == max){ return result; }

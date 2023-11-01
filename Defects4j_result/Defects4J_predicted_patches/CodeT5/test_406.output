@@ -1,0 +1,100 @@
+[PATCH] if(u * v == 0){ return 0; } if(v * u == 0){ return p; }
+[PATCH] if(p > 0.0){ return p; } if(v > 0){ v = -v; }
+[PATCH] if(u * v == 0){ return 0; } if(v * u == 0){ return 1; }
+[PATCH] if(u * v == 0){ return 0; } if(u * v == 0){ return p; }
+[PATCH] if(u * v == 0){ return p; } if(v > 0){ v = -v; }
+[PATCH] if(u * v == 0){ return p; } if(v * u == 0){ return q; }
+[PATCH] if(p > 0.0){ return p; } if(q > 0){ v = -v; }
+[PATCH] if(p == 1){ return 0; } if(v == 0){ return p; }
+[PATCH] if(p > 0.0){ return q; } if(u * v == 0.0){ return p; }
+[PATCH] if(u * v == 0){ return 0; } if(v > 0){ v = -v; }
+[PATCH] if(u * v == 0){ return p; } if(v * u > 0){ v = -v; }
+[PATCH] if(p == 1){ return 0; } if(q == 1){ return p; }
+[PATCH] if(u * v == 0){ return p; } if(v * u >= 0){ v = -v; }
+[PATCH] if(u == 0.0){ return 0; } if(v == 0){ return p; }
+[PATCH] if(p == 0){ return 0; } if(v == 0){ return p; }
+[PATCH] if(u == 0){ return 0; } if(v == 0){ return p; }
+[PATCH] if(p > 0.0){ return 1; } if(v > 0){ v = -v; }
+[PATCH] if(u == v){ return 0; } if(v == 0){ return p; }
+[PATCH] if(u * v == 0){ return 0; } if(u * v == 0){ return 1; }
+[PATCH] if(p > 0.0){ return p / 2; } if(v > 0){ v = -v; }
+[PATCH] if(u * v == 0){ return 0; } else { u = p; v = q; }
+[PATCH] if(u * v == 0){ return q; } if(u * v == 0){ return p; }
+[PATCH] if(u * v == 0){ return 0; } if(v * u > 0){ v = -v; }
+[PATCH] if(p < 0.0){ return 0; } if(v > 0){ v = -v; }
+[PATCH] if(p > 0.0){ return p - 1; } if(v > 0){ v = -v; }
+[PATCH] if(p == q){ return 0; } if(v == 0){ return p; }
+[PATCH] if(u * v == 0){ return 0; } else { u = -u; v = -v; }
+[PATCH] if(p < 0.0){ return 0; } if(q > 0){ v = -v; }
+[PATCH] if(u * v == 0){ return 0; } else if(u * v == 0){ return p; }
+[PATCH] if(p > 0.0){ return p; } else if(v > 0){ v = -v; }
+[PATCH] if(u * v == 0){ return 0; } if(v * u == 1){ return p; }
+[PATCH] if(p == 0){ return 0; } if(q == 0){ return p; }
+[PATCH] if(u * v == 0){ return 0; } if(v * u >= 0){ v = -v; }
+[PATCH] if(p == 1 || q == 1){ return 0; } if(u * v == 0){ return p; }
+[PATCH] if(u * v == 0){ return 0; } if(v * u == q){ return p; }
+[PATCH] if(u * v == 0){ return 0; } if(v * u == p){ return 1; }
+[PATCH] if(u * v == 0){ return 0; } if(v * u == 0){ return q; }
+[PATCH] if(p == 0.0){ return 0; } if(v == 0){ return p; }
+[PATCH] if(u * v == 0){ return 0; } u = Math.gcd(u, v); }
+[PATCH] if(u * v == 0){ return p; } if(v * u == 1){ return q; }
+[PATCH] if(u * v == 0){ return 0; } if(!u.equals(v)) { return p; }
+[PATCH] if(p == 0){ return 0; } if(v == 0){ return 1; }
+[PATCH] if(p > 0){ return p; } if(v > 0){ v = -v; }
+[PATCH] if(p == 1){ return 0; } else if(p > 0){ v = -v; }
+[PATCH] if(p == 1){ return q; } if(u * v == 0){ return p; }
+[PATCH] if(p == q){ return 0; } if(u * v == 0){ return p; }
+[PATCH] if(p > 0.0){ return 1; } if(q > 0){ v = -v; }
+[PATCH] if(u * v > 0){ return p; } if(v * u >= 0){ v = -v; }
+[PATCH] return(Math.abs(p)+ Math.abs(q));
+[PATCH] if(u == 0.0){ return 0; } if(v == 0){ return 1; }
+[PATCH] if(p > 0.0){ return q; } if(u * v >= 0.0){ return p; }
+[PATCH] if(p < 0){ return 0; } if(q > 0){ v = -v; }
+[PATCH] if(p == 1){ return 0; } else if(v == 0){ return p; }
+[PATCH] if(u * q == 0){ return 0; } if(v * u == 0){ return p; }
+[PATCH] if(u * v == 0){ return 1; } if(u * v == 0){ return p; }
+[PATCH] if(u * v == 0){ return p; } if(v * u < 0){ v = -v; }
+[PATCH] if(u * v == 0){ return 0; } if(!u.equals(v)) { return 1; }
+[PATCH] if(u == 0.0){ return 0; } else if(v == 0){ return p; }
+[PATCH] if(u * v == 0){ return p; } if(v * u == 0){ return -1; }
+[PATCH] if(p == 0){ return 0; } if(q == 0){ return 1; }
+[PATCH] if(u * v == 0){ return 0; }
+[PATCH] u = Math.gcd(p, q); v = Math.gcd(v, p);
+[PATCH] if(u * v == 0){ return 1; } if(u * v == 0){ return 0; }
+[PATCH] if(u * v == 0){ return 0; } else { if(u * v == 0){ return p; }
+[PATCH] if(u * v == 0){ return 0; } if(v * u == q){ return 1; }
+[PATCH] if(p * q == 0){ return 0; } if(u * v == 0){ return p; }
+[PATCH] if(u * v == 0){ return 0; } else if(u * v == 0){ return 1; }
+[PATCH] if(p == 1){ return 0; } if(v == 0){ return Math.abs(u); }
+[PATCH] if(u == 0){ return 0; } if(v == 0){ return 1; }
+[PATCH] if(p == 0.0){ return 0; } if(v == 0){ return 1; }
+[PATCH] if(u == 0){ return 0; } else if(v == 0){ return p; }
+[PATCH] if(p == 0){ return 0; } else if(v == 0){ return p; }
+[PATCH] return(Math.abs(u)+ Math.abs(v));
+[PATCH] if(p > 0.0 || q > 0.0){ return p; }
+[PATCH] if(p == 0){ return 0; } if(q == 0){ return Math.abs(u); }
+[PATCH] if(u == q){ return 0; } if(v == 0){ return p; }
+[PATCH] if(p == q){ return 0; } if(v == 0){ return 1; }
+[PATCH] if(p == 1){ return 0; } if(q == 1){ return Math.abs(u); }
+[PATCH] if(u * v == 0){ return 0; } if(v * u == 0){ return P; }
+[PATCH] if(p == 1){ return 0; } else if(u * v == 0){ return p; }
+[PATCH] if(u * v == p){ return 0; } if(v * u == q){ return 1; }
+[PATCH] if(p > 0.0){ return q; } if(u * v == 0.0){ return u; }
+[PATCH] if(u * v == 0){ return 0; } if(u * v == 0){ return q; }
+[PATCH] if(p == 2){ return 0; } if(v == 2){ return p; }
+[PATCH] if(p > 0.0){ return q; } if(u * v == 0.0){ return P; }
+[PATCH] if(p < 0.0 || q > 0.0){ return p; }
+[PATCH] if(u * v == 0){ return p; } if(v * u == 0){ return -p; }
+[PATCH] return(Math.abs(p)+ Math.abs(v));
+[PATCH] if(u * v == 0){ return p; } else { u = Math.gcd(u, v); }
+[PATCH] if(u * v == 0){ return 0; } else { u = Math.gcd(u, v); }
+[PATCH] if(u * v == 0){ return 0; } else { u = Math.gcd(u, v);
+[PATCH] if(p == 1 || q == 1){ return 0; }
+[PATCH] if(u * v == 0){ throw new ArithmeticException(""); }
+[PATCH] if(p > 0.0){ throw new ArithmeticException(""); }
+[PATCH] return(Math.abs(p)- Math.abs(q));
+[PATCH] u = 0; v = 0;
+[PATCH] if(u * v == 0){ return p; }
+[PATCH] if(p == 1){ return 0; }
+[PATCH] return(Math.abs(u)/ v);
+[PATCH] setResult(p, q);

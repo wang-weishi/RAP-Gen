@@ -1,0 +1,100 @@
+[PATCH] if(stringCache == null || count > stringCache.length){ stringCache = new String[maxStringCacheLen]; }
+[PATCH] if(stringCache == null){ stringCache = new String[maxStringCacheLen]; }
+[PATCH] if(count > stringCache.length){ return new String(charBuf, start, count); }
+[PATCH] if(stringCache == null || count > stringCache.length){ return new String(charBuf, start, charBuf.length); }
+[PATCH] if(stringCache == null || count > stringCache.length){ cacheString(charBuf, start, count); return null; }
+[PATCH] if(stringCache == null || count > stringCache.length){ return new String(charBuf, start, 0); }
+[PATCH] if(stringCache == null || stringCache.length < count){ return new String(charBuf, start, count); }
+[PATCH] if(stringCache == null || count > maxStringCacheLen)return new String(charBuf, start, charBuf.length);
+[PATCH] if(count < maxStringCacheLen)return new String(charBuf, start, charBuf.length);
+[PATCH] if(stringCache == null || count > stringCache.length){ return new String(charBuf, start, count); }
+[PATCH] if(stringCache == null || count > stringCache.length){ return String.valueOf(charBuf, start, count); }
+[PATCH] if(count > stringCache.length){ return new String(charBuf, start, charBuf.length); }
+[PATCH] if(stringCache == null){ stringCache = readStringCache(charBuf, start, count); return null; }
+[PATCH] else if(count < maxStringCacheLen)return new String(charBuf, start, count);
+[PATCH] if(count < maxStringCacheLen)return new String(charBuf, start, count);
+[PATCH] if(stringCache == null || stringCache.length < count){ return String.valueOf(charBuf, start, count); }
+[PATCH] if(stringCache == null || stringCache.length < count){ cacheString(charBuf, start, count); return null; }
+[PATCH] if(stringCache == null || count > stringCache.length){ stringCache = new String[maxStringCacheLen]; return null; }
+[PATCH] if(stringCache == null || count < maxStringCacheLen)return new String(charBuf, start, charBuf.length);
+[PATCH] if(stringCache == null || count > stringCache.length){ cacheString(charBuf, start, count); return -1; }
+[PATCH] if(stringCache == null || count > maxStringCacheLen){ stringCache = new String[maxStringCacheLen]; }
+[PATCH] if(stringCache == null || count > stringCache.length){ stringCache = String.valueOf(charBuf); return null; }
+[PATCH] if(stringCache == null){ stringCache = String.valueOf(count); return new String(charBuf, start, count); }
+[PATCH] if(stringCache == null || stringCache.length < count)return new String(charBuf, start, count);
+[PATCH] if(count > maxStringCacheLen){ return new String(charBuf, start, count); }
+[PATCH] if(stringCache == null || count > maxStringCacheLen)return new String(charBuf, start, charBuf.length); }
+[PATCH] if(stringCache == null || count > stringCache.length){ stringCache = toArray(stringCache); return null; }
+[PATCH] if(count > stringCache.length){ throw new String(charBuf, start, count); }
+[PATCH] if(stringCache == null){ stringCache = new String[maxStringCacheLen]; return -1; }
+[PATCH] else if(count < maxStringCacheLen)return new String(charBuf, start, charBuf.length);
+[PATCH] if(stringCache == null || count < maxStringCacheLen)return new String(charBuf, start, count);
+[PATCH] if(stringCache == null || stringCache.length == 0){ return new String(charBuf, start, count); }
+[PATCH] if(count < maxStringCacheLen)return new String(charBuf, start, count); int bufLength = charBuf.length;
+[PATCH] if(stringCache == null || count > stringCache.length){ return String.valueOf(charBuf[start]); }
+[PATCH] if(count > maxStringCacheLen){ return new String(charBuf, start, charBuf.length); }
+[PATCH] if(stringCache == null || count > stringCache.length){ stringCache = new String[maxStringCacheLen]; return""; }
+[PATCH] if(stringCache == null || count > stringCache.length){ stringCache = new String[maxStringCacheLen]; return false; }
+[PATCH] if(count > stringCache.length){ return new String(String.valueOf(charBuf, start, count)); }
+[PATCH] if(stringCache == null){ stringCache = cacheString(charBuf, start, count); return null; }
+[PATCH] if(stringCache == null){ stringCache = toArray(charBuf, start, count); return null; }
+[PATCH] if(stringCache == null || count > stringCache.length){ throw new String(""); }
+[PATCH] if(stringCache == null || count > maxStringCacheLen)return new String(charBuf, start, count);
+[PATCH] if(count < stringCache.length){ return new String(charBuf, start, count); }
+[PATCH] if(stringCache == null || count > stringCache.length){ return -1; }
+[PATCH] if(stringCache == null){ stringCache = new String[maxStringCacheLen]; return null; }
+[PATCH] if(String.isWhitespace(charBuf, start, count)) { return new String(charBuf, start, count); }
+[PATCH] if(stringCache == null || count > stringCache.length){ return String.valueOf(charBuf, start); }
+[PATCH] if(count > maxStringCacheLen){ count = Math.min(count, maxStringCacheLen); }
+[PATCH] if(start >= 0 && count <= stringCache.length){ return new String(charBuf, start, count); }
+[PATCH] if(stringCache == null || count > maxStringCacheLen){ stringCache = new String[maxStringCacheLen]; }
+[PATCH] if(stringCache == null || count < maxStringCacheLen)return new String(charBuf, start, charBuf.length); }
+[PATCH] if(stringCache == null || count > stringCache.length){ stringCache = this.stringCache; return null; }
+[PATCH] if(count > stringCache.length){ throw new String(""); }
+[PATCH] if(stringCache == null){ stringCache = this.stringCache = new String[maxStringCacheLen]; }
+[PATCH] else if(count >= minStringCacheLen){ return new String(charBuf, start, count); }
+[PATCH] if(stringCache == null){ stringCache = readStringCache(charBuf, start, count); return -1; }
+[PATCH] else if(count < maxStringCacheLen){ return new String(charBuf, start, count); }
+[PATCH] if(count > maxStringCacheLen)return new String(charBuf, start, charBuf.length);
+[PATCH] else if(count < minStringCacheLen)return new String(charBuf, start, count);
+[PATCH] if(stringCache == null || count > stringCache.length){ return new String(charBuf, start); }
+[PATCH] if(stringCache == null){ stringCache = toStringCache(charBuf, start, count); return null; }
+[PATCH] if(stringCache == null || count > maxStringCacheLen)throw new String("");
+[PATCH] if(stringCache == null || count > maxStringCacheLen)throw new String(""); }
+[PATCH] if(stringCache == null){ stringCache = new String[maxStringCacheLen]; return""; }
+[PATCH] if(count >= minStringCacheLen){ return new String(charBuf, start, count); }
+[PATCH] if(stringCache == null || count > stringCache.length){ stringCache = charBuf; return null; }
+[PATCH] if(count < maxStringCacheLen)return new String(Math.min(maxStringCacheLen, count));
+[PATCH] if(stringCache == null){ stringCache = new String[MAX_STRING_CACHELen]; }
+[PATCH] if(count > stringCache.length){ count = maxStringCacheLen; }
+[PATCH] if(cacheString == null){ cacheString = new String(charBuf, start, count); }
+[PATCH] if(count > minStringCacheLen){ return new String(charBuf, start, count); }
+[PATCH] if(stringCache == null || stringCache.length < count){ return -1; }
+[PATCH] if(stringCache == null || count > stringCache.length){ stringCache = toArray(stringCache); }
+[PATCH] if(stringCache == null){ stringCache = String.valueOf(count); return null; }
+[PATCH] else if(count < maxStringCacheLen)return new String(charBuf, start, count); }
+[PATCH] Arrays.sort(stringCache);
+[PATCH] if(count < maxStringCacheLen)return new String(charBuf, start, count); }
+[PATCH] System.arraycopy(charBuf, start, stringCache, 0, count);
+[PATCH] if(count < minStringCacheLen)return new String(charBuf, start, count);
+[PATCH] if(count > maxStringCacheLen){ count = maxStringCacheLen; }
+[PATCH] if(arrayEquals(charBuf, start, count)== 0){ return null; }
+[PATCH] if(count > stringCache.length){ throw new IllegalArgumentException(""); }
+[PATCH] if(count == 1){ return new String(charBuf[start]); }
+[PATCH] int bufLength = Math.min(maxStringCacheLen, count);
+[PATCH] Validate.isTrue(start >= 0 && count <= stringCache.length);
+[PATCH] if(count > maxStringCacheLen){ throw new String(""); }
+[PATCH] Arrays.fill(stringCache, start, start + count);
+[PATCH] if(count > stringCache.length){ throw new IndexOutOfBoundsException(""); }
+[PATCH] if(count > stringCache.length){ return null; }
+[PATCH] Arrays.sort(stringCache, start, count);
+[PATCH] Arrays.sort(stringCache, new String[count]);
+[PATCH] Validate.isTrue(start >= 0);
+[PATCH] Validate.isTrue(count > 0);
+[PATCH] initStringCache(stringCache);
+[PATCH] ensureCapacity(count);
+[PATCH] enlarge(count);
+[PATCH] endStringCache();
+[PATCH] clearStringCache();
+);
+;

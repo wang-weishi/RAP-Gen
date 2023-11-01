@@ -1,0 +1,100 @@
+[PATCH] if(p.getCurrentToken() == JsonToken.VALUE_NULL){ if(_vanillaProcessing){ return null; }
+[PATCH] if(_ignoreAllUnknown){ if(p.getCurrentToken() == JsonToken.VALUE_NULL){ return null; }
+[PATCH] if(_vanillaProcessing){ if(p.getCurrentToken() == JsonToken.VALUE_NULL){ return null; }
+[PATCH] if(p.getCurrentToken() == JsonToken.VALUE_NULL){ if(_ignoreAllUnknown){ return null; }
+[PATCH] ctxt.mappingException("");
+[PATCH] if(p.getCurrentToken() == JsonToken.VALUE_NULL){ if(throw ctxt.mappingException(""); }
+[PATCH] if(p.getCurrentToken() == JsonToken.VALUE_NULL){ if(skipChildren()){ return null; }
+[PATCH] if(p.getCurrentToken() == JsonToken.VALUE_NULL){ if(return null; }
+[PATCH] if(p.getCurrentToken() == JsonToken.VALUE_NULL){ if(sawFunction){ return null; }
+[PATCH] if(p.getCurrentToken() == JsonToken.VALUE_NULL){ throw ctxt.mappingException(""); }
+[PATCH] if(p.getCurrentToken() == JsonToken.VALUE_NULL){ if(""); return null; }
+[PATCH] if(p.getCurrentToken() == JsonToken.VALUE_NULL){ if(vanillaProcessing){ return null; }
+[PATCH] if(_ignoreAllUnknown){ if(p.getCurrentToken().isScalarValue()){ return null; }
+[PATCH] if(p.getCurrentToken() == JsonToken.VALUE_NULL){ if(_skipChildren()){ return null; }
+[PATCH] if(p.getCurrentToken() == JsonToken.VALUE_NULL){ if("null"); return null; }
+[PATCH] if(p.getCurrentToken() == JsonToken.VALUE_NULL){ return null; }
+[PATCH] if(p.getCurrentToken() == JsonToken.VALUE_NULL){ if(return null); }
+[PATCH] if(p.getCurrentToken() == JsonToken.VALUE_NULL){ p.throwInternal(); }
+[PATCH] if(p.getCurrentToken() == JsonToken.VALUE_NULL){ return null; }
+[PATCH] Validate.isTrue(p.getCurrentToken() == JsonToken.VALUE_NULL);
+[PATCH] while(p.nextToken()!= JsonToken.END_ARRAY){
+[PATCH] if(p.getCurrentToken() == JsonToken.VALUE_NULL){
+[PATCH] _handleUnknownProperty(p, ctxt);
+[PATCH] new Reporter().cannotDeserialize(p, ctxt.getSourceReference());
+[PATCH] ctxt.valueInstantiator.createUsingDefault(ctxt);
+[PATCH] p.nextToken();
+[PATCH] if(_ignoreAllUnknown){ p.skipChildren(); return null; }
+[PATCH] ctxt.reportUnknownProperty(p.getCurrentToken());
+[PATCH] ctxt.setCurrentToken(JsonToken.VALUE_NULL);
+[PATCH] if(_ignoreAllUnknown){ return null; }
+[PATCH] handleUnknownProperty(p, ctxt);
+[PATCH] if(_ignoreAllUnknown){ throw ctxt.mappingException(""); }
+[PATCH] ctxt.deserializeAndSet(p, ctxt.getBase64Variant());
+[PATCH] ctxt.mappingException(p.getCurrentToken());
+[PATCH] throw ctxt.mappingException("");
+[PATCH] if(p == null){ return null; }
+[PATCH] ctxt.mappingContext.deserializeAndSet(p, ctxt);
+[PATCH] if(_cfgPrettyPrinter == null){ return null; }
+[PATCH] ctxt.delegatee.deserialize(p, ctxt);
+[PATCH] ctxt.convertValue(p.getText());
+[PATCH] ctxt.delegatee.deserializeAndSet(p, ctxt);
+[PATCH] ctxt.defaultReadObject();
+[PATCH] ctxt.startBuilding(p);
+[PATCH] _handleUnknownProperties(p, ctxt);
+[PATCH] _deserializeAndSet(p, ctxt);
+[PATCH] deserializeAndSet(p, ctxt);
+[PATCH] Thread.currentThread().execute(p, ctxt);
+[PATCH] new Reporter().cannotDeserialize(p, ctxt);
+[PATCH] ctxt.convertNullToNull();
+[PATCH] super.deserialize(p, ctxt);
+[PATCH] ctxt.reportUnsupportedOperation();
+[PATCH] handleUnknownProperties(p, ctxt);
+[PATCH] ctxt.convertNullToNull(p);
+[PATCH] ctxt.reportInvalidUseOfNull(p);
+[PATCH] ctxt.mappingException("");
+[PATCH] p.getCurrentToken();
+[PATCH] Preconditions.checkNotNull(p);
+[PATCH] ctxt.reportInvalidEOF();
+[PATCH] new Reporter().unknownTypeException("");
+[PATCH] ctxt.popUsingDefaultImpl();
+[PATCH] ctxt.loadMoreGuaranteed();
+[PATCH] ctxt.configureParser(p);
+[PATCH] ctxt.mappingException(p);
+[PATCH] p.defaultReadObject();
+[PATCH] ctxt.endObject();
+[PATCH] ctxt.readNull();
+[PATCH] ctxt.defaultDeserialize(p);
+[PATCH] ctxt.readObject();
+[PATCH] ctxt.reportInvalidOperation();
+[PATCH] ctxt.reportNullifyingWarning();
+[PATCH] ctxt.reportInvalidUseOfNull();
+[PATCH] processElement(p, ctxt);
+[PATCH] loops.add(p);
+[PATCH] p.nextToken(); if("");
+[PATCH] ctxt.reportNullPointerException();
+[PATCH] ctxt.popSubtypeHandler();
+[PATCH] ctxt.reportNullProperty();
+[PATCH] p.getNextToken();
+[PATCH] ctxt.nextToken();
+[PATCH] ctxt.instantiateRootContext();
+[PATCH] ctxt.reportInvalidState();
+[PATCH] ctxt.startBuilding();
+[PATCH] ctxt.reportValueInstantiation();
+[PATCH] ctxt.clearCurrentToken();
+[PATCH] new Reporter().cannotDeserialize("");
+[PATCH] ctxt.popCurrentToken();
+[PATCH] ctxt.reportUnknownProperty();
+[PATCH] ctxt.writeNull();
+[PATCH] ctxt.validateState();
+[PATCH] ctxt.popParser();
+[PATCH] ctxt.throwInternal();
+[PATCH] ctxt.popObject();
+[PATCH] loadMoreGuaranteed();
+[PATCH] ctxt.endRecord();
+[PATCH] ctxt.startObject();
+[PATCH] ctxt.readValue();
+[PATCH] ctxt.popValue();
+
+);
+*/

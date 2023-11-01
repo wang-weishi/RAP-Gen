@@ -1,0 +1,100 @@
+[PATCH] if(!type.isObject()){
+[PATCH] if(!type.isSubtype(thisType)) {
+[PATCH] if(!type.isUnionType()){
+[PATCH] if(type == null ||!type.isSubtype(registry.getNativeType(OBJECT_TYPE))){
+[PATCH] if(type == null ||!type.isSubtype(registry.getNativeType(ARRAY_TYPE))){
+[PATCH] if(!type.isObject() &&!type.isFunctionType()){
+[PATCH] if(!type.isObject() &&!type.isNativeType(ARRAY_TYPE)) {
+[PATCH] if(!type.isObject() &&!type.isFunctionPrototypeType()){
+[PATCH] if(!type.isEmptyType() &&!type.isInterface()){
+[PATCH] if(!type.isSubtype(scope.getTypeOfThis())) {
+[PATCH] if(type == null ||!type.isSubtype(getNativeType(OBJECT_TYPE))){
+[PATCH] if(!type.isSubtype(getNativeType(ARRAY_TYPE)) &&!type.isObject()){
+[PATCH] if(!type.isObject() &&!type.isNoObjectType()){
+[PATCH] if(!type.isObject() &&!type.isUnknownType()){
+[PATCH] if(!type.isObject() &&!type.isConstructor() &&!type.isInterface()){
+[PATCH] if(!type.isObject() ||!type.isFunctionType()){
+[PATCH] if(!type.isObject() &&!type.isNativeType(FUNCTION_TYPE)) {
+[PATCH] if(type.isObject() &&!type.isSubtype(registry.getNativeType(ARRAY_TYPE))){
+[PATCH] if(!type.isUnknownType() &&!type.isSubtype(getNativeType(OBJECT_TYPE))){
+[PATCH] if(type.isObject() &&!type.isSubtype(registry.getNativeType(OBJECT_TYPE))){
+[PATCH] if(!type.isUnknownType()){
+[PATCH] if(type == null ||!type.isSubtype(scope.getTypeOfThis())) {
+[PATCH] if(type.isObject() &&!type.isSubtype(scope.getTypeOfThis())) {
+[PATCH] if(type == null ||!type.isSubtype(getNativeType(ARRAY_TYPE))){
+[PATCH] if(!type.isObject() &&!type.isNativeType(JSTypeNative.OBJECT_TYPE)) {
+[PATCH] if(type.isObject() &&!type.isNativeType(ARRAY_TYPE)) {
+[PATCH] if(type == null ||!type.isSubtype(scope.getNativeType(OBJECT_TYPE))){
+[PATCH] if(!type.isEmptyType() &&!type.isSubtype(getNativeType(OBJECT_TYPE))){
+[PATCH] if(!type.isNoObjectType() &&!type.isSubtype(scope.getTypeOfThis())) {
+[PATCH] if(!type.isUnknownType() &&!type.isSubtype(getNativeType(ARRAY_TYPE))){
+[PATCH] if(!type.isSubtype(getNativeType(ARRAY_TYPE)) &&!type.isUnionType()){
+[PATCH] if(!type.isSubtype(getNativeType(ARRAY_TYPE)) &&!type.isUnknownType()){
+[PATCH] if(type.isNoObjectType() ||!type.isSubtype(scope.getTypeOfThis())) {
+[PATCH] if(type == null ||!type.isSubtype(registry.getNativeType(VOID_TYPE))){
+[PATCH] if(!type.isObject() ||!type.isFunctionPrototypeType()){
+[PATCH] if(!type.isObject() &&!type.isEmptyType() &&!type.isInterface()){
+[PATCH] if(!type.isObject() ||!type.isUnionType()){
+[PATCH] if(!type.isObject() &&!type.isUnionType()){
+[PATCH] if(!type.isObject() &&!type.isInterface()){
+[PATCH] if(type.isObject() &&!type.isNoObjectType()){
+[PATCH] if(type == null ||!type.isSubtype(scope.getNativeType(ARRAY_TYPE))){
+[PATCH] if(!type.isObject()){ if(!type.isSubtype(thisType)) {
+[PATCH] if(!type.isObject() &&!type.isNativeType(VOID_TYPE)) {
+[PATCH] if(!type.isSubtype(registry.getNativeType(ARRAY_TYPE))){
+[PATCH] if(type.isObject() &&!type.isSubtype(scope.getNativeType(OBJECT_TYPE))){
+[PATCH] if(!type.isSubtype(getNativeType(OBJECT_TYPE))){
+[PATCH] if(!type.isObject()){ if(!type.isUnionType()){
+[PATCH] if(type.isObject() &&!type.isFunctionPrototypeType()){
+[PATCH] if(!type.isSubtype(registry.getNativeType(OBJECT_TYPE)) &&
+[PATCH] if(!type.isSubtype(registry.getNativeType(OBJECT_TYPE))){
+[PATCH] if(!type.isSubtype(baseType)) {
+[PATCH] if(!type.isObject() &&!type.isVoidType()){
+[PATCH] if(type.isUnionType()){ if(!type.isSubtype(thisType)) {
+[PATCH] if(!type.isSubtype(scope.getNativeType(OBJECT_TYPE))){
+[PATCH] if(type.isObject() &&!type.isFunctionType()){
+[PATCH] if(type.isObject() &&!type.isUnknownType()){
+[PATCH] if(!type.isUnionType() ||!type.isUnknownType()){
+[PATCH] if(!type.isObject() &&!type.isConstructor()){
+[PATCH] if(type == null ||!type.isSubtype(thisType)) {
+[PATCH] if(!type.isUnionType() ||!type.isSingleton()){
+[PATCH] if(type.isObject() &&!type.isUnionType()){
+[PATCH] if(!type.isObject() &&!type.isEnumType()){
+[PATCH] if(!type.isUnknownType() &&!type.isSubtype(baseType)) {
+[PATCH] if(!type.isEmptyType() &&!type.isSupertype()){
+[PATCH] if(!type.isSubtype(scope.getNativeType(ARRAY_TYPE))){
+[PATCH] if(!type.isInstance() &&!type.isUnknownType()){
+[PATCH] if(!type.isSubtype(getNativeType(ARRAY_TYPE))){
+[PATCH] if(!type.isSubtype(thisType)||!type.isSubtype(
+[PATCH] if(!type.isObjectType() &&!type.isFunctionType()){
+[PATCH] if(!type.isObject() &&!type.isAbstract()){
+[PATCH] if(!type.isObject() &&!type.isPackageType()){
+[PATCH] if(!type.isObject() &&!type.isTemplateType()){
+[PATCH] if(!type.isObject() &&!type.isAnonymousObjectType()){
+[PATCH] if(!type.isObject() ||!type.isUnknownType()){
+[PATCH] if(type.isObject() &&!type.isConstructor()){
+[PATCH] if(!type.isConstructor() &&!type.isInterface()){
+[PATCH] if(!type.isUnion() ||!type.isSingleton()){
+[PATCH] if(type.isObject() &&!type.isInterface()){
+[PATCH] if(!type.isObject() &&!type.isInstanceType()){
+[PATCH] if(!type.isObject() &&!type.isArray()){
+[PATCH] if(!type.isSubtype(objectType)) {
+[PATCH] if(type.isConstructor() || type.isInterface()){
+[PATCH] if(type == null ||!type.isUnionType()){
+[PATCH] if(!type.isSubtype(ownerType)) {
+[PATCH] if(!type.isContainerType()){
+[PATCH] if(!type.isObj()){
+[PATCH] if(type.isSubtype(thisType)) {
+[PATCH] if(type.isUnknownType()){
+[PATCH] if(!type.isNoObjectType()){
+[PATCH] if(!type.isRecordType()){
+[PATCH] if(!type.isObjectType()){
+[PATCH] if(!type.isImplicitPrototype()){
+[PATCH] if(!type.isInvalidatingType()){
+[PATCH] if(!type.is Object()){
+[PATCH] if(!type.isObject());
+[PATCH] if(!type.isTemplateType()){
+[PATCH] if(!type.isUnknownType());
+[PATCH] if(!type.isToObject()){
+[PATCH] if(!type.isEmpty()){
+[PATCH] if(!type.isInterface()){

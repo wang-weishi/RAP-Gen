@@ -1,0 +1,100 @@
+[PATCH] if(charsetName.length() == 0){ throw new IllegalCharsetNameException(""); }
+[PATCH] } else if(!docData.isEmpty()){ String foundCharset = docData.charAt(0); if(foundCharset!= null){ throw new IllegalCharsetNameException(""); }
+[PATCH] if(charsetName.length() == 0){ docData = new ByteBuffer(byteData.limit(), byteData.position()); } else { throw new IllegalCharsetNameException(""); }
+[PATCH] while(docData.isEmpty()){ docData = docData.substring(0, docData.length() - 1);
+[PATCH] } else if(charsetName.equals("")) { docData = Charset.forName(charsetName).decode(docData); } else { throw new IllegalCharsetNameException(""); }
+[PATCH] if(charsetName.length() == 0){ doc = parser.parseInput(docData, baseUri); } else { throw new IllegalCharsetNameException(""); }
+[PATCH] } else if(!docData.isEmpty()){ docData = Charset.forName(charsetName).decode(docData); }
+[PATCH] if(charsetName.length() == 0){ doc = Document.createShell(docData); } else { throw new IllegalCharsetNameException(""); }
+[PATCH] if(charsetName.length() == 0){ doc = parser.parseDocument(docData, baseUri); } else { throw new IllegalCharsetNameException(""); }
+[PATCH] doc = Parser.parseDocument(docData, baseUri);
+[PATCH] } else if(!isValidCharsetName(charsetName)) { String foundCharset = charsetName.toLowerCase(); if(foundCharset!= null){ throw new IllegalCharsetNameException(""); }
+[PATCH] doc = Document.parseDocument(docData, baseUri);
+[PATCH] if(charsetName.length() == 0){ doc = null; } else { throw new IllegalCharsetNameException(""); }
+[PATCH] while(docData.hasMoreBytes()){ docData = docData.substring(0, docData.position() - 1);
+[PATCH] while(docData.hasMoreBytes()){ docData = docData.subSequence(0, docData.length() - 1);
+[PATCH] foundCharset = docData.charAt(0);
+[PATCH] while(docData.hasMoreBytes()){ docData = docData.subList(0, docData.length() - 1);
+[PATCH] doc = parseDocument(docData, baseUri);
+[PATCH] if(charsetName.length() == 0){ docData = new ByteBuffer(byteData.limit(), byteData.position()); }
+[PATCH] while(docData.hasMoreBytes()){ docData = docData.substring(0, docData.size() - 1);
+[PATCH] doc = Document.createShell(docData.array(),"UTF-8");
+[PATCH] doc = Document.createShell(docData.array(), CharacterEncodingNames.US_ASCII);
+[PATCH] while(docData.hasMoreBytes()){ docData = docData.subSequence(0, docData.size());
+[PATCH] doc = parser.parseDocument(docData, baseUri);
+[PATCH] while(docData.hasMoreBytes()){ docData = docData.subList(0, docData.size());
+[PATCH] doc = Document.parseIntrospector(docData, charsetName);
+[PATCH] while(docData.hasMoreBytes()){ docData = docData.subSequence(0, docData.length());
+[PATCH] while(docData.isEmpty()){ doc = parser.parseInput(docData, baseUri);
+[PATCH] if(charsetName == null){ throw new IllegalCharsetNameException(""); }
+[PATCH] doc = Document.createShell(docData.array(),Charset.US_ASCII);
+[PATCH] doc = Document.createShell(baseUri);
+[PATCH] charsetPattern = Pattern.compile("\\b(?:").replace('/', '.');
+[PATCH] doc = Document.parseDoc(docData, baseUri);
+[PATCH] doc = Document.createShell(docData.array(),"");
+[PATCH] doc = Document.parseIntrospector(docData);
+[PATCH] doc = Document.createShell(docData.limit(), docData.position());
+[PATCH] defaultCharset = docData.charAt(0);
+[PATCH] doc = Document.createShell(docData.array(), baseUri);
+[PATCH] doc = Document.parseBlock(docData, baseUri);
+[PATCH] doc = Charset.forName(charsetName).decode(docData);
+[PATCH] doc = Document.parseIntrospector(docData,"UTF-8");
+[PATCH] doc = parseDoc(docData, baseUri);
+[PATCH] doc = Document.parseDocument(docData);
+[PATCH] doc = Document.parseBlock(docData);
+[PATCH] doc = Document.createShell(docData.array(), charsetName);
+[PATCH] doc = Document.parseUri(docData, baseUri);
+[PATCH] doc = Document.parseIntrospector(docData, baseUri);
+[PATCH] doc = Document.parse(docData, baseUri);
+[PATCH] doc = Document.parseInlineDocument(docData, baseUri);
+[PATCH] doc = Parser.parseDoc(docData, baseUri);
+[PATCH] doc = Document.createFromEncoded(docData, charsetName);
+[PATCH] doc = Document.parseEntity(docData, charsetName);
+[PATCH] byteData.limit(docData.position());
+[PATCH] doc = Document.parseBodyFragment(docData, baseUri);
+[PATCH] doc = Jsoup.parse(docData, charsetName);
+[PATCH] doc = Document.parseDocBlock(docData, baseUri);
+[PATCH] doc = Document.createShell(docData);
+[PATCH] if(charsetName.length() == 0){ return null; }
+[PATCH] doc = Document.createShell(docData.asString());
+[PATCH] doc = Document.parseEntities(docData, charsetName);
+[PATCH] defaultCharset = CharacterEncodingNames.getDefaultCharset();
+[PATCH] doc = parseDocument(docData.array(), baseUri);
+[PATCH] doc = Document.createShell(charsetName);
+[PATCH] doc = Document.parseDocBlock(docData);
+[PATCH] doc = Document.parseInlineText(docData, baseUri);
+[PATCH] doc = Parser.parseDocument(docData);
+[PATCH] doc = Document.parseFragment(docData, baseUri);
+[PATCH] doc = Document.parseStartTag(docData, baseUri);
+[PATCH] savedCharset = docData.charAt(0);
+[PATCH] doc = Document.parseEntities(docData, baseUri);
+[PATCH] doc = parseDocument(docData);
+[PATCH] doc = Document.parseDoc(docData);
+[PATCH] throw new IllegalCharsetNameException("");
+[PATCH] byteData.limit(docData.position()); continue;
+[PATCH] doc = Document.parseInstance(docData, baseUri);
+[PATCH] document = parseDocument(docData, baseUri);
+[PATCH] byteData.limit = docData.position();
+[PATCH] doc = Document.parseShell(docData);
+[PATCH] byteData.rewind();
+[PATCH] doc = Document.parseInlineDocument(docData);
+[PATCH] cfg.setCharset(charsetName);
+[PATCH] sb.setCharset(charsetName);
+[PATCH] doc = Document.createShell(null);
+[PATCH] byteData.release();
+[PATCH] byteData.reset();
+[PATCH] charsetPattern.reset();
+[PATCH] byteData.close();
+[PATCH] isValidCharset(charsetName);
+[PATCH] byteData.releaseBuffers();
+[PATCH] reset();
+[PATCH] matcher.reset();
+[PATCH] initialiseCharset();
+[PATCH] continue;
+[PATCH] break;
+[PATCH] true;
+[PATCH] ;
+[PATCH]
+);
+*/
+;

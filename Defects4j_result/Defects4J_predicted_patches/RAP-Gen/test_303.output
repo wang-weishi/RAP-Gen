@@ -1,0 +1,100 @@
+[PATCH] if(length == 1){
+[PATCH] if(length == 2){
+[PATCH] if(end < start){
+[PATCH] if(length == 0){
+[PATCH] if(end > start){
+[PATCH] if(start + length == end){
+[PATCH] if(end < start + length){
+[PATCH] if(end > start + length){
+[PATCH] if(( length - 1)< 0){
+[PATCH] if(( end - start)< length){
+[PATCH] if(end == -1){
+[PATCH] if(end - start < length){
+[PATCH] if(offset + length == 2){
+[PATCH] if(start + length == 0){
+[PATCH] if(start + length == 2){
+[PATCH] int i = start + length - 1;
+[PATCH] if(( start + length)< end){
+[PATCH] if(offset + length == end){
+[PATCH] if(start < end){
+[PATCH] if(offset + length == 0){
+[PATCH] if(( start + length)> end){
+[PATCH] if(( length % 2)== 0){
+[PATCH] if(start + length == 1){
+[PATCH] if(buffer[start] < 0){
+[PATCH] if(--length < 0){
+[PATCH] if(offset + length == 1){
+[PATCH] if(( offset + length)> end){
+[PATCH] if(currentByte!= 0){
+[PATCH] if(end == 0){
+[PATCH] if(( offset + length)< end){
+[PATCH] if(buffer[start] == 0){
+[PATCH] if(length == 8){
+[PATCH] if(length == 6){
+[PATCH] if(end == start + length){
+[PATCH] if(len(buffer)< 0){
+[PATCH] if(( length - 1)== 0){
+[PATCH] if(end < length){
+[PATCH] while(length - start < end){
+[PATCH] if(--length == 0){
+[PATCH] if(start + length == 8){
+[PATCH] if(LENGTH == 2){
+[PATCH] if(start + length ==end){
+[PATCH] else if(length == 2){
+[PATCH] } else if(length == 2){
+[PATCH] if(transmission == 0){
+[PATCH] while(length == 1){
+[PATCH] if(length == -1){
+[PATCH] if(++length == 1){
+[PATCH] else if(length == 1){
+[PATCH] } else if(length == 1){
+[PATCH] if(start > end){
+[PATCH] if(last == -1){
+[PATCH] if(Length == 1){
+[PATCH] if(end == start){
+[PATCH] if(start + length == END){
+[PATCH] if(offset == end){
+[PATCH] if(Length == 2){
+[PATCH] if(offset + length == 8){
+[PATCH] if(( start + length)== end){
+[PATCH] if(LENGTH == 0){
+[PATCH] if(transmission == null){
+[PATCH] if(0 == length){
+[PATCH] if(-length == 1){
+[PATCH] if(size() == 1){
+[PATCH] if(length == 3){
+[PATCH] if(( length - 1)== 2){
+[PATCH] if(len(buffer)< 2){
+[PATCH] while(start < end){
+[PATCH] if(getOctalLowBit()){
+[PATCH] if(( length % 2)!= 0){
+[PATCH] if(end == end){
+[PATCH] while(end < start){
+[PATCH] } else if(length == 0){
+[PATCH] if(( length - 1) >= 0){
+[PATCH] if(end < 0){
+[PATCH] if(1 == length){
+[PATCH] if(( offset + length)== end){
+[PATCH] if(2 == length){
+[PATCH] while(length == 2){
+[PATCH] if(end < end){
+[PATCH] if(length - 1 == 0){
+[PATCH] if(end< start){
+[PATCH] if(0 == end){
+[PATCH] if(offset > end){
+[PATCH] if(LENGTH == 1){
+[PATCH] if(end < offset){
+[PATCH] if(Length == 0){
+[PATCH] if(length == 10){
+[PATCH] if(END < start){
+[PATCH] if(offset + length == END){
+[PATCH] if(end >= start){
+[PATCH] if(length == 1000){
+[PATCH] ;
+[PATCH] {
+[PATCH] //
+[PATCH] */
+[PATCH] [Delete]
+[PATCH]
+);
+

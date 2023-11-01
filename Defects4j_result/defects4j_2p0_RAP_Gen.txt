@@ -1,0 +1,632 @@
+Cli_8_HelpFormatter_1_1
+src/java/org/apache/commons/cli/HelpFormatter.java 812
+
+Buggy Line:
+pos = findWrapPos(text, width, nextLineTabStop);
+
+Developer's Fix:
+pos = findWrapPos(text, width, 0);
+
+[success] RAP-Gen's Repair:
+pos = findWrapPos(text, width, 0);
+************************************************************************************************************************
+Cli_17_PosixParser_1_1
+src/java/org/apache/commons/cli/PosixParser.java 302
+
+Buggy Line:
+
+Developer's Fix:
+break;
+
+[success] RAP-Gen's Repair:
+break;
+************************************************************************************************************************
+Cli_27_OptionGroup_2_2
+src/java/org/apache/commons/cli/OptionGroup.java 100
+
+Buggy Line:
+selected = option.getOpt();
+
+Developer's Fix:
+selected = option.getKey();
+
+[success] RAP-Gen's Repair:
+selected = option.getKey();
+************************************************************************************************************************
+Cli_28_Parser_1_1
+src/java/org/apache/commons/cli/Parser.java 290
+
+Buggy Line:
+break;
+
+Developer's Fix:
+continue;
+
+[success] RAP-Gen's Repair:
+continue;
+************************************************************************************************************************
+Cli_32_HelpFormatter_1_1
+src/main/java/org/apache/commons/cli/HelpFormatter.java 937
+
+Buggy Line:
+while ((pos <= text.length()) && ((c = text.charAt(pos)) != ' ') && (c != '\\n') && (c != '\\r')) { ++pos; }
+
+Developer's Fix:
+[Delete]
+
+[success] RAP-Gen's Repair:
+[Delete] or ;
+************************************************************************************************************************
+[Uniquely repaired bug] Cli_34_Option_1_1
+src/main/java/org/apache/commons/cli/Option.java 72
+
+Buggy Line:
+private Class type;
+
+Developer's Fix:
+private Class type = String.class;
+
+[success] RAP-Gen's Repair:
+private Class type = String.class;
+************************************************************************************************************************
+[Uniquely repaired bug] Cli_34_OptionBuilder_1_1
+src/main/java/org/apache/commons/cli/OptionBuilder.java 84
+
+Buggy Line:
+type = null;
+
+Developer's Fix:
+type = String.class;
+
+[success] RAP-Gen's Repair:
+type = String.class;
+************************************************************************************************************************
+[Uniquely repaired bug] Closure_150_TypedScopeCreator_1_1
+src/com/google/javascript/jscomp/TypedScopeCreator.java 1451
+
+Buggy Line:
+attachLiteralTypes(n); switch (n.getType()) { case Token.FUNCTION: if (parent.getType() == Token.NAME) { return; } defineDeclaredFunction(n, parent); break; case Token.CATCH: defineCatch(n, parent); break; case Token.VAR: defineVar(n, parent); break; }
+
+Developer's Fix:
+super.visit(t, n, parent);
+
+[success] RAP-Gen's Repair:
+super.visit(t, n, parent);
+************************************************************************************************************************
+Closure_168_TypedScopeCreator_1_1
+src/com/google/javascript/jscomp/TypedScopeCreator.java 1996
+
+Buggy Line:
+if (t.getScopeDepth() <= 2) {
+
+Developer's Fix:
+if (t.getScopeDepth() <= 1) {
+
+[success] RAP-Gen's Repair:
+if(t.getScopeDepth() <= 1){
+************************************************************************************************************************
+Codec_4_Base64_1_1
+src/java/org/apache/commons/codec/binary/Base64.java 225
+
+Buggy Line:
+this(false);
+
+Developer's Fix:
+this(0);
+
+[success] RAP-Gen's Repair:
+this(0);
+************************************************************************************************************************
+Codec_7_Base64_1_1
+src/java/org/apache/commons/codec/binary/Base64.java 670
+
+Buggy Line:
+return StringUtils.newStringUtf8(encodeBase64(binaryData, true));
+
+Developer's Fix:
+return StringUtils.newStringUtf8(encodeBase64(binaryData, false));
+
+[success] RAP-Gen's Repair:
+return StringUtils.newStringUtf8(encodeBase64(binaryData, false));
+************************************************************************************************************************
+Codec_8_Base64_1_1
+src/java/org/apache/commons/codec/binary/Base64.java 419
+
+Buggy Line:
+void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }
+
+Developer's Fix:
+[Delete]
+
+[success] RAP-Gen's Repair:
+[Delete] or ;
+************************************************************************************************************************
+Codec_8_Base64InputStream_1_1
+src/java/org/apache/commons/codec/binary/Base64InputStream.java 169
+
+Buggy Line:
+if (c > 0 && b.length == len) { base64.setInitialBuffer(b, offset, len); }
+
+Developer's Fix:
+[Delete]
+
+[success] RAP-Gen's Repair:
+[Delete] or ;
+************************************************************************************************************************
+Codec_17_StringUtils_1_1
+src/main/java/org/apache/commons/codec/binary/StringUtils.java 339
+
+Buggy Line:
+return new String(bytes, Charsets.ISO_8859_1);
+
+Developer's Fix:
+return newString(bytes, Charsets.ISO_8859_1);
+
+[success] RAP-Gen's Repair:
+return newString(bytes, Charsets.ISO_8859_1);
+************************************************************************************************************************
+Jsoup_17_TreeBuilderState_1_1
+src/main/java/org/jsoup/parser/TreeBuilderState.java 1451
+
+Buggy Line:
+private static String nullString = String.valueOf(0x0000);
+
+Developer's Fix:
+private static String nullString = String.valueOf('\u0000');
+
+[success] RAP-Gen's Repair:
+private static String nullString = String.valueOf(0);
+************************************************************************************************************************
+[Uniquely repaired bug] Jsoup_32_Element_1_1
+src/main/java/org/jsoup/nodes/Element.java 1138
+
+Buggy Line:
+clone.classNames();
+
+Developer's Fix:
+clone.classNames = null;
+
+[success] RAP-Gen's Repair:
+clone.classNames = null;
+************************************************************************************************************************
+Jsoup_40_DocumentType_1_1
+src/main/java/org/jsoup/nodes/DocumentType.java 22
+
+Buggy Line:
+Validate.notEmpty(name);
+
+Developer's Fix:
+[Delete]
+
+[success] RAP-Gen's Repair:
+[Delete] or ;
+************************************************************************************************************************
+Jsoup_41_Element_1_1
+src/main/java/org/jsoup/nodes/Element.java 1175
+
+Buggy Line:
+return this == o;
+
+Developer's Fix:
+return tag.equals(element.tag);
+
+[success] RAP-Gen's Repair:
+return tag.equals(element.tag);
+************************************************************************************************************************
+Jsoup_43_Element_1_1
+src/main/java/org/jsoup/nodes/Element.java 574
+
+Buggy Line:
+if (element.equals(search))
+
+Developer's Fix:
+if (element == search)
+
+[success] RAP-Gen's Repair:
+if(element == search || element.equals(search)) {
+************************************************************************************************************************
+[Uniquely repaired bug] Jsoup_45_HtmlTreeBuilder_1_1
+src/main/java/org/jsoup/parser/HtmlTreeBuilder.java 394
+
+Buggy Line:
+} else if (("td".equals(name) || "td".equals(name) && !last)) {
+
+Developer's Fix:
+} else if (("td".equals(name) || "th".equals(name) && !last)) {
+
+[success] RAP-Gen's Repair:
+} else if("td".equals(name)||"th".equals(name)&&!last){
+************************************************************************************************************************
+Jsoup_57_Attributes_1_1
+src/main/java/org/jsoup/nodes/Attributes.java 125
+
+Buggy Line:
+attributes.remove(attrKey);
+
+Developer's Fix:
+it.remove();
+
+[success] RAP-Gen's Repair:
+it.remove();
+************************************************************************************************************************
+Jsoup_62_HtmlTreeBuilderState_1_1
+src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java 764
+
+Buggy Line:
+String name = t.asEndTag().normalName();
+
+Developer's Fix:
+String name = t.asEndTag().name();
+
+[success] RAP-Gen's Repair:
+String name = t.asEndTag().name();
+************************************************************************************************************************
+Jsoup_68_HtmlTreeBuilder_1_1
+src/main/java/org/jsoup/parser/HtmlTreeBuilder.java 468
+
+Buggy Line:
+int bottom = stack.size() -1; if (bottom > MaxScopeSearchDepth) { bottom = MaxScopeSearchDepth; }
+
+Developer's Fix:
+final int bottom = stack.size() -1;
+
+[success] RAP-Gen's Repair:
+final int bottom = stack.size() -1;
+************************************************************************************************************************
+Jsoup_86_Comment_1_1
+src/main/java/org/jsoup/nodes/Comment.java 78
+
+Buggy Line:
+if (doc.childNodeSize() > 0) {
+
+Developer's Fix:
+if (doc.children().size() > 0) {
+
+[success] RAP-Gen's Repair:
+if(doc.children().size() > 0){
+************************************************************************************************************************
+JacksonDatabind_13_DefaultDeserializationContext_1_1
+src/main/java/com/fasterxml/jackson/databind/deser/DefaultDeserializationContext.java 87
+
+Buggy Line:
+
+Developer's Fix:
+if (id == null) { return null; }
+
+[success] RAP-Gen's Repair:
+if(id == null){ return null; }
+************************************************************************************************************************
+JacksonDatabind_13_ObjectIdValueProperty_1_1
+src/main/java/com/fasterxml/jackson/databind/deser/impl/ObjectIdValueProperty.java 92
+
+Buggy Line:
+
+Developer's Fix:
+if (id == null) { return null; }
+
+[success] RAP-Gen's Repair:
+if(id == null){ return null; }
+************************************************************************************************************************
+JacksonDatabind_17_ObjectMapper_1_1
+src/main/java/com/fasterxml/jackson/databind/ObjectMapper.java 180
+
+Buggy Line:
+|| TreeNode.class.isAssignableFrom(t.getRawClass()));
+
+Developer's Fix:
+&& !TreeNode.class.isAssignableFrom(t.getRawClass()));
+
+[success] RAP-Gen's Repair:
+&&!TreeNode.class.isAssignableFrom(t.getRawClass()));
+************************************************************************************************************************
+JacksonDatabind_27_BeanDeserializer_1_1
+src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializer.java 794
+
+Buggy Line:
+if (ext.handlePropertyValue(p, ctxt, propName, buffer)) {
+
+Developer's Fix:
+if (ext.handlePropertyValue(p, ctxt, propName, null)) {
+
+[success] RAP-Gen's Repair:
+if(ext.handlePropertyValue(p, ctxt, propName, null)) {
+************************************************************************************************************************
+JacksonDatabind_34_NumberSerializer_1_1
+src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializer.java 81
+
+Buggy Line:
+visitFloatFormat(visitor, typeHint, JsonParser.NumberType.BIG_INTEGER);
+
+Developer's Fix:
+visitFloatFormat(visitor, typeHint, JsonParser.NumberType.BIG_DECIMAL);
+
+[success] RAP-Gen's Repair:
+visitFloatFormat(visitor, typeHint, JsonParser.NumberType.BIG_DECIMAL);
+************************************************************************************************************************
+JacksonDatabind_46_ReferenceType_1_1
+src/main/java/com/fasterxml/jackson/databind/type/ReferenceType.java 156
+
+Buggy Line:
+sb.append(';');
+
+Developer's Fix:
+sb.append(">;");
+
+[success] RAP-Gen's Repair:
+sb.append(">;");
+************************************************************************************************************************
+JacksonDatabind_49_WritableObjectId_1_1
+src/main/java/com/fasterxml/jackson/databind/ser/impl/WritableObjectId.java 50
+
+Buggy Line:
+id = generator.generateId(forPojo);
+
+Developer's Fix:
+if (id == null) { id = generator.generateId(forPojo); }
+
+[success] RAP-Gen's Repair:
+if(id == null){ id = generator.generateId(forPojo); }
+************************************************************************************************************************
+[Uniquely repaired bug] JacksonDatabind_54_PropertyBuilder_2_1
+src/main/java/com/fasterxml/jackson/databind/ser/PropertyBuilder.java 134
+
+Buggy Line:
+if (declaredType.isReferenceType()) {
+
+Developer's Fix:
+if (actualType.isReferenceType()) {
+
+[success] RAP-Gen's Repair:
+if(actualType.isReferenceType()){
+************************************************************************************************************************
+[Uniquely repaired bug] JacksonDatabind_54_PropertyBuilder_2_2
+src/main/java/com/fasterxml/jackson/databind/ser/PropertyBuilder.java 150
+
+Buggy Line:
+if (declaredType.isContainerType()
+
+Developer's Fix:
+if (actualType.isContainerType()
+
+[success] RAP-Gen's Repair:
+if(actualType.isContainerType()
+************************************************************************************************************************
+JacksonDatabind_83_FromStringDeserializer_1_1
+src/main/java/com/fasterxml/jackson/databind/deser/std/FromStringDeserializer.java 119
+
+Buggy Line:
+if (_deserialize(text, ctxt) != null) { return _deserialize(text, ctxt); }
+
+Developer's Fix:
+return _deserialize(text, ctxt);
+
+[success] RAP-Gen's Repair:
+return _deserialize(text, ctxt);
+************************************************************************************************************************
+JacksonDatabind_99_ReferenceType_1_1
+src/main/java/com/fasterxml/jackson/databind/type/ReferenceType.java 169
+
+Buggy Line:
+
+Developer's Fix:
+sb.append('>');
+
+[success] RAP-Gen's Repair:
+sb.append('>');
+************************************************************************************************************************
+JacksonDatabind_102_DateTimeSerializerBase_1_1
+src/main/java/com/fasterxml/jackson/databind/ser/std/DateTimeSerializerBase.java 67
+
+Buggy Line:
+if (property == null) { return this; }
+
+Developer's Fix:
+[Delete]
+
+[success] RAP-Gen's Repair:
+[Delete] or ;
+************************************************************************************************************************
+[Uniquely repaired bug] JacksonDatabind_107_TypeDeserializerBase_1_1
+src/main/java/com/fasterxml/jackson/databind/jsontype/impl/TypeDeserializerBase.java 165
+
+Buggy Line:
+return null;
+
+Developer's Fix:
+return NullifyingDeserializer.instance;
+
+[success] RAP-Gen's Repair:
+return NullifyingDeserializer.instance;
+************************************************************************************************************************
+JacksonCore_5_JsonPointer_1_1
+src/main/java/com/fasterxml/jackson/core/JsonPointer.java 193
+
+Buggy Line:
+char c = str.charAt(i++);
+
+Developer's Fix:
+char c = str.charAt(i);
+
+[success] RAP-Gen's Repair:
+char c = str.charAt(i);
+************************************************************************************************************************
+JacksonCore_8_TextBuffer_1_1
+src/main/java/com/fasterxml/jackson/core/util/TextBuffer.java 307
+
+Buggy Line:
+if (!_hasSegments)  return _currentSegment;
+
+Developer's Fix:
+if (!_hasSegments && _currentSegment != null)  return _currentSegment;
+
+[success] RAP-Gen's Repair:
+if(_currentSegment!= null &&!_hasSegments)return _currentSegment;
+************************************************************************************************************************
+[Uniquely repaired bug] JacksonCore_14_IOContext_2_1
+src/main/java/com/fasterxml/jackson/core/io/IOContext.java 274
+
+Buggy Line:
+if ((toRelease != src) && (toRelease.length <= src.length)) { throw wrongBuf(); }
+
+Developer's Fix:
+if ((toRelease != src) && (toRelease.length < src.length)) { throw wrongBuf(); }
+
+[success] RAP-Gen's Repair:
+if(( toRelease!= src)&&(toRelease.length < src.length)) { throw wrongBuf(); }
+************************************************************************************************************************
+[Uniquely repaired bug] JacksonCore_14_IOContext_2_2
+src/main/java/com/fasterxml/jackson/core/io/IOContext.java 279
+
+Buggy Line:
+if ((toRelease != src) && (toRelease.length <= src.length)) { throw wrongBuf(); }
+
+Developer's Fix:
+if ((toRelease != src) && (toRelease.length < src.length)) { throw wrongBuf(); }
+
+[success] RAP-Gen's Repair:
+if(( toRelease!= src)&&(toRelease.length < src.length)) { throw wrongBuf(); }
+************************************************************************************************************************
+JacksonCore_25_ReaderBasedJsonParser_1_1
+src/main/java/com/fasterxml/jackson/core/json/ReaderBasedJsonParser.java 1963
+
+Buggy Line:
+if (i <= maxCode) {
+
+Developer's Fix:
+if (i < maxCode) {
+
+[success] RAP-Gen's Repair:
+if(i < maxCode){
+************************************************************************************************************************
+Compress_14_TarUtils_1_1
+src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java 65
+
+Buggy Line:
+boolean allNUL = true; for (int i = start; i < end; i++){ if (buffer[i] != 0){ allNUL = false; break; } } if (allNUL) {
+
+Developer's Fix:
+if (buffer[start] == 0) {
+
+[success] RAP-Gen's Repair:
+if(buffer[start] == 0){
+************************************************************************************************************************
+Compress_19_Zip64ExtendedInformationExtraField_1_1
+src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java 259
+
+Buggy Line:
+if (rawCentralDirectoryData.length != expectedLength) {
+
+Developer's Fix:
+if (rawCentralDirectoryData.length < expectedLength) {
+
+[success] RAP-Gen's Repair:
+if(( rawCentralDirectoryData.length - expectedLength)< 0){
+************************************************************************************************************************
+Compress_27_TarUtils_1_1
+src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java 133
+
+Buggy Line:
+if (start == end) { throw new IllegalArgumentException( exceptionMessage(buffer, offset, length, start, trailer)); }
+
+Developer's Fix:
+[Delete]
+
+[success] RAP-Gen's Repair:
+[Delete] or ;
+************************************************************************************************************************
+Compress_31_TarUtils_1_1
+src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java 135
+
+Buggy Line:
+if (currentByte == 0) { break; }
+
+Developer's Fix:
+[Delete]
+
+[success] RAP-Gen's Repair:
+[Delete] or ;
+************************************************************************************************************************
+[Uniquely repaired bug] Compress_32_TarArchiveInputStream_2_1
+src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java 501
+
+Buggy Line:
+currEntry.setGroupId(Integer.parseInt(val));
+
+Developer's Fix:
+currEntry.setGroupId(Long.parseLong(val));
+
+[success] RAP-Gen's Repair:
+currEntry.setGroupId(Long.parseLong(val));
+************************************************************************************************************************
+Compress_32_TarArchiveInputStream_2_2
+src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java 505
+
+Buggy Line:
+currEntry.setUserId(Integer.parseInt(val));
+
+Developer's Fix:
+currEntry.setUserId(Long.parseLong(val));
+
+[success] RAP-Gen's Repair:
+currEntry.setUserId(Long.parseLong(val));
+************************************************************************************************************************
+Collections_26_MultiKey_1_1
+src/main/java/org/apache/commons/collections4/keyvalue/MultiKey.java 277
+
+Buggy Line:
+private Object readResolve() {
+
+Developer's Fix:
+protected Object readResolve() {
+
+[success] RAP-Gen's Repair:
+protected Object readResolve() {
+************************************************************************************************************************
+JacksonXml_5_XmlSerializerProvider_1_1
+src/main/java/com/fasterxml/jackson/dataformat/xml/ser/XmlSerializerProvider.java 59
+
+Buggy Line:
+_rootNameLookup = src._rootNameLookup;
+
+Developer's Fix:
+_rootNameLookup = new XmlRootNameLookup();
+
+[success] RAP-Gen's Repair:
+_rootNameLookup = new XmlRootNameLookup();
+************************************************************************************************************************
+Csv_11_CSVParser_1_1
+src/main/java/org/apache/commons/csv/CSVParser.java 384
+
+Buggy Line:
+final boolean emptyHeader = header.trim().isEmpty();
+
+Developer's Fix:
+final boolean emptyHeader = header == null || header.trim().isEmpty();
+
+[success] RAP-Gen's Repair:
+final boolean emptyHeader = header == null || header.trim().isEmpty();
+************************************************************************************************************************
+[Uniquely repaired bug] Csv_15_CSVFormat_1_1
+src/main/java/org/apache/commons/csv/CSVFormat.java 1189
+
+Buggy Line:
+if (newRecord && (c < 0x20 || c > 0x21 && c < 0x23 || c > 0x2B && c < 0x2D || c > 0x7E)) { quote = true; } else if (c <= COMMENT) {
+
+Developer's Fix:
+if (c <= COMMENT) {
+
+[success] RAP-Gen's Repair:
+if(c <= COMMENT){
+************************************************************************************************************************
+JxPath_5_NodePointer_1_1
+src/java/org/apache/commons/jxpath/ri/model/NodePointer.java 665
+
+Buggy Line:
+throw new JXPathException("Cannot compare pointers that do not belong to the same tree: \\\'" + p1 +"\\\' and \\\'" + p2 +"\\\'");
+
+Developer's Fix:
+return 0;
+
+[success] RAP-Gen's Repair:
+return 0;
+************************************************************************************************************************

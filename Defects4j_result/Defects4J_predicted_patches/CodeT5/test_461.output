@@ -1,0 +1,100 @@
+[PATCH] if(raw == String.class || raw == UUID.class){
+[PATCH] if(raw == Character.class || raw == Boolean.class){
+[PATCH] else if(raw == Character.class){
+[PATCH] else if(raw == Character.class || raw == Boolean.class){
+[PATCH] else if(raw == Class.class){
+[PATCH] if(raw == Class.class || raw == Object.class){
+[PATCH] else if(raw == String.class || raw == UUID.class){
+[PATCH] if(raw == Class.class || raw == NoClass.class){
+[PATCH] else if(raw == Number.class || raw == Boolean.class){
+[PATCH] if(raw == Class.class){
+[PATCH] else if(raw == Date.class || raw == Boolean.class){
+[PATCH] if(raw == Date.class || raw == Boolean.class){
+[PATCH] if(raw == String.class || raw == Object.class){
+[PATCH] else if(raw == Boolean.class || raw == Character.class){
+[PATCH] } else if(raw == Character.class){
+[PATCH] else if(raw == String.class || raw == Object.class){
+[PATCH] if(raw == Character.class || raw == Long.class){
+[PATCH] if(raw == Object.class || raw == String.class){
+[PATCH] else if(raw == UUID.class){
+[PATCH] if(raw == Character.class || raw == String.class){
+[PATCH] if(raw == Character.class || raw == Integer.class){
+[PATCH] if(raw == BigInteger.class || raw == Long.class){
+[PATCH] if(raw == Character.class || raw == Object.class){
+[PATCH] else if(raw == Collection.class || raw == Object.class){
+[PATCH] if(raw == UUID.class){
+[PATCH] if(raw == Character.class || raw == Character.class){
+[PATCH] if(raw == Boolean.class || raw == Character.class){
+[PATCH] else if(raw == Date.class || raw == Object.class){
+[PATCH] if(raw == Class.class || raw == ObjectId.class){
+[PATCH] if(raw == Class.class || raw == String.class){
+[PATCH] if(raw == String.class || raw == Character.class){
+[PATCH] if(raw == UUID.class || raw == String.class){
+[PATCH] if(raw == Number.class || raw == Boolean.class){
+[PATCH] if(raw == Integer.class || raw == Long.class){
+[PATCH] if(raw == Date.class || raw == Character.class){
+[PATCH] else if(raw == Date.class || raw == Character.class){
+[PATCH] if(raw == Serializable.class || raw == Boolean.class){
+[PATCH] if(raw == charSequence.class || raw == Object.class){
+[PATCH] if(raw == Character.class || raw == Date.class){
+[PATCH] if(raw == String.class || raw == Boolean.class){
+[PATCH] if(raw == Date.class || raw == Object.class){
+[PATCH] if(raw == charSequence.class || raw == Boolean.class){
+[PATCH] if(raw == charSequence.class || raw == String.class){
+[PATCH] if(raw == String.class || raw == Number.class){
+[PATCH] else if(raw == boolean.class || raw == Character.class){
+[PATCH] if(raw == Class.class || raw == Boolean.class){
+[PATCH] if(raw == boolean.class || raw == Character.class){
+[PATCH] else if(raw == Character.class || raw == Long.class){
+[PATCH] if(raw == Class.class || raw == Number.class){
+[PATCH] else if(raw == Character.class || raw == Object.class){
+[PATCH] if(raw == Class.class || raw == Long.class){
+[PATCH] if(raw == Character.class || raw == Double.class){
+[PATCH] if(raw ==Character.class || raw == Boolean.class){
+[PATCH] if(raw == ObjectId.class || raw == String.class){
+[PATCH] if(raw == Key.class || raw == UUID.class){
+[PATCH] else if(raw == Character.class || raw == String.class){
+[PATCH] else if(raw == Number.class || raw == String.class){
+[PATCH] if(raw == char.class || raw == Object.class){
+[PATCH] else if(raw == Character.class || raw == Integer.class){
+[PATCH] if(raw == URI.class || raw == URL.class){
+[PATCH] if(raw == Character.class || raw == ObjectId.class){
+[PATCH] if(raw == String.class || raw == ObjectId.class){
+[PATCH] if(raw == BigInteger.class || raw == Boolean.class){
+[PATCH] if(raw == Character.class || raw == Number.class){
+[PATCH] if(raw == Character.class || raw == BigInteger.class){
+[PATCH] if(raw == Class.class || raw == Map.class){
+[PATCH] } else if(raw == Class.class){
+[PATCH] if(raw == Character.class || raw == Color.class){
+[PATCH] else if(raw == BigInteger.class || raw == Long.class){
+[PATCH] if(raw ==Class.class || raw == Object.class){
+[PATCH] if(raw == Class.class || raw == Date.class){
+[PATCH] if(raw ==Character.class || raw == Character.class){
+[PATCH] if(raw == char.class || raw == String.class){
+[PATCH] if(raw == Character.class || raw == Reference.class){
+[PATCH] if(raw == Integer.class || raw == Boolean.class){
+[PATCH] if(raw == Collection.class || raw == Object.class){
+[PATCH] if(raw ==Class.name || raw == Object.class){
+[PATCH] if(raw == Character.class){
+[PATCH] else if(raw == URI.class){
+[PATCH] else if(raw == Object.class){
+[PATCH] else if(raw == Constructor.class){
+[PATCH] if(raw == char.class){
+[PATCH] else if(raw == ObjectId.class){
+[PATCH] } else if(raw == UUID.class){
+[PATCH] } else if(raw == Object.class){
+[PATCH] else if(raw == Reference.class){
+[PATCH] else if(raw == Pointer.class){
+[PATCH] else if(raw == Function.class){
+[PATCH] else if(raw == Serializable.class){
+[PATCH] if(raw == Constructor.class){
+[PATCH] else if(raw == URL.class){
+[PATCH] if(raw == URI.class){
+[PATCH] else if(raw == char.class){
+[PATCH] else if(raw == Collection.class){
+[PATCH] else if(raw == Date.class){
+[PATCH] else if(raw ==Class.class){
+[PATCH] else if(raw == Locale.class){
+[PATCH] if(raw == charSequence.class){
+[PATCH] if(raw == Reference.class){
+[PATCH] else if(raw == Token.class){

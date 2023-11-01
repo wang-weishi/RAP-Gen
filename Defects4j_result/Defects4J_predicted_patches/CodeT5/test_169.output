@@ -1,0 +1,100 @@
+[PATCH] if(fnType!= null && fnType.isConstructor()){
+[PATCH] if(fnType!= null && fnType.getInstanceType()!= null){
+[PATCH] if(fnType!= null && fnType.getConstructor()!= null){
+[PATCH] if(fnType!= null && fnType.hasInstanceType()){
+[PATCH] if(fnType!= null &&!fnType.isInstanceType()){
+[PATCH] if(fnType!= null && fnType.getInstanceType().isConstructor()){
+[PATCH] if(fnType!= null && fnType.getParameterCount() > 0){
+[PATCH] if(fnType!= null && fnType.getConstructor().isInterface()){
+[PATCH] if(fnType!= null &&!fnType.isConstructor()){
+[PATCH] if(fnType!= null &&!fnType.isConstructor().isInterface()){
+[PATCH] if(fnType!= null && fnType.getParameterCount() == 2){
+[PATCH] if(fnType!= null && fnType.isParameterTypes()){
+[PATCH] if(fnType!= null && functionType.isConstructor()){
+[PATCH] if(fnType!= null && fnType.getParameterTypes().length > 0){
+[PATCH] if(fnType!= null && fnType.getPrototype().isConstructor()){
+[PATCH] if(fnType!= null && fnType.getPrototype().isInterface()){
+[PATCH] if(fnType!= null && fnType.isConstructor().isInterface()){
+[PATCH] if(fnType!= null && fnType.hasParameterTypes()){
+[PATCH] if(fnType!= null && fnType.getParameters()!= null){
+[PATCH] if(fnType!= null && fnType.isVarArgs()){
+[PATCH] if(fnType!= null && fnType.hasConstructor()){
+[PATCH] if(fnType!= null && fnType.getPrototype().isInstanceType()){
+[PATCH] if(fnType!= null && fnType.isInstanceType()){
+[PATCH] if(fnType!= null &&!fnType.isNativeFunctionType()){
+[PATCH] if(fnType.isConstructor() || fnType.isInterface()){
+[PATCH] if(fnType!= null && fnType.getArgumentTypes().length > 0){
+[PATCH] if(fnType!= null && fnType.getInstanceType().isInterface()){
+[PATCH] if(fnType!= null && isFunctionType(constructor.getJSType())) {
+[PATCH] if(type.isFunctionType() && fnType.getInstanceType()!= null){
+[PATCH] if(fnType!= null && fnType.getParameterCount() == 1){
+[PATCH] if(fnType!= null && fnType.getJSDocInfo()!= null){
+[PATCH] if(fnType!= null && fnType.getInstanceType().isFunctionPrototype()){
+[PATCH] if(fnType!= null &&!fnType.isInvalidatingType()){
+[PATCH] if(fnType!= null &&!fnType.isReturnType().isInstanceType()){
+[PATCH] if(fnType!= null &&!fnType.isInterface()){
+[PATCH] if(fnType!= null &&!fnType.isUnknownType()){
+[PATCH] if(fnType!= null &&!fnType.isPrototype()){
+[PATCH] if(fnType!= null && fnType.getParameterTypes().length == 2){
+[PATCH] if(fnType!= null && fnType.getConstructor() == null){
+[PATCH] if(fnType!= null && fnType.getParametersCount() > 0){
+[PATCH] if(!fnType.isConstructor() &&!fnType.isInterface()){
+[PATCH] if(fnType!= null && varType.getInstanceType()!= null){
+[PATCH] if(fnType!= null && fnType.getParameterTypeCount() > 0){
+[PATCH] if(fnType!= null && fnType.getJSDocInfo() == null){
+[PATCH] if(fnType!= null && fnType.getNewParameterCount() > 0){
+[PATCH] if(fnType!= null &&!fnType.isFunctionPrototype()){
+[PATCH] if(fnType!= null &&!fnType.isConstructor().isInstanceType()){
+[PATCH] if(fnType!= null && fnType.isParameterList()){
+[PATCH] if(fnType!= null && isFunctionType(constructor, fnType)) {
+[PATCH] if(fnType!= null &&!fnType.isNoObjectType()){
+[PATCH] if(fnType!= null && fnType.hasConstructorParameter()){
+[PATCH] if(fnType!= null &&!fnType.getInstanceType().isInstanceType()){
+[PATCH] if(fnType!= null &&!fnType.isInstanceType().isEmpty()){
+[PATCH] if(fnType!= null && fnType.getConstructor()!= type){
+[PATCH] if(fnType!= null &&!fnType.isInstanceType().isNative()){
+[PATCH] if(fnType!= null && typeofConstructor == FunctionType.class){
+[PATCH] if(fnType!= null && isFunctionType(n, fnType)) {
+[PATCH] if(fnType!= null && fnType.isFunctionPrototype()){
+[PATCH] if(fnType!= null && fnType.isParameterCount()){
+[PATCH] if(fnType!= null && FunctionType.isConstructor(fnType)) {
+[PATCH] if(fnType!= null &&!fnType.isConstructor().isNative()){
+[PATCH] if(fnName!= null && fnType.getInstanceType()!= null){
+[PATCH] if(fnType!= null && fnType.isInterface()){
+[PATCH] if(fnType!= null && fnType.toConstructor().isInterface()){
+[PATCH] if(fnType!= null && isFunctionType(constructor, n)) {
+[PATCH] if(fnType.getInstanceType()!= null){
+[PATCH] if(fnType!= null && fnType.getSourceName()!= null){
+[PATCH] if(fnType!= null && functionType.getInstanceType()!= null){
+[PATCH] if(fnType!= null && isFunctionAnonymous(n)) {
+[PATCH] if(fnType!= null && fnType.isParameters()){
+[PATCH] if(fnType!= null &&!fnType.isEmpty()){
+[PATCH] if(fnType!= null && fnType.isParameterizedType()){
+[PATCH] if(fnType!= null && fnType.getInstanceType().isArray()){
+[PATCH] if(fnType!= null &&!fnType.isInstanceType().isInstanceType()){
+[PATCH] if(fnType!= null && fnType.getInstanceType().isNativeObjectType()){
+[PATCH] if(fnType!= null && fnType.getArgumentTypes().length > 1){
+[PATCH] if(fnType!= null && fnType.hasParameters()){
+[PATCH] if(fnType!= null &&!fnType.isNativeObjectType()){
+[PATCH] if(fnType!= null &&!fnType.isImplicitPrototype()){
+[PATCH] if(fnType!= null && fnType.getParameterTypeCount() == 2){
+[PATCH] if(fnName!= null && fnType.isConstructor()){
+[PATCH] if(fnType!= null && varType.isConstructor()){
+[PATCH] if(fnType!= null && t.inGlobalScope()){
+[PATCH] if(fnType!= null && fnType.isPrototype()){
+[PATCH] if(fnType!= null && fnType.isConstructor().getInstanceType()){
+[PATCH] if(fnType!= null && FUNCTION_EXPRESSION_STATEMENT == n){
+[PATCH] if(fnType!= null && functionType.isParameterTypes()){
+[PATCH] if(fnType!= null && fnType.getArguments()!= null){
+[PATCH] if(fnType!= null && fnType.getParameterCount() > 1){
+[PATCH] if(fnType!= null && fnType.isOptionalArg()){
+[PATCH] if(fnType!= null && fnType.getArgumentTypes().length == 2){
+[PATCH] if(fnType!= null && fnType.hasParameterCount()){
+[PATCH] if(fnType!= null &&FnType.isConstructor()){
+[PATCH] if(fnType!= null && isFunctionType(constructor, false)) {
+[PATCH] if(fnType!= null && isFunctionType(constructor)) {
+[PATCH] if(fnType!= null && fnType.isInstance()){
+[PATCH] if(fnType!= null && isFunctionOrInterfaceConstructor(n)) {
+[PATCH] if(fnType!= null && functionType.isInstanceType()){
+[PATCH] if(fnType!= null && typeofConstructor == 2){
+[PATCH] if(fnType!= null && len > 0){

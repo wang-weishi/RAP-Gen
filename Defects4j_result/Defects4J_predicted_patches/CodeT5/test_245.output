@@ -1,0 +1,100 @@
+[PATCH] tb.pop();
+[PATCH] } else if(name.equals("body")) { if(tb.getBodyElement()!= null){ tb.error(this); }
+[PATCH] } else if(name.equals("end")) { if(tb.getEndElement()!= null){ tb.error(this); }
+[PATCH] if(name.equals("body")) { if(tb.getBodyElement()!= null){ tb.error(this); }
+[PATCH] } else if(name.equals("after")) { if(tb.getAfterElement()!= null){ tb.error(this); }
+[PATCH] } else if(name.equals("base")) { if(tb.getBaseElement()!= null){ tb.error(this); }
+[PATCH] } else if(name.equals("script")) { if(tb.getScriptElement()!= null){ tb.error(this); }
+[PATCH] while(StringUtil.inSorted(name, Constants.InBodyEndPreListing)) { tb.pop();
+[PATCH] while(StringUtil.inSorted(name, Constants.InBodyStartPreListing)) { tb.pop();
+[PATCH] } else if(name.equals("textarea")) { if(tb.getTextarea()!= null){ tb.error(this); }
+[PATCH] } else if(name.equals("footer")) { if(tb.getBodyEnd()!= null){ tb.error(this); }
+[PATCH] } else if(name.equals("title")) { if(tb.getTitleElement()!= null){ tb.error(this); }
+[PATCH] } else if(name.equals("textarea")) { if(tb.getTextArea()!= null){ tb.error(this); }
+[PATCH] } else if(name.equals("bottom")) { if(tb.getBottomElement()!= null){ tb.error(this); }
+[PATCH] } else if(name.equals("end")) { if(tb.getBodyElement()!= null){ tb.error(this); }
+[PATCH] } else if(name.equals("body")) { if(tb.getBodyEnd()!= null){ tb.error(this); }
+[PATCH] } else if(name.equals("base")) { if(tb.getBodyElement()!= null){ tb.error(this); }
+[PATCH] if(name.equals("body")) { if(tb.getBody()!= null){ tb.error(this); return false; }
+[PATCH] } else if(name.equals("after")) { if(tb.getEndElement()!= null){ tb.error(this); }
+[PATCH] } else if(name.equals("end")) { if(tb.getLastElement()!= null){ tb.error(this); }
+[PATCH] } else if(name.equals("input")) { if(tb.getInputElement()!= null){ tb.error(this); }
+[PATCH] while(tb.nextNode()!= null){ tb.pop();
+[PATCH] } else if(name.equals("html")) { if(tb.getBodyElement()!= null){ tb.error(this); }
+[PATCH] } else if(name.equals("header")) { if(tb.getHeaderElement()!= null){ tb.error(this); }
+[PATCH] if(name.equals("end")) { if(tb.getEndElement()!= null){ tb.error(this); }
+[PATCH] } else if(name.equals("button")) { if(tb.getButtonElement()!= null){ tb.error(this); }
+[PATCH] if(name.equals("base")) { if(tb.getBaseElement()!= null){ tb.error(this); }
+[PATCH] if(name.equals("after")) { if(tb.getAfterElement()!= null){ tb.error(this); }
+[PATCH] if(name.equals("script")) { if(tb.getScriptElement()!= null){ tb.error(this); }
+[PATCH] if(name.equals("body")) { if(tb.getBodyEnd()!= null){ tb.error(this); }
+[PATCH] if(name.equals("body")) { tb.pop(); } else { tb.error(this); return false; }
+[PATCH] if(name.equals("base")) { if(tb.getBodyElement()!= null){ tb.error(this); }
+[PATCH] if(name.equals("bottom")) { if(tb.getBottomElement()!= null){ tb.error(this); }
+[PATCH] if(name.equals("end")) { if(tb.getBodyElement()!= null){ tb.error(this); }
+[PATCH] while(tb.nextNode()!= null &&!tb.isEmpty()){ tb.pop();
+[PATCH] if(name.equals("title")) { if(tb.getTitleElement()!= null){ tb.error(this); }
+[PATCH] while(!StringUtil.inSorted(name, Constants.InBodyEndPreListing)) { tb.pop();
+[PATCH] while(!StringUtil.inSorted(name, Constants.InBodyStartPreListing)) { tb.pop();
+[PATCH] if(name.equals("body")) { tb.pop(); }
+[PATCH] while(!tb.inBodyStartPreListing() &&!tb.isEmpty()){ tb.pop();
+[PATCH] while(StringUtil.inSorted(name, Constants.InBodyStartPreListing)) { name = tb.next();
+[PATCH] while(StringUtil.inSorted(name, Constants.InBodyEndPreListing)) { name = tb.next();
+[PATCH] while(StringUtil.inSorted(name, Constants.InBodyEndPreListing)) { name = tb.pop();
+[PATCH] while(tb.inBodyStartPreListing()!= null){ tb.pop();
+[PATCH] name.substring(0, name.length() - 1);
+[PATCH] while(tb.nextTag()!= null){ tb.pop();
+[PATCH] while(name.equals("body")) { tb.pop();
+[PATCH] tb.copyCurrentStructure();
+[PATCH] name = tb.inBodyEndPreListing();
+[PATCH] name = name.substring(0, name.length() - 1);
+[PATCH] while(tb.nextNode()!= null){ tb.copyCurrentStructure();
+[PATCH] while(!tb.isEmpty()){ tb.pop();
+[PATCH] while(tb.hasChildren()){ tb.pop();
+[PATCH] while(tb.hasMoreElements()){ tb.pop();
+[PATCH] name = tb.getBody();
+[PATCH] tb.copyInformationFrom(bodyElement());
+[PATCH] tb.copyCurrentStructure(name);
+[PATCH] name = tb.pop();
+[PATCH] tb.copyCurrentStructure(bodyElement);
+[PATCH] name.substring(0, 1);
+[PATCH] name = tb.inBodyStartPreListing();
+[PATCH] tb.copyCurrentStructure(oldBody);
+[PATCH] name = tb.getCurrentName();
+[PATCH] name = name.substring(1);
+[PATCH] tb.copyCurrentStructure(data);
+[PATCH] tb.copyCurrentStructure(bodyElement());
+[PATCH] name = tb.getLastChild();
+[PATCH] name = tb.getBodyElement();
+[PATCH] tb.dup();
+[PATCH] tb.copyCurrentStructure(body);
+[PATCH] name.substring(0, -1);
+[PATCH] name = tb.getCurrentSegment();
+[PATCH] tb.loadMoreGuaranteed();
+[PATCH] name = tb.getText();
+[PATCH] name.substring(1);
+[PATCH] tb.loadMoreElements();
+[PATCH] tb.loadMore();
+[PATCH] name = tb.getRequestBody();
+[PATCH] tb.body();
+[PATCH] while(tb.pop();
+[PATCH] tb.push(null);
+[PATCH] tb.push(value);
+[PATCH] name.trimByVisibility();
+[PATCH] tb.copyScopeAnnotations();
+[PATCH] tb.skipChildren();
+[PATCH] name.trimToEnd();
+[PATCH] t = tb.pop();
+[PATCH] return tb.pop();
+[PATCH] tb.parseBody();
+[PATCH] throw new IllegalStateException("");
+[PATCH] tb.getBody();
+[PATCH] tb.peek();
+[PATCH] tb.initBody();
+[PATCH] e.pop();
+[PATCH] tb.pop();
+[PATCH] tb.shift();
+[PATCH] tb. pop();
+[PATCH] skipChildren();
+[PATCH] name.trim();
+[PATCH] tb.reset();

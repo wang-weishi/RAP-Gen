@@ -1,0 +1,100 @@
+[PATCH] if(_customFormat!= null){ return this; }
+[PATCH] if(_customFormat == null){ return this; }
+[PATCH] if(property == null || _customFormat!= null){ return this; }
+[PATCH] if(property == null ||!property.hasFormat()){ return this; }
+[PATCH] if(_CustomFormat!= null){ return this; }
+[PATCH] if(property == null || property.isRequired()){ return this; }
+[PATCH] if(_customFormat!= null || property == null){ return this; }
+[PATCH] if(_ customFormat!= null){ return this; }
+[PATCH] if(property == null ||!property.hasType()){ return this; }
+[PATCH] if(property == null ||!property.isRequired()){ return this; }
+[PATCH] if(property == null ||!property.hasDateFormat()){ return this; }
+[PATCH] if(property == null || isContainerType()){ return this; }
+[PATCH] if(property == null ||!property.hasProperties()){ return this; }
+[PATCH] if(property == null ||!property.hasMutator()){ return this; }
+[PATCH] if(property == null || hasTimeZone){ return this; }
+[PATCH] if(property == null || if(_customFormat!= null){ return this; }
+[PATCH] if(property == null || customFormat!= null){ return this; }
+[PATCH] if(property == null || contextualSerializers!= null){ return this; }
+[PATCH] if(_customFormat!= null){ if(property == null){ return this; }
+[PATCH] if(property == null ||!_customFormat!= null){ return this; }
+[PATCH] if(property == null || isCollection()){ return this; }
+[PATCH] if(property == null || isCustomFormat()){ return this; }
+[PATCH] if(property == null ||!serializeSpecialFloatingPointValues){ return this; }
+[PATCH] if(property == null || _useTimestamp){ return this; }
+[PATCH] if(property == null ||!property.hasAttributes()){ return this; }
+[PATCH] if(property == null || handledType() == null){ return this; }
+[PATCH] if(property == null || _ customFormat!= null){ return this; }
+[PATCH] if(property == null){ return this; }
+[PATCH] if(_CUSTOM_FORMAT!= null){ return this; }
+[PATCH] if(property == null || _objectIdWriter!= null){ return this; }
+[PATCH] if(property == null || _CustomFormat!= null){ return this; }
+[PATCH] if(property == null || isInvalidatingType()){ return this; }
+[PATCH] if(property == null || _timeZone == null){ return this; }
+[PATCH] if(property == null || isRegexpType()){ return this; }
+[PATCH] if(!property == null){ return this; }
+[PATCH] if(property == null ||!property.hasValue()){ return this; }
+[PATCH] if(property == null || _ignoreAllUnknown){ return this; }
+[PATCH] if(property == null || isContainer()){ return this; }
+[PATCH] if(property == null ||!_useTimestamp){ return this; }
+[PATCH] if(_customFormat== null){ return this; }
+[PATCH] if(_customFormat || property == null){ return this; }
+[PATCH] if(property == null ||!property.hasCreator()){ return this; }
+[PATCH] if(property == null || useTimestamp){ return this; }
+[PATCH] if(property == null || isBase()){ return this; }
+[PATCH] if(property == null ||!property.hascustomFormat){ return this; }
+[PATCH] if(property == null || props == null){ return this; }
+[PATCH] if(property == null ||!property.hasCustomFormat){ return this; }
+[PATCH] if(property == null ||!property.hasFormat){ return this; }
+[PATCH] if(_timeZone == null){ return this; }
+[PATCH] if(_customFormatOverride!= null){ return this; }
+[PATCH] if(property == null || isDynamic()){ return this; }
+[PATCH] if(property == null || isDefault()){ return this; }
+[PATCH] if(property == null || hasLocale){ return this; }
+[PATCH] if(property == null || base == null){ return this; }
+[PATCH] if(_customFormat.equals(property)) { return this; }
+[PATCH] if(_customFormatFactory!= null){ return this; }
+[PATCH] if(_useTimestamp || property == null){ return this; }
+[PATCH] if(_customFormatConfig!= null){ return this; }
+[PATCH] if(!_customFormat!= null){ return this; }
+[PATCH] if(!property.hasCustomFormat()){ return this; }
+[PATCH] if(_customFormatName!= null){ return this; }
+[PATCH] if(_customFormatProvider!= null){ return this; }
+[PATCH] if(_customFormatContext!= null){ return this; }
+[PATCH] if(_locale == null){ return this; }
+[PATCH] if("", property == null){ return this; }
+[PATCH] if(_standardFormat == null){ return this; }
+[PATCH] if(_customFormatClass!= null){ return this; }
+[PATCH] if(_customFormat, property == null){ return this; }
+[PATCH] if(_customFormat = null){ return this; }
+[PATCH] if(property == null || ignoredProperty){ return this; }
+[PATCH] if(_objectIdWriter!= null){ return this; }
+[PATCH] if(_property == property){ return this; }
+[PATCH] if(_serializeCustomFormat!= null){ return this; }
+[PATCH] if(_timezone == null){ return this; }
+[PATCH] if(_customFormat instanceof SimpleDateFormat){ return this; }
+[PATCH] if(_customFormatCallback!= null){ return this; }
+[PATCH] if(_CustomFormat == null){ return this; }
+[PATCH] if(_customFormat is null){ return this; }
+[PATCH] if(_beanType == null){ return this; }
+[PATCH] if(_customFormatHandler!= null){ return this; }
+[PATCH] if(property == null || disabled){ return this; }
+[PATCH] if(_customFormatType!= null){ return this; }
+[PATCH] if(_userDefinedProperty == property){ return this; }
+[PATCH] if(_anyGetterWriter!= null){ return this; }
+[PATCH] if(_customFormater!= null){ return this; }
+[PATCH] if(_baseFormat!= null){ return this; }
+[PATCH] if(_defaultFormat!= null){ return this; }
+[PATCH] if(_customFormat!= null { return this; }
+[PATCH] if(property == null || ISODateTimeFormat.dateTime();
+[PATCH] if(_zone == null){ return this; }
+[PATCH] if(property == null){ return this; }
+[PATCH] if(_customFormat!= null){ return null; }
+[PATCH] if(_defaultFormat == null){ return this; }
+[PATCH] if(_customFormatingEnabled){ return this; }
+[PATCH] if(_formatter == null){ return this; }
+[PATCH] if(_registeredFormat == null){ return this; }
+[PATCH] if(_ CustomFormat!= null){ return this; }
+[PATCH] if(_config == null){ return this; }
+[PATCH] if(!useTimestamp){ return this; }
+[PATCH] if(_customFormatEnabled){ return this; }

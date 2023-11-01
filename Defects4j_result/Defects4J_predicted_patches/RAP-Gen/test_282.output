@@ -1,0 +1,100 @@
+[PATCH] if(full.startsWith(PREFIX_STRING)) {
+[PATCH] if(PREFIX_STRING.startsWith(cls.getName())) {
+[PATCH] if(raw.startsWith(PREFIX_STRING)) {
+[PATCH] if(PREFIX_STRING.startsWith(full)) {
+[PATCH] if(cls.startsWith(PREFIX_STRING)) {
+[PATCH] if(prefix.startsWith(cls.getSimpleName())) {
+[PATCH] if(prefix.startsWith(cls.getName())) {
+[PATCH] if(prefix.startsWith(full)) {
+[PATCH] if(!_cfgIllegalClassNames.contains(full)) {
+[PATCH] if(START_STRING.startsWith(full)) {
+[PATCH] if(cls.isAssignableFrom(raw)) {
+[PATCH] if(PREFIX_STRING.equals(cls.getName())) {
+[PATCH] if(PREFIX_STRING.equals(full)) {
+[PATCH] if(prefix.startsWith(cls.getPrefix())) {
+[PATCH] if(ns.startsWith(PREFIX_STRING)) {
+[PATCH] if(cls.getName().startsWith(PREFIX_STRING)) {
+[PATCH] if(prefix_STRING.startsWith(cls.getName())) {
+[PATCH] if(name.startsWith(PREFIX_STRING)) {
+[PATCH] if(DEFAULT_NO_DESER_CLASS_NAMES){
+[PATCH] if(full.startsWith(prefix_STRING)) {
+[PATCH] if(fully.startsWith(PREFIX_STRING)) {
+[PATCH] if(className.startsWith(PREFIX_STRING)) {
+[PATCH] if(prefix_STRING.startsWith(full)) {
+[PATCH] if(partial.startsWith(PREFIX_STRING)) {
+[PATCH] if(full.startsWith("java.lang.")) {
+[PATCH] if(cls.isArray()){
+[PATCH] if(!raw.startsWith(PREFIX_STRING)) {
+[PATCH] if(EMPTY_NO_DESER_CLASS_NAMES){
+[PATCH] if(full.startsWith("java.lang.Object")) {
+[PATCH] if(startsWith(PREFIX_STRING)) {
+[PATCH] if(prefix.startsWith(cls.getPREFIX())) {
+[PATCH] if(FULL_NAME_GETTERS.contains(full)) {
+[PATCH] if(PREFIX_STRING.indexOf(cls.getName())) {
+[PATCH] if(prefix.equals(cls.getSimpleName())) {
+[PATCH] if(cls.isAssignableFrom(clazz)) {
+[PATCH] if(PREFIX_STRING.startsWith(name)) {
+[PATCH] if(startsWith(prefix_STRING)) {
+[PATCH] if(cls.startsWith(prefix_STRING)) {
+[PATCH] if(FULL_NAME.startsWith(cls.getName())) {
+[PATCH] if(raw.startsWith(prefix_STRING)) {
+[PATCH] if(cls.isPrimitive() || cls.isInterface()){
+[PATCH] if(MINIMUM_NO_DESER_CLASS_NAMES){
+[PATCH] if(cls.isArray() || cls.isArray()){
+[PATCH] if("java.lang.Object".equals(full)) {
+[PATCH] if(curName.startsWith(PREFIX_STRING)) {
+[PATCH] if(PREFIX_STRING.indexOf(cls.getName())< 0){
+[PATCH] if(0 == _cfgIllegalClassNames.add(full)) {
+[PATCH] if(startsWith(full)) {
+[PATCH] if(FRAGMENT_CLASS_NAMES.contains(full)) {
+[PATCH] if(len.startsWith(PREFIX_STRING)) {
+[PATCH] if(FULL_CLASS_NAMES.contains(full)) {
+[PATCH] if(RAW.startsWith(PREFIX_STRING)) {
+[PATCH] if(PREFIX_STRING.startsWith(cls.getName())){
+[PATCH] if(START_STRING.equals(full)) {
+[PATCH] if(PREFIX_STRING.startsWith(cls.name)) {
+[PATCH] if(cls.getName().startsWith("java.lang.")) {
+[PATCH] if(startsWith(cls, PREFIX_STRING)) {
+[PATCH] if(CLASS_NAME.startsWith(full)) {
+[PATCH] if(cls.isAssignableFrom(PREFIX_STRING)) {
+[PATCH] if(OFFSET_STRING.startsWith(full)) {
+[PATCH] if(prefix.startsWith(FullClass.class)) {
+[PATCH] if(base.startsWith(PREFIX_STRING)) {
+[PATCH] if(cls.isPrimitive()){
+[PATCH] if(tagName.startsWith(PREFIX_STRING)) {
+[PATCH] if(prefixes.contains(full)) {
+[PATCH] if(Prefix_STRING.startsWith(full)) {
+[PATCH] if(cmd.startsWith(PREFIX_STRING)) {
+[PATCH] if(full.startsWith(Prefix_STRING)) {
+[PATCH] if(PREFIX_STRING.startsWith(raw)) {
+[PATCH] if("".startsWith(full)) {
+[PATCH] if(index.startsWith(PREFIX_STRING)) {
+[PATCH] if(fpath.startsWith(PREFIX_STRING)) {
+[PATCH] if( PREFIX_STRING.startsWith(full)) {
+[PATCH] if(INNER_CLASS.startsWith(full)) {
+[PATCH] if(FULL.startsWith(PREFIX_STRING)) {
+[PATCH] if(prefix.equals(cls.getName())) {
+[PATCH] if(NAMESPACE_STRING.startsWith(full)) {
+[PATCH] if(startsWith(raw, PREFIX_STRING)) {
+[PATCH] if(PREFIX_STRING.startsWith(cls.getName)) {
+[PATCH] if(startsWith(full, PREFIX_STRING)) {
+[PATCH] if(clazz.isAssignableFrom(cls)) {
+[PATCH] if(prefixes.contains(cls.getName())) {
+[PATCH] if(full.startsWith(PREFIX_KEY)) {
+[PATCH] if(PREFIX_STRING.startsWith(cls.getName()){
+[PATCH] if(cls.isInterface()){
+[PATCH] if(cls.isAssignableFrom(prefix)) {
+[PATCH] if(MIN_NO_DESER_CLASS_NAMES){
+[PATCH] if(PREFIX_STRING.matcher(full)) {
+[PATCH] if(prefix.startsWith(name)) {
+[PATCH] if(cls.getSuperclass()!= null){
+[PATCH] if("".equals(full)) {
+[PATCH] if(cls.isInstance()){
+[PATCH] if(startsWith(prefix)) {
+[PATCH] if(isInterface(cls)) {
+[PATCH] if(startsWith(raw)) {
+[PATCH] if(false){
+[PATCH] {
+[PATCH] ;
+);
+*/

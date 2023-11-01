@@ -1,0 +1,100 @@
+[PATCH] } else if(p.getCurrentToken() == JsonToken.END_ARRAY){ if(tb!= null){ tb.writeEndObject(); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ tb.writeFieldName(_typePropertyName); tb.copyCurrentStructure(p); return null; }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ if(_typeIdReader!= null){ return _deserializeTypedFromAny(p, ctxt); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ return super.deserializeTypedFromAny(p, ctxt); } else { throw ctxt.mappingException(""); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.START_OBJECT){ tb.writeFieldName(_typePropertyName); tb.copyCurrentStructure(p); return null; }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ return super.deserializeTypedFromAny(p, ctxt); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ String id = p.getText(); if(id.equals("")) { return null; }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ if(_typeIdReader!= null){ return _deserializeTypedUsingDefaultImpl(p, ctxt); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ if(_typePropertyName.equals(p.getCurrentName())) { return null; }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ tb.writeFieldName(_typePropertyName); tb.copyCurrentStructure(p); return result; }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ tb.writeFieldName(_typePropertyName); tb.copyCurrentStructure(p); return tb.getNullValue(); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.END_OBJECT){ if(tb!= null){ tb.writeEndObject(); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ return _deserializeTypedFromAny(p, ctxt); } else { throw ctxt.mappingException(""); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ Object result = deser.deserializeTypedFromAny(p, ctxt); if(result!= null){ return result; }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ return deserializeTypedFromObject(p, ctxt); } else { throw ctxt.mappingException(""); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ if(_typePropertyName == null || _typePropertyName.isEmpty()){ return null; }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ if(_typeIdReader!= null){ return tb.deserializeTypedFromAny(p, ctxt); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ if(_typeIdReader!= null){ return tb.readTypedFromAny(p, ctxt); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.START_OBJECT){ tb.writeFieldName(_typePropertyName); tb.copyCurrentStructure(p); return result; }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ String id = p.getText(); if(id.equals(_baseType)) { return null; }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ return _deserializeTypedUsingDefaultImpl(p, ctxt); } else { throw ctxt.mappingException(""); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ Object result = deser.deserializeTypedFromObject(p, ctxt); if(result!= null){ return result; }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ String id = p.getText(); if(id.equals(_baseType)) { return result; }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ String typeId = p.getText(); if(typeId.equals(_baseType)) { return null; }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ return _deserializeTypedFromObject(p, ctxt); } else { throw ctxt.mappingException(""); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.START_OBJECT){ Object result = deser.deserializeTypedFromAny(p, ctxt); if(result!= null){ return result; }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.START_OBJECT){ return super.deserializeTypedFromAny(p, ctxt); } else { throw ctxt.mappingException(""); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.START_OBJECT){ tb.writeEndObject(); return TypeDeserializer.deserializeIfNatural(p, ctxt, _baseType); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ return TypeDeserializer.deserializeIfNatural(p, ctxt, _baseType); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ return tb.deserializeTypedFromAny(p, ctxt); } else { throw ctxt.mappingException(""); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ return super.deserializeTypedFromAny(p, ctxt); } else { throw ctxt.wrongTokenException(""); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ tb.writeFieldName(_typePropertyName); tb.copyCurrentStructure(p); return tb.getDefaultImpl(); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ return deser.deserializeTypedFromAny(p, ctxt); } else { throw ctxt.mappingException(""); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ Object result = _deserializeTypedFromAny(p, ctxt); if(result!= null){ return result; }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ String id = p.getText(); if(id.equals("")) { return result; }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ return _deserializeTypedFromAny(p, ctxt); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ return deserializeTypedFromAny(p, ctxt); } else { throw ctxt.mappingException(""); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ return _deserializeTypedUsingDefaultImpl(p, ctxt); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.START_OBJECT){ return deserializeTypedFromObject(p, ctxt); } else { throw ctxt.mappingException(""); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ tb.writeFieldName(_typePropertyName); tb.copyCurrentStructure(p); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ if(_typeIdReader!= null){ return _vanillaDeserialize(p, ctxt, tb); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ return tb.deserializeTypedFromObject(p, ctxt); } else { throw ctxt.mappingException(""); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.END_ARRAY){ if(tb!= null){ tb.writeEndObject(); return _deserializeTypedFromAny(p, ctxt); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ p.nextToken(); if(tb!= null){ tb.writeEndObject(); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ String typeId = p.getText(); if(typeId.equals(_baseType)) { return result; }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ if(_typeIdReader!= null){ return _deserializeWithBaseType(p, ctxt, _baseType); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ if(_typeIdReader!= null){ return _deserializeTypedFromArray(p, ctxt); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ if(_typeIdReader!= null){ return tb.readObject(); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ Object result = _deserializeTypedFromObject(p, ctxt); if(result!= null){ return result; }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.START_OBJECT){ if(tb!= null){ tb.writeEndObject(); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ if(_typePropertyName.equals(p.getCurrentName())) { return jp.getText(); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.START_OBJECT){ tb.writeFieldName(_typePropertyName); tb.copyCurrentStructure(p); return tb.getNullValue(); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ tb.writeFieldName(_typePropertyName); tb.copyCurrentStructure(p); return tb.getAndReset(); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.END_ARRAY){ if(tb!= null){ tb.writeEndObject(); return deserializeTypedFromAny(p, ctxt); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.START_OBJECT){ return super.deserializeTypedFromAny(p, ctxt); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ return deser.deserializeTypedFromAny(p, ctxt); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ String typeid = p.getText(); if(typeId.equals(_baseType)) { return null; }
+[PATCH] } else if(!p.isExpectedStartArrayToken()){ tb.writeFieldName(_typePropertyName); tb.copyCurrentStructure(p); return null; }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.END_ARRAY){ if(tb!= null){ tb.writeEndObject(); return tb.readValue(); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.END_ARRAY){ if(tb!= null){ tb.writeEndObject(); return deserializeTypedFromObject(p, ctxt); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ tb.writeFieldName(_typePropertyName); tb.copyCurrentStructure(p); return tb.getNodeValue(); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ tb.writeFieldName(_typePropertyName); tb.copyCurrentStructure(p); p.nextToken(); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ if(_typeIdReader!= null){ return tb.completeAndClearBuffer(p, ctxt); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ String id = p.getText(); if(id.equals(_typePropertyName)) { return null; }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.START_OBJECT){ tb.writeFieldName(_typePropertyName); tb.copyCurrentStructure(p); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ if(_typeIdReader!= null){ return deserializeTypedFromAny(p, ctxt); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ tb.writeFieldName(_typePropertyName); tb.copyCurrentStructure(p); return tb.getEmptyValue(); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ return deserializeTypedFromObject(p, ctxt); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ tb.writeFieldName(_typePropertyName); tb.copyCurrentStructure(p); return tb.getText(); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.END_ARRAY){ if(_typeIdReader!= null){ return tb.completeAndClearBuffer(p, ctxt); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.START_OBJECT){ tb.writeEndObject(); return deserializeTypedFromObject(p, ctxt); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ return _deserializeTypedFromObject(p, ctxt); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ if(_typeIdReader!= null){ return tb.readTypedObject(); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ if(_typeIdReader!= null){ return jp.getText(); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ return tb.deserializeTypedFromAny(p, ctxt); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.START_OBJECT){ tb.writeEndObject(); return tb.getNullValue(); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ throw ctxt.reportWrongTokenException(""); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.END_ARRAY){ tb.writeEndObject(); return tb.getNullValue(); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ return deserializeTypedFromAny(p, ctxt); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.END_ARRAY){ return super.deserializeTypedFromAny(p, ctxt); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ return super.deserializeTypedFromObject(p, ctxt); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ return deser.deserializeTypedFromObject(p, ctxt); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.START_OBJECT){ return deserializeTypedFromObject(p, ctxt); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ return tb.deserializeTypedFromObject(p, ctxt); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ throw ctxt.reportUnexpectedTokenException(""); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ throw new JsonMappingException(""); }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){ return null; }
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){
+[PATCH] } else if(p.getCurrentToken() == JsonToken.FIELD_NAME){
+[PATCH] // MISSING_TYPE;
+[PATCH] [0];
+[PATCH] ;
+[PATCH] null;
+[PATCH] });
+[PATCH] }
+[PATCH] ARRAY
+[PATCH]
+);
+*/
+;

@@ -1,0 +1,100 @@
+[PATCH] if(!inAttribute)
+[PATCH] if(!inAttribute){
+[PATCH] if(!inAttribute && c == '<'){
+[PATCH] if(!inAttribute && accum.length() > 0){
+[PATCH] if(!inAttribute && isXmlChar(c)) {
+[PATCH] if(!inAttribute && isXMLChar(c)) {
+[PATCH] if(!inAttribute)throw new IllegalArgumentException("");
+[PATCH] if(!inAttribute && isXMLText(c)) {
+[PATCH] if(!inAttribute && isXmlText(c)) {
+[PATCH] if(!inAttribute && isControlCharacter(c)) {
+[PATCH] if(!inAttribute && isWordChar(c)) {
+[PATCH] if(!inAttribute && accum.length() > 0)
+[PATCH] if(!inAttribute && accum.length() < 2){
+[PATCH] if(!inAttribute && isControlStructure(c)) {
+[PATCH] if(!inAttribute && Character.isWhitespace(c))
+[PATCH] if(!inAttribute && isLowerChar(c)) {
+[PATCH] if(!inAttribute && isIllegalChar(c)) {
+[PATCH] if(!inAttribute && isReservedChar(c)) {
+[PATCH] if(!inAttribute && isNonWhitespace(c)) {
+[PATCH] if(!inAttribute && isWhitespace(c)) {
+[PATCH] if(!inAttribute && isXMLString(c)) {
+[PATCH] if(!inAttribute)append("&lt;");
+[PATCH] if(!inAttribute && isISOControl(c)) {
+[PATCH] if(!inAttribute && isSurrogate(c)) {
+[PATCH] if(!inAttribute && isNonEmpty()){
+[PATCH] if(!inAttribute && accum.length() == 0){
+[PATCH] if(!inAttribute && isVowel(c)) {
+[PATCH] if(!inAttribute && isReservedWord(c)) {
+[PATCH] if(!inAttribute)throw new IllegalStateException("");
+[PATCH] if(!inAttribute && hasNonEscapedChar(c))
+[PATCH] if(!inAttribute && isLeadingWhitespace(c)) {
+[PATCH] if("&lt;".equals(c)) {
+[PATCH] if(!inAttribute && isXMLCharacter(c)) {
+[PATCH] if(!inAttribute && isFirstChar(c)) {
+[PATCH] if(!inAttribute && c == '<')return;
+[PATCH] if(!inAttribute && Character.isLetter(c))
+[PATCH] if(!inAttribute && accum.length() == 1){
+[PATCH] if(!inAttribute && isXmlCharacter(c)) {
+[PATCH] if(!inAttribute && isXMLDeclaration(c)) {
+[PATCH] if(!inAttribute && isInvalidatingType(c))
+[PATCH] if(!inAttribute && isTrailingComma(c)) {
+[PATCH] if(!inAttribute && encodeXmlChar(c)) {
+[PATCH] if(!inAttribute && isJSSpace(c))
+[PATCH] if('')accum.append("&lt;"); else
+[PATCH] if(!inAttribute && isDigit(c)) {
+[PATCH] if(!inAttribute && ctype == '<'){
+[PATCH] if(!inAttribute && isSpace(c)) {
+[PATCH] if(!inAttribute && isValidateChar(c)) {
+[PATCH] if(!inAttribute && isXmlChar(c))
+[PATCH] if(!inAttribute && isXmlChars(c)) {
+[PATCH] if(!inAttribute && isTextNode(c)) {
+[PATCH] if(!inAttribute && isAscii()){
+[PATCH] if(!inAttribute && isXmlText(c))
+[PATCH] if(!inAttribute && c == '<')break;
+[PATCH] if(!inAttribute && isXMLText(c))
+[PATCH] if(!inAttribute && isXMLChar(c))
+[PATCH] if(!inAttribute && isLatin1()){
+[PATCH] if(!inAttribute && ch == '<'){
+[PATCH] if(!inAttribute && isNonEscaped()){
+[PATCH] if(!inAttribute, c == '<'){
+[PATCH] if('')accum.append("&lt;");
+[PATCH] if(!inAttribute && isLeadingWhite()){
+[PATCH] if('&lt;'.equals(c)) {
+[PATCH] if(!inAttribute && isEscaped()){
+[PATCH] if(!inAttribute && isBase64()){
+[PATCH] if(!inAttribute)return;
+[PATCH] if(!inAttribute))
+[PATCH] if("&lt;".equals(c))
+[PATCH] if(!inAttribute && isLenient()){
+[PATCH] if(!inAttribute);
+[PATCH] if(_inAttribute && c == '<'){
+[PATCH] if(!inAttribute)addToString(c);
+[PATCH] if(!inAttribute && isPadding()){
+[PATCH] if(!inAttribute && isDigit(c))
+[PATCH] if(!inAttribute)checkLenient();
+[PATCH] if(!inAttribute && i > 0){
+[PATCH] if() &&!inAttribute){
+[PATCH] if() &&!inAttribute)
+[PATCH] if(!inAttribute && normaliseWhite){
+[PATCH] if (!inAttribute)
+[PATCH] if(_inAttribute)
+[PATCH] if(!inAttribute)break;
+[PATCH] if(!inAttribute){
+[PATCH] if(-1!= inAttribute)
+[PATCH] if('>'!= inAttribute){
+[PATCH] if!inAttribute){
+[PATCH] if(!inAttribute)) {
+[PATCH] if(!inAttribute)return
+[PATCH] if!inAttribute){
+[PATCH] if(_inAttribute){
+[PATCH] if (!inAttribute){
+[PATCH] if(!inAttributes){
+[PATCH] if(!inAttribute")
+[PATCH] if(!inAttr){
+[PATCH] if(!inAttributes)
+[PATCH] if(!inAttribute)
+[PATCH] if(!inAttribute')
+[PATCH] if!inAttribute)
+[PATCH] if(-inAttribute)
+[PATCH] if!inAttribute)

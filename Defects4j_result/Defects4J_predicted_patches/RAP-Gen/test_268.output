@@ -1,0 +1,100 @@
+[PATCH] if(format.hasTimeZone()){
+[PATCH] if(shape.isString()){
+[PATCH] if(format.hasFormat()){
+[PATCH] if(shape.isISO8601()){
+[PATCH] if(shape.isDate()){
+[PATCH] if(shape.hasTimeZone()){
+[PATCH] if(shape.isDateFormat()){
+[PATCH] if(this.useTimestamp){
+[PATCH] if(shape.getSize() == 1){
+[PATCH] if(shape.getTimeZone()!= null){
+[PATCH] if(shape.getValue().isISO8601()){
+[PATCH] if(format.hasDateFormat()){
+[PATCH] if(shape.isTimeZone()){
+[PATCH] if(shape.getTimeZone() == null){
+[PATCH] if(shape.getLength() == 1){
+[PATCH] if(shape.isISOChronology()){
+[PATCH] if(shape.getLength() > 0){
+[PATCH] if(shape.isDateTime()){
+[PATCH] if(!format.hasFormat()){
+[PATCH] if(shape.getLength() == 4){
+[PATCH] if(shape.getClass().isArray()){
+[PATCH] if(format.hasFormatType()){
+[PATCH] if(format.hasFormatter()){
+[PATCH] if(shape.isDecimal()){
+[PATCH] if(shape instanceof JsonFormat.Shape){
+[PATCH] if(shape.getLength() == 2){
+[PATCH] if(shape.getDateFormat() instanceof SimpleDateFormat){
+[PATCH] if(shape.isAsString()){
+[PATCH] if(shape.getSize() == 4){
+[PATCH] if(shape.getDateFormat() == null){
+[PATCH] if(this.customFormat == null){
+[PATCH] if(shape.getChronology()!= null){
+[PATCH] if(isTimeZone()){
+[PATCH] if(shape.getLength() == 0){
+[PATCH] if(shape.hasFormat()){
+[PATCH] if(shape.getDimension() == 1){
+[PATCH] if(useTimestamp){
+[PATCH] if(shape.getLength() > 1){
+[PATCH] if(shape.getSize() > 1){
+[PATCH] if(shape.hasDateFormat()){
+[PATCH] if(shape.isISOYear()){
+[PATCH] if(shape.getDate() == null){
+[PATCH] if(!format.hasDateFormat()){
+[PATCH] if(shape.toTimeZone()!= null){
+[PATCH] if(format.hasPattern()){
+[PATCH] if(shape.getDateFormat() instanceof DateTimeFormatter){
+[PATCH] if(shape.isTime()){
+[PATCH] if(shape.getTimeZone() instanceof TimeZone){
+[PATCH] if(!format.hasTimeZone()){
+[PATCH] if(shape.getProperties()!= null){
+[PATCH] if(!format.hasPattern()){
+[PATCH] if(shape.getDayOfYear() == null){
+[PATCH] if(shape.isRFC1123()){
+[PATCH] if(shape.getValue() == null){
+[PATCH] if(shape.getCalendar() == null){
+[PATCH] if(shape.isDateTimeFormat()){
+[PATCH] if(shape.isRfc1123()){
+[PATCH] if(shape.isISO1123()){
+[PATCH] if(property.hasTimeZone()){
+[PATCH] if(getLocale().isTimeZone()){
+[PATCH] if(shape.getSize() == 2){
+[PATCH] if(this.withTimestamp()){
+[PATCH] if(this.usesTimeZone()){
+[PATCH] if(shape.getDate() instanceof Date){
+[PATCH] if(shape.getFormat() instanceof DateTimeFormatter){
+[PATCH] if(shape.getFormat() instanceof Date){
+[PATCH] if(!format.hasFormatter()){
+[PATCH] if(shape.getFormat() instanceof StdDateFormat){
+[PATCH] if(format.isDateFormat()){
+[PATCH] if(shape.toDecimal()){
+[PATCH] if(shape.getDayOfMonth() == 1){
+[PATCH] if(shape.getLength() == 3){
+[PATCH] if(shape.isPattern()){
+[PATCH] if(shape.getYear() == 1){
+[PATCH] if(shape.toDateFormat().getTimeZone()){
+[PATCH] if(shape.getLength() == 6){
+[PATCH] if(property.isDate()){
+[PATCH] if(shape.getDayOfMonth() == null){
+[PATCH] if(shape.getDate() instanceof String){
+[PATCH] if(isTimeZoneSupported()){
+[PATCH] if(Shape.getLength() == 4){
+[PATCH] if(shape.getDateFormat() instanceof Date){
+[PATCH] if(style.hasTimeZone()){
+[PATCH] if(object instanceof Date){
+[PATCH] if(getFormatter()!= null){
+[PATCH] if(objectType == JsonFormat.OBJECT){
+[PATCH] if(isDateFormatSupported()){
+[PATCH] if(shape.getDayOfYear() == 1){
+[PATCH] if(Shape.isDate()){
+[PATCH] if(shape.toDateFormat()){
+[PATCH] if(shape.getFormat() instanceof SimpleDateFormat){
+[PATCH] if(format.hasLocale()){
+[PATCH] if(shape.getLength() == 8){
+[PATCH] if(shape.isDuration()){
+[PATCH] if(isDate()){
+[PATCH] if(isRfc1123()){
+[PATCH] if(isSupported()){
+[PATCH] if(hasTimeZone()){
+[PATCH] if(rename){
+[PATCH] if(scale){

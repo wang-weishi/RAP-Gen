@@ -1,0 +1,100 @@
+[PATCH] if(options.checkGlobalThisLevel!= CheckLevel.OFF){
+[PATCH] if(!options.checkGlobalThisLevel.isOn()){
+[PATCH] if(options.checkGlobalThisLevel.isOn()){
+[PATCH] if(!options.checkGlobalThisOff &&!options.noWarnings){
+[PATCH] if(!options.checkGlobalThisOff &&!options.noWarningsGuard){
+[PATCH] if(!options.checkGlobalThisOff &&!options.isOn()){
+[PATCH] if(!options.checkGlobalThisOff && options.isOn()){
+[PATCH] if(options.checkGlobalThisLevel!= CheckLevel.ON){
+[PATCH] if(!options.checkGlobalThisOn &&!options.noWarnings){
+[PATCH] if(!options.checkGlobalThisOff &&!options.hasWarnings()){
+[PATCH] if(!options.checkGlobalThisOn &&!options.noWarningsGuard){
+[PATCH] if(!options.checkGlobalThisOff &&!options.on()){
+[PATCH] if(!options.checkGlobalThisOff && options.noWarnings){
+[PATCH] if(!options.checkGlobalThisLevel.isOff()){
+[PATCH] if(!options.checkGlobalThisOff &&!options.minimizeChecks){
+[PATCH] if(!options.checkGlobalThisOff &&!options.skipAllWarnings){
+[PATCH] if(!options.checkGlobalThisOff &&!options.noWarnings()){
+[PATCH] if(!options.checkGlobalThisOff &&!options.warninggingEnabled){
+[PATCH] if(!options.checkGlobalThisOff &&!options.debuggingEnabled){
+[PATCH] if(!options.checkGlobalThisOff && options.hasWarnings()){
+[PATCH] if(options.checkGlobalThisOff!= CheckLevel.OFF){
+[PATCH] if(!options.checkGlobalThisOff &&!isOn()){
+[PATCH] if(!options.checkGlobalThisOff && isOn()){
+[PATCH] if(!options.checkGlobalThisOff && options.noWarningsGuard){
+[PATCH] if(!options.checkGlobalThisOff &&!options.suppressAllWarnings){
+[PATCH] if(!options.checkGlobalThisOff &&!options.ignoreAllWarnings){
+[PATCH] if(!options.checkGlobalThisOff &&!options.quiet){
+[PATCH] if(!options.checkGlobalThisOff &&!options.warningEnabled){
+[PATCH] if(!options.checkGlobalThisOff &&!options.ignoreAllErrors){
+[PATCH] else if(options.checkGlobalThisLevel!= CheckLevel.OFF){
+[PATCH] if(!options.checkGlobalThisOff &&!options.warningging){
+[PATCH] if(!options.checkGlobalThisOff &&!options.noWarningChecks){
+[PATCH] if(!options.checkGlobalThisOff &&!options.noWarningsHook){
+[PATCH] if(!options.checkGlobalThisOff &&!options.noWarningsDetection){
+[PATCH] if(!options.checkGlobalThisOff &&!options.hasErrors()){
+[PATCH] if(!options.checkGlobalThisOff &&!options.skipAllCalls){
+[PATCH] if(options.isGlobalThis()){
+[PATCH] if(options.checkGlobalThisOn &&!options.noWarningsGuard){
+[PATCH] if(options.checkGlobalThisOn &&!options.noWarnings){
+[PATCH] if(!options.checkGlobalThisOff && options.hasErrors()){
+[PATCH] if(options.checkGlobalThisLevel!= null){
+[PATCH] else if(!options.checkGlobalThisLevel.isOn()){
+[PATCH] if(options.isOn()){
+[PATCH] if(this.checkGlobalThisLevel!= CheckLevel.OFF){
+[PATCH] else if(!options.checkGlobalThisOff &&!options.noWarnings){
+[PATCH] if(options.checkGlobalThisLevel!= CheckBox.OFF){
+[PATCH] if(options.externExportsPath.isOn()){
+[PATCH] if(!options.checkGlobalThisLevel.isEmpty()){
+[PATCH] if(!options.checkGlobalThisOff &&!options.verbose){
+[PATCH] if(this.checkGlobalThisLevel.isOn()){
+[PATCH] if(!options.externExportsPath.isOn()){
+[PATCH] if(!options.skipAllPasses){
+[PATCH] if(!options.checkGlobalThisEnabled.isOn()){
+[PATCH] if(checkGlobalThisLevel.isOn()){
+[PATCH] if(!options.getWarningsGuard().isOn()){
+[PATCH] if(!options.skipAllPasses()){
+[PATCH] if(options.getCodingConvention().isOn()){
+[PATCH] if(!options.warningReporter.isOn()){
+[PATCH] if(options.hasGlobalThis()){
+[PATCH] if(!options.warningsGuard.isOn()){
+[PATCH] if(!options.checkGlobalThisAtIntersect){
+[PATCH] if(options.getCheckGlobalThisOn()){
+[PATCH] if(options.isGlobalThisOn()){
+[PATCH] if(!options.skipGlobalThis()){
+[PATCH] if(!options.skipAllChecks){
+[PATCH] if(!options.isOn()){
+[PATCH] if(options.isGlobalThisEnabled()){
+[PATCH] if(options.getChecksGlobalThisOn()){
+[PATCH] if(!options.noWarningsGuard){
+[PATCH] if(hasRegExpGlobalReferences()){
+[PATCH] if(options.inGlobalScope()){
+[PATCH] if(!options.reportAllPasses()){
+[PATCH] if(!options.skipAllWarnings){
+[PATCH] if(!options.reportErrors){
+[PATCH] if(!options.checkGlobalThisOff){
+[PATCH] if(!options.noWarnings){
+[PATCH] if(!options.isGlobalThis()){
+[PATCH] if(options.checkGlobalThisOn){
+[PATCH] if(options.isCheckGlobalThis()){
+[PATCH] if(options.getCheckGlobalThis()){
+[PATCH] if(!options.hasWarnings()){
+[PATCH] if(options.skipGlobalThis()){
+[PATCH] if(options.checkGlobalThisLevel){
+[PATCH] if(!options.reportAllWarnings){
+[PATCH] if(options.useGlobalThis()){
+[PATCH] if(!options.skipAllCalls){
+[PATCH] if(options.useGlobalThisCallbacks){
+[PATCH] if(typeValidator.isOn()){
+[PATCH] if(this.isOn()){
+[PATCH] if(options.debuggingEnabled){
+[PATCH] if(hasGlobalThis()){
+[PATCH] if(options.hasErrors()){
+[PATCH] if(options.isGlobal()){
+[PATCH] if(options.isDebug()){
+[PATCH] if(options.hasWarnings()){
+[PATCH] if(options.useGlobalThis){
+[PATCH] if(options.verbose()){
+[PATCH] if(options.noWarnings){
+[PATCH] if(options.verbose){
+[PATCH] if(hasErrors()){

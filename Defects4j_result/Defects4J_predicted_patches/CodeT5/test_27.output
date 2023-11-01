@@ -1,0 +1,100 @@
+[PATCH] if(entry.compareTo(coefficient)> 0){
+[PATCH] if(entry.doubleValue() > maxUlps){
+[PATCH] if(entry.doubleValue() > 0.0){
+[PATCH] if(entry.getColumnCount() > 1){
+[PATCH] if(entry.getColumnCount() == 1){
+[PATCH] if(entry.value() > 0.0){
+[PATCH] if(entry.compareTo(coefficient)< 0){
+[PATCH] if(entry.getValue() > 0.0){
+[PATCH] if(entry.getColumnDimension() == 1){
+[PATCH] if(entry.compareTo(maxUlps)> 0){
+[PATCH] if(entry.getValue() > 0.0){
+[PATCH] if(entry.getColumn() == 0){
+[PATCH] if(entry.getColumnKey().doubleValue() > 0.0){
+[PATCH] if(entry.getResult() > 0){
+[PATCH] if(entry.compareTo(sum)> 0){
+[PATCH] if(entry.getRowDimension() == 1){
+[PATCH] if(Math.compareTo(entry, 1d)> 0){
+[PATCH] if(Math.abs(entry.value)> maxUlps){
+[PATCH] if(entry.getColumnNumber().doubleValue() > 0.0){
+[PATCH] if(entry.getColumnInfo().doubleValue() > 0.0){
+[PATCH] if(entry.compareTo(coefficient)== 0){
+[PATCH] if(entry.compareTo(maxUlps)- 0.0){
+[PATCH] if(entry.getColumn() == 1){
+[PATCH] if(entry.compareTo(maximumUlps)> 0){
+[PATCH] if(entry.getRow() == 1){
+[PATCH] if(entry.getValue() > maxUlps){
+[PATCH] if(Math.compareTo(entry, 0d)> 0){
+[PATCH] if(entry.getColumn().doubleValue() > maxUlps){
+[PATCH] if(entry[1] > 0){
+[PATCH] if(entry.signum() > 0){
+[PATCH] if(entry.getColumn().compareTo(coefficient)> 0){
+[PATCH] if(entry.compareTo(0d)> 0){
+[PATCH] if(entry.getLength() > 1){
+[PATCH] if(entry.compareTo(coefficients)> 0){
+[PATCH] if(entry.doubleValue() > 0d){
+[PATCH] if(entry.getColumnIndex() == i){
+[PATCH] if(entry.getValue() > maxUlps){
+[PATCH] if(entry.compareTo(mean)> 0){
+[PATCH] if(Entry.compareTo(entry, 0)> 0){
+[PATCH] if(entry.scalarValue() > 0.0){
+[PATCH] if(entry.compareTo(denominator)> 0){
+[PATCH] if(Entry.compareTo(entry, 0d)> 0){
+[PATCH] if(entry.getChildCount() > 1){
+[PATCH] if(entry.compareTo(0d, 1d)> 0){
+[PATCH] if(entry.getColumn().doubleValue() > 0.0){
+[PATCH] if(entry[1] == 0d){
+[PATCH] if(entry.doubleValue() > epsilon){
+[PATCH] if(Math.compareTo(entry, 1)> 0){
+[PATCH] if(entry.getColumncount() > 1){
+[PATCH] if(entry.doubleValue() > 1.0){
+[PATCH] if(entry.doubleValue() > sum){
+[PATCH] if(entry.getRow() > 0){
+[PATCH] if(entry.doubleValue() > 0.5){
+[PATCH] if(entry!= 0 && entry.getColumnCount() > 1){
+[PATCH] if(entry.compareTo(0d, sum)> 0){
+[PATCH] if(entry.floatValue() > 0.0){
+[PATCH] if(entry.getColumnOrder() == TableSortOrder.DESCENDING){
+[PATCH] if(entry.getColumnN() == 1){
+[PATCH] if(entry.thisValue() > 0.0){
+[PATCH] if(entry.getColumnVector().compareTo(entry)> 0){
+[PATCH] if(entry.getColumnCount() < 2){
+[PATCH] if(entry.getColumnSize() == 1){
+[PATCH] if(entry.getColumnN() > 0){
+[PATCH] if(entry.compareTo(maxUlps)- 1 == 0){
+[PATCH] if(entry.getColumnNr() == 1){
+[PATCH] if(entry.length() > 1){
+[PATCH] if(Math.abs(entry.value)> maximize){
+[PATCH] if(entry.getColumnSize() < maxUlps){
+[PATCH] if(entry.getColumnNegative() > 0){
+[PATCH] if(entry.getColumnN() > maximize){
+[PATCH] if(entry.getColumnSum() > 0){
+[PATCH] if(entry.getSize() == 1){
+[PATCH] if(entry.getColumn() == entry.getRow()){
+[PATCH] if(Math.abs(entry.value)> 0.0){
+[PATCH] if(entry.getValue() > 0d){
+[PATCH] if(entry.getColumnWidth() > maxUlps){
+[PATCH] if(entry.getSize() > 1){
+[PATCH] if(entry.getValue() > maximize){
+[PATCH] if(entry.getN() > 0){
+[PATCH] if(entry.getValue() > 0){
+[PATCH] if(entry.getOutput() > 0){
+[PATCH] if(entry.getSize() > 0){
+[PATCH] if(entry.getRow() == 0){
+[PATCH] if(entry.getEntryValue() > 0){
+[PATCH] if(entry.getLength() > 0){
+[PATCH] if(entry.doubleValue() > MAX_VALUE){
+[PATCH] if(entry.getColumnN() > i){
+[PATCH] if(entry.doubleValue() > 0){
+[PATCH] if(entry.getColumnAmount() > maximize){
+[PATCH] if(entry.getDimension() == 1){
+[PATCH] if(entry.getColumnSize() > maxUlps){
+[PATCH] if(entry[1] == 0){
+[PATCH] if(entry > 0d){
+[PATCH] if(entry > 0){
+[PATCH] if(entry == 0d){
+[PATCH] if(entry == 0){
+[PATCH] if(entry!= 0){
+[PATCH] [Delete]
+[PATCH] {
+);

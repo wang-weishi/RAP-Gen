@@ -1,0 +1,100 @@
+[PATCH] value = Math.max(value, p2);
+[PATCH] setResult(p2, q2);
+[PATCH] setNumerator(n); setDenominator(maxDenominator);
+[PATCH] setResult(r1, p2, q2);
+[PATCH] overflow = Math.abs(q2);
+[PATCH] setNumerator(n);
+[PATCH] setResult(r1, n);
+[PATCH] setResult(value, p2, q2);
+[PATCH] overflow = Math.max(overflow, p2);
+[PATCH] overflow = Math.abs(q2 - p2);
+[PATCH] value = Math.min(value, p2);
+[PATCH] setFraction(value, p2, q2);
+[PATCH] setNumerator(n); setDenominator(a1);
+[PATCH] if(n == maxIterations){ return ONE; }
+[PATCH] value = Math.pow(value, p2);
+[PATCH] p2 = Math.max(p2, q2);
+[PATCH] clearResult();
+[PATCH] this.value = Math.max(value, p2);
+[PATCH] p2 = -p2; q2 = -q2;
+[PATCH] p1 = -p1; q1 = -q1;
+[PATCH] exp = Math.exp(-p2 + q2);
+[PATCH] double value = Math.max(value, p2);
+[PATCH] if(n == maxIterations){ return ZERO; }
+[PATCH] value = Math.pow(value + p2, q2);
+[PATCH] checkInterval(p2, q2);
+[PATCH] value = p2 - Math.floor(q2);
+[PATCH] value = Math.sqrt(1.0 - p2);
+[PATCH] if(n >= maxIterations){ return NaN; }
+[PATCH] value = Math.abs(value);
+[PATCH] setNumerator(n); setDenominator(r1);
+[PATCH] if(n == maxIterations){ return NaN; }
+[PATCH] convergence = Math.abs(q2 - p2);
+[PATCH] checkInterval(p1, q1);
+[PATCH] value = Math.mul(value, p2);
+[PATCH] if(n >= maxIterations){ return ZERO; }
+[PATCH] if(n >= maxIterations){ return ONE; }
+[PATCH] value = Math.abs(value)+ p2;
+[PATCH] value = Math.abs(value)+ 1.0;
+[PATCH] setResult(r1, n * 1.0);
+[PATCH] 1.0 - Math.abs(p2)/ q2;
+[PATCH] value = Math.sqrt(q2);
+[PATCH] value = Math.pow(value + p1, q1);
+[PATCH] if(n >= maxIterations){ return this; }
+[PATCH] if(n == maxIterations){ return this; }
+[PATCH] value = Math.max(value, p1);
+[PATCH] exp = Math.exp(-p2)/ q2;
+[PATCH] reportOverflow(p2, q2);
+[PATCH] p2 = p2 * Math.sqrt(q2);
+[PATCH] exp = Math.exp(-p2)+ q2;
+[PATCH] int numerator =(int)Math.floor(p2);
+[PATCH] const overflow = Math.abs(q2);
+[PATCH] if(n >= maxIterations){ return null; }
+[PATCH] Math.abs(p2)/ q2;
+[PATCH] convergence = Math.abs(q2 - p1);
+[PATCH] fillInfinity(p2, q2);
+[PATCH] Math.fill(p2, q2);
+[PATCH] value = Math.sqrt(0.5);
+[PATCH] denominator = Math.abs(q2 - p1);
+[PATCH] Math.abs(value + p2)> 1.0;
+[PATCH] Math.max(value, p2);
+[PATCH] overflow = Math.abs(q2);
+[PATCH] value = Math.sqrt(2.0);
+[PATCH] setResult(r1, a0);
+[PATCH] init(p2, q2);
+[PATCH] setErrorBounds(p2, q2);
+[PATCH] convergence = Math.abs(q2);
+[PATCH] overflow =(long)Math.abs(p2);
+[PATCH] Math.floor(r1);
+[PATCH] p2 = p2.multiply(q2);
+[PATCH] checkOverflow(p2, q2);
+[PATCH] denominator = Math.abs(q2);
+[PATCH] value = Math.sqrt(p2);
+[PATCH] double value = Math.abs(value);
+[PATCH] overflow = Math.abs(p2);
+[PATCH] setDenominator(maxDenominator);
+[PATCH] init(p1, q1);
+[PATCH] throw new FractionConversionException("");
+[PATCH] cast(p2, q2);
+[PATCH] value = p2 / q2;
+[PATCH] Math.abs(overflow);
+[PATCH] Math.sqrt(q2);
+[PATCH] Math.round(p2);
+[PATCH] cast(value + p2);
+[PATCH] invalidNumberFormat(value);
+[PATCH] roundFloor(r1);
+[PATCH] Math.sqrt(overflow);
+[PATCH] invalidateRangeInfo();
+[PATCH] reportOverflow();
+[PATCH] cast(p2);
+[PATCH] checkNumerator(n);
+[PATCH] setValue(value);
+[PATCH] checkOverflow();
+[PATCH] stripTrailingZeroes();
+[PATCH] super();
+[PATCH] checkLenient();
+[PATCH] Math.random();
+[PATCH] roundFloor();
+[PATCH] fillInfinity();
+[PATCH] eliminate();
+[PATCH] printOverflow();

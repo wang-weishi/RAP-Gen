@@ -1,0 +1,100 @@
+[PATCH] if(parent!= null){
+[PATCH] if(provided!= null &&!provided.isAll()){
+[PATCH] if(provided!= null && parent!= null){
+[PATCH] if(parent!= null &&!provided.isAll()){
+[PATCH] if(provided!= null &&!provided.isEmpty()){
+[PATCH] if(provided!= null &&!provided.isRequired()){
+[PATCH] if(provided == null && parent!= null){
+[PATCH] if(parent!= null &&!provided.isEmpty()){
+[PATCH] if(parent!= null &&!provided.isRequired()){
+[PATCH] if(provided!= null){
+[PATCH] if(provided!= null &&!provided.isUsed()){
+[PATCH] if(provided!= null &&!provided.isVoid()){
+[PATCH] if(provided!= null &&!provided.isRegistered()){
+[PATCH] if(provided!= null &&!provided.isExported()){
+[PATCH] if(provided!= null &&!provided.isNull()){
+[PATCH] if(parent!= null && t.inGlobalScope()){
+[PATCH] if(provided!= null &&!provided.isResolved()){
+[PATCH] if(provided!= null &&!provided.canRemove()){
+[PATCH] if(provided!= null &&!provided.isDeclared()){
+[PATCH] if(provided!= null &&!provided.isThis()){
+[PATCH] if(provided!= null &&!provided.isReferenced()){
+[PATCH] if(provided!= null &&!provided.isSupported()){
+[PATCH] if(parent!= null &&!provided.isDeclared()){
+[PATCH] if(namespace!= null && parent!= null){
+[PATCH] if(parent!= null &&!provided.isUsed()){
+[PATCH] if(parent.getParent()!= null){
+[PATCH] if(node.getType() == Token.FUNCTION){
+[PATCH] if(required &&!provided.equals(namespace)) {
+[PATCH] if(provided!= null && root == null){
+[PATCH] if(parent.getType() == Token.FUNCTION){
+[PATCH] if(provided!= null && arg == null){
+[PATCH] if(null!= provided && parent!= null){
+[PATCH] if(parent!= null){
+[PATCH] if(parent!= null if(provided!= null){
+[PATCH] if(moduleGraph!= null && parent!= null){
+[PATCH] if(required && parent!= null){
+[PATCH] if(!provided.equals(this)) {
+[PATCH] if(left!= null && arg!= null){
+[PATCH] if(!provided.equals(namespace)) {
+[PATCH] if(factory!= null && parent!= null){
+[PATCH] if(provided!= null && namespace!= null){
+[PATCH] if(!provided.equals(null)) {
+[PATCH] } else if(parent!= null){
+[PATCH] if(parent!= null.getParent()){
+[PATCH] if(provided instanceof ProvidedName){
+[PATCH] if(originalNode!= null){
+[PATCH] if(provided == null){
+[PATCH] if(namespace!= null){
+[PATCH] if(caller!= null){
+[PATCH] if(passed && parent!= null){
+[PATCH] if(null && parent!= null){
+[PATCH] if(parent!= null){
+[PATCH] if(parent!= null {
+[PATCH] if(null!= provided){
+[PATCH] if(parent!= null()){
+[PATCH] if(this.parent!= null){
+[PATCH] if(currentModule!= null){
+[PATCH] if(moduleGraph!= null){
+[PATCH] if(childCount == 2){
+[PATCH] if(currentName!= null){
+[PATCH] if(ancestor!= null){
+[PATCH] if(providesLevel!= null){
+[PATCH] if(explicitModule!= null){
+[PATCH] if(existingName!= null){
+[PATCH] if(_parent!= null){
+[PATCH] if(typeDecl == null){
+[PATCH] if(oldName!= null){
+[PATCH] if(_moduleGraph!= null){
+[PATCH] if(node == null){
+[PATCH] if(referenced!= null){
+[PATCH] if(factory!= null){
+[PATCH] if(currentNode!= null){
+[PATCH] if(scope!= null){
+[PATCH] if(originalRoot!= null){
+[PATCH] if(parent!= null){
+[PATCH] if(childCount == 1){
+[PATCH] if( parent!= null){
+[PATCH] if(wrapped()!= null){
+[PATCH] else if(parent!= null){
+[PATCH] if(owner!= null){
+[PATCH] if(passed == null){
+[PATCH] if(constructor!= null){
+[PATCH] if(compiler!= null){
+[PATCH] if(current == null){
+[PATCH] if(impl!= null){
+[PATCH] If(parent!= null){
+[PATCH] if(root == null){
+[PATCH] if(referenced == null){
+[PATCH] if(creator!= null){
+[PATCH] if(passed!= null){
+[PATCH] if(parent!= n){
+[PATCH] if()!= null){
+[PATCH] if(null){
+[PATCH] if(resolved){
+[PATCH] if(required){
+[PATCH] ;
+[PATCH] {
+[PATCH] [Delete]
+
+);

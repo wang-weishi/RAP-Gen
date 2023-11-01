@@ -1,0 +1,100 @@
+[PATCH] reporter.onlyVoidMethodsCanBeSetToDoNothing();
+[PATCH] throw new Reporter.cannotStubVoidMethodWithAReturnValue();
+[PATCH] if(!invocation.isVoid()){ throw new IllegalArgumentException(""); }
+[PATCH] if(!invocation.isVoid()){ throw new UnsupportedOperationException(""); }
+[PATCH] if(!invocation.isVoid()){ return; }
+[PATCH] reporter.cannotStubVoidMethodWithAReturnValue();
+[PATCH] if(!invocation.isVoid()){ throw new IllegalStateException(""); }
+[PATCH] new Reporter().cannotStubVoidMethodWithAReturnValue();
+[PATCH] if(!invocation.isVoid()){ invocation.throwInternal(); }
+[PATCH] if(!invocation.isVoid()){ throw new RuntimeException(""); }
+[PATCH] if(!invocation.isVoid()){ throw new AssertionError(""); }
+[PATCH] throw new Reporter.onlyVoidMethodsCanBeSetToDoNothing();
+[PATCH] reporter.onlyReturnMethodsCanBeSetToDoNothing();
+[PATCH] throw new UnsupportedOperationException("");
+[PATCH] reporter.onlyReturnValueCanBeSetToDoNothing();
+[PATCH] if(!invocation.isVoid()){ throw new NullPointerException(""); }
+[PATCH] throw new Reporter().cannotStubVoidMethodWithAReturnValue();
+[PATCH] reporter.onlyImplementedMethodsCanBeSetToDoNothing();
+[PATCH] reporter.noMethodCanBeSetToDoNothing();
+[PATCH] return new ReturnsAndDoNothing(answer.getReturnType(), invocation);
+[PATCH] reporter.tooLittleActualMethodsCanBeSetToDoNothing();
+[PATCH] return new Returns(invocation.getMethod().getReturnType(), answer);
+[PATCH] throw new Reporter.invalidUseOfVoidMethod(invocation.getMethod());
+[PATCH] reporter.tooLittleActualMethodCallsCanBeSetToDoNothing();
+[PATCH] reporter.onlyCoalescingMethodsCanBeSetToDoNothing();
+[PATCH] reporter.negativeMethodsCanBeSetToDoNothing();
+[PATCH] reporter.onlyMethodsCanBeSetToDoNothing();
+[PATCH] reporter.onlyMultipleMethodsCanBeSetToDoNothing();
+[PATCH] reporter.missingMethodInvocation(invocation);
+[PATCH] reporter.onlyReturnsCanBeSetToDoNothing();
+[PATCH] return new ThrowsException(invocation.getMethod().getName(), null);
+[PATCH] reporter.invocationCannotBeSetToDoNothing(invocation);
+[PATCH] throw new Reporter.cannotStubDoNothingMethodWithAReturnValue();
+[PATCH] new Reporter().invalidUseOfVoidMethod(invocation.getMethod());
+[PATCH] reporter.preferredMethodCanBeSetToDoNothing();
+[PATCH] throw new MockitoAssertionError("");
+[PATCH] reporter.incompleteMethod(invocation.getMethod());
+[PATCH] throw new MockitoAssertionError("Incorrect invocation:" + invocation.toString());
+[PATCH] reporter.tooLittleActualMethodReturnType(invocation, answer);
+[PATCH] throw new Reporter.wrongReturnTypeCannotBeSetToDoNothing(invocation);
+[PATCH] reporter.onlyReturnValuesCanBeSetToDoNothing();
+[PATCH] throw new ThrowsException("");
+[PATCH] reporter.onlyReturnTypesCanBeSetToDoNothing();
+[PATCH] throw new MockitoAssertionError("Unexpected return value:" + answer.toString());
+[PATCH] throw new JXPathInvalidSyntaxException("");
+[PATCH] reporter.reachableMethodCanBeSetToDoNothing();
+[PATCH] throw new IllegalArgumentException("");
+[PATCH] return new Returns(invocation.getMethod().getReturnType());
+[PATCH] reporter.failedToStubVoidMethodWithAReturnValue();
+[PATCH] throw new AssertionError("");
+[PATCH] reporter.missingMethod(invocation.getMethod());
+[PATCH] throw new Reporter.wrongReturnTypeCannotBeSetToDoNothing();
+[PATCH] reporter.mappingException("");
+[PATCH] reporter.methodNotImplemented(invocation.getMethod());
+[PATCH] return new ReturnsAndDoNothing(invocation, answer);
+[PATCH] reporter.badMethodReturnType(invocation, answer);
+[PATCH] throw new RuntimeException("");
+[PATCH] throw new RhinoException("");
+[PATCH] return validateReturnValue(answer, invocation);
+[PATCH] throw new FunctorException("");
+[PATCH] throw new Reporter.cannotStubVoidMethodException("");
+[PATCH] reporter.cannotStubVoidMethodsWithAReturnValue();
+[PATCH] throw new JXPathInvalidUseOfNullException("");
+[PATCH] throw new Reporter.cannotStubMethodWithAReturnValue();
+[PATCH] reporter.wrongMethodReturnType(invocation, answer);
+[PATCH] throw new Reporter.instantiationException("");
+[PATCH] throw new RefineryException("");
+[PATCH] reporter.badMethodReturnType(invocation);
+[PATCH] if(!invocation.isVoid()){ }
+[PATCH] reporter.missingMethodReturnType(invocation);
+[PATCH] throw new RefinableException("");
+[PATCH] throw new InvalidUseOfNullException("");
+[PATCH] throw new Reporter.unknownMethodException("");
+[PATCH] throw new IllegalStateException("");
+[PATCH] return new Returns(invocation.getReturnType());
+[PATCH] throw new Reporter.wrongMethodValueException("");
+[PATCH] throw new Exception("");
+[PATCH] reporter.properReturnTypeMismatch(answer);
+[PATCH] throw new ProvidedException("");
+[PATCH] throw new InvalidUseOfValueException("");
+[PATCH] reportCodeChange("NO_RESULT");
+[PATCH] return new ThrowsException("");
+[PATCH] reporter.missingMethodInvocation();
+[PATCH] reporter.badMethodReturnType(answer);
+[PATCH] throw new ThrowingException("");
+[PATCH] reporter.unknownMethod();
+[PATCH] return new Returns(answer.getReturnType());
+[PATCH] throw new MockitoException("");
+[PATCH] throw new RunnerException("");
+[PATCH] reportCodeChange("NO_RETURN");
+[PATCH] throw new ThrowsError("");
+[PATCH] throw new JXPathInvalidAccessException("");
+[PATCH] throw new CallbackException("");
+[PATCH] throw new RollbackException("");
+[PATCH] throw new FailureException("");
+[PATCH] throw new VerificationException("");
+[PATCH] reporter.badMethodUsage();
+[PATCH] reporter.noMethodPassed();
+[PATCH] reporter.returnZero();
+[PATCH] throw new InvocationError("");

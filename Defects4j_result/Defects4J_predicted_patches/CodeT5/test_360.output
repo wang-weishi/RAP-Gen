@@ -1,0 +1,100 @@
+[PATCH] if(c <= quoteChar){
+[PATCH] if(c <= QUOTEChar){
+[PATCH] if(c <= QUOTEChar || c == '\''){
+[PATCH] if(c <= '#'){
+[PATCH] if(c <= QUOTEChar || c == quoteChar){
+[PATCH] if(c <= QUOTEChar || c == '\\'){
+[PATCH] if(c <= QUOTEChar || c == EOF){
+[PATCH] if(!Character.isWhitespace(c)) {
+[PATCH] if(c <= QUOTEChar || c == quotingChar){
+[PATCH] if(c <= 0x7F){
+[PATCH] if(c <= QUOTEChar || c == comma){
+[PATCH] if(c <= QUOTEChar || c == delimChar){
+[PATCH] if(c <= QUOTEChar || c == tab){
+[PATCH] if(c <= QUOTEChar || c ==''){
+[PATCH] if(c <= quoteChar || c == '\''){
+[PATCH] if(c <= QUOTEChar || c == ':'){
+[PATCH] if(c <= QUOTEChar || c == '\\'){
+[PATCH] if(c <= QUOTEChar || c == escapeCharacter){
+[PATCH] if(c <= SPACE || c == quoteChar){
+[PATCH] if(c <= QUOTEChar || c == SEMI){
+[PATCH] if(c <= QUOTEChar || c == indent){
+[PATCH] if(c <= INT_SPACE || c == '\\'){
+[PATCH] if(c <= QUOTEChar || c == TOKEN){
+[PATCH] if(c <= QUOTEChar || c == escapeChar){
+[PATCH] if(c <= QUOTEChar || c == ';'){
+[PATCH] if(c <= QUOTEChar || c == lineSeparator){
+[PATCH] if(c <= QUOTEChar || c == TAB){
+[PATCH] if(c <= QUOTEChar || c == ']'){
+[PATCH] if(!isJSIdentifier(c)) {
+[PATCH] if(c <= QUOTEChar || c == QUOTECHAR){
+[PATCH] if(!isJSFormatChar(c)) {
+[PATCH] if(c <=''){
+[PATCH] if(c <= QUOTEChar || c == EOC){
+[PATCH] if(c <= QUOTEChar || c == ';'){
+[PATCH] if(c <= QUOTEChar || c == '\''){
+[PATCH] if(c <= QUOTEChar || c == ','){
+[PATCH] if(!isJavaIdentifierPart(c)) {
+[PATCH] if(!Character.isLetter(c)) {
+[PATCH] if(c <= QUOTEChar || c == LF){
+[PATCH] if(c <= QUOTEChar || c > quoteChar){
+[PATCH] if(c <= QUOTEChar || c == CRLF){
+[PATCH] if(c <= QUOTEChar || c == delimiter){
+[PATCH] if(c <= QUOTEChar || c == '+'){
+[PATCH] if(c == quoteChar){
+[PATCH] if(c <= QUOTEChar || c == colon){
+[PATCH] if(c <= QUOTECHAR){
+[PATCH] if(c <= QUOTEChar || c == '{'){
+[PATCH] if(c <= QUOTEChar || c == quotes){
+[PATCH] if(c <= QUOTEChar || c == '%'){
+[PATCH] if(!isJSSpace(c)) {
+[PATCH] if(c <= QUOTEChar || c == backslash){
+[PATCH] if(c <= quoteChar || c == quoteChar){
+[PATCH] if(c <= QUOTEChar || c == surroundingDelimiter){
+[PATCH] if(c <= QUOTEChar || c == '}'){
+[PATCH] if(c <= QUOTEChar || c == COMMA){
+[PATCH] if(c <= QUOTEChar || c == illegalChar){
+[PATCH] if(c <= QUOTEChar || c == DOUBLE){
+[PATCH] if(c <= QUOTEChar || c == '"'){
+[PATCH] if(c <= QUOTEChar || c == QUOTED){
+[PATCH] if(c <= SPACE || c == '\''){
+[PATCH] if(c <= QUOTEChar || c == CR){
+[PATCH] if(c <= QUOTEChar || c == cursor){
+[PATCH] if(c <= SPACE || c == LF){
+[PATCH] if(c <= QUOTEChar || c == SPL){
+[PATCH] if(c <= QUOTEChar || c == '['){
+[PATCH] if(c <= QUOTEChar || c == tabs){
+[PATCH] if(c <= QUOTEChar || c == '{'){
+[PATCH] if(c <= QUOTEChar || c > 127){
+[PATCH] if(c <= 127){
+[PATCH] if(c <= SPACE || c == '\\'){
+[PATCH] if(c <= SPACE || c == EOF){
+[PATCH] if(c <= '\\'){
+[PATCH] if(c <= QUOTEChar || c == esc){
+[PATCH] if(c <= QUOTEChar || c == newline){
+[PATCH] if(c <= quoteChar){
+[PATCH] if(c <= '\"'){
+[PATCH] if(c <= QUOTEChar || c == break;
+[PATCH] if(c <= COMMA){
+[PATCH] if(c <= QUOTED_QUOTE){
+[PATCH] if(c <= COLON){
+[PATCH] if(c <= SLASH){
+[PATCH] if(c <= BACKSLASH){
+[PATCH] if(c <= CHAR_QUOTE){
+[PATCH] if(c <= INT_QUOTE){
+[PATCH] if(c <= QUOTE_CHAR){
+[PATCH] if(c <= '"'){
+[PATCH] if(c <= INT_SPACE || c == ']'){
+[PATCH] if(c <= INT_SPACE || c == EOF){
+[PATCH] if(c <= STRING_QUOTE){
+[PATCH] if(c <= '%'){
+[PATCH] if(c <= '@'){
+[PATCH] if(c <= quotedChar){
+[PATCH] if(c <= LAST_CHAR){
+[PATCH] if(c <= QUOTES){
+[PATCH] if(c <= slashChar){
+[PATCH] if(c <= "#"){
+[PATCH] if(c <= INTCOLON){
+[PATCH] if(c <= STRING_SLASH){
+[PATCH] if(c <= STRING_SEPARATOR){
+[PATCH] if(c <= nullChar){

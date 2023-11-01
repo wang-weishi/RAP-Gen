@@ -1,0 +1,100 @@
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 0.0)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 1.0)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col))){
+[PATCH] if(!MathUtils.equals(getEntry(i, col), false)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), row)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 10.0)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), row == null){
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 30.0)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), true)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 0.0){
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 100.0)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col),0.0)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), maximize)) {
+[PATCH] if(!MathUtils.equal(getEntry(i, col), 0.0)) {
+[PATCH] if(!MathUtils.equals(getentry(i, col), 0.0)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 11.0)) {
+[PATCH] if(!MathUtils.isEquals(getEntry(i, col), 0.0)) {
+[PATCH] if(!MathUtils.compare(getEntry(i, col), 0.0)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), reduceToNonNegative)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 16.0)) {
+[PATCH] if(!MathUtils.equals(getInfo(i, col), 0.0)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 20.0)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), restrictedToNonNegative)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 0.0)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), initialValue)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 90.0)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), owner)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), -1.0)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), this.mean)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), '0')) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 5.0)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 17.0)) {
+[PATCH] if(!MathUtils.equals(getEntries(i, col), 0.0)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), factor)) {
+[PATCH] if(!MathUtils.sign(getEntry(i, col), 0.0)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 0.0))){
+[PATCH] if(!MathUtils.equals(getEntry(i, col), minimize)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 2.0)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), validValues[i])){
+[PATCH] if(!MathUtils.equals(getEntry(i, col), getInitialValue(i))){
+[PATCH] if(!MathUtils.equals(getEntry(i, col), i)) {
+[PATCH] if(!MathUtils.Equals(getEntry(i, col), 0.0)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), row == null)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 255)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 0.0));
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 31.0)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), absoluteAccuracy)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), sum)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), threshold)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), values[i])){
+[PATCH] if(!MathUtils.isLiteralValue(getEntry(i, col))){
+[PATCH] if(!MathUtils.equals(getEntry(i, col), avgSquareError)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), null)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), limit[i])){
+[PATCH] if(!MathUtils.equals(getEntry(i, col), this.coefficient)) {
+[PATCH] if(!MathUtils.isNaN(getEntry(i, col))){
+[PATCH] if(!MathUtils.equals(getEntry(i, col), row + 1)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), avgResult)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), data[i])){
+[PATCH] if(!MathUtils.equals(getEntry(i, col), validValues)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), FALSE)) {
+[PATCH] if(!MathUtils.equals(getValue(i, col), 0.0)) {
+[PATCH] if(!MathUtils.isInfinite(getEntry(i, col))){
+[PATCH] if(!MathUtils.equals(getEntry(i, col), TRUE)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), fraction)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 127 * row)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), map[i]);
+[PATCH] if(!MathUtils.equals(getEntry(i, col), edge)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), factor))){
+[PATCH] if(!MathUtils.equals(getEntry(i, col), validValues[i])) {
+[PATCH] if(!MathUtils.equals(getComplexValue(i, col), 0.0)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 0.0d)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), avgObjectiveFunction)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), maxSize)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), division)) {
+[PATCH] if(!MathUtils.equals(getDouble(i, col), 0.0)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), avg)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), Constants.INFINITY)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 26)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), value)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), MAXIMUM_ALPHA)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), limit)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), matrix[row])){
+[PATCH] if(!MathUtils.equals(getCoefficients(i), col))){
+[PATCH] if(!MathUtils.equals(getRealValue(i, col), 0.0)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), acc)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), rows[i])){
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 10)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), i))){
+[PATCH] if(!MathUtils.equals(getEntry(i, col), mean)) {
+[PATCH] if(!MathUtils.equals(getOp(i, col), 0.0)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), avgSquareMatrix)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), 0.0);
+[PATCH] if(!MathUtils.equals(getEntry(i, col), matrix[row]){
+[PATCH] if(!MathUtils.equals(getEntry(i, col), rows[i])) {
+[PATCH] if(!MathUtils.equals(getRawValue(i, col), 0.0)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), ref)) {
+[PATCH] if(!MathUtils.equals(getCoefficients(i), col)) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), values[i])) {
+[PATCH] if(!MathUtils.equals(getEntry(i, col), map[i])){

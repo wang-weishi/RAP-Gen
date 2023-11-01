@@ -1,0 +1,100 @@
+[PATCH] if(tree == null ||!tree.isLeaf()){
+[PATCH] if(tree == null ||!tree.hasLeaf()){
+[PATCH] if(tree == null ||!tree.hasNodes()){
+[PATCH] if(tree == null ||!tree.hasChildNodes()){
+[PATCH] if(tree == null ||!tree.hasChildren()){
+[PATCH] if(tree == null ||!Tree.isLeaf()){
+[PATCH] if(tree == null ||!tree.isNode()){
+[PATCH] if(tree == null ||!tree.hasAttributes()){
+[PATCH] if(tree.getLeaf() == null){
+[PATCH] if(tree == null || tree.getBounds() == null){
+[PATCH] if(tree.getBounds() == null ||!tree.isLeaf()){
+[PATCH] if(tree.getNode().equals(Vector2D.NaN)) {
+[PATCH] if(tree == null ||!tree.hasNode()){
+[PATCH] if(tree == null ||!tree.isSorted()){
+[PATCH] if(tree.getRoot() == null ||!tree.isLeaf()){
+[PATCH] if(tree == null ||!tree.hasNode(null)) {
+[PATCH] if(tree == null){
+[PATCH] if(tree.getBounds() == null ||!tree.isSorted()){
+[PATCH] if(tree.getUpperBound() == Double.POSITIVE_INFINITY){
+[PATCH] if(tree == null || tree.getLeaf() == null){
+[PATCH] if(tree == null ||!tree.isContainer()){
+[PATCH] if(tree == null ||!tree.isReferenced()){
+[PATCH] if(tree == null || tree.getRoot() == null){
+[PATCH] if(tree == null ||!tree.isSegmented()){
+[PATCH] if(tree.getBounds() == null ||!tree.isBound()){
+[PATCH] if(tree == null ||!root.isLeaf()){
+[PATCH] if(tree == null ||!node.isLeaf()){
+[PATCH] if(tree == null ||!tree.isChild()){
+[PATCH] if(tree == null ||!tree.getLeaf().equals(this)) {
+[PATCH] if(tree == null ||!tree.isValid()){
+[PATCH] if(tree == null ||!tree.isSequence()){
+[PATCH] if(tree.getBounds() == null ||!tree.isBoundary()){
+[PATCH] if(tree == null ||!tree.isTree()){
+[PATCH] if(tree.getBounds() == null ||!tree.isNode()){
+[PATCH] if(tree.getBounds() == null ||!tree.isSquare()){
+[PATCH] if(tree == null ||!tree.isBound()){
+[PATCH] if(tree.getNode() == null ||!tree.isLeaf()){
+[PATCH] if(tree.getBounds() == null ||!tree.isArea()){
+[PATCH] if(tree == null || tree.getLeafNodes() == null){
+[PATCH] if(tree == null ||!tree.isBoundary()){
+[PATCH] if(tree.getRootNode() == null ||!tree.isLeaf()){
+[PATCH] if(tree == null ||! tree.isLeaf()){
+[PATCH] if(tree.getShape() == RectangleEdge.BOTTOM){
+[PATCH] if(tree == null ||!tree.hasPoints()){
+[PATCH] if(tree == null || tree.getNode() == null){
+[PATCH] if(tree == null ||!tree.isDot()){
+[PATCH] if(tree.getUpperBounds() [0] == null){
+[PATCH] if(tree.getBounds() == null ||!tree.isContainer()){
+[PATCH] if(tree == null || tree.getShape() == RectangleEdge.NONE){
+[PATCH] if(tree.getBounds() == null){
+[PATCH] if(tree == null ||!tree.hasValues()){
+[PATCH] if(tree == null ||!(Boolean)tree.getAttribute())) {
+[PATCH] if(tree.getBounds() == null ||!tree.isIntersection()){
+[PATCH] if(tree == null ||!tree.isPath()){
+[PATCH] if(tree == null ||!tree.isCyclic()){
+[PATCH] if(tree == null || tree.getShape() == RectangleConstraint.NONE){
+[PATCH] if(tree == null ||!tree.isValidPosition()){
+[PATCH] if(tree == null ||!tree.hasNode(this)) {
+[PATCH] if(tree == null ||!tree.hasData()){
+[PATCH] if(tree == null ||!tree.isSquared()){
+[PATCH] if(tree == null ||!tree.isNormalized()){
+[PATCH] if(tree.getBounds() == null ||!tree.isRelative()){
+[PATCH] if(tree.getBounds() == null ||!tree.isFilled()){
+[PATCH] if(tree == null ||!tree.isClustered()){
+[PATCH] if(tree.getBoundary() == RectangleEdge.POSITIVE){
+[PATCH] if(tree == null || tree.getShape() == RectangleEdge.INFINITY){
+[PATCH] if(tree == null ||!tree.isPure()){
+[PATCH] if(tree == null ||!tree.isPolyline()){
+[PATCH] if(tree == null || tree.getRootNode() == null){
+[PATCH] if(tree == null || tree.getBounds() == RectangleConstraint.NONE){
+[PATCH] if(tree == null || tree.isLeaf()){
+[PATCH] if(tree == null ||!tree.isGraph()){
+[PATCH] if(tree == null ||!tree.isRelative()){
+[PATCH] if(tree.getShape() == RectangleEdge.INFINITY){
+[PATCH] if(tree == null || tree.getShape() == RectangleEdge.BOTTOM){
+[PATCH] if(tree == null ||!tree.isContiguous()){
+[PATCH] if(tree.getBoundary() == RectangleEdge.POSITIVE_INFINITY){
+[PATCH] if(tree == null ||!tree.getNode().isLeaf()){
+[PATCH] if(tree.getNode() == null){
+[PATCH] if(tree == null ||!tree.hasRoot()){
+[PATCH] if(tree == null ||!tree.isReachable()){
+[PATCH] if(tree == null ||!tree.hasBounds()){
+[PATCH] if(tree == null ||!tree.getNode().isCoordinate()){
+[PATCH] if(tree == null ||!tree.isGeometry()){
+[PATCH] if(tree == null ||!tree.isRoot()){
+[PATCH] if(tree == null ||!tree.isShapeVisible()){
+[PATCH] if(tree.getShape() == RectangleEdge.POSITIVE){
+[PATCH] if(tree == null ||!tree.hasCoordinates()){
+[PATCH] if(tree == null ||!tree.isEmpty()){
+[PATCH] if(tree == null ||!tree.isSigned()){
+[PATCH] if(tree == null ||!tree.isLinked()){
+[PATCH] if(tree == null ||!tree.getLeaf()){
+[PATCH] if(tree == null ||!tree.isNodes()){
+[PATCH] if(tree == null ||!tree.isArea()){
+[PATCH] if(tree == null ||!Tree.isNode()){
+[PATCH] if(tree == null ||!tree.hasFeatures()){
+[PATCH] if(tree == null ||!tree.isIntersection()){
+[PATCH] if(tree.isLeaf()){
+[PATCH] if(tree.getUpperNode() == null){
+[PATCH] if(tree.getUpperBounds() == null){

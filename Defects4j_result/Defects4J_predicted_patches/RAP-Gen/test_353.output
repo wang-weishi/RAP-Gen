@@ -1,0 +1,100 @@
+[PATCH] while(!newRecord){ out.append("\n");
+[PATCH] while(!newRecord){ out.append(",");
+[PATCH] if(!newRecord){ if(println()){ out.append("\n"); }
+[PATCH] while(!newRecord){ out.append(' ');
+[PATCH] while(!newRecord){ out.append('\n');
+[PATCH] if(recordSeparator!= null){ if(newRecord){ out.append(","); }
+[PATCH] if(!newRecord){ if(println()){ out.append(","); }
+[PATCH] if(newRecord){ if(out.length() == 0){ out.append(' '); }
+[PATCH] while(!newRecord){ out.append("");
+[PATCH] if(recordSeparator!= null){ if(newRecord){ out.append("\n"); }
+[PATCH] if(!newRecord){ if(println()){ out.append(' '); }
+[PATCH] if(!newRecord){ if(recordSeparator == null){ recordSeparator = '\n'; }
+[PATCH] if(!newRecord){ if(println()){ out.append(""); }
+[PATCH] while(!newRecord){ if(recordSeparator.length() == 0){ break; }
+[PATCH] while(!newRecord &&!recordSeparator.isEmpty()){ out.append(",");
+[PATCH] if(!newRecord){ if(out == null){ out = new StringBuffer(); }
+[PATCH] while(!newRecord){ if(recordSeparator == null){ recordSeparator = getRecordSeparator(); }
+[PATCH] if(recordSeparator.length() > 0){ if(newRecord){ print(""); }
+[PATCH] if(!newRecord){ if(recordSeparator == null){ recordSeparator = getRecordSeparator(); }
+[PATCH] if(recordSeparator.length() > 0){ if(newRecord){ newLine(); }
+[PATCH] while(!newRecord){ if(recordSeparator == null){ recordSeparator = '\n'; }
+[PATCH] if(!newRecord){ if(printNextSeparator()){ out.append("\n"); }
+[PATCH] if(!newRecord){ if(printNextLine()){ out.append("\n"); }
+[PATCH] while(!newRecord &&!recordSeparator.isEmpty()){ out.append("\n");
+[PATCH] if(recordSeparator.length() > 0){ if(newRecord){ println(); }
+[PATCH] while(!newRecord){ if(println()){ out.append(","); }
+[PATCH] if(recordSeparator.length() > 0){ if(newRecord){ write(""); }
+[PATCH] while(!newRecord){ if(printNextSeparator()){ out.append(","); }
+[PATCH] if(!newRecord){ if(printIndent){ out.append("\n"); }
+[PATCH] if(!newRecord){ if(println()){ System.err.println(""); }
+[PATCH] if(!newRecord){ if(quote){ out.append(","); }
+[PATCH] while(!newRecord){ if(println()){ out.append("\n"); }
+[PATCH] if(!newRecord){ if(out == null){ out = new StringBuilder(); }
+[PATCH] if(!newRecord){ if(println()){ out.append(" :"); }
+[PATCH] if(!newRecord){ if(println()){ out.append(" +"); }
+[PATCH] if(!newRecord){ printSep(); out.append(' '); }
+[PATCH] if(!newRecord){ if(lineBreak){ out.append("\n"); }
+[PATCH] while(!newRecord){ FormatUtils.appendQuoted(recordSeparator, '\n');
+[PATCH] if(!newRecord){ if(printIndent){ out.append(""); }
+[PATCH] if(!newRecord){ throw new IOException(""); }
+[PATCH] if(!newRecord){ out.append("\n"); }
+[PATCH] if(!newRecord){ if(quote){ out.append(' '); }
+[PATCH] if(!newRecord){ if(""); out.append("\n"); }
+[PATCH] while(!newRecord){ if(quote){ out.append(","); }
+[PATCH] while(!newRecord){ printSep();
+[PATCH] if(!newRecord){ if(printSep(); out.append(""); }
+[PATCH] while(newRecord){ out.append("\n");
+[PATCH] while(!newRecord &&!recordSeparator.isEmpty()){ print();
+[PATCH] while(!newRecord){ super.println();
+[PATCH] while(!newRecord){ out.append(" +");
+[PATCH] while(!newRecord){ System.out.append("\n");
+[PATCH] if(!newRecord){ printSep(); out.append(""); }
+[PATCH] while(!newRecord){ out.append(" -");
+[PATCH] while(!newRecord){ this.out.append("\n");
+[PATCH] while(!newRecord){ output.append("\n");
+[PATCH] while(!newRecord &&!printSep();
+[PATCH] while(!newRecord){ out.append(" |");
+[PATCH] while(!newRecord){ System.out.append('\n');
+[PATCH] while(!newRecord){ print("");
+[PATCH] while(!newRecord){ System.out.append(",");
+[PATCH] if(!newRecord){ out.append(","); }
+[PATCH] while(!newRecord){ this.out.append(",");
+[PATCH] if(!newRecord){ out.append('\n'); }
+[PATCH] while(!newRecord){ out.append('|');
+[PATCH] while(!newRecord){ newRecord = false;
+[PATCH] while(!newRecord){ recordSeparator = recordSeparator.trim();
+[PATCH] if(!newRecord){ out.append(""); }
+[PATCH] while(!newRecord){ System.err.println("");
+[PATCH] while(!newRecord){ out.append(";");
+[PATCH] while(!newRecord){ out.append("|");
+[PATCH] while(!newRecord){ this.out.append(' ');
+[PATCH] if(!newRecord){ out.append(' '); }
+[PATCH] while(!newRecord){ print();
+[PATCH] while(!newRecord){ out.append("\r");
+[PATCH] if(!newRecord){ System.err.println(""); }
+[PATCH] while(!newRecord){ out.append(" :");
+[PATCH] while(!newRecord){ recordSeparator = getRecordSeparator();
+[PATCH] if(!newRecord){ if(printSep(); }
+[PATCH] while(newRecord){ out.append(",");
+[PATCH] while(!newRecord){ out.append(' '));
+[PATCH] while(!newRecord &&!recordSeparator.equals("");
+[PATCH] while(!newRecord){ this.out.append("");
+[PATCH] while(!newRecord){ indent();
+[PATCH] while(!newRecord){ append("");
+[PATCH] while(newRecord){ out.append(' ');
+[PATCH] while(!newRecord){ '\n';
+[PATCH] if(!newRecord){ if(""); }
+[PATCH] while(!newRecord){ printLine();
+[PATCH] while(!newRecord){ newLine();
+[PATCH] while(!newRecord){ println();
+[PATCH] while(!newRecord){ print(' ');
+[PATCH] while(!newRecord){ printIndent();
+[PATCH] while(!newRecord){
+[PATCH] printSep();
+[PATCH] printIndent(out);
+[PATCH] while(newRecord){
+[PATCH] print(recordSeparator);
+[PATCH] println();
+[PATCH] printNextLine();
+[PATCH] super.println();

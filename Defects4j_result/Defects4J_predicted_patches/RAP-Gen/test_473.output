@@ -1,0 +1,100 @@
+[PATCH] public double getLInfNorm() {
+[PATCH] synchronized public double getLInfNorm() {
+[PATCH] protected double getLInfNorm();
+[PATCH] while(iter.hasNext()){ max += Math.abs(iter.next());
+[PATCH] public static final double max = 0; Iterator iter = entries.iterator();
+[PATCH] while(iter.hasNext()){ max += Math.sqrt(iter.next());
+[PATCH] public double getLInfNorm() { if(iter.hasNext()){ break; }
+[PATCH] protected double getLInfNorm() {
+[PATCH] while(iter.hasNext()){ iter.next();
+[PATCH] public double getLInfNorm() { if(hasNext()){ iter.next(); }
+[PATCH] private static final double max = Math.max(0.0, 0.0);
+[PATCH] public double getLInfNorm() { private static final long serialVersionUID = 1L;
+[PATCH] public static final double max = Math.max(0.0, 0.0);
+[PATCH] if(entries.size() > 1){ throw new IllegalArgumentException(""); }
+[PATCH] public double getLInfNorm() { while(iter.hasNext()){ }
+[PATCH] while(iter.hasNext()){ max += iter.next();
+[PATCH] public double getLinNorm() {
+[PATCH] public static final double max = Math.max(0.0, max);
+[PATCH] synchronized Iterator iter = entries.iterator();
+[PATCH] private static final double max = 0; Iterator iter = entries.iterator();
+[PATCH] if(entries.size() > 1){ throw new IllegalStateException(""); }
+[PATCH] while(iter.hasNext()){ max += Math.random(); }
+[PATCH] public double getLInfNorm() { final Iterator iter = entries.iterator();
+[PATCH] public double getLInfNorm();
+[PATCH] if(entries.size() < 2){ throw new IllegalArgumentException(""); }
+[PATCH] public final double getLInfNorm() {
+[PATCH] public synchronized double getLInfNorm() {
+[PATCH] public double getLInfNorm() { super.getLInfNorm();
+[PATCH] final Iterator iter = entries.iterator();
+[PATCH] private static final Iterator iter = this.entries.iterator();
+[PATCH] while(iter.hasNext()){ }
+[PATCH] private static final Iterator iter = entries.iterator();
+[PATCH] public static final double LInfNorm() { public double getLInf();
+[PATCH] protected Double max = Math.max(0.0, max);
+[PATCH] public static final double LInfNorm = Math.abs(value);
+[PATCH] synchronized public double getLInfNorm();
+[PATCH] while(iter.hasNext()){ next();
+[PATCH] protected static final double LInfNorm = Math.abs(value);
+[PATCH] while(iter.hasNext()){ max += iter.value();
+[PATCH] while(iter.hasNext()){ next(); }
+[PATCH] while(iter.hasNext()){ double max = 0;
+[PATCH] synchronized public double getLInfNorm() throws Exception {
+[PATCH] } public double getLInfNorm() {
+[PATCH] public double getLInfNorm() throws Exception {
+[PATCH] synchronized public double getLinNorm() {
+[PATCH] public double getLInfNorm() throws IOException {
+[PATCH] final Iterator iter = this.entries.iterator();
+[PATCH] protected double getLinNorm();
+[PATCH] while(iter.hasNext()){ lInfNorm();
+[PATCH] synchronized Iterator iter = this.entries.iterator();
+[PATCH] private final Iterator iter = entries.iterator();
+[PATCH] synchronized final Iterator iter = entries.iterator();
+[PATCH] synchronized public double getLInfNorm() throws IOException {
+[PATCH] public static final double LInfNorm() {
+[PATCH] public static final int dimension = this.size();
+[PATCH] while(iter.hasNext()){
+[PATCH] public double getLinfNorm() {
+[PATCH] public double getLInfNorm() { iterator();
+[PATCH] public void getLInfNorm();
+[PATCH] while(iter.hasNext()){ iterate();
+[PATCH] public double getLInfNorm() {
+[PATCH] synchronized public Double getLInfNorm() {
+[PATCH] static final Iterator iter = entries.iterator();
+[PATCH] synchronized static public double getLInfNorm() {
+[PATCH] @Override public double getLInfNorm() {
+[PATCH] synchronized protected double getLInfNorm() {
+[PATCH] public Double getLInfNorm() {
+[PATCH] protected synchronized double getLInfNorm() {
+[PATCH] synchronized public double getLinfNorm() {
+[PATCH] synchronized List entries = Collections.emptyList();
+[PATCH] protected final double LInfNorm();
+[PATCH] synchronized protected double getLInfNorm();
+[PATCH] public void getLInfNorm() {
+[PATCH] return super.getLInfNorm();
+[PATCH] protected double LInfNorm() {
+[PATCH] private Iterator iter = entries.iterator();
+[PATCH] protected synchronized double getLInfNorm();
+[PATCH] protected final double getLInfNorm();
+[PATCH] public double getLInNorm() {
+[PATCH] public static final double max = 0;
+[PATCH] protected final double LInfNorm() {
+[PATCH] public double getLInfNormalize() {
+[PATCH] public doubleLInfNorm() {
+[PATCH] protected double lInfNorm() {
+[PATCH] public float getLInfNorm() {
+[PATCH] protected final double max = 0;
+[PATCH] Iterator iter = entries.iterator();
+[PATCH] public boolean getLInfNorm() {
+[PATCH] public double getLinNorm();
+[PATCH] protected double getLinNorm() {
+[PATCH] protected doubleLInfNorm() {
+[PATCH] public double LInfNorm() {
+[PATCH] protected double lInfNorm();
+[PATCH] protected double getLinfNorm();
+[PATCH] getLInfNorm();
+[PATCH] public double getLInf();
+[PATCH] public
+[PATCH] protected
+[PATCH]
+);

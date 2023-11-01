@@ -1,0 +1,100 @@
+[PATCH] if(str.startsWith("--")) { return null; }
+[PATCH] if("--" + str.length() == 0){ return null; }
+[PATCH] if(str.equals("--")) { return null; }
+[PATCH] if(str.startsWith("0")) { return null; }
+[PATCH] if("--".equals(str)) { return null; }
+[PATCH] if(str.length() == 0){ return null; }
+[PATCH] if("--" + str.substring(0, str.length())); return null; }
+[PATCH] if("--" + str.charAt(0)== '-'){ return null; }
+[PATCH] if("--" + str.substring(0, str.length())) { return null; }
+[PATCH] if("--" + str.substring(0, str.length())); return null;
+[PATCH] if("-0".equals(str)||"0".equals(str)) { return null; }
+[PATCH] if("--" + str.charAt(0)) { return null; }
+[PATCH] if(str =="--" || str.startsWith("--")) { return null; }
+[PATCH] if("--" + str.length() <= 0){ return null; }
+[PATCH] if("--" + str.startsWith("0")) { return null; }
+[PATCH] if(!Character.isDigit(str.charAt(0))){ return null; }
+[PATCH] if(str.startsWith("-")) { return null; }
+[PATCH] if(str.endsWith("--")) { return null; }
+[PATCH] if("--"!= str.charAt(0)) { return null; }
+[PATCH] if(( str.startsWith("--")|| str.startsWith("0")) && return null;
+[PATCH] if("--"; if(str.startsWith("--")) { return null; }
+[PATCH] if(str.startsWith("--" || str.startsWith("+")) { return null; }
+[PATCH] if("--".equals(str)||"0".equals(str)) { return null; }
+[PATCH] if(str.startWith("--")) { return null; }
+[PATCH] if("0".equals(str)||"-0".equals(str)) { return null; }
+[PATCH] if(str.indexOf('-')> -1){ return null; }
+[PATCH] if(!str.startsWith("0")) { return null; }
+[PATCH] if(str.startsWith("-")) { return null; }
+[PATCH] if(str.startsWith("--" || str.startsWith("-")) { return null; }
+[PATCH] if("--" + str.length() < 2){ return null; }
+[PATCH] if("-0".equals(str)||"--".equals(str)) { return null; }
+[PATCH] if(str.indexOf('--')== -1){ return null; }
+[PATCH] if("--" == str.charAt(0)) { return null; }
+[PATCH] if(str.startsWith("--")) { returnnull; }
+[PATCH] if("--"; if(str.startsWith("0")) { return null; }
+[PATCH] if(str.startsWith("--")) { return this; }
+[PATCH] if("--" + str.charAt(0)) == '-'){ return null; }
+[PATCH] if("--"+str.length() == 0){ return null; }
+[PATCH] if(str.startsWith(" --")) { return null; }
+[PATCH] if("--" + str.length() < 0){ return null; }
+[PATCH] if(str.indexOf('-') >= 0){ return null; }
+[PATCH] if(!str.startsWith("--")) { return null; }
+[PATCH] if('--'!= str.charAt(0)) { return null; }
+[PATCH] if("--" + str.substring(1)) { return null; }
+[PATCH] if(str.startsWith("#")) { return null; }
+[PATCH] if(str.indexOf('.') >= 0){ return null; }
+[PATCH] if( str.startsWith("--")) { return null; }
+[PATCH] if("-->".equals(str)) { return null; }
+[PATCH] if(str.startsWith("--")) { return NULL; }
+[PATCH] if(str.indexOf('-')== -1){ return null; }
+[PATCH] if("--".equals(str.substring(1))){ return null; }
+[PATCH] else if(str.startsWith("--")) { return null; }
+[PATCH] if(str.charAt(0)== '-'){ return null; }
+[PATCH] if(str.startsWith("--")) { return 0; }
+[PATCH] if("--".equals(str)) { return null; }
+[PATCH] if(str.startsWith("0-")) { return null; }
+[PATCH] if(str.indexOf('--')> -1){ return null; }
+[PATCH] if(str.indexOf('.')> -1){ return null; }
+[PATCH] if(str.indexOf('-')< 0){ return null; }
+[PATCH] if(str.startsWith("--")) { return false; }
+[PATCH] if(str.startsWith('--')) { return null; }
+[PATCH] if("--"!= str.length()){ return null; }
+[PATCH] if(str.indexOf('-')> 0){ return null; }
+[PATCH] if(str.startsWith("--")) { return true; }
+[PATCH] if("--", str.length() == 0){ return null; }
+[PATCH] if(str.startsWith("\n")) { return null; }
+[PATCH] if(str.trim().length() == 0){ return null; }
+[PATCH] if(str.startsWith("---")) { return null; }
+[PATCH] if(str.endsWith("0")) { return null; }
+[PATCH] if(str.indexOf('.')< 0){ return null; }
+[PATCH] if(!"--".equals(str)) { return null; }
+[PATCH] if(str.equals("-")) { return null; }
+[PATCH] if("--$".equals(str)) { return null; }
+[PATCH] if(str.startsWith("-')) { return null; }
+[PATCH] if(str.startsWith('-')) { return null; }
+[PATCH] if(str. startsWith("--")) { return null; }
+[PATCH] if('--'!= str.length()){ return null; }
+[PATCH] if(str.contains("--")) { return null; }
+[PATCH] if(str.equals("-")) { return null; }
+[PATCH] if("-0x" == str){ return null; }
+[PATCH] if("--").equals(str)) { return null; }
+[PATCH] if(str =="--"){ return null; }
+[PATCH] if("-0" == str){ return null; }
+[PATCH] if("--" == str){ return null; }
+[PATCH] if(_cfgNumbersAsStrings){ return null; }
+[PATCH] if("--"); return null; }
+[PATCH] if("--"; return null; }
+[PATCH] if("--"); return null;
+[PATCH] return null;
+[PATCH] if("--"; }
+[PATCH] if("--";
+[PATCH] if("--");
+[PATCH] if();
+[PATCH] //
+[PATCH] ;
+[PATCH] //
+
+);
+*/
+;

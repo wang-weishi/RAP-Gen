@@ -1,0 +1,100 @@
+[PATCH] if(read == 0 || inf.finished()){ return -1;
+[PATCH] if(read == 0 && inf.finished()){ return -1;
+[PATCH] if(read == 0 ||!inf.finished()){ return -1;
+[PATCH] if(read == 0 || read >= length){ return -1;
+[PATCH] if(read == -1 && inf.finished()){ return -1;
+[PATCH] if(read == -1 || inf.finished()){ return -1;
+[PATCH] if(read == 0 || info.finished()){ return -1;
+[PATCH] if(read == 0){ return -1;
+[PATCH] if(read == 0 || read inf.finished()){ return -1;
+[PATCH] if(read == 0 || read!= length){ return -1;
+[PATCH] if(read == 0 || read is finished()){ return -1;
+[PATCH] if(read == 0 || read > inf.finished()){ return -1;
+[PATCH] if(read == 0 || finished()){ return -1;
+[PATCH] if(read == 0 ||inf.finished()){ return -1;
+[PATCH] if(read == 0 || read done()){ return -1;
+[PATCH] if(read == 0 || read > length){ return -1;
+[PATCH] if(read < 1 || read > inf.finished()){ return -1;
+[PATCH] if(read == 0 || done){ return -1;
+[PATCH] if(read == 0 || in.finished()){ return -1;
+[PATCH] if(read == 0 || done()){ return -1;
+[PATCH] if(read == 0 || notinf.finished()){ return -1;
+[PATCH] if(read == 0 || done && inf.finished()){ return -1;
+[PATCH] if(read == 0 || inputStream.finished()){ return -1;
+[PATCH] if(read == 0 || hasEFS()){ return -1;
+[PATCH] if(read == 0 || not inf.finished()){ return -1;
+[PATCH] if(read == -1 ||!inf.finished()){ return -1;
+[PATCH] if(read == 0 || stream.finished()){ return -1;
+[PATCH] if(read < 1 || inf.finished()){ return -1;
+[PATCH] if(read == 0 || read.finished()){ return -1;
+[PATCH] if(read == 0 || fileEncoding.finished()){ return -1;
+[PATCH] if(read == 0 ||! inf.finished()){ return -1;
+[PATCH] if(read == 0 || read > size){ return -1;
+[PATCH] if(read == 0 || read has finished()){ return -1;
+[PATCH] if(read == 0 || read - inf.finished()){ return -1;
+[PATCH] if(read == 0 || complete()){ return -1;
+[PATCH] if(read == 0 || read finished()){ return -1;
+[PATCH] if(read == 0 ||!inf.complete()){ return -1;
+[PATCH] if(read == 0 || read - 1!= length){ return -1;
+[PATCH] if(read == 0 || read in finished()){ return -1;
+[PATCH] if(read == 0 || current.finished()){ return -1;
+[PATCH] if(read == 0 || inf.finished()){ return -1; }
+[PATCH] if(read == 0 || read has been finished()){ return -1;
+[PATCH] if(read == 0 || result.finished()){ return -1;
+[PATCH] if(read == 0 ||!info.finished()){ return -1;
+[PATCH] if(read == 0 || read!inf.finished()){ return -1;
+[PATCH] if(read == 0 || ctxt.finished()){ return -1;
+[PATCH] if(read == 0 || hasDataDescriptor()){ return -1;
+[PATCH] if(read == -1 || read >= length){ return -1;
+[PATCH] if(read == 0 || read in inf.finished()){ return -1;
+[PATCH] if(read < 1 || read > length){ return -1;
+[PATCH] if(read == 0 || read has been closed()){ return -1;
+[PATCH] if(read == 0 &&!inf.finished()){ return -1;
+[PATCH] if(read == 0 || this.inf.finished()){ return -1;
+[PATCH] if(read == 0 || inf.finished()()){ return -1;
+[PATCH] if(read == 0 || read, inf.finished()){ return -1;
+[PATCH] if(read == 0 || buffer.length!= length){ return -1;
+[PATCH] if(read == 0 || inputStream.finished()){ return -1;
+[PATCH] if(read < 1 || read > size){ return -1;
+[PATCH] if(read < 1 ||!inf.finished()){ return -1;
+[PATCH] if(read == 0 || closeEntry()){ return -1;
+[PATCH] if(read == 0 || read info.finished()){ return -1;
+[PATCH] if(read == 0 || inf.finished() < 1){ return -1;
+[PATCH] if(read == 0 || reader.finished()){ return -1;
+[PATCH] if(read == 0 || ann.finished()){ return -1;
+[PATCH] if(read == 0 || closed){ return -1;
+[PATCH] if(read == 0 || inf.complete()){ return -1;
+[PATCH] if(read < 1 || read > size()){ return -1;
+[PATCH] if(read == 0 || read was finished()){ return -1;
+[PATCH] if(read == 0 || read >= size){ return -1;
+[PATCH] if(read == 0 || inf.finished()){ read = -1;
+[PATCH] if(read == 0 || bd.finished()){ return -1;
+[PATCH] if(read == 0 || inf.finished()){ return -1;
+[PATCH] if(read == 0 || ignorableFlag){ return -1;
+[PATCH] if(read == 0 || acc.finished()){ return -1;
+[PATCH] if(read == 0 || read >= finished()){ return -1;
+[PATCH] if(read == 0 || f.finished()){ return -1;
+[PATCH] if(read == 0 || test.finished()){ return -1;
+[PATCH] if(read == 0 || remaining-- <= 0){ return -1;
+[PATCH] if(read == 0 || isFinished()){ return -1;
+[PATCH] if(read < 0 || read > length){ return -1;
+[PATCH] if(read < 1 || read >= length){ return -1;
+[PATCH] if(read == 0 || read > size()){ return -1;
+[PATCH] if(read == 0 || length == 0){ return -1;
+[PATCH] if(read == 0 || isInflater()){ return -1;
+[PATCH] if(read == 0 || read < 1){
+[PATCH] if(read == 0 && inf.finished()){ return -1; }
+[PATCH] if(read == 0 || incomplete()){ return -1;
+[PATCH] if(read == 0 || read done){ return -1;
+[PATCH] if(read == 0){ if(inf.finished()){ return -1;
+[PATCH] if(read == 0){ return -1; }
+[PATCH] if(read == -1 && inf.finished()){ return 0;
+[PATCH] if(read == -1 || inf.finished()){ return -1; }
+[PATCH] if(read == 0 || incomplete){ return -1;
+[PATCH] if(read == 0 || read >= length){ return -1; }
+[PATCH] if(read == -1 || inf.finished()){ return 0;
+[PATCH] if(read == -1 && inf.finished()){ return -1; }
+[PATCH] if(read == 0 || skipped){ return -1;
+[PATCH] if(read == 0 || ignorableFlag){ return -1; }
+[PATCH] if(read == 0 ||!inf.finished()){ return -1; }
+[PATCH] if(read == 0 || info.finished()){ return -1; }

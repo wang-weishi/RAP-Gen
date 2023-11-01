@@ -1,0 +1,100 @@
+[PATCH] for(Node c = cfgNode.getFirstChild(); c!= null; c = c.getNext()){ if(mayUseMap.containsKey(c)) { mayUseMap.put(c, c); }
+[PATCH] for(Node c = cfgNode.getFirstChild(); c!= null; c = c.getNext()){ if(mayUseMap.containsKey(c)) { return true; }
+[PATCH] for(Node c = cfgNode.getCatchBlock(); c!= null; c = c.getNext()){ if(mayUseMap.containsKey(c)) { mayUseMap.put(c, c); }
+[PATCH] for(Node c = cfgNode.getLastChild(); c!= null; c = c.getNext()){ if(mayUseMap.containsKey(c)) { mayUseMap.put(c, c); }
+[PATCH] for(Node c = cfgNode.getFirstChild(); c!= null; c = c.getNext()){ if(mayUseMap.containsKey(c)) { return mayUseMap.containsKey(c); }
+[PATCH] for(Node c = cfgNode.getFirstChild(); c!= null; c = c.getNext()){ if(mayUseMap.containsKey(c)) { mayUseMap.put(c, true); }
+[PATCH] for(Node c = cfgNode.getCatch(); c!= null; c = c.getNext()){ if(mayUseMap.containsKey(c)) { mayUseMap.put(c, c); }
+[PATCH] for(Node c = cfgNode.getFirstChild(); c!= null; c = c.getNext()){ if(!mayUseMap.containsKey(c)) { return true; }
+[PATCH] for(Node c = cfgNode.getExceptionHandler(); c!= null; c = c.getNext()){ if(mayUseMap.containsKey(c)) { mayUseMap.put(c, c); }
+[PATCH] for(Node c = cfgNode.getThrow(); c!= null; c = c.getNext()){ if(mayUseMap.containsKey(c)) { mayUseMap.put(c, c); }
+[PATCH] for(Node c = cfgNode.getFirstChild(); c!= null; c = c.getNext()){ if(hasExceptionHandler(c)) { return true; }
+[PATCH] for(Node c = cfgNode.getCatchBlock(); c!= null; c = c.getNext()){ if(mayUseMap.containsKey(c)) { return true; }
+[PATCH] for(Node c = cfgNode.getFirstChild(); c!= null; c = c.getNext()){ if(mayUseMap.containsKey(c)) { mayUseMap.put(c, null); }
+[PATCH] for(Node c = cfgNode.getCatchBlock(); c!= null; c = c.getCause()){ if(!mayUseMap.containsKey(c)) { return true; }
+[PATCH] for(Node c = cfgNode.getExceptionHandler(); c!= null; c = c.getNext()){ if(!mayUseMap.containsKey(c)) { mayUseMap.put(c, c); }
+[PATCH] for(Node c = cfgNode.getCatchBlock(); c!= null; c = c.getNext()){ if(mayUseMap.containsKey(c)) { return mayUseMap.containsKey(c); }
+[PATCH] for(Node c = cfgNode.getCATCH(); c!= null; c = c.getNext()){ if(mayUseMap.containsKey(c)) { mayUseMap.put(c, c); }
+[PATCH] for(Node c = cfgNode.getCatchBlock(); c!= null; c = c.getCause()){ if(mayUseMap.containsKey(c)) { mayUseMap.put(c, c); }
+[PATCH] for(Node c = cfgNode.getCatchBlock(); c!= null; c = c.getNext()){ if(mayUseMap.containsKey(c)) { mayUseMap.put(c, true); }
+[PATCH] for(Node c = cfgNode.getLastChild(); c!= null; c = c.getNext()){ if(mayUseMap.containsKey(c)) { return true; }
+[PATCH] for(Node c = cfgNode.getCatch(); c!= null; c = c.getNext()){ if(mayUseMap.containsKey(c)) { return true; }
+[PATCH] for(Node c = cfgNode.getFirstChild(); c!= null; c = c.getNext()){ if(isExceptionHandler(c)) { return true; }
+[PATCH] for(Node c = cfgNode.getCatchBlock(); c!= null; c = c.getNext()){ if(!mayUseMap.containsKey(c)) { return true; }
+[PATCH] for(Node c = cfgNode.getFirstChild(); c!= null; c = c.getNext()){ if(mayUseMap.containsKey(c)) { mayUseMap.remove(c); }
+[PATCH] for(Node c = cfgNode.getCatch(); c!= null; c = c.getNext()){ if(!mayUseMap.containsKey(c)) { mayUseMap.put(c, c); }
+[PATCH] for(Node c = cfgNode.getCatch(); c!= null; c = c.getNext()){ if(mayUseMap.containsKey(c)) { return mayUseMap.containsKey(c); }
+[PATCH] for(Node c = cfgNode.getLastChild(); c!= null; c = c.getNext()){ if(mayUseMap.containsKey(c)) { return mayUseMap.containsKey(c); }
+[PATCH] for(Node c = cfgNode.getLastChild(); c!= null; c = c.getNext()){ if(mayUseMap.containsKey(c)) { mayUseMap.put(c, true); }
+[PATCH] for(Node c = cfgNode.getThrow(); c!= null; c = c.getNext()){ if(!mayUseMap.containsKey(c)) { mayUseMap.put(c, c); }
+[PATCH] for(Node c = cfgNode.getCatch(); c!= null; c = c.getNext()){ if(mayUseMap.containsKey(c)) { mayUseMap.put(c, true); }
+[PATCH] for(Node c = cfgNode.getCatch(); c!= null; c = c.getCause()){ if(!mayUseMap.containsKey(c)) { mayUseMap.put(c, c); }
+[PATCH] for(Node c = cfgNode.getExceptionHandler(); c!= null; c = c.getNext()){ if(mayUseMap.containsKey(c)) { return true; }
+[PATCH] for(Node c = cfgNode.getFirstChild(); c!= null; c = c.getNext()){ if(mayUseMap.containsKey(c)) { mayUseMap.put(c, false); }
+[PATCH] for(Node c = cfgNode.getFirstChild(); c!= null; c = c.next()){ if(mayUseMap.containsKey(c)) { mayUseMap.put(c, c); }
+[PATCH] for(Node c = cfgNode.getExceptionHandler(); c!= null; c = c.getNext()){ if(!mayUseMap.containsKey(c)) { return true; }
+[PATCH] for(Node c = cfgNode.getExceptionHandler(); c!= null; c = c.getNext()){ if(mayUseMap.containsKey(c)) { return mayUseMap.containsKey(c); }
+[PATCH] for(Node c = cfgNode.getCatch(); c!= null; c = c.getCause()){ if(mayUseMap.containsKey(c)) { mayUseMap.put(c, c); }
+[PATCH] for(Node c = cfgNode.getProp(Node.EXCEPTION_PROP); c!= null; c = c.getCause()){ if(mayUseMap.containsKey(c)) { return true; }
+[PATCH] for(Node c = cfgNode.getCatchBlock(); c!= null; c = c.getNext()){ if(mayUseMap.containsKey(c)) { mayUseMap.put(c, null); }
+[PATCH] for(Node c = cfgNode.getCatch(); c!= null; c = c.getCause()){ if(!mayUseMap.containsKey(c)) { return true; }
+[PATCH] for(Node c = cfgNode.getCATCH(); c!= null; c = c.getNext()){ if(mayUseMap.containsKey(c)) { return true; }
+[PATCH] for(Node c = cfgNode.getExceptionHandler(); c!= null; c = c.getNext()){ if(!mayUseMap.containsKey(c)) { mayUseMap.put(c, true); }
+[PATCH] for(Node c = cfgNode.getThrow(); c!= null; c = c.getNext()){ if(mayUseMap.containsKey(c)) { return true; }
+[PATCH] for(Node c = cfgNode.getCatch(); c!= null; c = c.getNext()){ if(!mayUseMap.containsKey(c)) { return true; }
+[PATCH] for(Node c = cfgNode.getCATCH(); c!= null; c = c.getNext()){ if(mayUseMap.containsKey(c)) { mayUseMap.put(c, true); }
+[PATCH] for(Node c = cfgNode.getExceptionHandler(); c!= null; c = c.getNext()){ if(mayUseMap.containsKey(c)) { mayUseMap.put(c, true); }
+[PATCH] for(Node c = cfgNode.getCatchBlock(); c!= null; c = c.getCause()){ if(mayUseMap.containsKey(c)) { return true; }
+[PATCH] for(Node c = cfgNode.getLastChild(); c!= null; c = c.getNext()){ if(!mayUseMap.containsKey(c)) { return true; }
+[PATCH] for(Node c = cfgNode.getCatchBlock(); c!= null; c = c.getCause()){ if(mayUseMap.containsKey(c)) { return mayUseMap.containsKey(c); }
+[PATCH] for(Node c = cfgNode.getExceptionHandler(); c!= null; c = c.next()){ if(mayUseMap.containsKey(c)) { mayUseMap.put(c, c); }
+[PATCH] for(Node c = cfgNode.getCatch(); c!= null; c = c.getNext()){ if(!mayUseMap.containsKey(c)) { mayUseMap.put(c, true); }
+[PATCH] for(Node c = cfgNode.getExceptionHandler(); c!= null; c = c.getCause()){ if(!mayUseMap.containsKey(c)) { mayUseMap.put(c, c); }
+[PATCH] for(Node node : cfgNode.getExceptions()){ if(!mayUseMap.containsKey(node)) { return true; }
+[PATCH] for(Node c = cfgNode.getProp(Node.EXCEPTION_PROP); c!= null; c = c.getNext()){ if(mayUseMap.containsKey(c)) { return true; }
+[PATCH] for(Node c = cfgNode.getFirstChild(); c!= null; c = c.getNext()){ if(!mayUseMap.containsKey(c)) { mayUseMap.remove(c); }
+[PATCH] for(Node c = cfgNode.getProp(Node.EXCEPTION_PROP); c!= null; c = c.getCause()){ if(!mayUseMap.containsKey(c)) { return true; }
+[PATCH] for(Node c = cfgNode.getCATCH(); c!= null; c = c.getNext()){ if(mayUseMap.containsKey(c)) { return mayUseMap.containsKey(c); }
+[PATCH] for(Node c = cfgNode.getCatchBlock(); c!= null; c = c.getNext()){ if(hasExceptionHandler(c)) { return true; }
+[PATCH] for(Node c = cfgNode.getCatchBlock(); c!= null; c = c.getNext()){ if(mayUseMap.containsKey(c)) { mayUseMap.remove(c); }
+[PATCH] for(Node c = cfgNode.getPrevious(); c!= null; c = c.getNext()){ if(mayUseMap.containsKey(c)) { mayUseMap.put(c, c); }
+[PATCH] for(Node c = cfgNode.getCatchBlock(); c!= null; c = c.getCause()){ if(!mayUseMap.containsKey(c)) { mayUseMap.remove(c); }
+[PATCH] for(Node c = cfgNode.getLastChild(); c!= null; c = c.getNext()){ if(hasExceptionHandler(c)) { return true; }
+[PATCH] for(Node c = cfgNode.getException(); c!= null; c = c.getNext()){ if(mayUseMap.containsKey(c)) { mayUseMap.put(c, c); }
+[PATCH] for(Node c = cfgNode.getLastChild(); c!= null; c = c.getNext()){ if(mayUseMap.containsKey(c)) { mayUseMap.put(c, null); }
+[PATCH] for(Node c = cfgNode.getThrow(); c!= null; c = c.getNext()){ if(mayUseMap.containsKey(c)) { mayUseMap.put(c, true); }
+[PATCH] for(Node c = cfgNode.getCatchHandler(); c!= null; c = c.getNext()){ if(mayUseMap.containsKey(c)) { mayUseMap.put(c, c); }
+[PATCH] for(Node c = cfgNode.getThrow(); c!= null; c = c.getNext()){ if(mayUseMap.containsKey(c)) { return mayUseMap.containsKey(c); }
+[PATCH] for(Node c = cfgNode.getCatch(); c!= null; c = c.getNext()){ if(mayUseMap.containsKey(c)) { mayUseMap.put(c, null); }
+[PATCH] for(Node c = cfgNode.getFirstChild(); c!= null; c = c.getNext()){ if(!mayUseMap.containsKey(c)) { mayUseMap.putAll(c); }
+[PATCH] for(Node c = cfgNode.getLastChild(); c!= null; c = c.next()){ if(mayUseMap.containsKey(c)) { mayUseMap.put(c, c); }
+[PATCH] for(Node c = cfgNode.getCt(); c!= null; c = c.getNext()){ if(mayUseMap.containsKey(c)) { mayUseMap.put(c, c); }
+[PATCH] for(Node c = cfgNode.getExceptionHandler(); c!= null; c = c.getCause()){ if(mayUseMap.containsKey(c)) { mayUseMap.put(c, c); }
+[PATCH] for(Node c = cfgNode.getExceptionHandler(); c!= null; c = c.getCause()){ if(!mayUseMap.containsKey(c)) { return true; }
+[PATCH] for(Node c = cfgNode.getExceptionHandler(); c!= null; c = c.getFirstChild()){ if(mayUseMap.containsKey(c)) { mayUseMap.put(c, c); }
+[PATCH] for(Node c = cfgNode.getCatch(); c!= null; c = c.getCause()){ if(!mayUseMap.containsKey(c)) { mayUseMap.put(c, true); }
+[PATCH] for(Node c = cfgNode.getLastChild(); c!= null; c = c.getNext()){ if(mayUseMap.containsKey(c)) { mayUseMap.remove(c); }
+[PATCH] for(Node c = cfgNode.getThrow(); c!= null; c = c.getNext()){ if(!mayUseMap.containsKey(c)) { return true; }
+[PATCH] for(Node c = cfgNode.getCatch(); c!= null; c = c.getCause()){ if(mayUseMap.containsKey(c)) { return mayUseMap.containsKey(c); }
+[PATCH] for(Node c = cfgNode.getCatchBlock(); c!= null; c = c.getCause()){ if(mayUseMap.containsKey(c)) { mayUseMap.put(c, true); }
+[PATCH] for(Node c = cfgNode.getNext(); c!= null; c = c.getNext()){ if(mayUseMap.containsKey(c)) { mayUseMap.put(c, c); }
+[PATCH] for(Node c = cfgNode.getCATCH(); c!= null; c = c.getNext()){ if(!mayUseMap.containsKey(c)) { return true; }
+[PATCH] for(Node c = cfgNode.getCatch(); c!= null; c = c.next()){ if(mayUseMap.containsKey(c)) { mayUseMap.put(c, c); }
+[PATCH] for(Node c = cfgNode.getCatch(); c!= null; c = c.getNext()){ if(mayUseMap.containsKey(c)) { mayUseMap.remove(c); }
+[PATCH] for(Node c = cfgNode.getThrow(); c!= null; c = c.getNext()){ if(!mayUseMap.containsKey(c)) { mayUseMap.put(c, true); }
+[PATCH] for(Node c = cfgNode.getFirstChild(); c!= null; c = c.getNext()){ if(mayUseMap.containsKey(c)) { mayUseMap.putAll(c); }
+[PATCH] for(Node c = cfgNode.getCatch(); c!= null; c = c.getCause()){ if(mayUseMap.containsKey(c)) { return true; }
+[PATCH] for(Node c = cfgNode.getThrow(); c!= null; c = c.next()){ if(mayUseMap.containsKey(c)) { mayUseMap.put(c, c); }
+[PATCH] for(Node c = cfgNode.getExceptionHandler(); c!= null; c = c.getNext()){ if(mayUseMap.containsKey(c)) { mayUseMap.put(c, null); }
+[PATCH] for(Node c = cfgNode.getCatchBlock(); c!= null; c = c.getNext()){ if(mayUseMap.containsKey(c)) { mayUseMap.put(c, false); }
+[PATCH] for(Node c = cfgNode.getCatchBlock(); c!= null; c = c.getExceptionHandler()){ if(mayUseMap.containsKey(c)) { mayUseMap.put(c, c); }
+[PATCH] for(Node c = cfgNode.getExceptionHandler(); c!= null; c = c.getNext()){ if(mayUseMap.containsKey(c)) { mayUseMap.remove(c); }
+[PATCH] for(Node c = cfgNode.getFirstChild(); c!= null; c = c.getNext()){ if(isException(c)) { return true; }
+[PATCH] for(Node c = cfgNode.getCatch(); c!= null; c = c.getNext()){ if(hasExceptionHandler(c)) { return true; }
+[PATCH] for(Node c = cfgNode.getCatchBlock(); c!= null; c = c.getNext()){ if(!mayUseMap.containsKey(c)) { mayUseMap.remove(c); }
+[PATCH] for(Node c = cfgNode.getCatch(); c!= null; c = c.getCause()){ if(!mayUseMap.containsKey(c)) { mayUseMap.remove(c); }
+[PATCH] for(Node c = cfgNode.getLastChild(); c!= null; c = c.getNext()){ if(isExceptionHandler(c)) { return true; }
+[PATCH] for(Node c = cfgNode.getFirstChild().getNext(); c!= null; c = c.getNext()){ if(mayUseMap.containsKey(c)) { return true; }
+[PATCH] for(Node c = cfgNode.getCatchBlock(); c!= null; c = c.getFirstChild()){ if(mayUseMap.containsKey(c)) { return true; }
+[PATCH] for(Node c = cfgNode.getCatchBlock(); c!= null; c = c.getNext()){ if(isExceptionHandler(c)) { return true; }
+[PATCH] for(Node c = cfgNode.getThrow(); c!= null; c = c.getNext()){ if(mayUseMap.containsKey(c)) { mayUseMap.remove(c); }

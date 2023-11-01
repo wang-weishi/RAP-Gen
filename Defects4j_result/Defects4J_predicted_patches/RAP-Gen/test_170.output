@@ -1,0 +1,100 @@
+[PATCH] if(NodeUtil.hasFinally(n)) { Node finallyBlock = n.getLastChild(); tryMinimizeExits(finallyBlock, exitType, labelName); }
+[PATCH] tryMinimizeExits(n.getLastChild(), exitType, labelName);
+[PATCH] tryMinimizeExits(finallyBlock, exitType, labelName);
+[PATCH] if(NodeUtil.hasFinally(c)) { Node finallyBlock = n.getLastChild(); tryMinimizeExits(finallyBlock, exitType, labelName); }
+[PATCH] if(NodeUtil.hasFinally(block)) { Node finallyBlock = n.getLastChild(); tryMinimizeExits(finallyBlock, exitType, labelName); }
+[PATCH] Node finallyBlock = n.getLastChild(); tryMinimizeExits(finallyBlock, exitType, labelName);
+[PATCH] for(NodeUtil.hasFinally(n)) { Node finallyBlock = n.getLastChild(); tryMinimizeExits(finallyBlock, exitType, labelName); }
+[PATCH] if(NodeUtil.hasFinally(n)) { Block finallyBlock = n.getLastChild(); tryMinimizeExits(finallyBlock, exitType, labelName); }
+[PATCH] if(NodeUtil.hasFinally(condition)) { Node finallyBlock = n.getLastChild(); tryMinimizeExits(finallyBlock, exitType, labelName); }
+[PATCH] if(NodeUtil.hasFinally(n)) { Node finallyBlock = n.getLastChild(); TryMinimizeExits(finallyBlock, exitType, labelName); }
+[PATCH] while(NodeUtil.hasFinally(n)) { Node finallyBlock = n.getLastChild(); tryMinimizeExits(finallyBlock, exitType, labelName); }
+[PATCH] if(NodeUtil.hasFinally(n)) {
+[PATCH] if(NodeUtil.hasFinally(node)) { Node finallyBlock = n.getLastChild(); tryMinimizeExits(finallyBlock, exitType, labelName); }
+[PATCH] if(NodeUtil.hasFinally(c)) { Node finallyBlock = c.getLastChild(); tryMinimizeExits(finallyBlock, exitType, labelName); }
+[PATCH] if(NodeUtil.hasFinally(cond)) { Node finallyBlock = n.getLastChild(); tryMinimizeExits(finallyBlock, exitType, labelName); }
+[PATCH] this.ifUtil.hasFinally(n)) { Node finallyBlock = n.getLastChild(); tryMinimizeExits(finallyBlock, exitType, labelName); }
+[PATCH] If(NodeUtil.hasFinally(n)) { Node finallyBlock = n.getLastChild(); tryMinimizeExits(finallyBlock, exitType, labelName); }
+[PATCH] if(NodeUtil.hasFinally(f)) { Node finallyBlock = n.getLastChild(); tryMinimizeExits(finallyBlock, exitType, labelName); }
+[PATCH] if(NodeUtil.hasFinally(block)) { Node finallyBlock = block.getLastChild(); tryMinimizeExits(finallyBlock, exitType, labelName); }
+[PATCH] finallyBlock = n.getLastChild(); tryMinimizeExits(finallyBlock, exitType, labelName);
+[PATCH] if(NodeUtil.hasFinally(n)) { Node finallyBlock = n.getLastChild(); attemptMinimizeExits(finallyBlock, exitType, labelName); }
+[PATCH] this.elseBlock = n.getLastChild(); tryMinimizeExits(finallyBlock, exitType, labelName);
+[PATCH] if(NodeUtil.hasFinally(n)) { Node finallyBlock = n.getLastChild(); tryMinimizeExits(catchBlock, exitType, labelName); }
+[PATCH] if(NodeUtil.hasFinally(n)) { Node finallyBlock = n.getLastChild(); tryMinimizeExits(endBlock, exitType, labelName); }
+[PATCH] if(NodeUtil.hasFinally(n)&&!NodeUtil.hasCatchHandler(allCatchNodes)) {
+[PATCH] tryMinimizeExits(n.getFirstChild(), exitType, labelName);
+[PATCH] if(NodeUtil.hasFinally(n)) { Node finallyBlock = n.getLastChild(); tryMinimizeExits(finallyBlock, exitType, labelname); }
+[PATCH] if(NodeUtil.hasFinally(allCatchNodes)) {
+[PATCH] tryMinimizeExits(n.getLastChild().getNext(), exitType, labelName);
+[PATCH] if(NodeUtil.hasFinally(n)) { Node finallyBlock = n.getLastChild(); Preconditions.checkState(finallyBlock!= null); }
+[PATCH] TryMinimizeExits(n.getLastChild(), exitType, labelName);
+[PATCH] tryMinimizeExits(blockBlock, exitType, labelName);
+[PATCH] else if(NodeUtil.hasCatchHandler(allCatchNodes)) { Preconditions.checkState(NodeUtil.hasFinally(allCatchNodes)); }
+[PATCH] if(NodeUtil.hasCatchHandler(allCatchNodes)) { Preconditions.checkState(NodeUtil.hasFinally(allCatchNodes)); }
+[PATCH] if(NodeUtil.hasFinally(allCatchNodes)) { Preconditions.checkState(NodeUtil.hasFinally(allCatchNodes)); }
+[PATCH] if(NodeUtil.hasFinally(allCatchNodes)) { Node finallyBlock = n.getLastChild(); Preconditions.checkState(finallyBlock!= null); }
+[PATCH] } else if(NodeUtil.hasCatchHandler(allCatchNodes)) {
+[PATCH] if(NodeUtil.hasCatchHandler(allCatchNodes)) {
+[PATCH] catchMinimizeExits(n.getLastChild(), exitType, labelName);
+[PATCH] if(NodeUtil.hasFinally(n)&&!NodeUtil.hasCatchHandler(finallyNodes)) {
+[PATCH] tryMinimizeExits(null, exitType, labelName);
+[PATCH] if(NodeUtil.hasFinally(n)&&!NodeUtil.hasCatchHandler(catchNode)) {
+[PATCH] } else if(NodeUtil.hasFinally(n)) {
+[PATCH] tryMinimizeExits(endBlock, exitType, labelName);
+[PATCH] if(NodeUtil.hasFinally(n)|| NodeUtil.hasCatchHandler(allCatchNodes)) {
+[PATCH] tryMinimizeExits(node.getLastChild(), exitType, labelName);
+[PATCH] tryMinimizeExits(getLastChild(), exitType, labelName);
+[PATCH] } else if(NodeUtil.hasFinallyHandler(allCatchNodes)) {
+[PATCH] Preconditions.checkState(NodeUtil.hasFinally(allCatchNodes)) {
+[PATCH] else if(NodeUtil.hasCatchHandler(allCatchNodes)) {
+[PATCH] Preconditions.checkState(NodeUtil.hasFinally(n));
+[PATCH] } else if(NodeUtil.hasFinally(allCatchNodes)) {
+[PATCH] tryMinimizeExits(this.finallyBlock, exitType, labelName);
+[PATCH] tryMinimizeExits(this.elseBlock, exitType, labelName);
+[PATCH] tryMinimizeExits(catchBlock, exitType, labelName);
+[PATCH] if(NodeUtil.hasCatchBlock(allCatchNodes)) {
+[PATCH] Preconditions.checkState(NodeUtil.hasCatchHandler(allCatchNodes)) {
+[PATCH] if(NodeUtil.hasCatchHandler(finallyNodes)) {
+[PATCH] tryMinimizeExits(elseBlock, exitType, labelName);
+[PATCH] else if(NodeUtil.hasFinallyHandler(allCatchNodes)) {
+[PATCH] tryMinimizeExits(lastBlock, exitType, labelName);
+[PATCH] Preconditions.checkState(NodeUtil.hasFinally(allCatchNodes));
+[PATCH] } else if(NodeUtil.hasCatchBlock(allCatchNodes)) {
+[PATCH] tryMinimizeExits(allCatchNodes, exitType, labelName);
+[PATCH] tryMinimizeExits(thenBlock, exitType, labelName);
+[PATCH] tryMinimizeExits(falseBlock, exitType, labelName);
+[PATCH] if(NodeUtil.hasFinally(finallyNodes)) {
+[PATCH] tryMinimizeExits(block, exitType, labelName);
+[PATCH] } else if(NodeUtil.hasFinallyHandler(n)) {
+[PATCH] if(NodeUtil.hasFinally(finallyBlock)) {
+[PATCH] Preconditions.checkState(NodeUtil.hasFinally(n)) {
+[PATCH] if(NodeUtil.hasFinallyHandler(allCatchNodes)) {
+[PATCH] else if(NodeUtil.hasFinallyHandler(n)) {
+[PATCH] if(NodeUtil.hasFinallyHandler(n)) {
+[PATCH] if(NodeUtil.hasFinallyHandler(finallyNodes)) {
+[PATCH] tryMinimizeExits(n.getLastChild());
+[PATCH] else if(NodeUtil.hasFinally(n)) {
+[PATCH] if(NodeUtil.hasCatchHandler(n)) {
+[PATCH] if(NodeUtil.hasFinally(finallyNode)) {
+[PATCH] tryMinimizeExits(null, labelName);
+[PATCH] Util.removeCatchHandler(allCatchNodes);
+[PATCH] (NodeUtil.hasFinally(n)) {
+[PATCH] maybeRemoveBreakInTryFinally();
+[PATCH] removeBreakInTryFinally();
+[PATCH] this.checkFinally(n);
+[PATCH] boolean hasFinally(n)) {
+[PATCH] compiler.reportCodeChange();
+[PATCH] this.endStatement();
+[PATCH] [Delete]
+[PATCH] endTry();
+[PATCH] ;
+[PATCH] return;
+[PATCH] break;
+[PATCH] //
+[PATCH] {
+);
+
+;
+*/
+());

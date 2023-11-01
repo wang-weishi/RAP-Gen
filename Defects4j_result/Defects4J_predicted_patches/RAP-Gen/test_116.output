@@ -1,0 +1,100 @@
+[PATCH] Preconditions.checkState(ControlFlowGraph.isEnteringNewCfgNode(n));
+[PATCH] Preconditions.checkState(n.getType() == Token.NEW);
+[PATCH] Preconditions.checkState(n.hasChildren(),"AST should be normalized");
+[PATCH] Preconditions.checkState(n.getType() == Token.ASSIGN);
+[PATCH] try { if(!ControlFlowGraph.isEnteringNewCfgNode(n)) { return true; }
+[PATCH] if(ControlFlowGraph<Node> cfg = getCfg(); if(cfg!= null){ return true; }
+[PATCH] Preconditions.checkState(NodeUtil.isGetProp(n));
+[PATCH] Preconditions.checkState(n.getType() == Token.GETPROP);
+[PATCH] if(n.hasChildren()){ if(!ControlFlowGraph.mayHaveSideEffects(n)) { return true; }
+[PATCH] if(useCfgNode){ if(!ControlFlowGraph.isEnteringNewCfgNode(n)) { return true; }
+[PATCH] if(ControlFlowGraph<Node> cfg = compiler.getControlFlowGraph(); if(cfg!= null){ return true; }
+[PATCH] Preconditions.checkArgument(ControlFlowGraph.isEnteringNewCfgNode(n));
+[PATCH] Preconditions.checkState(n.getType() == Token.CALL);
+[PATCH] if(ControlFlowGraph<Node> cfg = NodeUtil.getCfg(); if(cfg!= null){ return true; }
+[PATCH] Preconditions.checkState(!ControlFlowGraph.isEnteringNewCfgNode(n));
+[PATCH] Preconditions.checkArgument(n.getType() == Token.NEW);
+[PATCH] Preconditions.checkArgument(n.getType() == Token.ASSIGN);
+[PATCH] if(ControlFlowGraph<Node> cfg = getCfg(); if(cfg!= null){ return false; }
+[PATCH] try { if(NodeUtil.mayHaveSideEffects(n)) { return true; }
+[PATCH] Preconditions.checkArgument(NodeUtil.isGetProp(n));
+[PATCH] NodeTraversal.traverse(compiler, n, this);
+[PATCH] if(ControlFlowGraph<Node> cfg = ControlFlowGraph.create(); if(cfg!= null){ return true; }
+[PATCH] if(ControlFlowGraph<Node> cfg = ControlFlowGraph.current(); if(cfg!= null){ return true; }
+[PATCH] Preconditions.checkState(n.getChildCount() == 4);
+[PATCH] try { if(ControlFlowGraph.isEnteringNewCfgNode(n)) { return true; }
+[PATCH] Preconditions.checkState(n.hasOneChild());
+[PATCH] if(ControlFlowGraph<Node> cfg = ControlFlowGraph.newInstance(); if(cfg!= null){ return true; }
+[PATCH] if(ControlFlowGraph<Node> cfg = compiler.getCodingConvention(); if(cfg!= null){ return true; }
+[PATCH] if(ControlFlowGraph<Node> cfg = compiler.getControlFlowGraph(); if(cfg!= null){ return false; }
+[PATCH] if(ControlFlowGraph<Node> cfg = getCtxGraph(); if(cfg!= null){ return true; }
+[PATCH] if(ControlFlowGraph<Node> cfg = NodeUtil.getCfg(); if(cfg!= null){ return false; }
+[PATCH] if(ControlFlowGraph<Node> cfg = compiler.computeCfg(); if(cfg!= null){ return true; }
+[PATCH] Preconditions.checkArgument(n.hasChildren(),"AST should be normalized");
+[PATCH] NodeTraversal.traverse(compiler, n, new GatherCandiates());
+[PATCH] Preconditions.checkState(n.hasChildren(),"AST should not be possible", n);
+[PATCH] if(!ControlFlowGraph.isEnteringNewCfgNode(n)) { return true; }
+[PATCH] NodeTraversal.traverse(compiler, n, gatherCandiates);
+[PATCH] Preconditions.checkArgument(n.getType() == Token.GETPROP);
+[PATCH] if(ControlFlowGraph<Node> cfg = compiler.getCfg(); if(cfg!= null){ return true; }
+[PATCH] try { if(n.getType() == Token.NEW){ return true; }
+[PATCH] Preconditions.checkArgument(!ControlFlowGraph.isEnteringNewCfgNode(n));
+[PATCH] Preconditions.checkState(n.getType() == Token.VAR);
+[PATCH] Preconditions.checkState(n.getChildCount() == 3);
+[PATCH] boolean numUseWithinUseCfgNode = NodeUtil.numUseWithinUseCfgNode(n);
+[PATCH] Preconditions.checkState(n.getType() == Token.LP);
+[PATCH] Preconditions.checkState(n.getType() == Token.OBJECTLIT);
+[PATCH] if(ControlFlowGraph<Node> cfg = getCtxGraph(); if(cfg!= null){ return false; }
+[PATCH] Preconditions.checkState(n.hasChildren(),"AST should not be normalized");
+[PATCH] Preconditions.checkState(NodeUtil.isAssign(n));
+[PATCH] Preconditions.checkArgument(n.getType() == Token.CALL);
+[PATCH] Preconditions.checkState(!NodeUtil.mayHaveSideEffects(n));
+[PATCH] Preconditions.checkState(cfg.hasNode(n));
+[PATCH] boolean numUseWithinUseCfgNode = n.getNumUseWithinUseCfgNode();
+[PATCH] Preconditions.checkState(n.hasChildren(),"AST should not be null.");
+[PATCH] Preconditions.checkState(n.getType() == Token.DEFAULT);
+[PATCH] Preconditions.checkState(cfg.isEnteringNewCfgNode(n));
+[PATCH] Preconditions.checkState(isEnteringNewCfgNode(n));
+[PATCH] ControlFlowGraph<Node> cfg = NodeUtil.getControlFlowGraph(n);
+[PATCH] Preconditions.checkState(n.hasChildren(),"AST should be visible");
+[PATCH] Preconditions.checkState(n.getType() == Token.NAME);
+[PATCH] Preconditions.checkState(NodeUtil.isStatementBlock(n));
+[PATCH] Preconditions.checkState(cfg.isGlobal());
+[PATCH] Preconditions.checkState(NodeUtil.isAssignmentOp(n));
+[PATCH] while(n.hasChildren()){ n = n.getFirstChild();
+[PATCH] ControlFlowGraph<Node> cfg = compiler.getControlFlowGraph();
+[PATCH] Preconditions.checkState(NodeUtil.mayHaveSideEffects(n));
+[PATCH] Preconditions.checkState(n.getType() == Token.BLOCK);
+[PATCH] ControlFlowGraph<Node> cfg = getCfg();
+[PATCH] Preconditions.checkState(varName.length() == 4);
+[PATCH] Preconditions.checkState(n.hasChildren(),"AST should be constructed");
+[PATCH] Preconditions.checkState(cfg.isEmbedded());
+[PATCH] Preconditions.checkState(n.isAssign() || n.isGet());
+[PATCH] Preconditions.checkState(n.isGetProp());
+[PATCH] Preconditions.checkState(varName.length() > 0);
+[PATCH] Preconditions.checkState(NodeUtil.isCall(n));
+[PATCH] Preconditions.checkState(cfg.isAnnotationProcessingEnabled());
+[PATCH] Preconditions.checkNotNull(varName);
+[PATCH] Preconditions.checkState(false,"Not reachable");
+[PATCH] boolean numUseWithinUseCfgNode = NodeUtil.numUseWithinUseCfgNode();
+[PATCH] Preconditions.checkState(cfg.dependsOn(n));
+[PATCH] NodeTraversal.traverse(compiler, n, gatherCandidates);
+[PATCH] Preconditions.checkState(childCount == 2);
+[PATCH] ControlFlowGraph<Node> cfg = NodeUtil.getCfg();
+[PATCH] Preconditions.checkNotNull(n);
+[PATCH] Preconditions.checkState(n.hasChildren());
+[PATCH] Preconditions.checkState(cfg.isNormalized());
+[PATCH] Preconditions.checkState(n.isGet());
+[PATCH] Preconditions.checkState(cfg.isActive());
+[PATCH] Preconditions.checkArgument(n.hasOneChild());
+[PATCH] Preconditions.checkState(cfg.isFull());
+[PATCH] Node c = n.getFirstChild();
+[PATCH] Node parent = n.getParent();
+[PATCH] compiler.reportCodeChange();
+[PATCH] ControlFlowGraph cfg = getCfg();
+[PATCH] n.detachFromParent();
+[PATCH] config = getCfg();
+[PATCH] cfg = getCfg();
+
+);
+;

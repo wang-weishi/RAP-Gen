@@ -1,0 +1,100 @@
+[PATCH] if(yMin * yInitial >= 0){ if(Math.abs(yMin) <= functionValueAccuracy){ setResult(yMin, 1); return result; }
+[PATCH] if(yMin * yInitial >= 0){ if(Math.abs(yMin) <= functionValueAccuracy){ setResult(yMin, min); return result; }
+[PATCH] if(Math.abs(yMin)< Math.abs(yInitial)) { setResult(yMin, min); return result; }
+[PATCH] if(yMin * yInitial >= 0){ if(Math.abs(yMin) <= functionValueAccuracy){ setResult(yMin, max); return result; }
+[PATCH] if(Math.abs(yMin)< Math.abs(yInitial)) { setResult(yMin, 1); return result; }
+[PATCH] if(yInitial * yMin >= 0){ if(Math.abs(yMin) <= functionValueAccuracy){ setResult(yMin, min); return result; }
+[PATCH] if(yMin * yInitial >= 0){ return solve(f, min, max, initial, yMin); }
+[PATCH] if(yMin * yInitial >= 0){ if(f.abs(yMin) <= functionValueAccuracy){ setResult(yMin, 1); return result; }
+[PATCH] if(yMin * yInitial >= 0){ if(f.abs(yMin) <= functionValueAccuracy){ setResult(yMin, min); return result; }
+[PATCH] if(yMin * yInitial >= 0){ if(Math.abs(yMin) <= functionValueAccuracy){ setResult(yMin, 0); return result; }
+[PATCH] if(yInitial * yMin >= 0){ if(Math.abs(yMin) <= functionValueAccuracy){ setResult(yMin, 1); return result; }
+[PATCH] if(yMin * yMax >= 0){ if(Math.abs(yMin) <= functionValueAccuracy){ setResult(yMin, 1); return result; }
+[PATCH] if(yMin * yMax >= 0){ if(Math.abs(yMin) <= functionValueAccuracy){ setResult(yMin, min); return result; }
+[PATCH] if(yMin * yMax >= 0){ if(Math.abs(yMin) <= functionValueAccuracy){ setResult(yMin, max); return result; }
+[PATCH] if(Math.abs(yMin)< Math.abs(yInitial)) { setResult(yMin, max); return result; }
+[PATCH] if(yMin * yInitial >= 0){ if(f.abs(yMin) <= functionValueAccuracy){ setResult(yMin, max); return result; }
+[PATCH] if(Math.abs(yMin)< Math.abs(yMax)) { setResult(yMin, min); return result; }
+[PATCH] if(yInitial * yMin >= 0){ if(Math.abs(yMin) <= functionValueAccuracy){ setResult(yMin, max); return result; }
+[PATCH] if(yMin * yMax >= 0){ if(f.abs(yMin) <= functionValueAccuracy){ setResult(yMin, 1); return result; }
+[PATCH] if(Math.abs(yMin)< Math.abs(yInitial)) { setResult(yMin, 0); return result; }
+[PATCH] if(yMin * yMax >= 0){ if(f.abs(yMin) <= functionValueAccuracy){ setResult(yMin, min); return result; }
+[PATCH] if(yMin * yInitial >= 0.0){ return solve(f, min, max, initial, yMin); }
+[PATCH] if(yMin * yInitial >= 0){ if(f.abs(yMin) <= functionValueAccuracy){ setResult(yMin, 0); return result; }
+[PATCH] if(Math.abs(yMin)< Math.abs(yMax)) { setResult(yMin, 1); return result; }
+[PATCH] if(yMin * yMax >= 0){ if(f.abs(yMin) <= functionValueAccuracy){ setResult(yMin, max); return result; }
+[PATCH] if(yMin * yInitial >= 0){ if(Math.abs(yMin) <= functionValueAccuracy){ setResult(yMin, initial); return result; }
+[PATCH] if(yInitial * yMin >= 0){ if(Math.abs(yMin) <= functionValueAccuracy){ setResult(yMin, 0); return result; }
+[PATCH] if(yMin * yInitial >= 0){ if(Math.abs(yMin) <= functionValueAccuracy){ setResult(yMin, maximum); return result; }
+[PATCH] if(yMax * yMin >= 0){ if(Math.abs(yMin) <= functionValueAccuracy){ setResult(yMin, min); return result; }
+[PATCH] if(yMin * yMax >= 0){ if(Math.abs(yMin) <= functionValueAccuracy){ setResult(yMin, 0); return result; }
+[PATCH] if(Math.abs(yMin)< Math.abs(yInitial)) { setResult(yMin, yMax); return result; }
+[PATCH] if(yMax * yMin >= 0){ if(Math.abs(yMin) <= functionValueAccuracy){ setResult(yMin, 1); return result; }
+[PATCH] if(yMin * yInitial >= 0){ if(xMax < min){ setResult(yMin, 1); return result; }
+[PATCH] if(initial * yMin >= 0){ if(Math.abs(yMin) <= functionValueAccuracy){ setResult(yMin, min); return result; }
+[PATCH] if(yMin * yMax >= min){ if(Math.abs(yMin) <= functionValueAccuracy){ setResult(yMin, 1); return result; }
+[PATCH] if(yMin * yMax >= min){ if(Math.abs(yMin) <= functionValueAccuracy){ setResult(yMin, min); return result; }
+[PATCH] if(Math.abs(yMin)< Math.abs(yMax)) { setResult(yMin, max); return result; }
+[PATCH] if(yMin * yMax >= min){ if(Math.abs(yMin) <= functionValueAccuracy){ setResult(yMin, max); return result; }
+[PATCH] if(yMax * yMin >= 0){ if(Math.abs(yMin) <= functionValueAccuracy){ setResult(yMin, max); return result; }
+[PATCH] if(yMin * yMax >= 0){ if(f.abs(yMin) <= functionValueAccuracy){ setResult(yMin, 0); return result; }
+[PATCH] if(yMin * yInitial >= 0){ if(Math.abs(yMin) <= functionValueAccuracy){ setResult(yMin, x); return result; }
+[PATCH] if(initial * yMin >= 0){ if(Math.abs(yMin) <= functionValueAccuracy){ setResult(yMin, 1); return result; }
+[PATCH] if(yMax * yMin >= 0){ if(f.abs(yMin) <= functionValueAccuracy){ setResult(yMin, 1); return result; }
+[PATCH] if(yMin * yInitial >= 0){ if(Math.abs(yMin) <= functionValueAccuracy){ setResult(yMin, len); return result; }
+[PATCH] if(yMin * yInitial >= 0){ if(Math.abs(yMin)< tolerance){ setResult(yMin, min); return result; }
+[PATCH] if(Math.abs(yMin)< Math.abs(yInitial)) { return solve(f, min, max, yMin, initial); }
+[PATCH] if(yMin * yInitial >= 0){ if(Math.abs(yMin) <= functionValueAccuracy){ setResult(yMin, sum); return result; }
+[PATCH] if(Math.abs(yMin)< Math.abs(yMax)) { setResult(yMin, 0); return result; }
+[PATCH] if(yMax * yMin >= 0){ if(f.abs(yMin) <= functionValueAccuracy){ setResult(yMin, min); return result; }
+[PATCH] if(yMin * yInitial >= 0){ if(f.abs(yMin) <= functionValueAccuracy){ setResult(yMin, initial); return result; }
+[PATCH] if(yInitial * yMin >= 0){ if(f.abs(yMin) <= functionValueAccuracy){ setResult(yMin, min); return result; }
+[PATCH] if(yInitial * yMin >= 0){ return solve(f, min, max, initial, yMin); }
+[PATCH] if(yMin * yInitial >= 0){ if(Math.abs(yMin)< functionValueAccuracy){ setResult(yMin, 1); return result; }
+[PATCH] if(yMin * yInitial >= 0){ if(Math.abs(yMin) <= functionValueAccuracy){ setResult(yMin, minimum); return result; }
+[PATCH] if(yMin * yMax >= initial){ if(Math.abs(yMin) <= functionValueAccuracy){ setResult(yMin, 1); return result; }
+[PATCH] if(yInitial * yMin >= 0){ if(f.abs(yMin) <= functionValueAccuracy){ setResult(yMin, 1); return result; }
+[PATCH] if(yMin * yMax >= 0){ return solve(f, min, max, initial, yMin); }
+[PATCH] if(Math.abs(yMin)< Math.abs(yInitial)) { return solve(f, min, max, initial, yMin); }
+[PATCH] if(yMin * yInitial >= 0){ if(xMax < min){ setResult(yMin, max); return result; }
+[PATCH] if(yMin * yInitial >= 0){ if(Math.abs(yMin) <= functionValueAccuracy){ setResult(yMin, i); return result; }
+[PATCH] if(yMin * yMax >= initial){ if(Math.abs(yMin) <= functionValueAccuracy){ setResult(yMin, min); return result; }
+[PATCH] if(initial * yMin >= 0){ if(Math.abs(yMin) <= functionValueAccuracy){ setResult(yMin, max); return result; }
+[PATCH] if(yMin * yInitial >= 0){ if(Math.abs(yMin)< functionValueAccuracy){ setResult(yMin, min); return result; }
+[PATCH] if(yInitial * yMin >= 0){ if(Math.abs(yMin) <= functionValueAccuracy){ setResult(yMin, initial); return result; }
+[PATCH] if(yMin * yInitial >= 0){ if(f.abs(yMin) <= functionValueAccuracy){ setResult(yMin, maximum); return result; }
+[PATCH] if(yMin * yInitial >= 0){ if(Math.abs(yMin) <= functionValueAccuracy){ setResult(yMax, min); return result; }
+[PATCH] if(yMin * yMax >= 0){ if(Math.abs(yMin) <= functionValueAccuracy){ setResult(yMin, maximum); return result; }
+[PATCH] if(Math.abs(yMin)< Math.abs(yMax)) { return solve(f, min, max, yMin, initial); }
+[PATCH] if(yMin * yInitial >= 0){ if(Math.abs(yMin) <= functionValueAccuracy){ setResult(yMin, index); return result; }
+[PATCH] if(yMin * yMax >= initial){ if(Math.abs(yMin) <= functionValueAccuracy){ setResult(yMin, max); return result; }
+[PATCH] if(Math.abs(yMin)< Math.abs(yMax)) { setResult(yMin, yMax); return result; }
+[PATCH] if(yMin * Math.abs(min)< Math.abs(max)) { return solve(f, min, max, initial, yMin); }
+[PATCH] if(yMin * yInitial >= 0){ if(Math.abs(yMin) <= functionValueAccuracy){ setResult(yMin, n); return result; }
+[PATCH] if(yMax * yMin >= 0){ if(f.abs(yMin) <= functionValueAccuracy){ setResult(yMin, max); return result; }
+[PATCH] if(yMin * yInitial < 1){ if(Math.abs(yMin) <= functionValueAccuracy){ setResult(yMin, min); return result; }
+[PATCH] if(yInitial * yMin >= 0){ if(Math.abs(yMin) <= functionValueAccuracy){ setResult(yMin, maximum); return result; }
+[PATCH] if(yMin * yInitial >= 0){ if(Math.abs(yMin)< functionValueAccuracy){ setResult(yMin, max); return result; }
+[PATCH] if(yMin * yInitial >= 0){ if(Math.abs(yMin)< tolerance){ setResult(yMin, max); return result; }
+[PATCH] if(yMin * yInit >= 0){ if(Math.abs(yMin) <= functionValueAccuracy){ setResult(yMin, min); return result; }
+[PATCH] if(yMin * yInit >= 0){ if(Math.abs(yMin) <= functionValueAccuracy){ setResult(yMin, 1); return result; }
+[PATCH] if(yMin * yInitial >= 0){ if(Math.abs(yMin) <= functionValueAccuracy){ setResult(yMin, iteration); return result; }
+[PATCH] if(Math.abs(yMin)< Math.abs(yInitial)) { setResult(yMax, min); return result; }
+[PATCH] if(Math.abs(yMin) <= Math.abs(yMax)) { setResult(yMin, min); return result; }
+[PATCH] if(yInitial * yMin >= 0.0){ return solve(f, min, max, initial, yMin); }
+[PATCH] if(yMin * yInitial >= 0){ if(xMax < min){ setResult(yMin, 0); return result; }
+[PATCH] if(yMin * yMax >= 0){ return solve(f, min, max, yMin, initial); }
+[PATCH] if(yMin * yInitial >= 0){ if(Math.abs(yMin)< tolerance){ setResult(yMin, 1); return result; }
+[PATCH] if(Math.abs(yMin) <= functionValueAccuracy){ setResult(yMin, min); return result; }
+[PATCH] if(Math.abs(yMin)< Math.abs(yMax)) { return solve(f, min, max, initial, yMin); }
+[PATCH] if(Math.abs(yMin) <= Math.abs(yInitial)) { setResult(yMin, min); return result; }
+[PATCH] if(yMin * yInitial >= 0){ return solve(f, initial, yMin, max, min, yInitial); }
+[PATCH] if(Math.abs(yMin)< Math.abs(yInitial)) { setResult(yMin, maximum); return result; }
+[PATCH] if(yMin * yMax >= 0.0){ return solve(f, min, max, initial, yMin); }
+[PATCH] if(yMin * yInitial >= 0){ if(max * yMin >= 0){ setResult(yMin, 1); return result; }
+[PATCH] if(Math.abs(yMin) <= Math.abs(yMax)) { setResult(yMin, 1); return result; }
+[PATCH] if(Math.abs(yMin)< tolerance){ setResult(yMin, min); return result; }
+[PATCH] if(yMin * yInitial >= 0){ return solve(f, min, max, yMin, initial); }
+[PATCH] if(yMin * yMax < 0){ return solve(f, min, max, initial, yMin); }
+[PATCH] if(yMin * yInitial >= 0){ return solve(f, min, max, f.value(min), f.value(initial)); }
+[PATCH] if(yMin * yInitial >= 0){ if(x < min){ setResult(yMin, 1); return result; }

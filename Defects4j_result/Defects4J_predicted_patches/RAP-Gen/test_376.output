@@ -1,0 +1,100 @@
+[PATCH] marker.setPaint(this.rangeMarkerPaint);
+[PATCH] marker.setPaint(this.backgroundRangeMarkers.get(index));
+[PATCH] if(markers!= null){ if(marker == null){ throw new IllegalArgumentException(""); }
+[PATCH] marker.setStroke(this.rangeGridlineStroke);
+[PATCH] marker.setStroke(this.rangeCrosshairStroke);
+[PATCH] if(markers!= null){ if(marker == null){ return false; }
+[PATCH] markers.remove(marker);
+[PATCH] markers.remove(0, index);
+[PATCH] while(markers.size() > 0){ markers.remove(0);
+[PATCH] marker.setPaint(null); marker.setStroke(null);
+[PATCH] if(marker!= null){ if(markers == null){ throw new IllegalArgumentException(""); }
+[PATCH] marker.setStroke(this.rangeMarkerStroke);
+[PATCH] Collections.sort(markers);
+[PATCH] Validate.notNull(markers);
+[PATCH] marker.setPaint(this.rangeGridlinePaint);
+[PATCH] while(markers.size() > 1){ markers.remove(0);
+[PATCH] if(marker!= null){ if(markers.isEmpty()){ return false; }
+[PATCH] marker.setPaint(this.rangeCrosshairPaint);
+[PATCH] if(marker!= null){ if(markers == null){ markers.clear(); }
+[PATCH] marker.setPaint(this.plot.getRangeMarkerPaint());
+[PATCH] marker.setStroke(this.rangeGridlineStroke); markers.remove(0);
+[PATCH] marker.setPaint(this.foregroundRangeMarkers.get(index));
+[PATCH] marker.setPaint(null);
+[PATCH] if(markers!= null){ if(marker == null){ markers.clear(); }
+[PATCH] if(markers.isEmpty()){ if(marker == null){ return false; }
+[PATCH] marker.setPaint(this.getRangeMarkerPaint());
+[PATCH] marker.setPaint(Color.black);
+[PATCH] if(markers.isEmpty()){ if(!notify){ return false; }
+[PATCH] marker.setStroke(this.getRangeMarkerStroke(index));
+[PATCH] marker.setPaint(this.rangeRangePaint);
+[PATCH] marker.setPaint(this.rangeAxisPaint);
+[PATCH] while(markers.size() < 1){ markers.remove(0);
+[PATCH] marker.setStroke(null); marker.setPaint(null);
+[PATCH] marker.setPaint(this.backgroundDomainMarkers.get(index));
+[PATCH] if(markers.isEmpty()){ throw new IllegalArgumentException(""); }
+[PATCH] index = Math.min(index + 1, markers.size());
+[PATCH] marker.setStroke(this.rangeAreaStroke);
+[PATCH] marker.setPaint(this.rangeAreaPaint);
+[PATCH] marker.setStroke(this.rangeBarStroke);
+[PATCH] marker.setStroke(this.rangeAxisStroke);
+[PATCH] markers.clear();
+[PATCH] marker.setPaint(this.rangeOutlinePaint);
+[PATCH] marker.setStroke(this.rangeOutlineStroke);
+[PATCH] index = Math.max(0, index + 1);
+[PATCH] removeMarker(marker);
+[PATCH] markers.remove(index, marker);
+[PATCH] marker.setPaint(this.barPaint);
+[PATCH] filter(markers, new RangeMarker(index, marker));
+[PATCH] marker.setPaint(this.rangeLinePaint);
+[PATCH] Preconditions.checkNotNull(markers);
+[PATCH] marker.setPaint(Color.white);
+[PATCH] filter(markers, new RangeMarker(marker));
+[PATCH] Arrays.sort(markers);
+[PATCH] marker.setPaint(this.rangeLabelPaint);
+[PATCH] markers.remove(0, marker);
+[PATCH] marker.setPaint(this.rangeMark);
+[PATCH] markers.remove(0, index - 1);
+[PATCH] markers.remove(0, index + 1);
+[PATCH] marker.setPaint(this.axisOffset);
+[PATCH] validate(marker, index, markers.size());
+[PATCH] markers.remove(index, null);
+[PATCH] markers.remove(0, layer);
+[PATCH] marker.setPaint(Color.blue);
+[PATCH] marker.removeChangeListener(this);
+[PATCH] marker.setPaint(Color.green);
+[PATCH] markers.remove(index, layer);
+[PATCH] marker.setStroke(null);
+[PATCH] markers.remove(marker);
+[PATCH] markers.remove(index, true);
+[PATCH] markers.remove(0);
+[PATCH] markers.trim(index - 1);
+[PATCH] Validate.notEmpty(markers);
+[PATCH] removeAllAnnotations(markers);
+[PATCH] Collections.reverse(markers);
+[PATCH] marked.remove(marker);
+[PATCH] markers.add(marker);
+[PATCH] removeAllMarker(marker);
+[PATCH] markers.remove(layer);
+[PATCH] removeAll(markers);
+[PATCH] markers.trim(index);
+[PATCH] assert(markers!= null);
+[PATCH] mark(marker);
+[PATCH] filter(markers, marker);
+[PATCH] removeUnusedAnnotations(markers);
+[PATCH] markers.remove(index);
+[PATCH] removeAllMarker(markers);
+[PATCH] registry.remove(marker);
+[PATCH] index = index + 1;
+[PATCH] markAll(markers);
+[PATCH] RemoveMarker(marker);
+[PATCH] markers.clear();
+[PATCH] markers.trim();
+[PATCH] marker.clear();
+[PATCH] prune(markers);
+[PATCH] clean(markers);
+[PATCH] validation();
+[PATCH] ;
+
+);
+;

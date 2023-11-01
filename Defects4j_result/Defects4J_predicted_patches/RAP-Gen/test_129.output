@@ -1,0 +1,100 @@
+[PATCH] if(!that.isRecordType()){
+[PATCH] if(!that.isRecordType()){ return null; }
+[PATCH] if(!isFrozen ||!properties.containsKey(property)) {
+[PATCH] if(!isFrozen && that.isRecordType()){
+[PATCH] if(!isFrozen){ return getLeastSupertype(that); }
+[PATCH] if(!hasProperty(property)) {
+[PATCH] if(!isFrozen){
+[PATCH] if(!isFrozen){ return null; }
+[PATCH] if(!that.isRecordType()){ throw new IllegalArgumentException(""); }
+[PATCH] if(!JSTypeUtil.isEnumType(that)) {
+[PATCH] if(!isFrozen || that.isRecordType()){
+[PATCH] if(!isFrozen ||!hasProperty(property)) {
+[PATCH] if(that.isRecordType()){
+[PATCH] if(isFrozen && that.isRecordType()){
+[PATCH] if(!isFrozen ||!that.isRecordType()){
+[PATCH] if(JSTypeUtil.isEnumType(that)) {
+[PATCH] if(!that.isRecordType()){ return NO_TYPE; }
+[PATCH] if(!isFrozen){ throw new IllegalArgumentException(""); }
+[PATCH] if(isFrozen ||!properties.containsKey(property)) {
+[PATCH] if(isLeastSupertype(that)) {
+[PATCH] if(!that.isRecordType()){ return UNKNOWN_TYPE; }
+[PATCH] if(!isFrozen ||!fields.containsKey(property)) {
+[PATCH] if(!isFrozen ||!properties.containsAll(properties)) {
+[PATCH] if(!isFrozen||!properties.containsKey(property)) {
+[PATCH] if(!isLeastSupertype(that)) {
+[PATCH] if(!isFrozen &&!properties.containsKey(property)) {
+[PATCH] if(!hasProperty(property)|| that.isUnknownType()){
+[PATCH] if(!isNativeType(JSTypeNative.UNKNOWN_TYPE)) {
+[PATCH] if(!that.isEnumType()){
+[PATCH] if(!isEnumType() || that.isEnumType()){
+[PATCH] if(isFrozen){
+[PATCH] if(!isEquivalentTo(that)) {
+[PATCH] if(!hasProperty(property)|| that.isRecordType()){
+[PATCH] if(!isEnumType() && that.isEnumType()){
+[PATCH] if(isFrozen ||!that.isRecordType()){
+[PATCH] if(!isFrozen){ return JSType.UNSAFE_TYPE; }
+[PATCH] if(!isAssignableFrom(that)) {
+[PATCH] if(!isRecordType() && that.isRecordType()){
+[PATCH] if(!that.isRecordType()){ return this; }
+[PATCH] if(!this.isEquivalentTo(that)) {
+[PATCH] if(!that.isRecordType()){ return that; }
+[PATCH] if(!isSubTypeOf(that, RecordType.class)) {
+[PATCH] if(!NodeUtil.isObjectLitKey(that, that)) {
+[PATCH] if(!JSTypeUtil.isRecordType(that)) {
+[PATCH] if(!isFrozen &&!that.isRecordType()){
+[PATCH] if(!JSTypeUtil.isLiteralValue(that)) {
+[PATCH] if(!isEquivalentTo(that)) { return null; }
+[PATCH] if(isFrozen()){
+[PATCH] if(isNativeType(JSTypeNative.UNKNOWN_TYPE)) {
+[PATCH] if(isFrozen){ return getLeastSupertype(that); }
+[PATCH] if(!JSTypeUtil.isFrozen(that)) {
+[PATCH] if(!NodeUtil.isObjectLitKey(that, this)) {
+[PATCH] if(!that.isEnumType()){ return null; }
+[PATCH] if(!isFrozen ||!properties.containsAll(property)) {
+[PATCH] if(!isFrozen ||!properties.keySet()){
+[PATCH] if(isFrozen ||!hasProperty(property)) {
+[PATCH] if(!that.isEquivalentTo(this)) {
+[PATCH] if(!JSTypeUtil.isRegularType(that)) {
+[PATCH] if(!isObjectLitKey(that, that)) {
+[PATCH] if(!isFrozen || that.isUnknownType()){
+[PATCH] if(!isFrozen && that instanceof RecordType){
+[PATCH] if(!JSTypeUtil.isObjectLitKey(that)) {
+[PATCH] if(!isRecordType()){ return null; }
+[PATCH] if(!isImmutableType(that)) {
+[PATCH] if(!isRegularType(that)) {
+[PATCH] if(!isLeastSupertype(that)) { return null; }
+[PATCH] if(!isSimpleType(that)) {
+[PATCH] if(!that.isNominalType()){
+[PATCH] if(!isNumericType(that)) {
+[PATCH] if(!isFrozen){ return that; }
+[PATCH] if(!that.isUnknownType()){
+[PATCH] if(isFrozen || that.isRecordType()){
+[PATCH] if(isFrozen &&!that.isRecordType()){
+[PATCH] if(!isRecordType()){
+[PATCH] if(!isObjectLitKey(that)) {
+[PATCH] if(!isInferred()){ return null; }
+[PATCH] if(!isReferenceType(that)) {
+[PATCH] if(!getLeastSupertype(that)) {
+[PATCH] if(!that.isNoType()){
+[PATCH] if(!this.isNominalType()){
+[PATCH] if(!isFrozen()){
+[PATCH] if(!isRecordType(that)) {
+[PATCH] if(!isInclusiveSupertype(that)) {
+[PATCH] if(!isKnownType(that)) {
+[PATCH] if(!isEnumType()){
+[PATCH] if(!this.isRecordType()){
+[PATCH] if(!isIntersectionType(that)) {
+[PATCH] if(!isNominalType()){
+[PATCH] if(!getFrozen()){
+[PATCH] if(!isFrozen)return null;
+[PATCH] if(!isInferred()){
+[PATCH] if(!that.isObject()){
+[PATCH] if(this.isRecordType()){
+[PATCH] if(!that.isAny()){
+[PATCH] if(!isAll()){
+[PATCH] if(isSimpleType(that)) {
+[PATCH] if(!that.isAll()){
+[PATCH] if(!isFixed()){
+[PATCH] if(!isObject()){
+[PATCH] if(!isMutableType()){

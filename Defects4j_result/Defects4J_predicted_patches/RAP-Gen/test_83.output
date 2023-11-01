@@ -1,0 +1,100 @@
+[PATCH] isEquals = lhs.equals(rhs);
+[PATCH] isEquals = lhs.equals(rhs);
+[PATCH] isEquals = lhs == rhs || lhs.equals(rhs);
+[PATCH] isEquals = lhs == rhs;
+[PATCH] isEquals = rhs == null || lhs.equals(rhs);
+[PATCH] isEquals =!lhs.equals(rhs);
+[PATCH] isEquals = lhs == rhs;
+[PATCH] isEquals = rhs == lhs || lhs.equals(rhs);
+[PATCH] isEquals =(( Collection)lhs).equals(rhs);
+[PATCH] isEquals = rhs.equals(lhs);
+[PATCH] isEquals = lhs.equals(((Object[])rhs);
+[PATCH] isEquals =(( Array)lhs).equals(rhs);
+[PATCH] isEquals = lhs.equals(( Object)rhs);
+[PATCH] isEquals =(( Comparable)lhs).equals(rhs);
+[PATCH] isEquals = isEquals || lhs.equals(rhs);
+[PATCH] isEquals = lhs!= null && lhs.equals(rhs);
+[PATCH] isEquals = lhs.equals(( Object[])rhs);
+[PATCH] isEquals = lhs.getClass().isArray(rhs);
+[PATCH] isEquals = lhs.equals(rhs); return this;
+[PATCH] isEquals = lhs.equals(rhs);
+[PATCH] isEquals =(( Object)lhs).equals(rhs);
+[PATCH] isEquals = lhs.equals(rhs); << 1;
+[PATCH] isEquals = lhs.equals(rhs); -1;
+[PATCH] isEquals = equals(( Object[])lhs, rhs);
+[PATCH] isEquals =(( Object[])lhs, rhs);
+[PATCH] isEquals = false == lhs.equals(rhs);
+[PATCH] isEquals = lhs.equals(((Object)rhs);
+[PATCH] isEquals = lhs.equals(rhs); /
+[PATCH] isEquals = this.equals(lhs, rhs);
+[PATCH] isEquals = lhs.equals(rhs);!isEquals;
+[PATCH] isEquals = lhs.equals(rhs); == null;
+[PATCH] isEquals = this.equals(lhs);
+[PATCH] isEquals = lhs instanceof Object || rhs instanceof Object;
+[PATCH] isEquals = this.equals(rhs);
+[PATCH] isEquals = lhs.equals(rhs); *
+[PATCH] isEquals =!lhs.equals(rhs);
+[PATCH] isEquals = ObjectUtilities.equal(lhs, rhs);
+[PATCH] isEquals = lhs.equals(rhs); +
+[PATCH] isEquals = lhs.equals(rhs);, false;
+[PATCH] isEquals = lhs.equals(rhs); > 0;
+[PATCH] isEquals = rhs.equals(lhs);
+[PATCH] isEquals = lhs.equals(rhs);,
+[PATCH] isEquals = ensureEquals(lhs, rhs);
+[PATCH] isEquals = lhs == null || rhs == null;
+[PATCH] isEquals = null == lhs.equals(rhs);
+[PATCH] isEquals = lhs.compareTo(rhs);
+[PATCH] isEquals = lhs.equals(rhs); }
+[PATCH] isEquals =(( lhs instanceof Object)rhs);
+[PATCH] isEquals = lhs.equals(( Object)rhs);
+[PATCH] isEquals = lhs.equals(rhs); //
+[PATCH] isEquals = lhs.equals(rhs); i == 0;
+[PATCH] isEquals = false && lhs.equals(rhs);
+[PATCH] isEquals = lhs.getEquals(rhs);
+[PATCH] isEquals = lhs.equals(( Object[])rhs);
+[PATCH] isEquals = isEquals(lhs, rhs);
+[PATCH] isEquals = lhs.equals(rhs); i == null;
+[PATCH] isEquals = computeEquals(lhs, rhs);
+[PATCH] isEquals = lhs.equals(rhs); << 2;
+[PATCH] isEquals = lhs.equals(Rhs);
+[PATCH] isEquals = lhs.equals(((Object)rhs);
+[PATCH] isEquals = isEqual(lhs, rhs);
+[PATCH] isEquals = isSameType(lhs, rhs);
+[PATCH] isEquals = append(( Object[])lhs, rhs);
+[PATCH] isEquals = lhs.equals(rhs); ||
+[PATCH] isEquals = lhs == null && rhs == null;
+[PATCH] isEquals = lhs instanceof Object && rhs instanceof Object;
+[PATCH] isEquals = lhs.getName().equals(rhs);
+[PATCH] isEquals = areEquals(lhs, rhs);
+[PATCH] isEquals = lhs.equals(rhs); == false;
+[PATCH] isEquals = isAssignableFrom(lhs, rhs);
+[PATCH] isEquals = rhs == lhs;
+[PATCH] isEquals =(( lhs instanceof Object)rhs);
+[PATCH] isEquals = lhs.equals(rhs); ++;
+[PATCH] isEquals = lhs. equals(rhs);
+[PATCH] isEquals = calculateEquals(lhs, rhs);
+[PATCH] isEquals = lhs== null || rhs == null;
+[PATCH] isEquals = lhs == rhs.getClass();
+[PATCH] isEquals = findEquals(lhs, rhs);
+[PATCH] isEquals = lhs.equals(((Object[])rhs));
+[PATCH] isEquals = lhs == rhs ||(( Object[])lhs);
+[PATCH] isEquals = lhs.equals(rhs); or
+[PATCH] isEquals = lhs.equals(rhs); :
+[PATCH] isEquals = lhs.equals(((Object)rhs));
+[PATCH] isEquals = lhs.equals(rhs);
+[PATCH] isEquals = Arrays.asList(lhs);
+[PATCH] isEquals = lhs.equals(rhs); - 1;
+[PATCH] isEquals = lhs.equals(rhs;
+[PATCH] isEquals = lhs.equals(rhs); {
+[PATCH] isEquals = lhs.getequals(rhs);
+[PATCH] isEquals = lhs.equals(rhs); &&
+[PATCH] isEquals =(( Object[])lhs);
+[PATCH] isEquals = lhs.equals(rhs); |
+[PATCH] isEquals = mixin(lhs, rhs);
+[PATCH] isEquals = rhs == lhs.getClass();
+[PATCH] isEquals = lhs!= rhs;
+[PATCH] isEquals = convert(lhs, rhs);
+[PATCH] isEquals = lhs[equals(rhs);
+[PATCH] isEquals = equal(lhs, rhs);
+[PATCH] isEquals = lhs.equals("[]");
+[PATCH] isEquals = lhs.compareTo(rhs);

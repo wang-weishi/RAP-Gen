@@ -1,0 +1,100 @@
+[PATCH] if(_gotName){ if(_currentValue!= null){ return STATUS_EXPECT_NAME; }
+[PATCH] if(_gotName){ if(_name == null){ return STATUS_EXPECT_NAME; }
+[PATCH] if(_gotName){ if(_currentValue == null){ return STATUS_EXPECT_NAME; }
+[PATCH] if(_gotName){ if(_name!= null){ return STATUS_EXPECT_NAME; }
+[PATCH] if(_gotName){ if(_name.equals("")) { return STATUS_EXPECT_NAME; }
+[PATCH] if(_gotName){ if(_v == null){ return STATUS_EXPECT_NAME; }
+[PATCH] if(_gotName){ if(_currentValue!= null){ return STATUS_OK_AS_IS; }
+[PATCH] if(_gotName){ if(_v!= null){ return STATUS_EXPECT_VALUE; }
+[PATCH] if(_gotName){ if(_value!= null){ return STATUS_EXPECT_NAME; }
+[PATCH] if(_gotName){ if(_name.length() == 0){ return STATUS_EXPECT_NAME; }
+[PATCH] if(_gotName){ if(_name.equals(null)) { return STATUS_EXPECT_NAME; }
+[PATCH] if(_gotName){ if(_value!= null){ return STATUS_EXPECT_VALUE; }
+[PATCH] if(_gotName){ if(_currValue!= null){ return STATUS_EXPECT_NAME; }
+[PATCH] Object v = _value.getClass(); if(_gotName){ return STATUS_EXPECT_NAME; }
+[PATCH] if(_gotName){ if(_name.equals(""); return STATUS_EXPECT_NAME; }
+[PATCH] Object v = getValue(); if(_gotName){ return STATUS_EXPECT_NAME; }
+[PATCH] if(_index == 0){ if(_gotName){ return STATUS_EXPECT_NAME; }
+[PATCH] if(_gotName){ if(_getIndex() == 0){ return STATUS_EXPECT_NAME; }
+[PATCH] if(_currentValue!= null){ if(_gotName){ return STATUS_EXPECT_NAME; }
+[PATCH] if(_gotName){ if(_getCurrentValue()!= null){ return STATUS_EXPECT_NAME; }
+[PATCH] Object v = _value; if(_gotName){ return STATUS_EXPECT_NAME; }
+[PATCH] Object v = _value.toString(); if(_gotName){ return STATUS_EXPECT_NAME; }
+[PATCH] if(_gotName){ if(_getLastValue()!= null){ return STATUS_EXPECT_NAME; }
+[PATCH] if(_gotName){ if(_index == 0){ return STATUS_EXPECT_NAME; }
+[PATCH] if(_gotName){ if(_namespace == null){ return STATUS_EXPECT_NAME; }
+[PATCH] Object v = _currentValue; if(_gotName){ return STATUS_EXPECT_NAME; }
+[PATCH] if(_currentName!= null){ if(_gotName){ return STATUS_EXPECT_NAME; }
+[PATCH] if(_gotName){ if(_currentValue == null)return STATUS_EXPECT_NAME; }
+[PATCH] if(_gotName){ if(_name.equals("*")) { return STATUS_EXPECT_NAME; }
+[PATCH] if(_gotName){ if(_index!= 0){ return STATUS_EXPECT_NAME; }
+[PATCH] if(_gotName){ if(_name.equals("/")) { return STATUS_EXPECT_NAME; }
+[PATCH] Object v = _getCurrentValue(); if(_gotName){ return STATUS_EXPECT_NAME; }
+[PATCH] if(_gotName){ if(_keyCode == null){ return STATUS_EXPECT_NAME; }
+[PATCH] if(_gotName){ if(_name.equals(""); return STATUS_OK_AS_IS; }
+[PATCH] if(_currentName!= null){ if(_index == 0){ return STATUS_EXPECT_NAME; }
+[PATCH] Object v = _value.intValue(); if(_gotName){ return STATUS_EXPECT_NAME; }
+[PATCH] if(_gotName){ if(_name.equals("")) { return STATUS_OK_AS_IS; }
+[PATCH] if(_gotName){ if(_name.equals("{}")) { return STATUS_EXPECT_NAME; }
+[PATCH] if(_gotName){ if(_getLastChar() == '"'){ return STATUS_EXPECT_NAME; }
+[PATCH] if(_gotName){ if(_name.equals("}")) { return STATUS_EXPECT_NAME; }
+[PATCH] if(_gotName){ if(_currentValue!= null){ return STATUS_OK_AFTER_SPACE; }
+[PATCH] if(_gotName){ if(_name.equals(".")) { return STATUS_EXPECT_NAME; }
+[PATCH] if(_gotName){ if(_value!= null){ return STATUS_OK_AS_IS; }
+[PATCH] if(_gotName){ if(_name.equals("")) return STATUS_EXPECT_NAME; }
+[PATCH] if(_gotName){ if(_currentValue!= null){ return STATUS_EXPECT_VALUE; }
+[PATCH] if(_gotName){ if(_charno == null){ return STATUS_EXPECT_NAME; }
+[PATCH] if(_gotName){ return STATUS_EXPECT_NAME; }
+[PATCH] Object v = createObject(); if(_gotName){ return STATUS_EXPECT_NAME; }
+[PATCH] if(_gotName){ if(_key == null){ return STATUS_EXPECT_NAME; }
+[PATCH] if(_gotName){ if(_getIndex()!= 0){ return STATUS_EXPECT_NAME; }
+[PATCH] if(_gotName){ if(_name.equals(_currentValue)) return STATUS_EXPECT_NAME; }
+[PATCH] if(_getIndex() == 0){ if(_gotName){ return STATUS_EXPECT_NAME; }
+[PATCH] if(_gotName){ if(_cfgPrettyPrinter == null){ return STATUS_EXPECT_NAME; }
+[PATCH] if(_gotName){ if(_name[0] == '"'){ return STATUS_EXPECT_NAME; }
+[PATCH] if(_gotName){ if(_currentValue!= null)return STATUS_EXPECT_NAME; }
+[PATCH] int ix = _index; if(_gotName){ return STATUS_EXPECT_NAME; }
+[PATCH] if(_gotName){ if(_name.equals(_currentValue)) return STATUS_OK_AS_IS; }
+[PATCH] if(_gotName){ if(_token == TYPE_NAME){ return STATUS_EXPECT_NAME; }
+[PATCH] Object v = _parseObject(); if(_gotName){ return STATUS_EXPECT_NAME; }
+[PATCH] if(_gotName){ if(_child!= null){ return STATUS_EXPECT_NAME; }
+[PATCH] if(_gotName){ if(_curValue!= null){ return STATUS_EXPECT_NAME; }
+[PATCH] if(_gotName){ if(_currValue!= null){ return STATUS_OK_AS_IS; }
+[PATCH] if(_gotName){ if(_v!= null){ return STATUS_OK_AS_IS; }
+[PATCH] Object v = createValue(); if(_gotName){ return STATUS_EXPECT_NAME; }
+[PATCH] Object v = readValue(); if(_gotName){ return STATUS_EXPECT_NAME; }
+[PATCH] if(_gotName){ if(_name == null)return STATUS_EXPECT_NAME; }
+[PATCH] Object v = writeObject(); if(_gotName){ return STATUS_EXPECT_NAME; }
+[PATCH] if(_gotName){ if(_name.equals(""); return STATUS_OK_AFTER_SPACE; }
+[PATCH] Object v = getNode(); if(_gotName){ return STATUS_EXPECT_NAME; }
+[PATCH] _currentValue =(_currentValue == null)? null : _currentValue.intValue();
+[PATCH] if(_index == 0){ return STATUS_EXPECT_NAME; }
+[PATCH] if(_gotName){ if(_getLastValue()!= null){ return STATUS_EXPECT_VALUE; }
+[PATCH] if(_gotName){ if(_getCurrentValue()!= null){ return STATUS_EXPECT_VALUE; }
+[PATCH] _currentValue = _parent.writeValue(_index);
+[PATCH] Object v = getValue(); _currentValue = v;
+[PATCH] _currentValue = _parseObject();
+[PATCH] Object v = createValue(); _currentValue = v;
+[PATCH] if(_gotName){ if(_name.equals(String.valueOf(_currentValue))){ return 0; }
+[PATCH] _currentValue = _parseObject(TYPE_OBJECT);
+[PATCH] _currentValue = _deserialize(TYPE_OBJECT);
+[PATCH] _currentValue = _convertObject(v);
+[PATCH] if(_gotName){ if(_name.length() == 0 || _currentValue!= null){ return status; }
+[PATCH] _parent.writeValue(_currentValue);
+[PATCH] _currentValue = convertObject(TYPE_OBJECT);
+[PATCH] if(_gotName){ if(_currentValue!= null){ return STATUS_EXPECT_NAME;}
+[PATCH] _currentValue = deserialize(TYPE_OBJECT);
+[PATCH] _currentValue = _createObject();
+[PATCH] _currentValue = _constructObject();
+[PATCH] _currentValue = getValue();
+[PATCH] _currentValue = readValue();
+[PATCH] _currentValue = pop();
+[PATCH] _currentValue = createObject();
+[PATCH] checkLenient();
+[PATCH] super.writeValue();
+[PATCH] checkNewName();
+[PATCH] writeObject();
+[PATCH] checkState();
+);
+;
+

@@ -1,0 +1,100 @@
+[PATCH] for(int i = 0; i < thisBuf.length; i++){
+[PATCH] for(int i = 0; i < thisBuf.length - 1; i++){
+[PATCH] for(int i = 0, len = thisBuf.length; i < len; i++){
+[PATCH] for(int i = 0, size - 1; i < thisBuf.length; i++){
+[PATCH] for(int i = 0, thisBuf.length - 1; i >= 0; i++){
+[PATCH] for(int i = 0; i < thisBuf.length + 1; i++){
+[PATCH] for(int i = 0, size; i < thisBuf.length; i++){
+[PATCH] for(int i = 0; i < thisBuf.length && i < size; i++){
+[PATCH] for(int i = 0; i < thisBuf.length / 2; i++){
+[PATCH] for(int i = 0; i < thisBuf.length; i += 2){
+[PATCH] for(int i = 0, length - 1; i < thisBuf.length; i++){
+[PATCH] for(int i = 0; i <thisBuf.length; i++){
+[PATCH] for(int i = 0; i < size; i++){
+[PATCH] for(int i = 0; i < thisBuf.length(); i++){
+[PATCH] for(int i = 0; i < thisBuf.length * 2; i++){
+[PATCH] for(int i = 0; i < thisBuf.length > 0; i++){
+[PATCH] for(int i = 0; i < thisBuf.length, i++){
+[PATCH] for(int i = 0; i < thisBuf.length"; i++){
+[PATCH] for(int i = indexOf(ch, 0); i < thisBuf.length; i++){
+[PATCH] for(int i = 0; i < thisBuf.length || i < size; i++){
+[PATCH] for(int i = 0;".length; i < thisBuf.length; i++){
+[PATCH] for(int i = 0; i < thisBuf.length || i < thisBuf.length){
+[PATCH] for(int i = 0; i < thisBuf.length ; i++){
+[PATCH] for(int i = start, len = thisBuf.length; i < len; i++){
+[PATCH] for(int i = 0; i< thisBuf.length; i++){
+[PATCH] for(int i = 0, len - 1; i < thisBuf.length; i++){
+[PATCH] for(int i = 0, len -= thisBuf.length; i < len; i++){
+[PATCH] for(int i = 0; i < thisBuf.length); i++){
+[PATCH] for(int i = 0; i < thisBuf.length-1; i++){
+[PATCH] for(int i = 0; i < thisBuf.length that.size; i++){
+[PATCH] for(int i = 0, len = thisBuf.length; i < length; i++){
+[PATCH] for(int i = 0; i < buf.length; i++){
+[PATCH] for(int i = 0; i <thisBuf.length - 1; i++){
+[PATCH] for(int i = 0; i < thisBuf.length & size; i++){
+[PATCH] for(int i = 0]; i < thisBuf.length; i++){
+[PATCH] for(int i = 0 < thisBuf.length - 1; i >= 0; i++){
+[PATCH] for(int i = 0, size -= thisBuf.length; i >= 0; i++){
+[PATCH] for(int i = 0; i < theBuf.length; i++){
+[PATCH] for(int i = 0; i < thisBuf.length]; i++){
+[PATCH] for(int i = 0; i < thisBuf.length * size; i++){
+[PATCH] for(int i = 0; i < thisBuf.length >>> 1; i++){
+[PATCH] for(int i = 0;; i < thisBuf.length; i++){
+[PATCH] for(int i = 0; i < thisBuf.length || i >= size; i++){
+[PATCH] for(int i = start; i < thisBuf.length; i++){
+[PATCH] for(int i = 0 && i < thisBuf.length; i++){
+[PATCH] for(int i = 0, length; i < thisBuf.length; i++){
+[PATCH] for(int i = 0; i < thisBuf.length % size; i++){
+[PATCH] for(int i = thisBuf.length - 1; i >= 0; i++){
+[PATCH] for(int i = 0;i < thisBuf.length; i++){
+[PATCH] for(int i = 0; i < thisBuf.length0; i++){
+[PATCH] for(int i = 0; i < thisBuf.length 3; i++){
+[PATCH] for(int i = 0; i < buffer.length; i++){
+[PATCH] for(int i =0; i < thisBuf.length; i++){
+[PATCH] for(int i = 0; i <ThisBuf.length; i++){
+[PATCH] for(int i = offset; i < thisBuf.length; i++){
+[PATCH] for(int i = 0; i < thisLen.length; i++){
+[PATCH] for(int i = startIndex; i < thisBuf.length; i++){
+[PATCH] for(int i = 0; i < thisBuf.length >> 1; i++){
+[PATCH] for(int i = 0; i < thisBuf.length; ++i){
+[PATCH] for(int i = 0; i < thisBuf.length -1; i++){
+[PATCH] for(int i = 0; i < thisBuffer.length; i++){
+[PATCH] for(int i = 0; i < thisBuf.length ; i++){
+[PATCH] for(int i = 0L; i < thisBuf.length; i++){
+[PATCH] for(int i = 0; i < thisBuf.lengthf; i++){
+[PATCH] for(int i = 0;'; i < thisBuf.length; i++){
+[PATCH] for(int i = 0(); i < thisBuf.length; i++){
+[PATCH] for(int i = 0; i < THISBuf.length; i++){
+[PATCH] for(int i = 0; i < thisBuf.lengthPtr; i++){
+[PATCH] for(int i = 0 ; i < thisBuf.length; i++){
+[PATCH] for(int i = zero; i < thisBuf.length; i++){
+[PATCH] for(int i = 0; i < thisBuf.length; i += charCount){
+[PATCH] for(int i = 0); i < thisBuf.length; i++){
+[PATCH] for(int i = 0; i < thisBuf.length){
+[PATCH] for(int i = 0; i < thisBuf.length;i++){
+[PATCH] for(int i = 0; i < thatBuf.length; i++){
+[PATCH] for(int i = 0; i < thisBuf.length;'; i++){
+[PATCH] for(int i = pos; i < thisBuf.length; i++){
+[PATCH] for(int i = 0; i < thisBuf.length;; i++){
+[PATCH] for(int i = 1; i < thisBuf.length; i++){
+[PATCH] for(int i = 0; i < thisBuf.length;\ i++){
+[PATCH] for(int i = 0; i < thisBuf.length; i += 1){
+[PATCH] for(int i = 0; i < arr.length; i++){
+[PATCH] for(int i = 0; i < thisBuf.length; i++){
+[PATCH] for(int i = 0; i < buffers.length; i++){
+[PATCH] for(int i = 0; i < length; i++){
+[PATCH] for(int i = 0; i < thisBuf.length && i < thisBuf.length){
+[PATCH] for(int i = 0; i < len; i++){
+[PATCH] for(int i = 0, len = thisBuf.length; i < len; ++i){
+[PATCH] for(int i = 0; i < thisBuf.length;){
+[PATCH] for(int i = 0; i < thisBuf.length; i += charLength){
+[PATCH] for(int i = 0; i < thisBuf.length; i++){
+[PATCH] for(int i = 0; i < thisBuf.length; i += charSize){
+[PATCH] for(int i = 0, thisBuf.length - 1; i >= 0; i--){
+[PATCH] for(int i = 0; i < thisBuf.length - 1; i += 2){
+[PATCH] for(int i = 0; i < thisBuf.length; i += charLen){
+[PATCH] for(int i = 0; i < thisBuf.length - 1; i++){
+[PATCH] for(int i = 0; i < thisBuf.length : thisBuf.length){
+[PATCH] for(int i = 0, len = thisBuf.length; i < len;i++){
+[PATCH] for(int i = 0; i < thisBuf.length - 1; i++){
+[PATCH] for(int i = 0; i < thisBuf.length - 1; i++){}

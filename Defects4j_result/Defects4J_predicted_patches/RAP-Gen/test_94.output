@@ -1,0 +1,100 @@
+[PATCH] while(str.startsWith("-")) { str = str.substring(2, str.length());
+[PATCH] str = str.trim();
+[PATCH] while(str.startsWith("-")) { str = str.substring(2, str.length() -1);
+[PATCH] while(str.startsWith("-")) { str = str.substring(2, str.length());
+[PATCH] while(str.startsWith("-")) { str = str.substring(2, str.length() - 1);
+[PATCH] while(str.startsWith("-")) { str = str.substring(3, str.length());
+[PATCH] if(str.startsWith("-")) { str = str.substring(2, str.length()); }
+[PATCH] while(str.startsWith("-")) { str = str.substring(3, str.length() -1);
+[PATCH] while(str.startsWith("-")) { str = str.substring(3, str.length());
+[PATCH] while(str.startsWith("-"){ str = str.substring(2, str.length() - 1);
+[PATCH] while(str.startsWith("-")) { str = str.substring(3, str.length() - 1);
+[PATCH] while(str.startsWith("-"){ str = str.substring(2, str.length() -1);
+[PATCH] while(str.startsWith("-")) { str = str.substring(1);
+[PATCH] if(str!= null){ if(str.startsWith("-")) { return str; }
+[PATCH] while(str.startsWith("--")) { str = str.substring(2, str.length());
+[PATCH] while(str.startsWith("-")) { str = str.substring(1, str.length() -2);
+[PATCH] while(str.startsWith("")) { str = str.substring(2, str.length() - 1);
+[PATCH] while(str.startsWith("")) { str = str.substring(2, str.length() -1);
+[PATCH] while(str.startsWith("-")) { str = str.substring(1, str.length() - 2);
+[PATCH] if(str.startsWith("-")) { str = str.substring(2, str.length()); }
+[PATCH] while(str.startsWith("")) { str = str.substring(2, str.length());
+[PATCH] while(str.startsWith("-"){ str = str.substring(2, str.length());
+[PATCH] if(str!= null){ if(!str.startsWith("-")) { return str; }
+[PATCH] while(str.startsWith("-")) { str = str.substring(1, str.length());
+[PATCH] while(str.startsWith("_")) { str = str.substring(2, str.length());
+[PATCH] while(str.startsWith("-")) { str = str.substring(2, str.length() - 3);
+[PATCH] while(str.startsWith("-")) { str = str.substring(2, str.length() - 2);
+[PATCH] while(str.startsWith("-")) { str = str.substring(4, str.length());
+[PATCH] if(str!= null){ str = str.trim(); }
+[PATCH] while(str.startsWith("-")) { str = str.substring(4, str.length() -1);
+[PATCH] while(str.startsWith("-")){ str = str.substring(2, str.length() - 1);
+[PATCH] if(str.startsWith("-")) { str = str.substring(3, str.length()); }
+[PATCH] while(str.startsWith("-"){ str = str.substring(3, str.length() -1);
+[PATCH] while(str.startsWith("-"){ str = str.substring(3, str.length() - 1);
+[PATCH] while(str.startsWith("-")) { str = str.substring(1, str.length() - 1);
+[PATCH] while(str.length() > 0){ str = str.trim();
+[PATCH] while(str.startsWith("-")) { str = str.substring(1, str.length());
+[PATCH] while(str.startsWith("p")) { str = str.substring(2, str.length());
+[PATCH] while(str.length() > 0){ str = str.substring(0, 1);
+[PATCH] while(str.startsWith("-")) { str = str.substring(8, str.length());
+[PATCH] while(str.startsWith("-")){ str = str.substring(2, str.length());
+[PATCH] while(str.startsWith("-")|| str.startsWith("_")){ str = str.trim();
+[PATCH] while(Util.isWhitespace(str)) { str = str.trim();
+[PATCH] while(str.startsWith("a")) { str = str.substring(2, str.length());
+[PATCH] while(str.startsWith("_")) { str = str.substring(3, str.length());
+[PATCH] while(str.startsWith("")) { str = str.substring(1);
+[PATCH] while(str.startsWith("+")) { str = str.substring(2, str.length());
+[PATCH] while(str.startsWith("-")) { str = str.substring(4, str.length());
+[PATCH] while(str.startsWith("")) { str = str.substring(3, str.length());
+[PATCH] while(str.startsWith("-")) { str = str.substring(0, 1);
+[PATCH] if(str.startsWith("-"){ str = str.trim(); }
+[PATCH] str = str.toLowerCase();
+[PATCH] for(String str : str.split("-");
+[PATCH] while(str.startsWith("-")) { str = str.substring(2);
+[PATCH] while(str.length() > 0){ str = str.substring(0, str.length());
+[PATCH] while(Util.isEmpty(str)) { str = str.trim();
+[PATCH] if(str!= null){ if("-".equals(str)) { return str; }
+[PATCH] while(str.startsWith("-")) { str = str.substring(1);
+[PATCH] if(str.startsWith("-"){ str = str.toLowerCase(); }
+[PATCH] while(str.startsWith("-")) { str = str.substring(1, 0);
+[PATCH] while(Util.isLetterOrDigit(str)) { str = str.trim();
+[PATCH] if(str!= null){ str = str.toLowerCase(); }
+[PATCH] while(Util.isWordChar(str)) { str = str.trim();
+[PATCH] while(str.startsWith("-"){ str = str.substring(1);
+[PATCH] while(str.startsWith("_")) { str = str.substring(1);
+[PATCH] if(str!= null){ if(str.startsWith("-")) { return str; }
+[PATCH] while(str.startsWith("-")|| str.startsWith("_")){
+[PATCH] while(str.startsWith("-"){ str = str.substring(0, 1);
+[PATCH] str = stripLeadingHyphens(str, null);
+[PATCH] while(str.length() > 0){ str = str.substring(1);
+[PATCH] while(str.startsWith("-")) { str = str.substring(2);
+[PATCH] if(str.startsWith("-")|| str.startsWith("a")) {
+[PATCH] if(str.startsWith("-")) { str = str.trim(); }
+[PATCH] Preconditions.checkArgument(str!= null && str.length() > 0);
+[PATCH] if(str.startsWith("-")) { str = str.substring(2); }
+[PATCH] if(str!= null){ str = str.toLowerCase();
+[PATCH] Preconditions.checkNotNull(str);
+[PATCH] while(Util.isNumeric(str)) { str = str.trim();
+[PATCH] str = Util.stripLeadingHyphens(str);
+[PATCH] while(Util.isUpperCase(str)) { str = str.trim();
+[PATCH] while(!str.isEmpty()){ str = str.trim();
+[PATCH] if(!str.isEmpty()){ str = str.trim(); }
+[PATCH] if(str!= null){ str = str.trim();
+[PATCH] for(String str : str.split("_");
+[PATCH] str = stripLeadingHyphens(str, false);
+[PATCH] if(str!= null &&!"".equals(str)) {
+[PATCH] for(str : str.split("-");
+[PATCH] while(str.startsWith("-");
+[PATCH] Preconditions.checkArgument(str!= null);
+[PATCH] str = removeLeadingHyphens(str);
+[PATCH] str = removeHyphens(str);
+[PATCH] while(str.startsWith("");
+[PATCH] String str = str.trim();
+[PATCH] string = str.trim();
+[PATCH] if(str!= null){
+[PATCH] notEmpty(str);
+[PATCH] str =
+[PATCH] {
+[PATCH] ;
+[PATCH]

@@ -1,0 +1,100 @@
+[PATCH] if(!options.skipAllPasses &&!options.closurePass){
+[PATCH] if(!options.skipAllPasses){
+[PATCH] if(!options.skipAllPasses &&!options.canBeInitialized()){
+[PATCH] if(!options.skipAllPasses &&!options.noSanityCheck){
+[PATCH] if(!options.skipAllPasses &&!options.isIdeMode){
+[PATCH] if(!options.skipAllPasses &&!options.canBeRun){
+[PATCH] if(!options.skipAllPasses &&!options.canBeRun()){
+[PATCH] if(!options.skipAllPasses &&!options.hasInputs){
+[PATCH] if(!options.dependencyOptions.needsManagement()){
+[PATCH] if(!options.skipAllPasses &&!options.canBeInitialized){
+[PATCH] if(!options.skipAllPasses &&!options.deserializationEnabled){
+[PATCH] if(!options.skipAllPasses &&!options.inGlobalScope()){
+[PATCH] if(!options.skipAllPasses || options.closurePass){
+[PATCH] if(!options.skipAllPasses &&!options.processAllPasses){
+[PATCH] if(!options.skipAllPasses &&!options.noSanityChecks){
+[PATCH] if(!options.skipAllPasses &&!options.needActivation){
+[PATCH] if(!options.skipAllPasses &&!options.allowDuplicatePassNames){
+[PATCH] if(!options.dependencyOptions.hasExistingPassConfig()){
+[PATCH] if(!options.skipAllPasses &&!options.finished){
+[PATCH] if(!options.skipAllPasses &&!options.thirdPass){
+[PATCH] if(!options.skipAllPasses &&!options.loopsRun){
+[PATCH] if(!options.dependencyOptions.hasExistingInputs()){
+[PATCH] if(!options.skipAllPasses &&!options.canBeCalled){
+[PATCH] if(!options.skipAllPasses &&!isIdeMode()){
+[PATCH] if(!options.skipAllPasses &&!options.nonStandardInputNames){
+[PATCH] if(!options.skipAllPasses &&!options.noSuccessor){
+[PATCH] if(!options.dependencyOptions.hasExistingPassNames()){
+[PATCH] if(!options.skipAllPasses &&!options.inGlobalScope){
+[PATCH] if(!options.dependencyOptions.hasHaltingErrors()){
+[PATCH] if(!options.skipAllPasses &&!inputs.isEmpty()){
+[PATCH] if(!options.skipAllPasses &&!options.noInputs){
+[PATCH] if(!options.skipAllPasses &&!options.sideFirstPass){
+[PATCH] if(!options.skipAllPasses &&!options.isInline()){
+[PATCH] if(!options.dependencyOptions.hasExistingPass()){
+[PATCH] if(!options.skipAllPasses &&!options.nonStandardInputTypes){
+[PATCH] if(!options.skipAllPasses &&!options.couldBeInitialized()){
+[PATCH] if(!options.skipAllPasses &&!options.nonStandardInputs){
+[PATCH] if(!options.skipAllPasses &&!options.actualInputCount){
+[PATCH] if(!options.skipAllPasses ||!options.closurePass){
+[PATCH] if(!options.compilerOptions.hasHaltingErrors()){
+[PATCH] if(!options.skipAllPasses &&!options.unitTest){
+[PATCH] if(!options.skipAllPasses &&!options.finish){
+[PATCH] if(!options.skipAllPasses &&!options.wellKnownInputs){
+[PATCH] if(!options.skipAllPasses &&!options.requiresActivation){
+[PATCH] if(!options.skipAllPasses &&!options.shouldPreserveInputs){
+[PATCH] if(!options.dependencyOptions.hasExistingPasses()){
+[PATCH] if(!options.skipAllPasses &&!options.yes){
+[PATCH] if(!options.skipAllPasses &&!options.withInputs){
+[PATCH] if(!options.skipAllPasses &&!options.needsManagement){
+[PATCH] if(!options.skipAllPasses &&!options.lostInput){
+[PATCH] if(!options.skipAllPasses &&!options.cannotBeInitialized){
+[PATCH] if(!options. dependencyOptions.hasExistingPassConfig()){
+[PATCH] if(!options. dependencyOptions.hasHaltingErrors()){
+[PATCH] if(!options.skipAllPasses &&!options.conventionalMode){
+[PATCH] if(!options. dependencyOptions.hasExistingPassNames()){
+[PATCH] if(!options.skipAllPasses &&!options.hasErrors){
+[PATCH] if(!options.skipAllPasses &&!isIdeMode){
+[PATCH] if(!options.skipAllPasses &&!options.canBeUseful){
+[PATCH] if(!options. dependencyOptions.needsManagement()){
+[PATCH] if(!options.skipAllPasses &&!options.canBeSet()){
+[PATCH] if(!options.compilerOptions.hasExistingInputs()){
+[PATCH] if(!options.skipAllPasses &&!options.jsOutput){
+[PATCH] if(!options.skipAllPasses &&!options.conventionalOnly){
+[PATCH] if(!options.skipAllPasses &&!options.sideOfMethod){
+[PATCH] if(!options. dependencyOptions.hasExistingPasses()){
+[PATCH] if(!options.skipAllPasses &&!options.needToRun){
+[PATCH] if(!options.dependencyOptions.hasExistingPassDefinition()){
+[PATCH] if(!options. dependencyOptions.hasExistingPass()){
+[PATCH] if(!options. dependencyOptions.hasExistingInputs()){
+[PATCH] if(!options.dependencyOptions.hasInputs()){
+[PATCH] if(!options.noInputs){
+[PATCH] if(!options.compilerOptions.hasErrors()){
+[PATCH] if(!options.inputGroup.isEmpty()){
+[PATCH] if(!options.compilerOptions.hasInputs()){
+[PATCH] if(!options.inputNames.isEmpty()){
+[PATCH] if(!options.intermediateState.finished()){
+[PATCH] if(!options. dependencyOptions.hasInputs()){
+[PATCH] if(inputs!= null){
+[PATCH] if(!options.dependencyOptions.hasServices()){
+[PATCH] if(!options.inputRunner.hasInputs()){
+[PATCH] if(!options.compilerEnv.isExtern()){
+[PATCH] if(!options.inputs.isEmpty()){
+[PATCH] if(!options.inputGraph.isEmpty()){
+[PATCH] if(!options.inputStore.isEmpty()){
+[PATCH] if(!options.inputPath.isEmpty()){
+[PATCH] if(!options.unitTest){
+[PATCH] if(options.dependencyOptions.needsManagement()){
+[PATCH] if(!options.dependencyOptions.hasProvides()){
+[PATCH] if(!options.inputZone.isEmpty()){
+[PATCH] if(!options.inputScope.isGlobal()){
+[PATCH] if(!inputs.isEmpty()){
+[PATCH] if(options.dependencyOptions.hasProvides()){
+[PATCH] if(!options.ignorableInputs){
+[PATCH] if(!options.ignoreAllPasses){
+[PATCH] if(!options.noSanityCheck){
+[PATCH] if(options.dependencyOptions.hasInputs()){
+[PATCH] if(!options.unitTestAllPasses){
+[PATCH] if(!options.nonStandardInputs){
+[PATCH] if(!options.deserializationEnabled){
+[PATCH] if(!options.unitTestAllInputs){

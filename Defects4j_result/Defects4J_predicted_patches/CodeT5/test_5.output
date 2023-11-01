@@ -1,0 +1,100 @@
+[PATCH] return"title=\"" + toolTipText
+[PATCH] return" title=\"" + toolTipText
+[PATCH] returntoolTipText +" title=\"" + toolTipText
+[PATCH] returntoolTipText +" title=\"" + this.title
+[PATCH] return"title=\"" + this.toolTipText
+[PATCH] returntoolTipText +": title=\"" + toolTipText
+[PATCH] return toolTipText +" title=\"" + this.title
+[PATCH] returntoolTipText +" title=\"" + toolTipText
+[PATCH] return"title=\" + toolTipText
+[PATCH] returntoolTipText=" title=\"" + toolTipText
+[PATCH] return"alt=\"\"" + toolTipText
+[PATCH] return"Title=\"" + toolTipText
+[PATCH] returntoolTipText="title=\"" + toolTipText
+[PATCH] returntoolTipText ||"title=\"" + toolTipText
+[PATCH] return"toolTiptext=\"" + toolTipText
+[PATCH] returntoolTipText=\"" + toolTipText
+[PATCH] returntoolTipText +" title=\"\"" + toolTipText
+[PATCH] returntoolTipText ="title=\"" + toolTipText
+[PATCH] return"title=\"" + toolTipText : toolTipText
+[PATCH] return"title=\"" + toolTipText;
+[PATCH] returntoolTipText :" title=\"" + toolTipText
+[PATCH] returntoolTipText:" title=\"" + toolTipText
+[PATCH] return"toolTip text=\"" + toolTipText
+[PATCH] returntoolTipText +=" title=\"" + toolTipText
+[PATCH] returntoolTipText" title=\"" + toolTipText
+[PATCH] return"alt=\"" + toolTipText
+[PATCH] returntoolTipText +"title=\"" + toolTipText
+[PATCH] return" title=\"" + this.toolTipText
+[PATCH] returntoolTipText :"title=\"" + toolTipText
+[PATCH] return" toolTiptext=\"" + toolTipText
+[PATCH] return"title=\"" + toolTipText this.toolTipText
+[PATCH] return"data-title=\"" + toolTipText
+[PATCH] return" toolTipText=\"" + toolTipText
+[PATCH] return"title=\"" + toolTipText
+[PATCH] return" alt=\"\"" + toolTipText
+[PATCH] return toolTipText +": title=\"" + toolTipText
+[PATCH] return"titles=\"" + toolTipText
+[PATCH] return"' title=\"" + toolTipText
+[PATCH] return"title=\"+" + toolTipText
+[PATCH] returntoolTipText \"" + toolTipText
+[PATCH] return"toolTipText=\"" + toolTipText
+[PATCH] return" toolTip text=\"" + toolTipText
+[PATCH] return"ToolTip=\"" + toolTipText
+[PATCH] returntoolTipText+" title=\"" + toolTipText
+[PATCH] returntoolTipText +":" + toolTipText
+[PATCH] return" tooltip=\"" + toolTipText
+[PATCH] return" tooltip=\"" + toolTipText
+[PATCH] return"ToolTip text=\"" + toolTipText
+[PATCH] returntoolTipText +" title=\"" + this.title
+[PATCH] returntoolTipText +": title=\"" + this.title
+[PATCH] return"<title=\"" + toolTipText
+[PATCH] return"title=\"" + toolTipText
+[PATCH] return"alt=\"" + toolTipText
+[PATCH] return"" + toolTipText
+[PATCH] return"%s title=\"" + toolTipText
+[PATCH] return"tooltip=\"" + toolTipText
+[PATCH] return toolTipText +" title=\"" + this.title
+[PATCH] returntoolTipText == null?"" : toolTipText;
+[PATCH] return"title=" + toolTipText +
+[PATCH] return" title=\"" + toolTipText
+[PATCH] return"title=\"" + toolTipText ||"";
+[PATCH] return" alt=\"" + toolTipText
+[PATCH] return"title=\"" + toolTipText : toolTipText;
+[PATCH] return" ToolTip text=\"" + toolTipText
+[PATCH] return toolTipText +": title=\"" + this.title
+[PATCH] return">>" + toolTipText
+[PATCH] return" alt=\"" + toolTipText
+[PATCH] return"'title=\"" + toolTipText
+[PATCH] return" title=\" + toolTipText
+[PATCH] return"title=\"\"" + toolTipText
+[PATCH] return"\ttitle=\"" + toolTipText
+[PATCH] return" Title=\"" + toolTipText
+[PATCH] return"title=\"" + toolTipText+"\" alt=\"" +
+[PATCH] return"title=" + toolTipText
+[PATCH] return"\ntitle=\"" + toolTipText
+[PATCH] return"ToolTip=\"" + toolTipText
+[PATCH] return"#title=\"" + toolTipText
+[PATCH] return"label=\"" + toolTipText
+[PATCH] return"title=\"" + toolTipText }
+[PATCH] return": title=\"" + toolTipText
+[PATCH] returntoolTipText?"title=\"" + toolTipText
+[PATCH] return"{title=\"" + toolTipText
+[PATCH] return"alt=\"'" + toolTipText
+[PATCH] return"id=\"" + toolTipText
+[PATCH] return"title=\"" + toolTipText,
+[PATCH] return"Tip=\"" + toolTipText
+[PATCH] return" title=\"" + toolTipText;
+[PATCH] return"name=\"" + toolTipText
+[PATCH] return"alt=\"+" + toolTipText
+[PATCH] return"title\"" + toolTipText
+[PATCH] return"ToolTip=\"" + toolTipText
+[PATCH] return"alt=\"#" + toolTipText
+[PATCH] return"tab=\" + toolTipText
+[PATCH] return"title=\"" + toolTipText()
+[PATCH] return"title \"" + toolTipText
+[PATCH] return"TITLE=\"" + toolTipText
+[PATCH] return"title=\"" + toolTipText text
+[PATCH] return"itle=\"" + toolTipText
+[PATCH] return" setTitle=\"" + toolTipText
+[PATCH] return"text=\"" + toolTipText

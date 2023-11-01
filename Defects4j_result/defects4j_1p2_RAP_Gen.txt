@@ -1,0 +1,858 @@
+Chart_1_AbstractCategoryItemRenderer_1_1 
+source/org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.java 1797
+
+Buggy Line:
+if (dataset != null) {
+
+Developer's Fix:
+if (dataset == null) {
+
+[success] RAP-Gen's Repair:
+if(dataset == null){
+************************************************************************************************************************
+Chart_7_TimePeriodValues_2_1
+source/org/jfree/data/time/TimePeriodValues.java 300
+
+Buggy Line:
+long s = getDataItem(this.minMiddleIndex).getPeriod().getStart().getTime();
+
+Developer's Fix:
+long s = getDataItem(this.maxMiddleIndex).getPeriod().getStart().getTime();
+
+[success] RAP-Gen's Repair:
+long s = getDataItem(this.maxMiddleIndex).getPeriod().getStart().getTime();
+************************************************************************************************************************
+Chart_7_TimePeriodValues_2_2
+source/org/jfree/data/time/TimePeriodValues.java 302
+
+Buggy Line:
+long e = getDataItem(this.minMiddleIndex).getPeriod().getEnd().getTime();
+
+Developer's Fix:
+long e = getDataItem(this.maxMiddleIndex).getPeriod().getEnd().getTime();
+
+[success] RAP-Gen's Repair:
+long e = getDataItem(this.maxMiddleIndex).getPeriod().getEnd().getTime();
+************************************************************************************************************************
+Chart_8_Week_1_1
+source/org/jfree/data/time/Week.java 175 
+
+Buggy Line:
+this(time, RegularTimePeriod.DEFAULT_TIME_ZONE, Locale.getDefault());
+
+Developer's Fix:
+this(time, zone, Locale.getDefault());
+
+[success] RAP-Gen's Repair:
+this(time, zone, Locale.getDefault());
+************************************************************************************************************************
+Chart_9_TimeSeries_1_1
+source/org/jfree/data/time/TimeSeries.java 944
+
+Buggy Line:
+if (endIndex < 0) {
+
+Developer's Fix:
+if ((endIndex < 0)  || (endIndex < startIndex)) {
+
+[success] RAP-Gen's Repair:
+if(endIndex < 0 || startIndex > endIndex){
+************************************************************************************************************************
+Chart_11_ShapeUtilities_1_1
+source/org/jfree/chart/util/ShapeUtilities.java 275
+
+Buggy Line:
+PathIterator iterator2 = p1.getPathIterator(null);
+
+Developer's Fix:
+PathIterator iterator2 = p2.getPathIterator(null);
+
+[success] RAP-Gen's Repair:
+PathIterator iterator2 = p2.getPathIterator(null);
+************************************************************************************************************************
+Chart_12_MultiplePiePlot_1_1
+source/org/jfree/chart/plot/MultiplePiePlot.java 145
+
+Buggy Line:
+this.dataset = dataset;
+
+Developer's Fix:
+setDataset(dataset);
+
+[success] RAP-Gen's Repair:
+setDataset(dataset);
+************************************************************************************************************************
+[Uniquely repaired bug] Chart_16_DefaultIntervalCategoryDataset_2_2
+source/org/jfree/data/category/DefaultIntervalCategoryDataset.java 338
+
+Buggy Line:
+if (categoryKeys.length != this.startData[0].length) {
+
+Developer's Fix:
+if (categoryKeys.length != getCategoryCount()) {
+
+[success] RAP-Gen's Repair:
+if(categoryKeys.length!= getCategoryCount()){
+************************************************************************************************************************
+Chart_20_ValueMarker_1_1
+source/org/jfree/chart/plot/ValueMarker.java 95
+
+Buggy Line:
+super(paint, stroke, paint, stroke, alpha);
+
+Developer's Fix:
+super(paint, stroke, outlinePaint, outlineStroke, alpha);
+
+[success] RAP-Gen's Repair:
+super(paint, stroke, outlinePaint, outlineStroke, alpha);
+************************************************************************************************************************
+Math_5_Complex_1_1
+src/main/java/org/apache/commons/math3/complex/Complex.java 305
+
+Buggy Line:
+return NaN;
+
+Developer's Fix:
+return INF;
+
+[success] RAP-Gen's Repair:
+return INF;
+************************************************************************************************************************
+Math_22_FDistribution_1_1
+src/main/java/org/apache/commons/math3/distribution/FDistribution.java 275
+
+Buggy Line:
+return true;
+
+Developer's Fix:
+return false;
+
+[success] RAP-Gen's Repair:
+return false;
+************************************************************************************************************************
+Math_22_UniformRealDistribution_1_1
+src/main/java/org/apache/commons/math3/distribution/UniformRealDistribution.java 184
+
+Buggy Line:
+return false;
+
+Developer's Fix:
+return true;
+
+[success] RAP-Gen's Repair:
+return true;
+************************************************************************************************************************
+Math_30_MannWhitneyUTest_1_1
+src/main/java/org/apache/commons/math3/stat/inference/MannWhitneyUTest.java 173
+
+Buggy Line:
+final int n1n2prod = n1 * n2;
+
+Developer's Fix:
+final double n1n2prod = n1 * n2;
+
+[success] RAP-Gen's Repair:
+final double n1n2prod = n1 * n2;
+************************************************************************************************************************
+Math_34_ListPopulation_1_1
+src/main/java/org/apache/commons/math3/genetics/ListPopulation.java 209
+
+Buggy Line:
+return chromosomes.iterator();
+
+Developer's Fix:
+return getChromosomes().iterator();
+
+[success] RAP-Gen's Repair:
+return getChromosomes().iterator();
+************************************************************************************************************************
+[Uniquely repaired bug] Math_35_ElitisticListPopulation_2_1
+src/main/java/org/apache/commons/math3/genetics/ElitisticListPopulation.java 51
+
+Buggy Line:
+this.elitismRate = elitismRate;
+
+Developer's Fix:
+setElitismRate(elitismRate);
+
+[success] RAP-Gen's Repair:
+setElitismRate(elitismRate);
+************************************************************************************************************************
+[Uniquely repaired bug] Math_35_ElitisticListPopulation_2_2
+src/main/java/org/apache/commons/math3/genetics/ElitisticListPopulation.java 65
+
+Buggy Line:
+this.elitismRate = elitismRate;
+
+Developer's Fix:
+setElitismRate(elitismRate);
+
+[success] RAP-Gen's Repair:
+setElitismRate(elitismRate);
+************************************************************************************************************************
+Math_41_Variance_1_1
+src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java 520
+
+Buggy Line:
+for (int i = 0; i < weights.length; i++) {
+
+Developer's Fix:
+for (int i = begin; i < begin + length; i++) {
+
+[success] RAP-Gen's Repair:
+for(int i = begin; i < begin + length; i++){
+************************************************************************************************************************
+Math_49_OpenMapRealVector_4_1
+src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java 345
+
+Buggy Line:
+Iterator iter = res.entries.iterator();
+
+Developer's Fix:
+Iterator iter = entries.iterator();
+
+[success] RAP-Gen's Repair:
+Iterator iter = entries.iterator();
+************************************************************************************************************************
+Math_49_OpenMapRealVector_4_2
+src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java 358
+
+Buggy Line:
+Iterator iter = res.entries.iterator();
+
+Developer's Fix:
+Iterator iter = entries.iterator();
+
+[success] RAP-Gen's Repair:
+Iterator iter = entries.iterator();
+************************************************************************************************************************
+Math_49_OpenMapRealVector_4_3
+src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java 370
+
+Buggy Line:
+Iterator iter = res.entries.iterator();
+
+Developer's Fix:
+Iterator iter = entries.iterator();
+
+[success] RAP-Gen's Repair:
+Iterator iter = entries.iterator();
+************************************************************************************************************************
+Math_49_OpenMapRealVector_4_4
+src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java 383
+
+Buggy Line:
+Iterator iter = res.entries.iterator();
+
+Developer's Fix:
+Iterator iter = entries.iterator();
+
+[success] RAP-Gen's Repair:
+Iterator iter = entries.iterator();
+************************************************************************************************************************
+Math_57_KMeansPlusPlusClusterer_1_1
+src/main/java/org/apache/commons/math/stat/clustering/KMeansPlusPlusClusterer.java 175
+
+Buggy Line:
+int sum = 0;
+
+Developer's Fix:
+double sum = 0;
+
+[success] RAP-Gen's Repair:
+double sum = 0;
+************************************************************************************************************************
+[Uniquely repaired bug] Math_67_MultiStartUnivariateRealOptimizer_2_1
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java 92
+
+Buggy Line:
+return optimizer.getFunctionValue();
+
+Developer's Fix:
+return optimaValues[0];
+
+[success] RAP-Gen's Repair:
+return optimaValues[0];
+************************************************************************************************************************
+Math_70_BisectionSolver_1_1
+src/main/java/org/apache/commons/math/analysis/solvers/BisectionSolver.java 72
+
+Buggy Line:
+return solve(min, max);
+
+Developer's Fix:
+return solve(f, min, max);
+
+[success] RAP-Gen's Repair:
+return solve(f, min, max);
+************************************************************************************************************************
+Math_72_BrentSolver_2_1
+src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 115
+
+Buggy Line:
+setResult(yMin, 0);
+
+Developer's Fix:
+setResult(min, 0);
+
+[success] RAP-Gen's Repair:
+setResult(min, 0);
+************************************************************************************************************************
+Math_72_BrentSolver_2_2
+src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 127
+
+Buggy Line:
+setResult(yMax, 0);
+
+Developer's Fix:
+setResult(max, 0);
+
+[success] RAP-Gen's Repair:
+setResult(max, 0);
+************************************************************************************************************************
+Math_75_Frequency_1_1
+src/main/java/org/apache/commons/math/stat/Frequency.java 303
+
+Buggy Line:
+return getCumPct((Comparable<?>) v);
+
+Developer's Fix:
+return getPct((Comparable<?>) v);
+
+[success] RAP-Gen's Repair:
+return getPct(( Comparable<?>)v);
+************************************************************************************************************************
+Math_77_ArrayRealVector_1_1
+src/main/java/org/apache/commons/math/linear/ArrayRealVector.java 721
+
+Buggy Line:
+max += Math.max(max, Math.abs(a));
+
+Developer's Fix:
+max = Math.max(max, Math.abs(a));
+
+[success] RAP-Gen's Repair:
+max = Math.max(max, Math.abs(a));
+************************************************************************************************************************
+[Uniquely repaired bug] Math_77_OpenMapRealVector_1_1
+src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java 498
+
+Buggy Line:
+public double getLInfNorm() { double max = 0; Iterator iter = entries.iterator(); while (iter.hasNext()) { iter.advance(); max += iter.value(); } return max; }
+
+Developer's Fix:
+[Delete]
+
+[success] RAP-Gen's Repair:
+[Delete] or ;
+************************************************************************************************************************
+Math_79_MathUtils_2_1
+src/main/java/org/apache/commons/math/util/MathUtils.java 1624
+
+Buggy Line:
+int sum = 0;
+
+Developer's Fix:
+double sum = 0;
+
+[success] RAP-Gen's Repair:
+double sum = 0;
+************************************************************************************************************************
+Math_79_MathUtils_2_2
+src/main/java/org/apache/commons/math/util/MathUtils.java 1626
+
+Buggy Line:
+final int dp = p1[i] - p2[i];
+
+Developer's Fix:
+final double dp = p1[i] - p2[i];
+
+[success] RAP-Gen's Repair:
+final double dp = p1[i] - p2[i];
+************************************************************************************************************************
+Math_80_EigenDecompositionImpl_1_1
+src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java 1135
+
+Buggy Line:
+int j = 4 * n - 1;
+
+Developer's Fix:
+int j = 4 * (n - 1);
+
+[success] RAP-Gen's Repair:
+int j = 4 *(n - 1);
+************************************************************************************************************************
+Math_98_BigMatrixImpl_1_1
+src/java/org/apache/commons/math/linear/BigMatrixImpl.java 991
+
+Buggy Line:
+final BigDecimal[] out = new BigDecimal[v.length];
+
+Developer's Fix:
+final BigDecimal[] out = new BigDecimal[nRows];
+
+[success] RAP-Gen's Repair:
+final BigDecimal[] out = new BigDecimal[nRows];
+************************************************************************************************************************
+Math_98_RealMatrixImpl_1_1
+src/java/org/apache/commons/math/linear/RealMatrixImpl.java 779
+
+Buggy Line:
+final double[] out = new double[v.length];
+
+Developer's Fix:
+final double[] out = new double[nRows];
+
+[success] RAP-Gen's Repair:
+final double[] out = new double[nRows];
+************************************************************************************************************************
+Math_104_Gamma_1_1
+src/java/org/apache/commons/math/special/Gamma.java 37
+
+Buggy Line:
+private static final double DEFAULT_EPSILON = 10e-9;
+
+Developer's Fix:
+private static final double DEFAULT_EPSILON = 10e-15;
+
+[success] RAP-Gen's Repair:
+private static final double DEFAULT_EPSILON = 10e-15;
+************************************************************************************************************************
+Lang_6_CharSequenceTranslator_1_1
+src/main/java/org/apache/commons/lang3/text/translate/CharSequenceTranslator.java 95
+
+Buggy Line:
+pos += Character.charCount(Character.codePointAt(input, pos));
+
+Developer's Fix:
+pos += Character.charCount(Character.codePointAt(input, pt));
+
+[success] RAP-Gen's Repair:
+pos += Character.charCount(Character.codePointAt(input, pt));
+************************************************************************************************************************
+Lang_7_NumberUtils_1_1
+src/main/java/org/apache/commons/lang3/math/NumberUtils.java 452
+
+Buggy Line:
+if (str.startsWith("--")) { return null; }
+
+Developer's Fix:
+
+[success] RAP-Gen's Repair:
+[Delete] or ;
+************************************************************************************************************************
+[Uniquely repaired bug] Lang_10_FastDateParser_1_1
+src/main/java/org/apache/commons/lang3/time/FastDateParser.java 304
+
+Buggy Line:
+boolean wasWhite= false; if(Character.isWhitespace(c)) { if(!wasWhite) { wasWhite= true; regex.append("\\\\\\\\s*+"); } continue; } wasWhite= false;
+
+Developer's Fix:
+[Delete]
+
+[success] RAP-Gen's Repair:
+[Delete] or ;
+************************************************************************************************************************
+Lang_26_FastDateFormat_1_1
+src/main/java/org/apache/commons/lang3/time/FastDateFormat.java 820
+
+Buggy Line:
+Calendar c = new GregorianCalendar(mTimeZone);
+
+Developer's Fix:
+Calendar c = new GregorianCalendar(mTimeZone, mLocale);
+
+[success] RAP-Gen's Repair:
+Calendar c = new GregorianCalendar(mTimeZone, mLocale);
+************************************************************************************************************************
+Lang_29_SystemUtils_1_1
+src/main/java/org/apache/commons/lang3/SystemUtils.java 1672
+
+Buggy Line:
+static float toJavaVersionInt(String version) {
+
+Developer's Fix:
+static int toJavaVersionInt(String version) {
+
+[success] RAP-Gen's Repair:
+static int toJavaVersionInt(String version){
+************************************************************************************************************************
+[Uniquely repaired bug] Lang_34_ToStringStyle_2_1
+src/main/java/org/apache/commons/lang3/builder/ToStringStyle.java 148
+
+Buggy Line:
+return REGISTRY.get() != null ? REGISTRY.get() : Collections.<Object, Object>emptyMap();
+
+Developer's Fix:
+return REGISTRY.get();
+
+[success] RAP-Gen's Repair:
+return REGISTRY.get();
+************************************************************************************************************************
+Lang_34_ToStringStyle_2_2
+src/main/java/org/apache/commons/lang3/builder/ToStringStyle.java 164
+
+Buggy Line:
+return m.containsKey(value);
+
+Developer's Fix:
+return m != null && m.containsKey(value);
+
+[success] RAP-Gen's Repair:
+return m!= null && m.containsKey(value);
+************************************************************************************************************************
+[Uniquely repaired bug] Lang_35_ArrayUtils_2_1
+src/main/java/org/apache/commons/lang3/ArrayUtils.java 3295
+
+Buggy Line:
+type = Object.class;
+
+Developer's Fix:
+throw new IllegalArgumentException("Arguments cannot both be null");
+
+[success] RAP-Gen's Repair:
+throw new IllegalArgumentException("");
+************************************************************************************************************************
+Lang_51_BooleanUtils_1_1
+src/java/org/apache/commons/lang/BooleanUtils.java 682
+
+Buggy Line:
+
+Developer's Fix:
+return false;
+
+[success] RAP-Gen's Repair:
+return false;
+************************************************************************************************************************
+[Uniquely repaired bug] Lang_52_StringEscapeUtils_1_1
+src/java/org/apache/commons/lang/StringEscapeUtils.java 236
+
+Buggy Line:
+
+Developer's Fix:
+case '/': out.write('\\'); out.write('/'); break;
+
+[success] RAP-Gen's Repair:
+case '/': out.write('\\'); out.write('/'); break;
+************************************************************************************************************************
+Lang_57_LocaleUtils_1_1
+src/java/org/apache/commons/lang/LocaleUtils.java 223
+
+Buggy Line:
+return cAvailableLocaleSet.contains(locale);
+
+Developer's Fix:
+return availableLocaleList().contains(locale);
+
+[success] RAP-Gen's Repair:
+return availableLocaleList().contains(locale);
+************************************************************************************************************************
+Lang_60_StrBuilder_2_2
+src/java/org/apache/commons/lang/text/StrBuilder.java 1730
+
+Buggy Line:
+for (int i = startIndex; i < thisBuf.length; i++)
+
+Developer's Fix:
+for (int i = startIndex; i < size; i++) {
+
+[success] RAP-Gen's Repair:
+for(int i = startIndex; i < size; i++){
+************************************************************************************************************************
+Closure_11_TypeCheck_1_1
+src/com/google/javascript/jscomp/TypeCheck.java 1314
+
+Buggy Line:
+} else if (n.getJSType() != null && parent.isAssign()) { return;
+
+Developer's Fix:
+[Delete]
+
+[success] RAP-Gen's Repair:
+[Delete] or ;
+************************************************************************************************************************
+Closure_18_Compiler_1_1
+src/com/google/javascript/jscomp/Compiler.java 1288
+
+Buggy Line:
+if (options.dependencyOptions.needsManagement() && options.closurePass) {
+
+Developer's Fix:
+if (options.dependencyOptions.needsManagement()) {
+
+[success] RAP-Gen's Repair:
+if(options.dependencyOptions.needsManagement()){
+************************************************************************************************************************
+[Uniquely repaired bug] Closure_19_ChainableReverseAbstractInterpreter_1_1
+src/com/google/javascript/jscomp/type/ChainableReverseAbstractInterpreter.java 172
+
+Buggy Line:
+
+Developer's Fix:
+case Token.THIS: break;
+
+[success] RAP-Gen's Repair:
+case Token.THIS: break;
+************************************************************************************************************************
+Closure_46_RecordType_1_1
+src/com/google/javascript/rhino/jstype/RecordType.java 140
+
+Buggy Line:
+if (!that.isRecordType()) { return super.getLeastSupertype(that); } RecordTypeBuilder builder = new RecordTypeBuilder(registry); for (String property : properties.keySet()) { if (that.toMaybeRecordType().hasProperty(property) && that.toMaybeRecordType().getPropertyType(property).isEquivalentTo( getPropertyType(property))) { builder.addProperty(property, getPropertyType(property), getPropertyNode(property)); } } return builder.build(); }
+
+Developer's Fix:
+[Delete]
+
+[success] RAP-Gen's Repair:
+[Delete] or ;
+************************************************************************************************************************
+Closure_57_ClosureCodingConvention_1_1
+src/com/google/javascript/jscomp/ClosureCodingConvention.java 197
+
+Buggy Line:
+if (target != null) {
+
+Developer's Fix:
+if (target != null && target.getType() == Token.STRING) {
+
+[success] RAP-Gen's Repair:
+if(target!= null && target.getType() == Token.STRING){
+************************************************************************************************************************
+[Uniquely repaired bug] Closure_65_CodeGenerator_1_1
+src/com/google/javascript/jscomp/CodeGenerator.java 1015
+
+Buggy Line:
+case '\0': sb.append("\\0"); break;
+
+Developer's Fix:
+case '\0': sb.append("\\000"); break;
+
+[success] RAP-Gen's Repair:
+case '\0': sb.append("\\000"); break;
+************************************************************************************************************************
+Closure_70_TypedScopeCreator_1_1
+src/com/google/javascript/jscomp/TypedScopeCreator.java 1745
+
+Buggy Line:
+jsDocParameter.getJSType(), true);
+
+Developer's Fix:
+jsDocParameter.getJSType(), false);
+
+[success] RAP-Gen's Repair:
+jsDocParameter.getJSType(), false);
+************************************************************************************************************************
+Closure_73_CodeGenerator_1_1
+src/com/google/javascript/jscomp/CodeGenerator.java 1045
+
+Buggy Line:
+if (c > 0x1f && c <= 0x7f) {
+
+Developer's Fix:
+if (c > 0x1f && c < 0x7f) {
+
+[success] RAP-Gen's Repair:
+if(c > 0x1f && c < 0x7f){
+************************************************************************************************************************
+Closure_75_NodeUtil_2_2
+src/com/google/javascript/jscomp/NodeUtil.java 375
+
+Buggy Line:
+return TernaryValue.TRUE;
+
+Developer's Fix:
+return TernaryValue.UNKNOWN;
+
+[success] RAP-Gen's Repair:
+return TernaryValue.UNKNOWN;
+************************************************************************************************************************
+[Uniquely repaired bug] Closure_77_CodeGenerator_1_1
+src/com/google/javascript/jscomp/CodeGenerator.java 966
+
+Buggy Line:
+
+Developer's Fix:
+case '\0': sb.append("\\0"); break;
+
+[success] RAP-Gen's Repair:
+case '\0': sb.append("\\0"); break;
+************************************************************************************************************************
+Closure_79_Normalize_1_1
+src/com/google/javascript/jscomp/Normalize.java 122
+
+Buggy Line:
+.traverse(root);
+
+Developer's Fix:
+.traverseRoots(externs, root);
+
+[success] RAP-Gen's Repair:
+.traverseRoots(externs, root);
+************************************************************************************************************************
+Closure_79_VarCheck_1_1
+src/com/google/javascript/jscomp/VarCheck.java 221
+
+Buggy Line:
+
+Developer's Fix:
+compiler.reportCodeChange();
+
+[success] RAP-Gen's Repair:
+compiler.reportCodeChange();
+************************************************************************************************************************
+Closure_86_NodeUtil_1_1
+src/com/google/javascript/jscomp/NodeUtil.java 2465
+
+Buggy Line:
+return true;
+
+Developer's Fix:
+return false;
+
+[success] RAP-Gen's Repair:
+return false;
+************************************************************************************************************************
+Closure_92_ProcessClosurePrimitives_1_1
+src/com/google/javascript/jscomp/ProcessClosurePrimitives.java 789
+
+Buggy Line:
+int indexOfDot = namespace.indexOf('.');
+
+Developer's Fix:
+int indexOfDot = namespace.lastIndexOf('.');
+
+[success] RAP-Gen's Repair:
+int indexOfDot = namespace.lastIndexOf('.');
+************************************************************************************************************************
+Closure_104_UnionType_1_1
+src/com/google/javascript/rhino/jstype/UnionType.java 291
+
+Buggy Line:
+if (result != null) {
+
+Developer's Fix:
+if (!result.isNoType()) {
+
+[success] RAP-Gen's Repair:
+if(!result.isNoType()){
+************************************************************************************************************************
+Closure_106_JSDocInfoBuilder_1_1
+src/com/google/javascript/rhino/JSDocInfoBuilder.java 189
+
+Buggy Line:
+if (parseDocumentation) { populated = true; }
+
+Developer's Fix:
+populated = true;
+
+[success] RAP-Gen's Repair:
+populated = true;
+************************************************************************************************************************
+Closure_113_ProcessClosurePrimitives_1_1
+src/com/google/javascript/jscomp/ProcessClosurePrimitives.java 329
+
+Buggy Line:
+if (provided != null) {
+
+Developer's Fix:
+if (provided != null || requiresLevel.isOn()) {
+
+[success] RAP-Gen's Repair:
+if(provided!= null || requiresLevel.isOn()){
+************************************************************************************************************************
+[Uniquely repaired bug] Closure_115_FunctionInjector_2_1
+src/com/google/javascript/jscomp/FunctionInjector.java 697
+
+Buggy Line:
+boolean hasSideEffects = false; if (block.hasChildren()) { Preconditions.checkState(block.hasOneChild()); Node stmt = block.getFirstChild(); if (stmt.isReturn()) { hasSideEffects = NodeUtil.mayHaveSideEffects(stmt.getFirstChild(), compiler); } }
+
+Developer's Fix:
+[Delete]
+
+[success] RAP-Gen's Repair:
+[Delete] or ;
+************************************************************************************************************************
+Closure_115_FunctionInjector_2_2
+src/com/google/javascript/jscomp/FunctionInjector.java 730
+
+Buggy Line:
+if (hasSideEffects && NodeUtil.canBeSideEffected(cArg)) { return CanInlineResult.NO; }
+
+Developer's Fix:
+[Delete]
+
+[success] RAP-Gen's Repair:
+[Delete] or ;
+************************************************************************************************************************
+Closure_123_CodeGenerator_1_1
+src/com/google/javascript/jscomp/CodeGenerator.java 285
+
+Buggy Line:
+Context rhsContext = Context.OTHER;
+
+Developer's Fix:
+Context rhsContext = getContextForNoInOperator(context);
+
+[success] RAP-Gen's Repair:
+Context rhsContext = getContextForNoInOperator(context);
+************************************************************************************************************************
+Closure_125_TypeCheck_1_1
+src/com/google/javascript/jscomp/TypeCheck.java 1661
+
+Buggy Line:
+if (fnType != null) {
+
+Developer's Fix:
+if (fnType != null && fnType.hasInstanceType()) {
+
+[success] RAP-Gen's Repair:
+if(fnType!= null && fnType.hasInstanceType()){
+************************************************************************************************************************
+Closure_126_MinimizeExitPoints_1_1
+src/com/google/javascript/jscomp/MinimizeExitPoints.java 141
+
+Buggy Line:
+if (NodeUtil.hasFinally(n)) { Node finallyBlock = n.getLastChild(); tryMinimizeExits(finallyBlock, exitType, labelName); }
+
+Developer's Fix:
+[Delete]
+
+[success] RAP-Gen's Repair:
+[Delete] or ;
+************************************************************************************************************************
+Mockito_5_VerificationOverTimeImpl_1_1
+src/org/mockito/internal/verification/VerificationOverTimeImpl.java 91
+
+Buggy Line:
+catch (org.mockito.exceptions.verification.junit.ArgumentsAreDifferent e) {
+
+Developer's Fix:
+catch (AssertionError e) {
+
+[success] RAP-Gen's Repair:
+catch(AssertionError e){
+************************************************************************************************************************
+Mockito_26_Primitives_1_1
+src/org/mockito/internal/util/Primitives.java 66
+
+Buggy Line:
+primitiveValues.put(double.class, 0);
+
+Developer's Fix:
+primitiveValues.put(double.class, 0D);
+
+[success] RAP-Gen's Repair:
+primitiveValues.put(double.class, 0D);
+************************************************************************************************************************
+Time_19_DateTimeZone_1_1
+src/main/java/org/joda/time/DateTimeZone.java 900
+
+Buggy Line:
+} else if (offsetLocal > 0) {
+
+Developer's Fix:
+} else if (offsetLocal >= 0) {
+
+[success] RAP-Gen's Repair:
+} else if(offsetLocal >= 0){
+************************************************************************************************************************

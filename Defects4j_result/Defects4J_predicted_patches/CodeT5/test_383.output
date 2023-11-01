@@ -1,0 +1,100 @@
+[PATCH] if(y == 0){
+[PATCH] if(y == 0.0){
+[PATCH] if(y == -0.0){
+[PATCH] if(y == 0 || y > 0){
+[PATCH] if(y == -1.0){
+[PATCH] if(y == 0 || y == 1){
+[PATCH] if(y == -x){
+[PATCH] if(y == 0 || y >= 0){
+[PATCH] if(y == -0){
+[PATCH] if(y == 0L){
+[PATCH] if(( long)y == 0){
+[PATCH] if(y == 0x0){
+[PATCH] if(y ==(-long)y){
+[PATCH] if(y == Long.MIN_VALUE){
+[PATCH] if(y == -128.0){
+[PATCH] if(y == 0 || y >= 1){
+[PATCH] if(y == Integer.MIN_VALUE){
+[PATCH] if(y == -2.0){
+[PATCH] if(y == 0)return 0;
+[PATCH] if(x == Integer.MIN_VALUE){
+[PATCH] if(y == LONG || y == DOUBLE){
+[PATCH] if(y == Double.MIN_VALUE){
+[PATCH] if(y == 0);
+[PATCH] if(x == -x){
+[PATCH] if(y == 0x7000000000000000){
+[PATCH] if(y == 0 || y == x){
+[PATCH] if(x == 0.0){
+[PATCH] if(y == 0;
+[PATCH] if(y == 0 || y < 0){
+[PATCH] if(y == -v0.0){
+[PATCH] if(y == -MIN_VALUE){
+[PATCH] if(y > 0.0){
+[PATCH] if(y ==(_long)y){
+[PATCH] if(y == 0 : y == 1){
+[PATCH] if(y == -1){
+[PATCH] if(y == -20.0){
+[PATCH] if(y == -julian_value){
+[PATCH] if(y == 0|| y > 0){
+[PATCH] if(y == 0l){
+[PATCH] if(y == 0 -0){
+[PATCH] if(y == 0_0){
+[PATCH] if(y == 0); return 0; }
+[PATCH] if(y == -128){
+[PATCH] if(y == -long.0){
+[PATCH] if(y == 0 || y == ONE){
+[PATCH] if(y == 0._0){
+[PATCH] if(y == 0 || y == 2){
+[PATCH] if(y ==(-0.0){
+[PATCH] if(y == -i){
+[PATCH] if(y == 0 {
+[PATCH] if(y == 0!0){
+[PATCH] if(y == -10.0){
+[PATCH] if(y == 0xffffffff){
+[PATCH] if(y == 0.<0){
+[PATCH] if(y == '0'){
+[PATCH] if(y == 0).0){
+[PATCH] if(y == 0or0){
+[PATCH] if(y == -julian){
+[PATCH] if(y == 0d){
+[PATCH] if(y == 0x){
+[PATCH] if(( long)y == -0){
+[PATCH] if(y == 0, 0){
+[PATCH] if(y == ~0){
+[PATCH] if(y == 0E0){
+[PATCH] if(y == -t){
+[PATCH] if(y == 0{
+[PATCH] if(y == 0e0){
+[PATCH] if(y == -1L){
+[PATCH] if(y == -Infinity){
+[PATCH] if(y == 0xFFFFFFFF){
+[PATCH] if(y > 0){
+[PATCH] if(y == 1){
+[PATCH] if(y == 0 } else {
+[PATCH] if(y == 0f){
+[PATCH] if(y == 0long){
+[PATCH] if(y == -d){
+[PATCH] if(y == 0xFFFF){
+[PATCH] if(y == 0j){
+[PATCH] if(y == 0D){
+[PATCH] if(y == 0xF){
+[PATCH] if(y == 0LC){
+[PATCH] if(y == 0xffff){
+[PATCH] if(y ==0){
+[PATCH] if(y == 0alue){
+[PATCH] if(y ==!0){
+[PATCH] if(y == 0x{
+[PATCH] if(y == 0).{
+[PATCH] if(y == 0)) {
+[PATCH] if(y == 0xFF){
+[PATCH] if(y == -null){
+[PATCH] if(y == 0): {
+[PATCH] if( y == 0){
+[PATCH] if(y == null){
+[PATCH] if(y== 0){
+[PATCH] if(y == negative){
+[PATCH] if(y == '-'){
+[PATCH] if(y == y){
+[PATCH] if(y < 0){
+[PATCH] if(y == 0
+[PATCH] if(y ==

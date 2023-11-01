@@ -1,0 +1,100 @@
+[PATCH] if(v >= this.lowerBound){ return Color.black; }
+[PATCH] if(v < this.lowerBound){ return Color.black; }
+[PATCH] value = Math.min(value, this.lowerBound);
+[PATCH] if(v >= this.lowerBound){ return Color.gray; }
+[PATCH] value = Math.floor(v);
+[PATCH] if(v < this.lowerBound){ return Color.gray; }
+[PATCH] value = Math.max(value, this.lowerBound);
+[PATCH] value = Math.ceil(v);
+[PATCH] value = Math.pow(value, this.lowerBound);
+[PATCH] value = Math.round(v);
+[PATCH] value = Math.toHexString(v);
+[PATCH] if(v < this.lowerBound){ return Paint.black; }
+[PATCH] if(v >= this.lowerBound){ return Color.green; }
+[PATCH] value = Math.toGray(v);
+[PATCH] if(v < this.lowerBound){ return Color.green; }
+[PATCH] if(v >= this.lowerBound){ return Color.blue; }
+[PATCH] if(v < this.lowerBound){ throw new IllegalArgumentException(""); }
+[PATCH] value = Math.min(v, this.lowerBound);
+[PATCH] value = Math.toRadians(v);
+[PATCH] if(value >= this.lowerBound){ return Color.black; }
+[PATCH] value = Math.rint(v);
+[PATCH] if(v >= this.lowerBound){ throw new IllegalArgumentException(""); }
+[PATCH] if(v < this.lowerBound){ return Color.blue; }
+[PATCH] if(v > this.lowerBound){ return Color.black; }
+[PATCH] return Color.gray.getPaint(this.lowerBound, v);
+[PATCH] value = Math.clamp(value, this.lowerBound);
+[PATCH] if(v < this.lowerBound){ return Color.white; }
+[PATCH] if(v >= this.lowerBound){ return Color.white; }
+[PATCH] value = Math.toDegrees(v);
+[PATCH] if(v >= this.lowerBound){ return Paint.black; }
+[PATCH] value = Math.expand(value, this.lowerBound);
+[PATCH] if(value >= this.lowerBound){ return Color.gray; }
+[PATCH] if(v >= this.lowerBound){ return Color.black); }
+[PATCH] return Color.black.getPaint(this.lowerBound, v);
+[PATCH] if(v < this.lowerBound){ return Paint.gray; }
+[PATCH] return Color.getPaint(this.lowerBound, v);
+[PATCH] value = Math.toFixedPoint(v);
+[PATCH] if(v > this.lowerBound){ return Color.gray; }
+[PATCH] value = Math.cut(value, this.lowerBound);
+[PATCH] if(v > this.lowerBound){ throw new IllegalArgumentException(""); }
+[PATCH] if(v < this.lowerBound){ returnColor.black; }
+[PATCH] if(v >= this.lowerBound){ throw new NumberFormatException(""); }
+[PATCH] value = Math.PI *(v - this.lowerBound);
+[PATCH] value = Math.toRadians(v)- this.lowerBound;
+[PATCH] value = Math.pow(v, this.lowerBound);
+[PATCH] value = Math.toRadians(v - this.lowerBound);
+[PATCH] value = Math.centralToJava2D(v, false);
+[PATCH] value = Math.toPaint(v);
+[PATCH] value = Math.x(value, this.lowerBound);
+[PATCH] value = Math.floatToIntBits(v);
+[PATCH] return Color.gray.getPaint(v);
+[PATCH] value = Math.clip(value, this.lowerBound);
+[PATCH] value = Math.toRadians(v / this.lowerBound);
+[PATCH] value = Math.toLowerCase(v);
+[PATCH] value = Math.mul(value, this.lowerBound);
+[PATCH] value = Math.mean(v, this.lowerBound);
+[PATCH] value = Math.toPaint(( float)v);
+[PATCH] value = Math.cto(v);
+[PATCH] value = Math.toPlainString(v);
+[PATCH] value = Math.abs(v);
+[PATCH] value = Math.toColor(v);
+[PATCH] value = Math.toUpperCase(v);
+[PATCH] value = Math.toFloat(v);
+[PATCH] value = Math.toFloor(v);
+[PATCH] value = Math.toRectangle(v);
+[PATCH] value = Math.radix(v);
+[PATCH] value = Math.toSerial(v);
+[PATCH] value = Math.chompTo(v);
+[PATCH] value = Math.toFixedHeight(v);
+[PATCH] value = Math.toInstance(v);
+[PATCH] value = Math.toUnscaled(v);
+[PATCH] value = Math.ceil(v);
+[PATCH] value = Math.toPaint(( int)v);
+[PATCH] value = Math.toRGB(v);
+[PATCH] value = Math.toOrdinal(v);
+[PATCH] value = Math.toPixels(v);
+[PATCH] value = Math.toFixedNumber(v);
+[PATCH] value = Math.toRawInt(v);
+[PATCH] value = Math.toAlpha(v);
+[PATCH] value = Math.toFixedDouble(v);
+[PATCH] value = Math.toPure(v);
+[PATCH] value = Math.int(v);
+[PATCH] value = Math.toChronology(v);
+[PATCH] value = Math.ctoint(v);
+[PATCH] value = Math.toFixedValue(v);
+[PATCH] value = Math.width(v);
+[PATCH] value = Math.toInverted(v);
+[PATCH] value = Math.toInfinite(v);
+[PATCH] value = Math.tan(v);
+[PATCH] value = Math.topixels(v);
+[PATCH] value = Math.toBitmap(v);
+[PATCH] return Color.getGrayPaint(v);
+[PATCH] value = Math.csc(v);
+[PATCH] value = Math.floor(value);
+[PATCH] value = Math.todegrees(v);
+[PATCH] return Color.valueOf(( float)v);
+[PATCH] return Color.black.getPaint(v);
+[PATCH] value = Math.loor(v);
+[PATCH] value = Math.real(v);
+[PATCH] value = Math.exp(-v);

@@ -1,0 +1,100 @@
+[PATCH] maybeTypeOfThis = maybeTypeOfThis.restrictByNotNullOrUndefined();
+[PATCH] typeOfThis = maybeTypeOfThis.restrictByNotNullOrUndefined();
+[PATCH] typeOfThis = typeOfThis.restrictByNotNullOrUndefined();
+[PATCH] if(maybeTypeOfThis!= null){ return maybeTypeOfThis; }
+[PATCH] Preconditions.checkNotNull(maybeTypeOfThis);
+[PATCH] Preconditions.checkState(maybeTypeOfThis!= null);
+[PATCH] maybeUnionOfThis = maybeTypeOfThis.restrictByNotNullOrUndefined();
+[PATCH] thisTypeNode.setJSType(maybeTypeOfThis);
+[PATCH] maybeTypeOfThis = applyCommonRestriction(maybeTypeOfThis, scope);
+[PATCH] newTypeOfThis = maybeTypeOfThis.restrictByNotNullOrUndefined();
+[PATCH] checkState(maybeTypeOfThis!= null);
+[PATCH] result = maybeTypeOfThis.restrictByNotNullOrUndefined();
+[PATCH] ofTypeOfThis = maybeTypeOfThis.restrictByNotNullOrUndefined();
+[PATCH] updateScopeForTypeChange(scope, typeOfThis);
+[PATCH] maybeTypeOfThis = maybeTypeOfThis.restrictByNotNullOrUndefined();
+[PATCH] valueOfThis = maybeTypeOfThis.restrictByNotNullOrUndefined();
+[PATCH] maybeTypeOfThis = normalizeClassType(maybeTypeOfThis);
+[PATCH] maybeTypeOfThis = getNativeType(JSTypeNative.UNKNOWN_TYPE);
+[PATCH] maybeTypeOfThis = typeOfThis.restrictByNotNullOrUndefined();
+[PATCH] JSType superType = maybeTypeOfThis.restrictByNotNullOrUndefined();
+[PATCH] return maybeTypeOfThis.isNoObjectType()? typeOfThis : null;
+[PATCH] maybeTypeOfThis = typeOfOfThis.restrictByNotNullOrUndefined();
+[PATCH] genericTypeOfThis = maybeTypeOfThis.restrictByNotNullOrUndefined();
+[PATCH] maybeTypeOfThis = this.restrictByNotNullOrUndefined();
+[PATCH] this.superType = maybeTypeOfThis.restrictByNotNullOrUndefined();
+[PATCH] maybeSuperInstanceType = maybeTypeOfThis.restrictByNotNullOrUndefined();
+[PATCH] if(maybeTypeOfThis!= null){ throw new IllegalStateException(""); }
+[PATCH] this.instanceType = maybeTypeOfThis.restrictByNotNullOrUndefined();
+[PATCH] scope.setTypeOfThis(maybeTypeOfThis);
+[PATCH] JSType thisTypeNode = typeOfThis.restrictByNotNullOrUndefined();
+[PATCH] maybeTypeOfThis = getNativeType(JSTypeNative.NO_TYPE);
+[PATCH] checkState(!maybeTypeOfThis.isNoObjectType());
+[PATCH] objectTypeOfThis = typeOfThis.restrictByNotNullOrUndefined();
+[PATCH] super.setTypeOfThis(maybeTypeOfThis);
+[PATCH] Preconditions.checkState(!maybeTypeOfThis.isNoObjectType());
+[PATCH] scope.declareType(getReferenceName(), typeOfThis, null);
+[PATCH] expectedType = maybeTypeOfThis.restrictByNotNullOrUndefined();
+[PATCH] return maybeTypeOfThis.restrictByNotNullOrUndefined();
+[PATCH] decorated().setTypeOfThis(maybeTypeOfThis);
+[PATCH] maybeTypeOfThis = applyCommonRestriction(maybeTypeOfThis);
+[PATCH] FUNCTION_PROTOTYPES.add(maybeTypeOfThis);
+[PATCH] super.setJSType(maybeTypeOfThis);
+[PATCH] maybeTypeOfThis = maybeTypeOfThis.visit(thisTypeNode);
+[PATCH] maybeTypeOfThis = maybeTypeOfThis.visit(scope);
+[PATCH] Preconditions.checkState(!maybeTypeOfThis.isUnknownType());
+[PATCH] if(maybeTypeOfThis!= null){ changed |= true; }
+[PATCH] instanceType = typeOfThis.restrictByNotNullOrUndefined();
+[PATCH] Preconditions.checkNotNull(maybeTypeOfThis,"typeOf this type");
+[PATCH] if(maybeTypeOfThis!= null){ return typeOfThis; }
+[PATCH] ObjectType newTypeOfThis = typeOfThis.restrictByNotNullOrUndefined();
+[PATCH] maybeTypeOfThis = typeOfThis.restrictByNotNullOrUndefined();
+[PATCH] maybeTypeOfThis = maybeTypeOfThis.getImplicitPrototype();
+[PATCH] checkState(!maybeTypeOfThis.isUnknownType());
+[PATCH] adjustScopeForTypeChange(scope, typeOfThis);
+[PATCH] maybeTypeOfThis = maybeTypeOfThis.restrictByNotNullOrUnknown();
+[PATCH] prototype.setTypeOfThis(maybeTypeOfThis);
+[PATCH] maybeTypeOfThis = super.resolveInternal(t, scope);
+[PATCH] if(maybeTypeOfThis!= null){ throw new IllegalArgumentException(""); }
+[PATCH] if(!maybeTypeOfThis.isUnknownType()){ }
+[PATCH] if(maybeTypeOfThis!= null){ }
+[PATCH] registry.registerTypeOnChange(typeOfThis, this);
+[PATCH] scope.declareType(getReferenceName(), typeOfThis, false);
+[PATCH] context.setTypeOfThis(maybeTypeOfThis);
+[PATCH] prototype.addTypeOfThis(maybeTypeOfThis);
+[PATCH] result.setTypeOfThis(maybeTypeOfThis);
+[PATCH] computedTypes.add(maybeTypeOfThis);
+[PATCH] maybeTypeOfThis = maybeTypeOfThis.visit(registry);
+[PATCH] maybeTypeOfThis = normalizeClassType(maybeTypeOfThis, scope);
+[PATCH] builder.addTypeOfThis(maybeTypeOfThis);
+[PATCH] ObjectType baseType = typeOfThis.restrictByNotNullOrUndefined();
+[PATCH] constructorType.setJSType(maybeTypeOfThis);
+[PATCH] if(maybeTypeOfThis!= null){ continue; }
+[PATCH] maybeTypeOfThis = maybeTypeOfThis.toObjectType();
+[PATCH] handleUnresolvedType(t, maybeTypeOfThis);
+[PATCH] ensureTyped(maybeTypeOfThis, t);
+[PATCH] ensureTyped(maybeTypeOfThis, scope);
+[PATCH] lastParam = lastParam.getFirstChild();
+[PATCH] knownInterfaces.add(maybeTypeOfThis);
+[PATCH] if(!maybeTypeOfThis.isUnknownType()); }
+[PATCH] prototype.setJSType(maybeTypeOfThis);
+[PATCH] setTypeOfThis(maybeTypeOfThis);
+[PATCH] maybeSetBaseType(typeOfThis);
+[PATCH] maybeTypeOfThis = e.getJSType();
+[PATCH] ensureTyped(t, 'typeOfThis');
+[PATCH] typedTypes.add(maybeTypeOfThis);
+[PATCH] typedInterfaces.add(maybeTypeOfThis);
+[PATCH] lastParam = lastParam.getNext();
+[PATCH]!maybeTypeOfThis.isUnknownType();
+[PATCH] validateState(maybeTypeOfThis, scope);
+[PATCH] registry.reportCodeChange();
+[PATCH] compiler.reportCodeChange();
+[PATCH] t.reportCodeChange();
+[PATCH] ensureTyped(t, typeOfThis);
+[PATCH] redeclare(scope, typeOfThis);
+[PATCH] checkNotNull(maybeTypeOfThis);
+[PATCH] handleUnresolvedType(t);
+[PATCH] prototype.addSubType(this);
+[PATCH] isConstructor() || isInterface();
+[PATCH] skipAllInterfaces();
+[PATCH] skipChildren();

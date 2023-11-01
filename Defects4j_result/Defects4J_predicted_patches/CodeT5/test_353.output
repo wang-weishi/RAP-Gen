@@ -1,0 +1,100 @@
+[PATCH] if(!newRecord){ if(recordSeparator.length() == 0){ throw new IOException(""); }
+[PATCH] if(!newRecord){ if(recordSeparator == null){ recordSeparator =""; }
+[PATCH] if(newRecord){ if(recordSeparator.length() == 0){ throw new IOException(""); }
+[PATCH] if(newRecord){ if(recordSeparator == null){ recordSeparator =""; }
+[PATCH] if(!newRecord){ if(recordSeparator == null){ recordSeparator ="-"; }
+[PATCH] if(!newRecord){ if(recordSeparator.length() == 0){ return; }
+[PATCH] if(!newRecord){ if(recordSeparator == null){ recordSeparator ="\n"; }
+[PATCH] if(!newRecord){ if(recordSeparator.length()!= 0){ throw new IOException(""); }
+[PATCH] if(!newRecord){ if(recordSeparator.length() == 0){ throw new IllegalArgumentException(""); }
+[PATCH] if(!newRecord){ if(recordSeparator.length() > 0){ out.append("\n"); }
+[PATCH] if(!newRecord){ if(recordSeparator == null){ throw new IOException(""); }
+[PATCH] if(!newRecord){ if(recordSeparator!= null){ out.append(recordSeparator); }
+[PATCH] if(recordSeparator!= null){ if(newRecord){ throw new IOException(""); }
+[PATCH] if(!newRecord){ if(recordSeparator == null){ recordSeparator = getRecordSeparator(); }
+[PATCH] if(!newRecord){ if(recordSeparator.length() > 0){ throw new IOException(""); }
+[PATCH] if(!newRecord){ if(recordSeparator.length() > 0){ out.append(","); }
+[PATCH] if(!newRecord){ if(recordSeparator == null){ recordSeparator ="-"; }
+[PATCH] if(recordSeparator!= null){ if(newRecord){ out.append(","); }
+[PATCH] if(!newRecord){ if(recordSeparator.length() == 0){ throw new IllegalStateException(""); }
+[PATCH] if(newRecord){ if(recordSeparator == null){ recordSeparator ="-"; }
+[PATCH] if(newRecord){ if(recordSeparator.length()!= 0){ throw new IOException(""); }
+[PATCH] if(!newRecord){ if(recordSeparator.length() == 0){ throw new RuntimeException(""); }
+[PATCH] if(!newRecord){ if(recordSeparator!= null){ out.append(","); }
+[PATCH] if(!newRecord){ if(recordSeparator.length() > 0){ out.append(' '); }
+[PATCH] if(!newRecord){ if(recordSeparator.length() == 0){ break; }
+[PATCH] if(newRecord){ if(recordSeparator.length() > 0){ out.append("\n"); }
+[PATCH] if(newRecord){ if(recordSeparator.length() == 0){ return; }
+[PATCH] if(newRecord){ if(recordSeparator.length() > 0){ out.append('\n'); }
+[PATCH] if(newRecord){ if(recordSeparator.length() == 0){ throw new IllegalArgumentException(""); }
+[PATCH] if(newRecord){ if(recordSeparator.length() > 0){ out.append(","); }
+[PATCH] if(newRecord){ if(recordSeparator.length() > 0){ throw new IOException(""); }
+[PATCH] if(recordSeparator!= null){ if(newRecord){ out.append("\n"); }
+[PATCH] if(newRecord){ if(recordSeparator == null){ throw new IOException(""); }
+[PATCH] if(newRecord){ if(recordSeparator == null){ recordSeparator ="\n"; }
+[PATCH] if(!newRecord){ if(( newRecord && recordSeparator!= null)) { throw new IOException(""); }
+[PATCH] if(!newRecord){ if(recordSeparator == null){ recordSeparator ="", }
+[PATCH] if(!newRecord){ if(recordSeparator == null){ recordSeparator = '\n'; }
+[PATCH] if(!newRecord){ if(recordSeparator == null){ recordSeparator ="--"; }
+[PATCH] if(!newRecord){ if(recordSeparator.length() == 0){ recordSeparator =""; }
+[PATCH] if(!newRecord){ if(recordSeparator!= null){ out.append("\n"); }
+[PATCH] if(recordSeparator!= null){ if(newRecord){ out.append('\n'); }
+[PATCH] if(!newRecord){ if(recordSeparator == null){ recordSeparator = new RecordSeparator(); }
+[PATCH] if(!newRecord){ if(recordSeparator == null){ recordSeparator =""); }
+[PATCH] if(newRecord){ if(recordSeparator.length() == 0){ throw new IllegalStateException(""); }
+[PATCH] if(newRecord){ if(recordSeparator.length() == 0){ throw new RuntimeException(""); }
+[PATCH] if(newRecord){ if(recordSeparator.length() > 0){ out.append(' '); }
+[PATCH] if(!newRecord){ if(recordSeparator == null){ recordSeparator = String.valueOf(""); }
+[PATCH] if(!newRecord){ if(recordSeparator!= null){ throw new IOException(""); }
+[PATCH] if(newRecord){ if(recordSeparator.length() == 0){ out.append('\n'); }
+[PATCH] if(!newRecord){ if(recordSeparator.isEmpty()){ out.append('\n'); }
+[PATCH] if(!newRecord){ if(recordSeparator.length() == 0){ out.append("["); }
+[PATCH] if(!newRecord){ if(recordSeparator == null){ recordSeparator =" -"; }
+[PATCH] if(newRecord){ if(recordSeparator.length() == 0){ break; }
+[PATCH] if(!newRecord){ if(recordSeparator.length() > 0){ out.append(""); }
+[PATCH] if(newRecord){ if(recordSeparator == null){ recordSeparator = getRecordSeparator(); }
+[PATCH] if(!newRecord){ if(recordSeparator == null){ recordSeparator =","; }
+[PATCH] if(!newRecord){ if(recordSeparator.length()!= 0){ out.append(","); }
+[PATCH] if(!newRecord){ if(recordSeparator == null){ recordSeparator ="\n"; }
+[PATCH] if(!newRecord){ if(recordSeparator.length()!= 0){ out.append("\n"); }
+[PATCH] if(!newRecord){ if(recordSeparator.length() == 0){ throw new EOFException(""); }
+[PATCH] if(!newRecord){ if(recordSeparator == null){ recordSeparator =""; return; }
+[PATCH] if(!newRecord){ if(recordSeparator!= null){ out.append('\n'); }
+[PATCH] if(!newRecord){ if(recordSeparator == null){ recordSeparator ="\""; }
+[PATCH] if(newRecord){ if(recordSeparator == null){ recordSeparator ="-"; }
+[PATCH] if(!newRecord){ if(recordSeparator.length() == 0){ throw newIOException(""); }
+[PATCH] if(!newRecord){ if(recordSeparator.isEmpty()){ throw new IOException(""); }
+[PATCH] if(!newRecord){ if(recordSeparator == null){ recordSeparator ="-"); }
+[PATCH] if(recordSeparator!= null){ if(!newRecord){ throw new IOException(""); }
+[PATCH] if(!newRecord){ if(recordSeparator.length()!= 0){ out.append(' '); }
+[PATCH] if(!newRecord){ if(recordSeparator == null){ recordSeparator ="'"; }
+[PATCH] if(!newRecord){ if(recordSeparator == null){ recordSeparator =";"; }
+[PATCH] if(!newRecord){ if(recordSeparator == null){ throw new IllegalArgumentException(""); }
+[PATCH] if(!newRecord){ if(recordSeparator == null){ recordSeparator ="."; }
+[PATCH] if(!newRecord){ if(recordSeparator.length() == 0){ recordSeparator ="\n"; }
+[PATCH] if(!newRecord){ if(recordSeparator == null){ recordSeparator ="\""; }
+[PATCH] if(!newRecord && recordSeparator!= null){ if(newRecord){ out.append(","); }
+[PATCH] if(!newRecord){ if(recordSeparator == null){ recordSeparator ="\""); }
+[PATCH] if(!newRecord){ if(recordSeparator.length() == 0){ out.append("\n"); }
+[PATCH] if(recordSeparator!= null &&!newRecord){ if(newRecord){ out.append(","); }
+[PATCH] if(newRecord){ if(recordSeparator.length() > 0){ out.append(""); }
+[PATCH] if(!newRecord){ if(recordSeparator.length() > 0){ out.append("["); }
+[PATCH] if(!newRecord){ if(recordSeparator.length() == 0){ printSep(); }
+[PATCH] if(!newRecord){ if(recordSeparator!= null){ out.append(""); }
+[PATCH] if(newRecord){ if(recordSeparator.length() == 0){ out.append("["); }
+[PATCH] if(!newRecord){ if(recordSeparator == null){ recordSeparator ="'"; }
+[PATCH] if(newRecord){ if(recordSeparator == null){ recordSeparator ="", }
+[PATCH] if(recordSeparator!= null){ if(newRecord){ break; }
+[PATCH] if(!newRecord){ if(recordSeparator == null){ recordSeparator = RecordSeparator.EMPTY; }
+[PATCH] if(!newRecord){ if(recordSeparator == null){ return; }
+[PATCH] if(recordSeparator!= null){ if(newRecord){ return; }
+[PATCH] if(!newRecord){ throw new IOException(""); }
+[PATCH] if(!newRecord){ if(""); return; }
+[PATCH] if(!newRecord){ if(""); }
+[PATCH] if(!newRecord){ return; }
+[PATCH] if(newRecord){ if(""); }
+[PATCH] if(!newRecord){ break; }
+[PATCH] if(!newRecord){ continue; }
+[PATCH] while(!newRecord){ printSep();
+[PATCH] if(!newRecord){
+[PATCH] while(!newRecord){

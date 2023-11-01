@@ -1,0 +1,100 @@
+[PATCH] refNodes.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] RefNodes.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] refNodes.add(new ClassDefiningFunctionNode(ns.name, n, parent, parent.getParent()));
+[PATCH] String name = getName(ns.name, false); refNodes.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] Node name = getName(ns.name, false); refNodes.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] QName name = getName(ns.name, false); refNodes.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] refNodes.add(new ClassDefiningFunctionNode(nameName, n, parent, parent.getParent()));
+[PATCH] RefList.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] nameNodes.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] RefList refNodes.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] node.addChildToBack(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] refNodes.add(newClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] msg.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] msgNodes.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] RefNode refNodes.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] ns.refNodes.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] nodesToKeep.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] refsToKeep.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] refNodes.add(new ClassDefiningFunctionNode(name, nameNode, parent, parent.getParent()));
+[PATCH] objNames.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] RefList nodesToKeep.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] tagNameNodes.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] if(new ClassDefiningFunctionNode(name, n, parent, parent.getParent())); } else { recordSet(ns.name, nameNode); }
+[PATCH] nodeRefNodes.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] refNodes.add(new ClassDefiningMethodNode(name, n, parent, parent.getParent()));
+[PATCH] refNodes.add(new ClassDefineingFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] node.addChildToFront(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] classNameNodes.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] ns.nameNodes.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] REF_NODES.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] NodesToKeep.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] nodeList.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] refNodes.add(new ClassDefiningFunctionNode(parent, n, parent, parent.getParent()));
+[PATCH] REFNode refNodes.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] recordClassDefiningFunction(name, n, parent, parent.getParent()));
+[PATCH] refNodes.add(new ClassDefiningFunctionNode(name, n,parent, parent.getParent()));
+[PATCH] REFNodes.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] void refNodes.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] referenceNodes.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] RefNames.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] linkNodes.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] RefSet.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] refNodes.add(new ClassDefiningCallNode(name, n, parent, parent.getParent()));
+[PATCH] stringNodes.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] nodeNames.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] RefMap.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] refNodes.add(new ClassDefiningFunctionNode( name, n, parent, parent.getParent()));
+[PATCH] nodeMap.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] RefToSet.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] msg.addAllChildren(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] srcNodes.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] attrNodes.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] const refNodes.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] typeNodes.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] childNodes.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] nodeNodes.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] ReferenceNodes.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] CallbackNodes.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] referencedNames.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] if(new ClassDefiningFunctionNode(name, n, parent, parent.getParent())); } else { recordReference(ns.name, nameNode); }
+[PATCH] refNodes.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] defNodes.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] idNodes.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] refNodes.add(new ClassDEFingFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] refnodes.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] nodeTypes.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] refNodes.add(new ClassDefiningFunctionNode(name, n, parent, parent.getparent()));
+[PATCH] callbackNodes.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] refNodes.add(new CLASSDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] if(new ClassDefiningFunctionNode(name, n, parent, parent.getParent())); }
+[PATCH] Refs.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] refNodes.add(new ClassDefiningFunctionNode(name, n,Parent, parent.getParent()));
+[PATCH] sb.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] refNodes.add(new ClassDefiningFunctionNode(name, n, parent,parent.getParent()));
+[PATCH] handleClassDefiningFunction(name, n, parent, parent.getParent()));
+[PATCH] recordClassDefiningFunction(ns.name, n, parent, parent.getParent()));
+[PATCH] refNodes.add(new ClassDefiningFunctionNode(name, n, parent, p.getParent()));
+[PATCH] if(new ClassDefiningFunctionNode(name, n, parent, parent.getParent())); } else { recordGet(ns.name, nameNode); }
+[PATCH] refNodes.add(new ClassDefiningFunctionNode(name, n, parent, parent.getAncestor(2));
+[PATCH] refNodes.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent())); recordSet(ns.name, nameNode);
+[PATCH] return new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] if(new ClassDefiningFunctionNode(name, n, parent, parent.getParent())); } else { recordUnknownProperties(ns.name); }
+[PATCH] refNodes.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent())); return;
+[PATCH] throw new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] if(new ClassDefiningFunctionNode(name, n, parent, parent.getParent())); } else { recordUnknowns(ns.name); }
+[PATCH] new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] refNodes.add(new ClassDefiningFunctionNode(name, n, parent, parent.getLastChild));
+[PATCH] refNodes.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent())); compiler.reportCodeChange();
+[PATCH] refNodes.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent())); }
+[PATCH] if(new ClassDefiningFunctionNode(name, n, parent, parent.getParent())); } else { recordUnknownUse(ns.name); }
+[PATCH] addClassDefiningFunctionNode(name, n, parent, parent.getParent()));
+[PATCH] refNodes.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()), refName);
+[PATCH] if(new ClassDefiningFunctionNode(name, n, parent, parent.getParent())); } else { throw new IllegalStateException(""); }
+[PATCH] refNodes.add(new ClassDefiningFunctionNode(name, n, parent, parent.getLastChild()));
+[PATCH] refNodes.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent())); externallyDefined = true;
+[PATCH] refNodes.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()), ref);
+[PATCH] refNodes.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent())); break;
+[PATCH] refNodes.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent())); continue;
+[PATCH] refNodes.add(new ClassDefiningFunctionNode(name, n, parent, parent.getAncestor(2), t));
+[PATCH] refNodes.add(new ClassDefiningFunctionNode(name, n, parent, parent.getParent()));

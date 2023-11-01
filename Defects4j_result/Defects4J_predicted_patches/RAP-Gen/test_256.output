@@ -1,0 +1,100 @@
+[PATCH] while(jgen.nextToken()!= JsonToken.FIELD_NAME){
+[PATCH] while(value!= null && value.getClass().isArray()){
+[PATCH] if(value instanceof String){
+[PATCH] while(value instanceof String){ value =(( String)value).trim();
+[PATCH] if(value == null ||!(value instanceof String)) {
+[PATCH] if(value == null || value.getClass().isArray()){
+[PATCH] if(value.getClass().isArray()){
+[PATCH] while(value instanceof Object){ value =(( Date)value).getTime();
+[PATCH] while(value!= null){ value = value.getClass().getSimpleName();
+[PATCH] while(value instanceof Character){ value =(( Character)value).getClass();
+[PATCH] while(value instanceof Object){ value =(( Number)value).getClass();
+[PATCH] while(jgen.writeNextName()){
+[PATCH] if(value == null || value.getClass().getName().length() == 0){
+[PATCH] while(jgen.nextToken() == JsonToken.FIELD_NAME){
+[PATCH] if(provider!= null){
+[PATCH] while(value instanceof Object){ value = convert(value, provider);
+[PATCH] if(value!= null){
+[PATCH] if(value instanceof String || value instanceof Number){
+[PATCH] while(value instanceof Object){ value = value.getClass().getSimpleName();
+[PATCH] while(value instanceof Collection){ value =(( Collection)value).get(0);
+[PATCH] if(value instanceof String || value instanceof Boolean){
+[PATCH] if(value == null || value instanceof String){
+[PATCH] while(value instanceof String || value instanceof Boolean){
+[PATCH] while(value instanceof Field){ value =(( Field)value).getValue();
+[PATCH] while(jgen.nextToken()!= null){ jgen.writeFieldName("");
+[PATCH] if(value!= null){ if(!(value instanceof String)) { return; }
+[PATCH] if(isEnabled(MapperFeature.WRITE_BIGDECIMAL_AS_PLAIN)) {
+[PATCH] if(isEnabled(MapperFeature.WRITE_BIGDECIMAL_AS_STRING)) {
+[PATCH] while(getNextName()){ value = value.getClass().getSimpleName();
+[PATCH] while(value instanceof Object){ value = value.getClass();
+[PATCH] if(value instanceof String || value instanceof Number || value instanceof String){
+[PATCH] if(isEnabled(Feature.WRITE_BIGDECIMAL_AS_PLAIN)) {
+[PATCH] while(jgen.writeNextName()){ jgen.writeFieldName("");
+[PATCH] if(isEnabled(Feature.WRITE_BIGDECIMAL_AS_STRING)) {
+[PATCH] while(value instanceof Object){ value = convert(value, JsonEncoding.UTF8);
+[PATCH] if(value == null){ if(!serializeNull()){ return; }
+[PATCH] while(value instanceof Object){ value =(( Number)value).getTime();
+[PATCH] while(value instanceof Number || value instanceof String){
+[PATCH] if(isEnabled(MapperFeature.QUOTE_NON_NUMERIC_NAMES)) {
+[PATCH] if(value == null ||!(value instanceof Number)) {
+[PATCH] if(provider.isEnabled(SerializationFeature.INDENT_OUTPUT)) {
+[PATCH] while(value!= null){ value = value.getClass();
+[PATCH] if(value == null ||!(value instanceof java.util.Date)) {
+[PATCH] if(value!= null && value.getClass().isArray()){
+[PATCH] while(value instanceof Character){ value =(( Character)value).getChar();
+[PATCH] while(value.getClass().isArray()){
+[PATCH] while(jgen.nextToken()!= JsonToken.FIELD_NAMES){
+[PATCH] while(value instanceof String || value.getClass().isArray()){
+[PATCH] while(jgen.readNext()){ jgen.writeFieldName("");
+[PATCH] if(isEnabled(SerializationFeature.WRITE_BIGDECIMAL_AS_STRING)) {
+[PATCH] while(jgen.nextName()!= null){ jgen.writeFieldName("");
+[PATCH] if(value == null || value.getClass().getName() == null){
+[PATCH] if(isEnabled(SerializationFeature.WRITE_BIGDECIMAL_AS_PLAIN)) {
+[PATCH] while(jgen.writeNextField()){ jgen.writeFieldName("");
+[PATCH] while(value!= null && value instanceof Number || value instanceof String){
+[PATCH] while(provider.hasNext()){ value = provider.deserialize(value);
+[PATCH] if(provider.isEnabled(MapperFeature.DEFAULT_DELIMITERS)) {
+[PATCH] while(value == null || value.getClass().isArray()){
+[PATCH] while(value instanceof String){ value = convert(value, provider);
+[PATCH] while(jgen.nextToken()!= JsonToken.FIELD_NAME){ }
+[PATCH] while(value!= null){ value = value.getClass().getSuperclass();
+[PATCH] while(value instanceof Character){ value =(( Character)value).getValue();
+[PATCH] while(jgen.nextToken()!= null){ value = value.getClass();
+[PATCH] while(jgen.writeNextName()){ jgen.writeFieldName("$");
+[PATCH] while(value!= null &&!(value instanceof String)) {
+[PATCH] while(value instanceof Field){ value = convert(value, provider);
+[PATCH] while(value = value.getClass().getSimpleName()){
+[PATCH] if(value == null || value.getClass().isPrimitive()){
+[PATCH] while(jgen.nextToken()!= JsonToken.FIELD){
+[PATCH] if(isEnabled(MapperFeature.DEFAULT_DELIMITERS)) {
+[PATCH] while(jgen.nextToken()){ jgen.writeFieldName("");
+[PATCH] while(value instanceof String){ value = getValue(value);
+[PATCH] if(value == null){ throw new IllegalArgumentException(""); }
+[PATCH] while(value.getClass().isArray()){ value = value.getClass();
+[PATCH] while(value instanceof Character){ value =(( Character)value).getType();
+[PATCH] while(nextSet()){ value = getValue(value);
+[PATCH] while(value!= null && value instanceof String){
+[PATCH] while(getNextName()){ value = value.getClass();
+[PATCH] while(getNextName()){ value = getValue(value);
+[PATCH] while(value instanceof Field){ value =(( Field)value).getType();
+[PATCH] if(value instanceof String || value instanceof Integer || value instanceof Long){
+[PATCH] while(value instanceof String || value instanceof Number){
+[PATCH] while(value instanceof Object){ value = convert(value, null);
+[PATCH] if(value instanceof String || value instanceof Character){
+[PATCH] if(provider.hasKey(value)) {
+[PATCH] while(value instanceof Object){ value = getValue(value);
+[PATCH] while(value instanceof Object){ value = convert(value, false);
+[PATCH] while(jgen.writeFieldName("$")!= null){
+[PATCH] if(provider.hasIgnoreMarker(value)) {
+[PATCH] while(jgen.writeNextField()){
+[PATCH] while(jgen.nextToken().isNext()){
+[PATCH] while(provider.hasNext()){
+[PATCH] while(jgen.writeEndObject()){
+[PATCH] if(value instanceof Number || value instanceof String){
+[PATCH] while(jgen.nextToken()!= null){
+[PATCH] if(getDefaultSerializeNull()){
+[PATCH] if(value instanceof java.util.Date){
+[PATCH] while(jgen.writeNextKey()){
+[PATCH] while(value = value.getClass()){
+[PATCH] while(jgen.writeNextFieldName()){

@@ -1,0 +1,100 @@
+[PATCH] if(options.hasOption(opt)) {
+[PATCH] if(options.hasOption(opt +"--")) {
+[PATCH] if(options.hasOption(opt, 2)) {
+[PATCH] if(options.hasOption(opt +"=")) {
+[PATCH] if(options.hasOption(arg)) {
+[PATCH] if(options.hasOption(opt +".")) {
+[PATCH] if(options.hasOption(opt)+ 1){
+[PATCH] if(options.hasOption(opt+":" + i)) {
+[PATCH] if(options.hasOption(op)) {
+[PATCH] if(options.hasOption(opt+"--")) {
+[PATCH] if(options.hasOption(opt+"=")) {
+[PATCH] if(options.hasOption(opt, false)) {
+[PATCH] if(options.hasOption(opt+":" + arg)) {
+[PATCH] if(options.hasOption(opt +"--*")) {
+[PATCH] if(options.hasOption(opt, true)) {
+[PATCH] if(options.hasOption(opt +"-")) {
+[PATCH] if(options.hasOption(opt+"," + i)) {
+[PATCH] if(options.hasOption(opt+"-")) {
+[PATCH] if(options.hasOption(opt+"--")) {
+[PATCH] if(options.hasOption(opt +"--...")) {
+[PATCH] if(options.hasOption(opt+".")) {
+[PATCH] if(options.hasOption(opt,"--")) {
+[PATCH] if(options.hasOption(cmd)) {
+[PATCH] if(options.hasOption(opt+":--")) {
+[PATCH] if(options.hasOption(opt +":" + i)) {
+[PATCH] if(options.hasOption(opt+":" + opt)) {
+[PATCH] if(options.hasOption(opt+":")) {
+[PATCH] if(options.hasOption(opt, multiple)) {
+[PATCH] if(options.hasOption(opt +"--");
+[PATCH] if(options.hasOption(opt +":" + arg)) {
+[PATCH] if(options.hasOption(opt +":"+arg)) {
+[PATCH] if(options.hasOption(opt, "--")) {
+[PATCH] if(options.hasOption(opt, -1)) {
+[PATCH] if(options.hasOption(opt, '-')) {
+[PATCH] if(options.hasArg(2)) {
+[PATCH] if(options.hasOption(opt+":" + value)) {
+[PATCH] if(options.hasOption(opt +"--{}")) {
+[PATCH] if(options.hasOption(opt+"," + opt)) {
+[PATCH] if(options.hasOption(option)) {
+[PATCH] if(options.hasOption(opt, second)) {
+[PATCH] if(options.hasOption(opt+":" + flag)) {
+[PATCH] if(options.hasOption(arg, false)) {
+[PATCH] if(options.hasOption(prop)) {
+[PATCH] if(options.hasOption(opt, arg)) {
+[PATCH] if(options.hasOption(opt +"--)")) {
+[PATCH] if(options.hasOption(opt), {
+[PATCH] if(options.hasOption(opt+":" + option)) {
+[PATCH] if(options.hasOption(opt+"")) {
+[PATCH] if(options.hasOption(f)) {
+[PATCH] if(options.hasOpt(opt)) {
+[PATCH] if(options.hasOption(opt,2)) {
+[PATCH] if(options.hasOption( opt)) {
+[PATCH] if(options.hasOption(opt +"...")) {
+[PATCH] if(options.hasOption(opt, null)) {
+[PATCH] if(options.hasOption(dest)) {
+[PATCH] if(options.hasOption(opt,-1)) {
+[PATCH] if(options.hasOption(opt +":")) {
+[PATCH] if(options.hasArgument(opt)) {
+[PATCH] if(options.hasOption(opt +="--")) {
+[PATCH] if(options.hasOption(opt, value)) {
+[PATCH] if(options.hasOption(opt")) {
+[PATCH] if(options.hasOption(opt+",")) {
+[PATCH] if(options.hasOption(opt+1)) {
+[PATCH] if(!options.hasOption(opt)) {
+[PATCH] if(options.hasOption(min)) {
+[PATCH] if(options.hasOption(opt2)) {
+[PATCH] if(options.hasOption(df)) {
+[PATCH] if(options.hasParameter(opt)) {
+[PATCH] if(options.hasOption(opt)&&("--");
+[PATCH] if(options.hasOption(opt, args)) {
+[PATCH] if(options.hasOption("--")) {
+[PATCH] if(options.hasOptionValue(opt)) {
+[PATCH] if(options.hasOption(arg, true)) {
+[PATCH] if(options.hasOption(opt+"--");
+[PATCH] if(options.hasOption("--")) {
+[PATCH] if(options.hasOption(key)) {
+[PATCH] if(options.hasOption(opt)+ 1)) {
+[PATCH] if(options.hasOption(opt)+1){
+[PATCH] if(options.hasArgs(arg)) {
+[PATCH] if(options.hasArgs(opt)) {
+[PATCH] if(options.hasOption(i)) {
+[PATCH] if(options.hasOption(opt)- 1){
+[PATCH] if(options.hasRequiredOption(opt)) {
+[PATCH] if(options.hasOption(lang)) {
+[PATCH] if(options.hasOption(pos)) {
+[PATCH] if(options.hasArgument(arg)) {
+[PATCH] if(options.has Option(opt)) {
+[PATCH] if(options.hasOption(prefix)) {
+[PATCH] if(options.hasCommand(opt)) {
+[PATCH] if(options.hasOption(attr)) {
+[PATCH] if(options.hasOption(param)) {
+[PATCH] if(options.hasMultipleOption()){
+[PATCH] if(options.hasAnyOption()){
+[PATCH] if(options.hasOption(tmp)) {
+[PATCH] if(options.hasOption(id)) {
+[PATCH] if( options.hasOption(opt)) {
+[PATCH] if(options.hasOption(j)) {
+[PATCH] if(options.hasOption(OPT)) {
+[PATCH] if(options.hasOption(opt):
+[PATCH] if(options.hasMultipleArgs()){

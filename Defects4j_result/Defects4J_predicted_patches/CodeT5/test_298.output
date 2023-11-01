@@ -1,0 +1,100 @@
+[PATCH] System.arraycopy(_inputBuffer, start, _inputBuffer, 0, _currInputRowStart);
+[PATCH] end = Math.min(_inputEnd, end);
+[PATCH] System.arraycopy(_inputBuffer, start, _inputBuffer, _currInputProcessed, _inputPtr);
+[PATCH] _currInputColumnStart = Math.min(_currInputRowStart,(end - start));
+[PATCH] if(_inputBuffer == null ||(end - start)< _inputEnd){ return; }
+[PATCH] if(_inputBuffer!= null){ if(_currInputRowStart >= _inputEnd){ freeBuffers(); }
+[PATCH] if(_inputBuffer[start]!= buf[end]){ throw new IllegalArgumentException(""); }
+[PATCH] if(_inputBuffer!= null){ if(_currInputRowStart >= end){ freeBuffers(); }
+[PATCH] if(_inputBuffer == null ||(end - start)< _inputEnd){ throw new IllegalArgumentException(""); }
+[PATCH] _currInputColumn =(_currInputRowStart < 0)? -1 : _currInputRowStart;
+[PATCH] System.arraycopy(_inputBuffer, start, _inputBuffer, _currInputRowStart, len);
+[PATCH] _currInputColumnStart =(_inputEnd < start)? 0 : _inputEnd;
+[PATCH] if(_inputPtr >= start){ if(_inputEnd < end){ throw new IllegalArgumentException(""); }
+[PATCH] System.arraycopy(buf, start, _inputBuffer, _currInputRowStart, buf.length);
+[PATCH] if(_inputBuffer!= null){ if(_currInputRowStart >= end){ _flushBuffer(); }
+[PATCH] if(_inputBuffer[start]!= buf[end]){ throw new IOException(""); }
+[PATCH] System.arraycopy(_inputBuffer, start, _inputBuffer, _currInputProcessed, _inputLen);
+[PATCH] if(_inputBuffer!= null){ if(_currInputRowStart >= end){ throw new IOException(""); }
+[PATCH] _currInputColumnStart = Math.min(_currInputRowStart, end);
+[PATCH] _currInputColumnStart = Math.min(_currInputRowStart, _inputEnd);
+[PATCH] if(_inputBuffer!= null){ if(_currInputRowStart >= end){ _freeBuffers(); }
+[PATCH] if(_inputBuffer!= null){ if(_currInputRowStart >= _inputEnd){ _freeBuffers(); }
+[PATCH] if(_inputBuffer!= null){ if(_currInputRowStart >= end){ throw new IndexOutOfBoundsException(""); }
+[PATCH] _currInputColumnCount = Math.min(_currInputRowStart,(_inputEnd - start));
+[PATCH] if(_inputBuffer!= null){ if(_currInputRowStart >= end){ reportInvalidEOFInValue(); }
+[PATCH] if(_inputBuffer!= null){ if(_currInputRowStart >= _inputEnd){ _flushBuffer(); }
+[PATCH] if(_inputBuffer!= null){ if(_currInputRowStart >= end){ throw new IllegalArgumentException(""); }
+[PATCH] if(_inputPtr >= start){ if(_inputEnd < end){ throw new IOException(""); }
+[PATCH] if(_inputPtr >= start){ if(_inputEnd < end){ _reportInvalidEOFInValue(); }
+[PATCH] _currInputColumnStart =(int)(Math.min(_currInputRowStart, end - start));
+[PATCH] if(_inputPtr >= start){ if(_inputEnd < start){ throw new IllegalArgumentException(""); }
+[PATCH] _currInputColumnStart = Math.min(_currInputRowStart, end - start);
+[PATCH] System.arraycopy(buf, start, _inputBuffer, _currInputRowStart, _inputLen);
+[PATCH] if(_inputBuffer!= null){ if(_currInputRowStart >= end){ _closeInput(); }
+[PATCH] _currInputColumnCount = Math.min(_currInputRowStart,(end - start));
+[PATCH] if(_inputPtr >= 0){ if(_inputEnd < start){ throw new IllegalArgumentException(""); }
+[PATCH] if(_inputBuffer[start]!= buf[end]){ _reportInvalidEOFInValue(); }
+[PATCH] Arrays.fill(_inputBuffer, _currInputProcessed, start,(_inputPtr, end));
+[PATCH] _currInputColumnStart =(_inputEnd - start);
+[PATCH] Arrays.fill(_inputBuffer, start, _currInputRowStart);
+[PATCH] _currInputColumnEnd = Math.min(_currInputRowStart, end);
+[PATCH] if(_inputBuffer!= null){ if(_currInputRowStart >= end){ break; }
+[PATCH] System.arraycopy(_inputBuffer, start, _inputBuffer, _currInputRowStart);
+[PATCH] if(_inputBuffer[start]!= buf[end]){ throw new IndexOutOfBoundsException(""); }
+[PATCH] appendRow(buf, start, end);
+[PATCH] Arrays.fill(_inputBuffer, _currInputProcessed, 0);
+[PATCH] if(_inputBuffer[start]!= buf[end]){ return; }
+[PATCH] _currInputColumnCount = Math.min(_currInputRowStart, _inputEnd);
+[PATCH] _currInputColumn =(_currInputRowStart < 0)? -1 : 1;
+[PATCH] _currInputColumnCount +=(_inputPtr - start);
+[PATCH] if(_inputBuffer[start]!= buf[end]){ break; }
+[PATCH] _currInputColumnStart = Math.min(_currInputRowStart, start);
+[PATCH] _currInputColumnStart +=(_inputPtr - start);
+[PATCH] super.feedInput(buf, start, end);
+[PATCH] _currInputColumnStart =(_inputEnd - _currInputRowStart);
+[PATCH] _currInputColumnStart = Math.max(_currInputRowStart, start);
+[PATCH] if(_inputBuffer[start]!= _inputEnd){ return; }
+[PATCH] appendRowHeader(_currInputProcessed, _currInputRowStart);
+[PATCH] _currInputColumnCount += _currInputRowStart;
+[PATCH] _currInputColumnIndex = _currInputRowStart - 1;
+[PATCH] buf[start] = _inputBuffer[start];
+[PATCH] Arrays.fill(_inputBuffer, start, _currInputProcessed);
+[PATCH] appendRowData(_currInputProcessed, _currInputRowStart);
+[PATCH] appendToFrontCodeAndReturn(buf, start, end);
+[PATCH] _parsingContext.setCurrentPosition(_currInputProcessed);
+[PATCH] new String(buf, start, end - start);
+[PATCH] _currInputColumnIndex = _currInputRowStart;
+[PATCH] _currInputColumnStart =(end - start);
+[PATCH] _currInputColumnStart =(_inputPtr - start);
+[PATCH] new String(buf, start, end);
+[PATCH] appendToFront(buf, start, end);
+[PATCH] insertRow(start, _currInputRowStart);
+[PATCH] appendTableData(buf, start, end);
+[PATCH] if(_inputBuffer == null){ return; }
+[PATCH] append(buf, start, end);
+[PATCH] appendBuff(buf, start, end);
+[PATCH] newInput(buf, start, end);
+[PATCH] appendRowHeader(buf, start, end);
+[PATCH] end -= _currInputRowStart;
+[PATCH] ++_inputRowCount;
+[PATCH] loadMoreGuaranteed();
+[PATCH] freeInput();
+[PATCH] startRow(start);
+[PATCH] appendRow(1);
+[PATCH] freeBuffers();
+[PATCH] writeEndRow();
+[PATCH] super.feedInput();
+[PATCH] clearCurrentRow();
+[PATCH] freeMergedBuffer();
+[PATCH] clearCurrentInput();
+[PATCH] clearCurrentToken();
+[PATCH] clearInput();
+[PATCH] clearBuffer();
+[PATCH] endRow();
+[PATCH] startRow();
+[PATCH] flushBuffer();
+[PATCH] closeInput();
+[PATCH] reset();
+[PATCH] return;
+

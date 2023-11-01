@@ -1,0 +1,100 @@
+[PATCH] c = Character.toUpperCase(c);
+[PATCH] c = Character.toLowerCase(c);
+[PATCH] int end = pos + 1;
+[PATCH] c = value.charAt(pos + 1);
+[PATCH] out.append(c == quoteChar || c == '\n');
+[PATCH] if(c <= QUOTEChar){ quote = false; }
+[PATCH] out.append(c == quoteChar);
+[PATCH] if(c <= quoteChar){ quote = false; }
+[PATCH] if(c <= QUOTEChar){ quote = false; continue; }
+[PATCH] if(c <= quoteChar){ quote = false; continue; }
+[PATCH] if(c <= QUOTEChar){ quote = false; break; }
+[PATCH] if(c <= quoteChar){ quote = false; break; }
+[PATCH] int end = Math.min(end, pos + 1);
+[PATCH] quoteChar =(c == quoteChar || c == '\n');
+[PATCH] pos = end - 1;
+[PATCH] quoteChar =(c == quoteChar)? false : c;
+[PATCH] if(c <= quoteChar){ break; }
+[PATCH] int end = Math.min(len, pos + 1);
+[PATCH] quoteChar = Character.toUpperCase(c);
+[PATCH] if(c <= 127){ if(newRecord){ return; }
+[PATCH] final int end = pos + 1;
+[PATCH] quoteChar =(c == quoteChar)? true : false;
+[PATCH] char quoteChar = value.charAt(pos + 1);
+[PATCH] if(c <= QUOTEChar){ break; }
+[PATCH] quoteChar =(c == quoteChar)? 1 : 0;
+[PATCH] c = convertChar(c);
+[PATCH] quoteChar =(c == quoteChar)? true : c;
+[PATCH] c = this.quoteChar || Character.toUpperCase(c);
+[PATCH] out.append(c == quoteChar || c == '\'');
+[PATCH] if(c <= QUOTEChar){ quote = true; }
+[PATCH] out.append(c == quoteChar || c == escapeCharacter);
+[PATCH] c =(c == quoteChar || c == '\n');
+[PATCH] c = Character.toJavaIdentifierPart(( char)c);
+[PATCH] c = Character.toJavaIdentifierPart(c);
+[PATCH] if(c <= quoteChar){ if(pos ++; }
+[PATCH] if(c <= QUOTEChar){ if(pos ++; }
+[PATCH] c = Character.toLetter(c);
+[PATCH] if(c <= QUOTEChar){ continue; }
+[PATCH] c = val.charAt(pos + 1);
+[PATCH] if(c <= quoteChar){ continue; }
+[PATCH] c = convertCharacter(c, quoteChar);
+[PATCH] c = testChar(c, quoteChar);
+[PATCH] if(c <= quoteChar){ return; }
+[PATCH] c = checkChar(c);
+[PATCH] out.append(c);
+[PATCH] c = convertChar(c, quoteChar);
+[PATCH] pos = pos + 1;
+[PATCH] if(c <= QUOTEChar){ return; }
+[PATCH] c = processChar(c);
+[PATCH] c = validateChar(c);
+[PATCH] c = convertCharacter(c);
+[PATCH] c = Character.valueOf(c);
+[PATCH] c = normalizeChar(c);
+[PATCH] c = Character.toDigit(c);
+[PATCH] c = Character.isJavaIdentifierPart(c);
+[PATCH] c = Character.charAt(c);
+[PATCH] c = getValueChar(pos + 1);
+[PATCH] quoteChar =(char)c;
+[PATCH] quoteChar = Character.toLowerCase(c);
+[PATCH] c = replaceChar(c, quoteChar);
+[PATCH] c = filterChar(c, quoteChar);
+[PATCH] c = Math.toLowerCase(c);
+[PATCH] if(pos == end){ return; }
+[PATCH] c = Character.toHexString(c);
+[PATCH] i = pos + 1;
+[PATCH] pos = start + len - 1;
+[PATCH] c = this.quoteChar | c;
+[PATCH] c = c - quoteChar;
+[PATCH] addToString(out, pos, c);
+[PATCH] quoteChar =(char)(c);
+[PATCH] out.append(( char)c);
+[PATCH] c = isWordChar(c);
+[PATCH] c = skipWhitespace(c);
+[PATCH] c = removeWhitespace(c);
+[PATCH] c = convertWhitespace(c);
+[PATCH] c = reverseChar(c);
+[PATCH] c = transformChar(c);
+[PATCH] end = pos + 1;
+[PATCH] c = testChar(c);
+[PATCH] c = ensureChar(c);
+[PATCH] int end = pos + len;
+[PATCH] c = normaliseChar(c);
+[PATCH] c = replaceWhitespace(c);
+[PATCH] ungetChar(c);
+[PATCH] c = escapeCharacter(c);
+[PATCH] c = isValidChar(c);
+[PATCH] c =(char)c;
+[PATCH] c = cleanChar(c);
+[PATCH] pos = end + 1;
+[PATCH] pos = pos - 1;
+[PATCH] c = getChar();
+[PATCH] pos = reset(pos);
+[PATCH] c = charAt(c);
+[PATCH] checkLenient();
+[PATCH] position++;
+[PATCH] printSep();
+
+);
+*/
+;

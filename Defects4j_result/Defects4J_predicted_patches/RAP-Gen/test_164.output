@@ -1,0 +1,100 @@
+[PATCH] default: switch(parent.getType()){ case Token.OBJECTLIT: return;
+[PATCH] default: switch(parent.getType()){ case Token.GETELEM: return;
+[PATCH] default : switch(parent.getType()){ case Token.OBJECTLIT: return;
+[PATCH] default: switch(parent.getType()){ case Token.OBJECTLIT : return;
+[PATCH] default : switch(parent.getType()){ case Token.OBJECTLIT: return; }
+[PATCH] default: switch(parent.getType()){ case Token.OBJECTLIT: return; }
+[PATCH] case Token.GETELEM: return;
+[PATCH] case Token.GETELEM: type = parent.getFirstChild().getNext(); break;
+[PATCH] case Token.OBJECTLIT: return;
+[PATCH] case Token.GETELEM: parent = parent.getFirstChild();
+[PATCH] default : switch(parent.getType()){ case Token.GETELEM: return;
+[PATCH] case Token.OBJECTLIT: type = Name.Type.OBJECTLIT; break;
+[PATCH] case Token.GETELEM: type = Name.Type.GETELEM; break;
+[PATCH] case Token.THIS: parent = parent.getFirstChild();
+[PATCH] case Token.OBJECTLIT: type = getValueType(parent); break;
+[PATCH] case Token.OBJECTLIT: if(parent.getFirstChild() == n){ return; }
+[PATCH] default : if(parent.getType() == Token.NAME){ return; }
+[PATCH] default: switch(parent.getType()){ case Token.THIS: return;
+[PATCH] case Token.OBJECTLIT: parent = parent.getFirstChild();
+[PATCH] default: switch(parent.getType()){ case Token.THIS: return; }
+[PATCH] case Token.GETELEM: type = getValueType(parent); break;
+[PATCH] case Token.OBJECTLIT : if(parent.getFirstChild() == n){ return; }
+[PATCH] case Token.OBJECTLIT: type = getNameForObjLitKey(parent); break;
+[PATCH] default: switch(parent.getType()){ case Token.GETELEM: return; }
+[PATCH] case Token.OBJECTLIT: NodeUtil.setObjectLitKey(parent, n); break;
+[PATCH] case Token.OBJECTLIT: parent = parent.getFirstChild(); isPropAssign = true;
+[PATCH] default: if(parent.getType() == Token.NAME){ return; }
+[PATCH] case Token.GETELEM: type = parent.getFirstChild().getNext();
+[PATCH] case Token.OBJECTLIT : parent.getFirstChild().setString(name); break;
+[PATCH] default: switch(parent.getType()){ case Token.GETPROP : return;
+[PATCH] case Token.THIS: if(parent.getFirstChild() == n){ return; }
+[PATCH] case Token.OBJECTLIT: type = getName(parent.getFirstChild()); break;
+[PATCH] case Token.OBJECTLIT: name = parent.getFirstChild().getString();
+[PATCH] case Token.GETELEM: type = parent.getFirstChild(); break;
+[PATCH] default: switch(parent.getType()){ case Token.GETELEM : return;
+[PATCH] case Token.OBJECTLIT: type = getValueType(n); break;
+[PATCH] default : switch(parent.getType()){ case Token.THIS: return; }
+[PATCH] case Token.OBJECTLIT: type = parent.getJSType(); break;
+[PATCH] default: switch(parent.getType()){ case Token.OBJECTLIT: break;
+[PATCH] case Token.GETELEM: parent = parent.getParent();
+[PATCH] default: switch(parent.getType()){ case Token.OBJECTLIT:
+[PATCH] default: switch(parent.getType()){ case Token.NAME: return;
+[PATCH] default : switch(parent.getType()){ case Token.GETELEM: return; }
+[PATCH] case Token.OBJECTLIT : parent.getLastChild().setString(name); break;
+[PATCH] default : switch(parent.getType()){ case Token.GETPROP: return; }
+[PATCH] case Token.OBJECTLIT : parent.getFirstChild().detachFromParent();
+[PATCH] case Token.OBJECTLIT: name = parent.getFirstChild().getString(); break;
+[PATCH] case Token.OBJECTLIT: type = getName(parent.getString()); break;
+[PATCH] default: switch(parent.getType()){ case Token.OBJECTLIT : return; }
+[PATCH] default: if(NodeUtil.isGetProp(parent)) { return; }
+[PATCH] case Token.OBJECTLIT: type = getName(n.getString()); break;
+[PATCH] case Token.THIS: type = getValueType(parent); break;
+[PATCH] default : if(NodeUtil.isGetProp(parent)) { return; }
+[PATCH] case Token.OBJECTLIT : if(parent.getType() == Token.GETPROP){
+[PATCH] default: switch(parent.getType()){ case Token.GETPROP: return;
+[PATCH] case Token.OBJECTLIT : name = parent.getFirstChild().getString();
+[PATCH] case Token.GETELEM: parent = parent.getLastChild();
+[PATCH] case Token.OBJECTLIT : Node rvalue = parent.getLastChild();
+[PATCH] default: switch(parent.getType()){ case Token.NULL : return;
+[PATCH] case Token.OBJECTLIT: parent = parent.getFirstChild(); break;
+[PATCH] default : switch(parent.getType()){ case Token.OBJECTLIT:
+[PATCH] case Token.OBJECTLIT : Node rvalue = parent.getFirstChild();
+[PATCH] parent = parent.getFirstChild().getNext();
+[PATCH] case Token.OBJECTLIT : return;
+[PATCH] case Token.OBJECTLIT: type = Type.OBJECTLIT; break;
+[PATCH] case Token.GETELEM: n.detachFromParent();
+[PATCH] case Token.GETELEM: type = parent.getFirstChild();
+[PATCH] case Token.OBJECTLIT: Node gramps = parent.getParent();
+[PATCH] parent = parent.getFirstChild();
+[PATCH] case Token.OBJECTLIT: node.detachFromParent();
+[PATCH] case Token.GETELEM: node.detachFromParent();
+[PATCH] case Token.GETELEM : return;
+[PATCH] case Token.REF_SPECIAL : return;
+[PATCH] case Token.EXPR_RESULT : return;
+[PATCH] case Token.THIS: return;
+[PATCH] case Token.GETELEM: break;
+[PATCH] case Token.GETELEM:
+[PATCH] case Token.GETPROP: return;
+[PATCH] case Token.INVOKESTATIC: return;
+[PATCH] case Token.EXPR_RESULT: return;
+[PATCH] case Token.INC || Token.DEC){
+[PATCH] case Token.OBJECTLIT:
+[PATCH] parent = parent.getParent();
+[PATCH] case Token.OBJECTLIT: break;
+[PATCH] case Token.GETPROP : return;
+[PATCH] case Token.OBJECTLIT:
+[PATCH] case Token.UNKNOWN: return;
+[PATCH] default: throw new RuntimeException("");
+[PATCH] default: throw new IllegalStateException("");
+[PATCH] default: throw new IllegalArgumentException("");
+[PATCH] case Token.PROP : return;
+[PATCH] default : break;
+[PATCH] default: return;
+[PATCH] default: return; }
+[PATCH] default : return;
+[PATCH] default: break;
+[PATCH] default :
+[PATCH] case
+);
+;

@@ -1,0 +1,100 @@
+[PATCH] if(options.hasOption(opt)) {
+[PATCH] if(options.hasArgs()){
+[PATCH] if(options.hasOption(opt +"=")) {
+[PATCH] if(arg.indexOf('=')== -1){
+[PATCH] if(options.hasArg(arg)) {
+[PATCH] if(options.hasOption(opt + 1)) {
+[PATCH] if(arg.startsWith("--")) {
+[PATCH] if(options.hasArgsOption(arg)) {
+[PATCH] if(options.hasArgsParameter(arg)) {
+[PATCH] if(options.hasParameter(arg)) {
+[PATCH] if(options.hasVarArgsParameter(arg)) {
+[PATCH] if(options.hasLongOpt(arg)) {
+[PATCH] if(options.hasOption(opt).hasArg()){
+[PATCH] if(options.hasOptionalArg(arg)) {
+[PATCH] if(options.hasOption(opt+1)) {
+[PATCH] if(arg.startsWith("-")) {
+[PATCH] if(options.hasOption(arg)) {
+[PATCH] if(processOption(opt)) {
+[PATCH] if(options.hasArgsMarker(arg)) {
+[PATCH] if(options.hasArgument(arg)) {
+[PATCH] if(options.hasOption(opt == null){
+[PATCH] if(startAtNonOption && stopAtNonOption){
+[PATCH] if(arg.indexOf("--")== -1){
+[PATCH] if(options.hasOption("--")) {
+[PATCH] if(options.hasOption(opt,"--")) {
+[PATCH] if(options.hasOption(opt2)) {
+[PATCH] if(arg.length() == 2){
+[PATCH] if(opt == null && stopAtNonOption){
+[PATCH] if(arg.indexOf("=")== -1){
+[PATCH] if(options.hasArgsArgument(arg)) {
+[PATCH] if(arg.charAt(0)== '['){
+[PATCH] if(options.hasArgsFlag(arg)) {
+[PATCH] if(options.hasArgsOpt(arg)) {
+[PATCH] if(options.hasOption(opt, false)) {
+[PATCH] if(options.hasOption(opt == null)) {
+[PATCH] if(options.hasRangeOption(opt)) {
+[PATCH] if(options.hasOpt(opt)) {
+[PATCH] if(options.hasArgsAnnotation(opt)) {
+[PATCH] if(options.hasOption(opt).hasArgs()){
+[PATCH] if(options.hasVarArgsOption(arg)) {
+[PATCH] if(options.hasArg("--" + opt)) {
+[PATCH] if(sb.startsWith("--")) {
+[PATCH] if(options.hasArgsAnnotation(arg)) {
+[PATCH] if(arg.length() > 2){
+[PATCH] if(arg.charAt(0)== '<'){
+[PATCH] if(options.hasMultipleOption(opt)) {
+[PATCH] if(options.hasGroupOption(opt)) {
+[PATCH] if(options.hasDoubleOpt(arg)) {
+[PATCH] if(options.hasOption(opt, true)) {
+[PATCH] if(options.hasOptionalParameter(arg)) {
+[PATCH] if(options.hasArgsSeparator()){
+[PATCH] if(options.hasRequiredMarker(arg)) {
+[PATCH] if(!"--".equals(opt)) {
+[PATCH] if(options.hasRestOption(opt)) {
+[PATCH] if(options.hasMoreThanOneOption()){
+[PATCH] if(options.hasOption("--" + opt)) {
+[PATCH] if(options.hasOption(opt)&&("");
+[PATCH] if(options.hasValueSeparator(arg)) {
+[PATCH] if(options.hasOption(opt +1)) {
+[PATCH] if(options.hasDecimalOption(opt)) {
+[PATCH] if(options.hasRestParameter()){
+[PATCH] if(options.hasOption(opt).isRequired()){
+[PATCH] if(options.hasParam(arg)) {
+[PATCH] if(arg.startsWith("=")) {
+[PATCH] if(options.hasArgsDelimiter(arg)) {
+[PATCH] if(options.hasArgsArg()){
+[PATCH] if(options.hasLongOption(arg)) {
+[PATCH] if(options.hasRestOption(arg)) {
+[PATCH] if(options.hasOption(prop)) {
+[PATCH] if(args.length > 2){
+[PATCH] if(parameters.length == 2){
+[PATCH] if(options.hasGroupOption(arg)) {
+[PATCH] if(arg.indexOf('=')< 0){
+[PATCH] if(tokens.size() == 2){
+[PATCH] if(options.hasOptionalOption(arg)) {
+[PATCH] if(arg.charAt(0)== ';'){
+[PATCH] if(options.hasOption(op)) {
+[PATCH] if(options.hasMultipleOptions()){
+[PATCH] if(arguments.length == 2){
+[PATCH] if(processArgs(options, opt)) {
+[PATCH] if(options.hasOption(opt +")) {
+[PATCH] if(options.hasMultipleArgs()){
+[PATCH] if(arg.charAt(0)== '-'){
+[PATCH] if(options.hasArg("--")) {
+[PATCH] if(processArgs(opt)) {
+[PATCH] if(options.hasOption(desc)) {
+[PATCH] if(options.hasMultipleValues()){
+[PATCH] if(options.hasArg()){
+[PATCH] if(options.hasOption(opt){
+[PATCH] if(options.hasVarArgs()){
+[PATCH] if(options.hasRValue()){
+[PATCH] if(options.hasLineBreak()){
+[PATCH] if(options.hasOption(opt);
+[PATCH] if(options.hasOneArg()){
+[PATCH] if(arguments.length > 2){
+[PATCH] if(options.hasLineSeparator()){
+[PATCH] if(opt == null){
+[PATCH] if(params.length == 2){
+[PATCH] if(matchOption(opt)) {
+[PATCH] if(startAtNonOption){

@@ -1,0 +1,100 @@
+[PATCH] for(String longOpt : shortOpts.keySet()){ if(longOpt.startsWith(opt)) { matchingOpts.add(longOpt); }
+[PATCH] for(Map<String, String> longOpts : shortOpts.keySet()){ if(longOpt.startsWith(opt)) { matchingOpts.add(longOpt); }
+[PATCH] for(Map longOpts : shortOpts.keySet()){ if(longOpts.containsKey(opt)) { matchingOpts.add(longOpts.get(opt)); }
+[PATCH] for(Map<String, String> longOpts : shortOpts.keySet()){
+[PATCH] for(Map shortOpts : shortOpts.keySet()){ if(shortOpts.containsKey(opt)) { matchingOpts.add(shortOpts.get(opt)); }
+[PATCH] for(Map<String, String> shortOpts : shortOpts.keySet()){ if(shortOpts.containsKey(opt)) { matchingOpts.add(shortOpt); }
+[PATCH] for(String longOpt : shortOpts.keySet()){ if(longOpt.startsWith(opt)) { matchingOpts.add("-" + longOpt); }
+[PATCH] for(Map<String,Object> longOpts : shortOpts.keySet()){ if(longOpt.startsWith(opt)) { matchingOpts.add(longOpt); }
+[PATCH] for(String shortOpt : shortOpts.keySet()){ if(shortOpt.startsWith(opt)) { matchingOpts.add(shortOpt); }
+[PATCH] for(Map longOpts : shortOpts.keySet()){ if(longOpts.containsKey(opt)) { matchingOpts.add(longOpt); }
+[PATCH] for(String longOpt : shortOpts.keySet()){ if(longOpt.startsWith(opt)) { matchingOpts.add(shortOpt); }
+[PATCH] for(String longOpt : shortOpts.keySet()){ if(longOpt.startsWith(opt)) { matchingOpts.add(shortOpt.get(longOpt)); }
+[PATCH] for(Map longOpts : shortOpts.keySet()){ if(longOpts.containsKey(opt)) { matchingOpts.add(shortOpts.get(longOpt)); }
+[PATCH] for(String shortOpt : shortOpts.keySet()){ if(shortOpts.containsKey(longOpt)) { matchingOpts.add(shortOpt); }
+[PATCH] for(Map shortOpts : shortOpts.keySet()){ if(shortOpts.containsKey(opt)) { matchingOpts.add(shortOpt.get(opt)); }
+[PATCH] for(Map longOpts : shortOpts.values()){ if(longOpts.containsKey(opt)) { matchingOpts.add(longOpts.get(opt)); }
+[PATCH] for(String longOpt : shortOpts.keySet()){ if(longOpt.startsWith(opt)) { matchingOpts.add("--"); }
+[PATCH] for(String shortOpt : shortOpts.keySet()){ if(opt.startsWith(shortOpt)) { matchingOpts.add(shortOpt); }
+[PATCH] for(String longOpt : shortOpts.keySet()){ if(longOpt.startsWith(opt)) { matchingOpts.add(longOpt); continue; }
+[PATCH] for(Map<String, String> longOpts : shortOpts.keySet()){ if(longOpts.containsKey(opt)) { matchingOpts.add(longOpt); }
+[PATCH] for(Map<String, Object> longOpts : shortOpts.keySet()){ if(longOpt.startsWith(opt)) { matchingOpts.add(longOpt); }
+[PATCH] for(Map<String, String> longOpts : shortOpts.keySet()){ if(longOpt.startsWith(opt)) { matchingOpts.add("--"); }
+[PATCH] for(Map<String, String> longOpts : shortOpts.values()){ if(longOpt.startsWith(opt)) { matchingOpts.add(longOpt); }
+[PATCH] for(Map longOpts : shortOpts.keySet()){ if(longOpt.startsWith(opt)) { matchingOpts.add(longOpt); }
+[PATCH] for(String shortOpt : shortOpts.keySet()){ if(!shortOpts.containsKey(longOpt)) { matchingOpts.add(shortOpt); }
+[PATCH] for(String longOpt : shortOpts.keySet()){ if(longOpt.startsWith(opt)) { matchingOpts.add(longOpt); break; }
+[PATCH] for(String longOpt : shortOpts.keySet()){ if(longOpt.equals(opt)) { matchingOpts.add(longOpt); }
+[PATCH] for(Map<String, String> longOpts : shortOpts.keySet()){ if(opt.startsWith(longOpt)) { matchingOpts.add(longOpt); }
+[PATCH] for(Map<String, String> longOpts : shortOpts.keySet()){ if(longOpt.startsWith(opt)) { matchingOpts.add(shortOpt); }
+[PATCH] for(Map<String,String> longOpts : shortOpts.keySet()){ if(longOpt.startsWith(opt)) { matchingOpts.add(longOpt); }
+[PATCH] for(Map<String, String> longOpts : shortOpts.keySet()){ if(LongOpt.startsWith(opt)) { matchingOpts.add(longOpt); }
+[PATCH] for(Map<String, String> longOpts : shortOpts.keySet()){ if(longOpt.equals(opt)) { matchingOpts.add("--"); }
+[PATCH] for(Map <String, String> longOpts : shortOpts.keySet()){ if(longOpt.startsWith(opt)) { matchingOpts.add(longOpt); }
+[PATCH] for(String longOpt : shortOpts.keySet()){ if(longOpt.contains(opt)) { matchingOpts.add(longOpt); }
+[PATCH] for(Map<String, String> shortOpts : shortOpts.keySet()){
+[PATCH] for(Map<String, String> longOpts : shortOpts.keySet()){ if(longOpts.containsKey(opt)) { matchingOpts.add(shortOpt); }
+[PATCH] for(Map<String, String> longOpts : shortOpts.keySet()){ if(( longOpt.startsWith(opt))){ matchingOpts.add(longOpt); }
+[PATCH] for(String shortOpt : shortOpts.keySet()){ if(shortOpts.containsKey(opt)) { matchingOpts.add(shortOpt); }
+[PATCH] for(Map<String, String> longOpts : shortOpts.keySet()){ if(longOpts.containsKey(opt)) { matchingOpts.add("--"); }
+[PATCH] for(Map<String, String> longOpts : shortOpts.keySet()){ if(longOpt.startsWith(opt)) { matchingOpts.add(""); }
+[PATCH] for(String longOpt : shortOpts.keySet()){ if(longOpt.endsWith(opt)) { matchingOpts.add(longOpt); }
+[PATCH] for(Map<String, String> shortOpts : shortOpts.values()){ if(shortOpts.containsKey(opt)) { matchingOpts.add(shortOpt); }
+[PATCH] for(Map shortOpts : shortOpts.values()){ if(shortOpts.containsKey(opt)) { matchingOpts.add(shortOpts.get(opt)); }
+[PATCH] for(Map longOpts : shortOpts.keySet()){ if(longOpts.containsKey(opt)) { matchingOpts.add("-" + longOpt); }
+[PATCH] for(Map longOpts : shortOpts.keySet()){ if(longOpt.startsWith(opt)) { matchingOpts.add("-" + longOpt); }
+[PATCH] for(String longOpt : shortOpts.keySet()){ if(longOpt.startsWith(opt)) { matchingOpts.add(""); }
+[PATCH] for(Map longOpts : shortOpts.keySet()){ if(longOpts.get(opt)!= null){ matchingOpts.add(longOpts.get(opt)); }
+[PATCH] for(Map longOpts : shortOpts.keySet()){ if(longOpts.containsKey(opt)) { matchingOpts.add(shortOpt.get(opt)); }
+[PATCH] for(Map<String, String> longOpts : shortOpts.keySet()){ if(!longOpts.containsKey(opt)) { matchingOpts.add("--"); }
+[PATCH] for(Map<String, String> longOpts : shortOpts.keySet()){ if(longOpt.contains(opt)) { matchingOpts.add(longOpt); }
+[PATCH] for(String longOpt : shortOpts.values()){ if(longOpt.startsWith(opt)) { matchingOpts.add(longOpt); }
+[PATCH] for(Map<String, String> shortOpts : shortOpts.keySet()){ if(longOpts.containsKey(opt)) { matchingOpts.add(shortOpt); }
+[PATCH] for(String longOpt : shortOpts.keySet()){ if(shortOpts.containsKey(longOpt)) { matchingOpts.add(longOpt); }
+[PATCH] for(String longOpt : shortOpts.keySet()){ if(longOpt.startsWith(opt)) { matchingOpts.add(shortOpt.remove(longOpt)); }
+[PATCH] for(Map<String, String> longOpts : shortOpts.keySet()){ if("-".startsWith(longOpt)) { matchingOpts.add(longOpt); }
+[PATCH] for(String longOpt : shortOpts.keySet()){ if(longOpt.equals(opt)) { matchingOpts.add("-" + longOpt); }
+[PATCH] for(String longOpt : shortOpts.keySet()){ if(longOpt.stripLeadingHyphens(longOpt)) { matchingOpts.add(longOpt); }
+[PATCH] for(Map longOpts : shortOpts.keySet()){ if(longOpts.containsKey(opt)) { matchingOpts.add("--"); }
+[PATCH] for(Map longOpts : shortOpts.values()){ if(longOpts.keySet().contains(opt)) { matchingOpts.add(longOpts.get(opt)); }
+[PATCH] for(String shortOpt : shortOpts.keySet()){ if(shortOpts.containsKey(shortOpt)) { matchingOpts.add(shortOpt); }
+[PATCH] for(Map<String,Object> shortOpts : shortOpts.keySet()){ if(shortOpts.containsKey(opt)) { matchingOpts.add(shortOpt); }
+[PATCH] for(String longOpt : shortOpts.keySet()){ if(longOpt.startsWith(opt)) { matchingOpts.add(shortOpt.substring(2)); }
+[PATCH] for(Map<String, String> shortOpts : shortOpts.keySet()){ if(shortOpt.startsWith(opt)) { matchingOpts.add(shortOpt); }
+[PATCH] for(String longOpt : shortOpts.keySet()){ if(longOpt.equals(opt)) { matchingOpts.add("--"); }
+[PATCH] for(Map longOpts : shortOpts.values()){ if(longOpts.containsKey(opt)) { matchingOpts.add(longOpt); }
+[PATCH] for(String longOpt : shortOpts.keySet()){ if(longOpt.startsWith(opt)) { matchingOpts.add(shortOpt.substring(1)); }
+[PATCH] for(String longOpt : shortOpts.keySet()){ if(longOpt.startsWith(opt){ matchingOpts.add(longOpt); }
+[PATCH] for(Map longOpts : shortOpts.keySet()){ if(longOpt.startsWith(opt)) { matchingOpts.add("--"); }
+[PATCH] for(Map longOpts : shortOpts.keySet()){ if(longOpts.containsKey(opt)) { matchingOpts.add(longOpts.get(shortOpt)); }
+[PATCH] for(String shortOpt : shortOpts.keySet()){ if("-".equals(shortOpt)) { matchingOpts.add(shortOpt); }
+[PATCH] for(Map<String, String> shortOpts : shortOpts.keySet()){ if(opt.startsWith(shortOpt)) { matchingOpts.add(shortOpt); }
+[PATCH] for(Map<String, String> shortOpts : shortOpts.keySet()){ matchingOpts.add(shortOpts.get(opt)); }
+[PATCH] for(String shortOpt : shortOpts.keySet()){ if(longOpt.startsWith(opt)) { matchingOpts.add(shortOpt); }
+[PATCH] for(Map<String, String> longOpts : shortOpts.values()){
+[PATCH] for(Map<String, String> longOpts : shortOpts.keySet()){ if(longOpt == null){ continue; }
+[PATCH] for(Map<String,Object> longOpts : shortOpts.keySet()){
+[PATCH] for(String longOpt : shortOpts.keySet()){ if(longOpt == null){ continue; }
+[PATCH] for(Map<String, String> shortOpts : shortOpts.values()){
+[PATCH] for(String longOpt : shortOpts.keySet()){ matchingOpts.add(longOpt); }
+[PATCH] for(Map <String, String> longOpts : shortOpts.keySet()){
+[PATCH] for(String shortOpt : shortOpts.keySet()){ matchingOpts.add(shortOpt); }
+[PATCH] for(Map<String,?> longOpts : shortOpts.keySet()){
+[PATCH] for(Map<String,String> longOpts : shortOpts.keySet()){
+[PATCH] for(Map<String, Object> longOpts : shortOpts.keySet()){
+[PATCH] for(Map longOpts : shortOpts.keySet()){
+[PATCH] for(Map<String, String> longOpts : shortOpts.valueSet()){
+[PATCH] for(Map<String,Object> longOpts : shortOpts.values()){
+[PATCH] for(Map<String,?> longOpts : shortOpts.keySet()){
+[PATCH] for(Map<String, String> longOpts : shortOpts.entrySet()){
+[PATCH] for(String longOpt : shortOpts.keySet()){
+[PATCH] for(Map<String,?> longOpts : shortOpts.values()){
+[PATCH] for(String shortOpt : shortOpts.keySet()){
+[PATCH] for(Map longOpts : shortOpts.values()){
+[PATCH] for(Map shortOpts : shortOpts.keySet()){
+[PATCH] if(shortOpts.containsKey(opt)) {
+[PATCH] if(shortOpts.keySet()){
+[PATCH] while(shortOpts.keySet()){
+[PATCH] if(shortOpts!= null){
+[PATCH] for("--");
+[PATCH] for("");

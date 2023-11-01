@@ -1,0 +1,100 @@
+[PATCH] if(!forAnnotations){
+[PATCH] if(forAnnotations){
+[PATCH] if(isTypeCycle()){
+[PATCH] if(detectTypeCycle()){
+[PATCH] if(isTypeCycle(enclosing)) {
+[PATCH] if(detachImplicitPrototype()){
+[PATCH] if(hasNonLocalTypeDeclaration()){
+[PATCH] if(hasReferenceName()){
+[PATCH] if(hasNonLocalPropertyReference()){
+[PATCH] if(hasNonLocalPropertyNode()){
+[PATCH] if(hasNonLocalTypeDefinition()){
+[PATCH] if(typeCycleCount > 0){
+[PATCH] if(hasNonLocalTypes()){
+[PATCH] if(typeCycleHandler!= null){
+[PATCH] if(typeCycleCount() > 0){
+[PATCH] if(isTypeCycle()){
+[PATCH] if(hasAnySingletonTypeTags()){
+[PATCH] if(registry.isTypeCycle()){
+[PATCH] if(!resolved){
+[PATCH] if(hasNonLocalSideEffects()){
+[PATCH] if(hasNonLocalizedType()){
+[PATCH] if(hasNonStandardTypes()){
+[PATCH] if(hasNonLocalizedType()){
+[PATCH] if(hasNonLocalPropertyCycle()){
+[PATCH] if(hasNonLocalizedTypeDefinition()){
+[PATCH] if(typeContinuingEnabled){
+[PATCH] if(hasNonLocalObjectType()){
+[PATCH] if(hasNonLocalTypePropertyNodes()){
+[PATCH] if(hasNonLocalTypeTags()){
+[PATCH] if(hasNonLocalTypeProperties()){
+[PATCH] if(!resolvePropertyContinuations()){
+[PATCH] if(hasNonLocalTypeRelatedTags()){
+[PATCH] if(hasNonLocalObjectTypePropertyNode()){
+[PATCH] if(!resolveAllProperties()){
+[PATCH] if(hasNonLocalSideEffect()){
+[PATCH] if(hasNonLocalPropertyTypes()){
+[PATCH] if(!resolveImplicitPrototypeCycle()){
+[PATCH] if(hasNonLocalPropertyDeclaration()){
+[PATCH] if(hasEnumParameterType()){
+[PATCH] if(hasNonLocalReferenceName()){
+[PATCH] if(isCycle()){
+[PATCH] if(isEnumElementCycle()){
+[PATCH] if(hasNonConflictingTypes()){
+[PATCH] if(typeCycleCount){
+[PATCH] if(hasNonLocalPropertyDefinition()){
+[PATCH] if(hasNonLocalPropertyTree()){
+[PATCH] if(hasNonLocalizedTypeDeclaration()){
+[PATCH] if(hasNonLocalTypedPropertyNode()){
+[PATCH] if(hasNonLocalTypePropertyNode()){
+[PATCH] if(hasNonLocalTypeAnnotation()){
+[PATCH] if(hasNonLocalPrototypeProperty()){
+[PATCH] if(hasNonConflictingProperties()){
+[PATCH] if(typeCycleCount()){
+[PATCH] if(hasNonLocalPropertyHandler()){
+[PATCH] if(isConstructorCycle()){
+[PATCH] if(typeCycle == null){
+[PATCH] if(hasNonLocalPropertyTokens()){
+[PATCH] if(findTypeCycle(t)) {
+[PATCH] if(hasNonExecutableType()){
+[PATCH] if(hasNonLocalImplementingType()){
+[PATCH] if(hasNonLocalObjectTypePropertyNodes()){
+[PATCH] if(hasNonLocalizedTypeType()){
+[PATCH] if(hasNonLocalTypeInfo()){
+[PATCH] if(scope.isGlobal()){
+[PATCH] if(hasNonLocalizedTypeTags()){
+[PATCH] if(hasNonLocalProperties()){
+[PATCH] if(referencedTypeCount == 0){
+[PATCH] if(hasNonConstants()){
+[PATCH] if(containsTypeCycle()){
+[PATCH] if(hasNonBaseType()){
+[PATCH] if(typeInferred){
+[PATCH] if(detachTypeCycle()){
+[PATCH] if(registry.isTypeCycleEnabled()){
+[PATCH] if(typeCycleCallback!= null){
+[PATCH] if(typeCycleMeetingMinimumRequirements){
+[PATCH] if(registry.isTypeCycleRequired()){
+[PATCH] if(hasNonReferenceName()){
+[PATCH] if(typeCycleRequired){
+[PATCH] if(hasPropertyCycle()){
+[PATCH] if(hasNonLocal propertyNode){
+[PATCH] if(typeCycle > 0){
+[PATCH] if(typeCycleMeetingMinimumRequirements()){
+[PATCH] if(hasNonStdType()){
+[PATCH] if(checkEnumElementCycle()){
+[PATCH] if(hasNonStandardTypeException()){
+[PATCH] if(hasNonImplicitPrototype()){
+[PATCH] if(typeCycleIgnored){
+[PATCH] if(!resolveProperties()){
+[PATCH] if(typeCycleFound()){
+[PATCH] if(hasImplicitPrototype()){
+[PATCH] if(typeCycleingEnabled){
+[PATCH] if(inferred){
+[PATCH] if(isGlobalCycle()){
+[PATCH] if(hasUnknownType()){
+[PATCH] if(hasTypeCycle()){
+[PATCH] if(typeCycleFound){
+[PATCH] if(typeCycleable){
+[PATCH] if(typeCycleDetection){
+[PATCH] if(typeCycleFlag){
+[PATCH] if(unresolved){

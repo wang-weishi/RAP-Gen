@@ -1,0 +1,100 @@
+[PATCH] } else if(tb!= null){ tb.writeEndObject(); if(tb.isEmpty()){ return null; }
+[PATCH] } else if(tb!= null){ p = tb.asParser(p); if(p.getCurrentToken() == JsonToken.START_OBJECT){ return deser.deserialize(p, ctxt); }
+[PATCH] } else if(tb!= null){ p = tb.asParser(p); if(p.getCurrentToken() == JsonToken.END_OBJECT){ return deser.deserialize(p, ctxt); }
+[PATCH] } else if(tb!= null){ JsonParser p = tb.asParser(p); if(p.getCurrentToken() == JsonToken.START_OBJECT){ return deser.deserialize(p, ctxt); }
+[PATCH] } else if(tb!= null){ tb.writeEndObject(); if(tb.getCurrentToken() == JsonToken.END_OBJECT){ return deser.deserialize(p, ctxt); }
+[PATCH] } else if(tb!= null){ tb.writeEndObject(); while(p.nextToken()!= JsonToken.END_OBJECT){ p = tb.asParser(p); }
+[PATCH] } else if(tb!= null){ p = tb.asParser(p); if(p.getCurrentToken() == JsonToken.START_OBJECT){ return deserializeTypedUsingDefaultImpl(p, ctxt); }
+[PATCH] } else if(tb!= null){ tb.writeEndObject(); if(p.getCurrentToken() == JsonToken.END_OBJECT){ return deser.deserialize(p, ctxt); }
+[PATCH] } else if(tb!= null){ tb.writeEndObject(); while(p.nextToken()!= JsonToken.END_OBJECT){ p.skipChildren(); }
+[PATCH] } else if(tb!= null){ tb.writeEndObject(); if(tb.getCurrentToken() == JsonToken.END_OBJECT){ return _deserializeTypedUsingDefaultImpl(p, ctxt); }
+[PATCH] } else if(tb!= null){ JsonParser p = tb.asParser(p); if(p.getCurrentToken() == JsonToken.END_OBJECT){ return deser.deserialize(p, ctxt); }
+[PATCH] } else if(tb!= null){ tb.writeEndObject(); if(tb.isEmpty()){ return _deserializeTypedUsingDefaultImpl(p, ctxt); }
+[PATCH] } else if(tb!= null){ TokenBuffer tb = tb.asParser(p); if(tb.isEmpty()){ return null; }
+[PATCH] } else if(tb!= null){ p = tb.asParser(p); if(p.getCurrentToken() == JsonToken.FIELD_NAME){ return deser.deserialize(p, ctxt); }
+[PATCH] } else if(tb!= null){ tb.writeEndObject(); if(tb.isEmpty() && _typePropertyName.equals(p.getText())) { return null; }
+[PATCH] } else if(tb!= null){ p = tb.asParser(p); if(p.getCurrentToken() == JsonToken.FIELD_NAME){ return _deserializeTypedFromAny(p, ctxt); }
+[PATCH] } else if(tb!= null){ tb.writeEndObject(); if(tb.hasMoreTokens()){ return _deserializeTypedUsingDefaultImpl(p, ctxt, tb); }
+[PATCH] } else if(tb!= null){ p = tb.asParser(p); if(p.nextToken() == JsonToken.START_OBJECT){ return _deserializeTypedUsingDefaultImpl(p, ctxt); }
+[PATCH] } else if(tb!= null){ tb.writeEndObject(); if(p.getCurrentToken() == JsonToken.END_OBJECT){ return _deserializeTypedUsingDefaultImpl(p, ctxt); }
+[PATCH] } else if(tb!= null){ p = tb.asParser(p); if(p.getCurrentToken() == JsonToken.FIELD_NAME){ return deser.deserializeTypedFromArray(p, ctxt); }
+[PATCH] } else if(tb!= null){ tb.writeEndObject(); if(tb.getCurrentToken() == JsonToken.END_OBJECT){ return super.deserializeTypedUsingDefaultImpl(p, ctxt); }
+[PATCH] } else if(tb!= null){ p = tb.asParser(p); if(p.nextToken() == JsonToken.START_OBJECT){ return deser.deserialize(p, ctxt); }
+[PATCH] } else if(tb!= null){ JsonDeserializer<Object> deser = _findDefaultImplDeserializer(ctxt, p); if(deser!= null){ return deser.deserialize(p, ctxt, tb); }
+[PATCH] } else if(tb!= null){ tb.writeEndObject(); if(!ctxt.isEnabled(DeserializationFeature.ACCEPT_EMPTY_STRING_AS_NULL_OBJECT)) { return null; }
+[PATCH] } else if(tb!= null){ tb.writeEndObject(); if(tb.hasMoreTokens()){ return _deserializeTypedUsingDefaultImpl(p, ctxt); }
+[PATCH] } else if(tb!= null){ tb.writeEndObject(); if(p.getCurrentToken() == JsonToken.FIELD_NAME){ return _deserializeTypedUsingDefaultImpl(p, ctxt); }
+[PATCH] } else if(tb!= null){ tb.writeEndObject(); if(tb.getCurrentToken() == JsonToken.END_OBJECT){ return(( JsonDeserializer<Object>)p).deserialize(ctxt); }
+[PATCH] } else if(tb!= null){ tb.writeEndObject(); if(p.getCurrentToken() == JsonToken.END_OBJECT){ return super.deserializeTypedUsingDefaultImpl(p, ctxt); }
+[PATCH] } else if(tb!= null){ tb.writeEndObject(); if(p.getCurrentToken() == JsonToken.END_OBJECT){ return(( JsonDeserializer<Object>)p).deserialize(ctxt); }
+[PATCH] } else if(tb!= null){ tb.writeEndObject(); JsonDeserializer<Object> deser = _findDefaultImplDeserializer(ctxt); if(deser!= null){ return deser; }
+[PATCH] } else if(tb!= null){ tb.writeEndObject(); if(!ctxt.isEnabled(DeserializationFeature.ACCEPT_EMPTY_ARRAY_AS_NULL_OBJECT)) { return null; }
+[PATCH] } else if(tb!= null){ JsonDeserializer<Object> deser = _findDefaultImplDeserializer(ctxt); if(deser!= null){ return deser.deserialize(p, ctxt, tb); }
+[PATCH] } else if(tb!= null){ p = tb.asParser(p); if(p.getCurrentToken() == JsonToken.FIELD_NAME){ return deserializeTypedFromArray(p, ctxt); }
+[PATCH] } else if(tb!= null){ tb.writeEndObject(); if(_typePropertyName.equals(p.getText())) { return _deserializeTypedUsingDefaultImpl(p, ctxt); }
+[PATCH] } else if(tb!= null){ p = tb.asParser(p); if(p.getCurrentToken() == JsonToken.FIELD_NAME){ return _deserializeTypedFromArray(p, ctxt); }
+[PATCH] } else if(tb!= null){ tb.writeEndObject(); if(tb.getCurrentToken() == JsonToken.FIELD_NAME){ return _deserializeTypedUsingDefaultImpl(p, ctxt); }
+[PATCH] } else if(tb!= null){ tb.writeEndObject(); if(p.getCurrentToken() == JsonToken.START_OBJECT){ return _deserializeTypedUsingDefaultImpl(p, ctxt); }
+[PATCH] } else if(tb!= null){ tb.writeEndObject(); if(tb.getCurrentToken() == JsonToken.START_OBJECT){ return _deserializeTypedUsingDefaultImpl(p, ctxt); }
+[PATCH] } else if(tb!= null){ while(p.nextToken()!= JsonToken.FIELD_NAME){ p = tb.asParser(p); }
+[PATCH] } else if(tb!= null){ tb.writeEndObject(); if(tb.isEmpty() && p.getCurrentToken() == JsonToken.END_OBJECT){ return null; }
+[PATCH] } else if(tb!= null){ tb.writeEndObject(); if(tb.hasChildren()){ return _deserializeTypedUsingDefaultImpl(p, ctxt, tb); }
+[PATCH] } else if(tb!= null){ Token buffer = tb.asParser(p); if(buffer.isEmpty()){ return null; }
+[PATCH] } else if(tb!= null){ while(p.nextToken()!= JsonToken.START_OBJECT){ p = tb.asParser(p); }
+[PATCH] } else if(tb!= null){ tb.writeEndObject(); if(tb.hasMoreElements()){ return _deserializeTypedUsingDefaultImpl(p, ctxt, tb); }
+[PATCH] } else if(tb!= null){ tokenBuffer = tb.asParser(p); if(tokenBuffer.isEmpty()){ return null; }
+[PATCH] } else if(tb!= null){ tb.writeEndObject(); if(tb.getCurrentToken() == JsonToken.END_OBJECT){ return deserializeTypedUsingDefaultImpl(p, ctxt); }
+[PATCH] } else if(tb!= null){ p = tb.asParser(p); if(p.getCurrentToken() == JsonToken.VALUE_NULL){ return null; }
+[PATCH] } else if(tb!= null){ p = tb.asParser(p); if(p.getCurrentToken() == JsonToken.START_OBJECT){ return deserializeTypedFromObject(p, ctxt); }
+[PATCH] } else if(tb!= null){ tb.writeEndObject(); if(tb.isInline()){ return _deserializeTypedUsingDefaultImpl(p, ctxt, tb); }
+[PATCH] } else if(tb!= null){ tb.writeEndObject(); if(tb.getCurrentToken() == JsonToken.END_OBJECT){ return _deserializeTypedUsingDefaultImpl(p, ctxt, tb); }
+[PATCH] } else if(tb!= null){ tb.writeEndObject(); if(tb.hasMoreElements()){ return _deserializeTypedUsingDefaultImpl(p, ctxt); }
+[PATCH] } else if(tb!= null){ tb.writeEndObject(); if(tb.nextToken() == JsonToken.END_OBJECT){ return deser.deserialize(p, ctxt); }
+[PATCH] } else if(tb!= null){ tb.writeEndObject(); p.skipChildren(); if(tb.isEmpty()){ return null; }
+[PATCH] } else if(tb!= null){ tb.writeEndObject(); JsonDeserializer<Object> deser = _findDefaultImplDeserializer(ctxt, p); if(deser!= null){ return deser; }
+[PATCH] } else if(tb!= null){ token = tb.asParser(p); if(token == JsonToken.START_OBJECT){ return _deserializeTypedUsingDefaultImpl(p, ctxt, t); }
+[PATCH] } else if(tb!= null){ tb.writeEndObject(); p = tb.asParser(p); while(p.nextToken()!= JsonToken.END_OBJECT){ p.skipChildren(); }
+[PATCH] } else if(tb!= null){ p = tb.asParser(p); if(p.getCurrentToken() == JsonToken.END_OBJECT){ return null; }
+[PATCH] } else if(tb!= null){ TokenBuffer cur = tb.asParser(p); if(cur == JsonToken.VALUE_NULL){ return null; }
+[PATCH] } else if(tb!= null){ p = tb.asParser(p); if(p.getCurrentToken() == JsonToken.START_OBJECT){ return _deserializeTypedFromObject(p, ctxt); }
+[PATCH] } else if(tb!= null){ token = tb.asToken(); if(token == JsonToken.START_OBJECT){ return _deserializeTypedUsingDefaultImpl(p, ctxt, t); }
+[PATCH] } else if(tb!= null){ for(Token t : tb.asParser(p)) { p = t.asParser(p); }
+[PATCH] } else if(tb!= null){ tb.writeEndObject(); if(tb.isEmpty() && p.getText().length() == 0){ return null; }
+[PATCH] } else if(tb!= null){ tb.writeEndObject(); if(tb.hasMoreTokens()){ return deser.deserializeTypedFromAny(p, ctxt); }
+[PATCH] } else if(tb!= null){ tb.writeEndObject(); if(tb.hasMoreTokens()){ return deserializeTypedFromArray(p, ctxt, tb); }
+[PATCH] } else if(tb!= null){ TokenBuffer tb = tb.asParser(p); if(tb.getCurrentToken() == JsonToken.END_OBJECT){ return deser.deserialize(p, ctxt); }
+[PATCH] } else if(tb!= null){ TokenBuffer tb = tbasParser(p); if(tb.isEmpty()){ return null; }
+[PATCH] } else if(tb!= null){ tb.writeEndObject(); p = tb.asParser(p); if(p.getCurrentToken() == JsonToken.END_OBJECT){ return null; }
+[PATCH] } else if(tb!= null){ tb.writeEndObject(); if(tb.isEmpty() && _typePropertyName.length() == 0){ return null; }
+[PATCH] } else if(tb!= null){ p = tb.asParser(p); if(p.getCurrentToken() == JsonToken.FIELD_NAME){ return null; }
+[PATCH] } else if(tb!= null){ t = tb.asParser(p); if(t!= JsonToken.FIELD_NAME){ return t.getText(); }
+[PATCH] } else if(tb.isEmpty()){ tb.writeEndObject(); p.skipChildren(); return null; }
+[PATCH] } else if(tb!= null){ TokenBuffer t = tb.asTokenBuffer(); if(t!= null){ return t.getValue(); }
+[PATCH] } else if(tb!= null){ TokenBuffer t = tb.asParser(p); if(t!= null){ return t.getValue(); }
+[PATCH] } else if(tb!= null){ tb.writeEndObject(); if(_typePropertyName.equals(p.getText())) { return null; }
+[PATCH] } else if(tb!= null){ tb.writeEndObject(); if(tb.getCurrentToken() == JsonToken.END_OBJECT){ return null; }
+[PATCH] } else if(tb!= null){ JsonParser p = tb.asParser(p); if(p.getCurrentToken() == JsonToken.FIELD_NAME){ return deserializeTypedFromArray(p, ctxt); }
+[PATCH] } else if(tb!= null){ tb.writeEndObject(); if(tb.isEmpty()){ p.skipChildren(); }
+[PATCH] } else if(tb!= null){ TokenBuffer tc = tb.asParser(p); if(tc!= null){ return tc.getValue(); }
+[PATCH] } else if(tb!= null){ tb.writeEndObject(); p.skipChildren(); return null; }
+[PATCH] } else if(tb!= null){ tb.writeEndObject(); if(tb.isEmpty()){ p.skipChildren(); return null; }
+[PATCH] } else if(tb!= null){ t = tb.asParser(p); if(t!= null){ return t.getValue(); }
+[PATCH] } else if(tb!= null){ tb.writeEndArray(); if(tb.isEmpty()){ return null; }
+[PATCH] } else if(tb!= null){ t = tb.asParser(p); if(t!= null){ return t.getText(); }
+[PATCH] } else if(tb!= null){ TokenBuffer t = tb.asParser(p); if(t == null){ return null; }
+[PATCH] } else if(tb!= null){ TokenBuffer tc = tb.asParser(p); if(tc!= null){ return tc.getText(); }
+[PATCH] } else if(tb!= null){ tb.writeEndObject(); p = tb.asParser(p); }
+[PATCH] } else if(tb!= null){ TokenBuffer t = tb.asTokenBuffer(); if(t!= null){ return t; }
+[PATCH] } if(tb!= null){ tb.writeEndObject(); if(tb.isEmpty()){ return null; }
+[PATCH] } else if(tb!= null){ tb.writeEndObject(); throw new JsonMappingException(""); }
+[PATCH] } else if(tb!= null){ tb.writeEndObject(); p = JsonParserSequence.createFlattened(tb, p); }
+[PATCH] } else if(tb.isEmpty()){ throw ctxt.mappingException(""); }
+[PATCH] } else if(tb!= null){ throw new JsonMappingException(""); }
+[PATCH] p = p.asParser(tb);
+[PATCH] p = tb.asParser(p);
+[PATCH] p.clearCurrentToken();
+[PATCH] p.nextToken();
+[PATCH] p.skipChildren();
+[PATCH]
+[PATCH] dup();
+[PATCH] }

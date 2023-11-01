@@ -1,0 +1,100 @@
+[PATCH] if(offsetLocal >= offsetAdjusted){ if(instantLocal - offsetAdjusted < 0){ return offsetLocal; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ if(getOffsetFromLocal(instantLocal)) { return offsetLocal - offsetAdjusted; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ if(compareTo(instantLocal)< 0){ return offsetLocal - offsetAdjusted; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ if(DateTimeUtils.isUTC(instantLocal)) { return offsetLocal - offsetAdjusted; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ if(Math.abs(instantLocal - offsetAdjusted)< 0){ return offsetLocal; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ if(instantLocal - offsetAdjusted)< 0){ return offsetLocal; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ if(compareToFixedOffset(instantLocal)< 0){ return offsetLocal - offsetAdjusted; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ while(( offsetLocal - offsetAdjusted)< 0){ offsetLocal = nextTransition(instantLocal); }
+[PATCH] if(offsetLocal >= offsetAdjusted){ if(compareTo(( long)instantLocal)< 0){ return offsetLocal - offsetAdjusted; }
+[PATCH] if(offsetLocal!= offsetAdjusted){ if(instantLocal - offsetAdjusted < 0){ return offsetLocal; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ if(( offsetLocal - offsetAdjusted)< 0){ return offsetLocal; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ if(Math.abs(instantLocal - offsetAdjusted)< 0){ return Integer.MIN_VALUE; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ if(InstantUtil.isUTC(instantLocal)) { return offsetLocal - offsetAdjusted; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ int temp = getOffsetFromLocal(instantLocal); if(temp!= offsetLocal){ return temp; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ if(InstantUtils.isUTC(instantLocal)) { return offsetLocal - offsetAdjusted; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ if(getOffsetFromLocal(instantLocal)) { return offsetLocal; }
+[PATCH] if(instantLocal >= offsetAdjusted){ if(Math.abs(instantLocal - offsetAdjusted)< 0){ return offsetLocal; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ if(compareTo(( offsetLocal - offsetAdjusted)< 0){ return offsetLocal; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ if( instantLocal - offsetAdjusted < 0){ return offsetLocal; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ int temp = getID(); if(temp!= instantLocal){ return temp.getOffsetFromLocal(instantLocal); }
+[PATCH] if(instantLocal >= offsetAdjusted){ if(offsetLocal - offsetAdjusted < 0){ return offsetLocal; }
+[PATCH] if(( offsetLocal - offsetAdjusted)< 0){ if(iID.equals(DateTimeZone.UTC)) { return offsetLocal; }
+[PATCH] if(( offsetLocal - offsetAdjusted)< 0){ if(instantAdjusted!= nextAdjusted){ return offsetAdjusted; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ if(DATE_ZONE.equals(iID)) { return offsetLocal; }
+[PATCH] if(( offsetLocal - offsetAdjusted)< 0){ if(nextLocal!= instantAdjusted){ return offsetLocal - offsetAdjusted; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ if(nextLocal!= instantAdjusted){ return offsetLocal - offsetAdjusted; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ offsetLocal = offsetLocal - offsetAdjusted; if(nextLocal!= instantLocal){ return offsetLocal; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ if(computeOffset(instantLocal)) { return offsetLocal - offsetAdjusted; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ if(getOffsetFromLocal(instantLocal - offsetAdjusted)) { return offsetLocal; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ if(compareTo(instantLocal)< 0){ return offsetLocal; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ if(instantLocal - offsetAdjusted == 0L){ return offsetLocal; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ if(compareTo(( offsetLocal - offsetAdjusted)< 0){ return offsetLocal - offsetAdjusted; }
+[PATCH] if(offsetLocal!= offsetAdjusted){ int temp = getOffsetFromLocal(instantLocal); if(temp!= offsetLocal){ return temp; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ int temp = getID(); if(temp!= instantLocal){ offsetLocal = temp.offsetLocal; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ if(iID.equals(DateTimeZone.UTC)) { return offsetLocal; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ int temp = getOffsetFromLocal(instantLocal); if(temp!= offsetLocal){ offsetLocal = temp; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ offsetLocal = offsetLocal - offsetAdjusted; if(nextLocal!= instantLocal){ return nextLocal; }
+[PATCH] if(instantLocal >= offsetAdjusted){ if(( offsetLocal - offsetAdjusted)< 0){ return offsetLocal - offsetAdjusted; }
+[PATCH] if(instantLocal >= offsetAdjusted){ if(getOffsetFromLocal(instantLocal - offsetAdjusted)) { return offsetLocal - offsetAdjusted; }
+[PATCH] if(instantLocal >= offsetAdjusted){ if(( offsetLocal - offsetAdjusted)< 0){ return offsetLocal; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ if(Math.abs(instantLocal - offsetAdjusted)< 0){ return offsetLocal + 1; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ int temp = getID(); if(temp!= instantLocal){ offsetLocal = temp - offsetAdjusted; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ offsetLocal = offsetLocal - offsetAdjusted; if(instantLocal!= nextLocal){ return offsetLocal; }
+[PATCH] if(instantLocal >= offsetAdjusted){ if(getOffsetFromLocal(instantLocal - offsetAdjusted)) { return offsetLocal; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ if(instantLocal - offsetAdjusted < 0){ return Integer.MIN_VALUE; }
+[PATCH] if(instantLocal >= offsetAdjusted){ if(Math.abs(instantLocal - offsetAdjusted)< 0){ return Integer.MIN_VALUE; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ DateTime temp = cDefault.getZone(); if(temp == null){ return offsetLocal; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ offsetLocal = offsetLocal - 1; if(nextLocal!= instantAdjusted){ return offsetAdjusted; }
+[PATCH] if(instantLocal >= offsetAdjusted){ int temp = getOffsetFromLocal(instantAdjusted); if(temp!= offsetLocal){ return temp; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ if(overflow(instantLocal)) { return offsetLocal - offsetAdjusted; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ if((( offsetLocal - offsetAdjusted)< 0){ return offsetLocal; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ int temp = getID(); if(temp!= instantLocal){ offsetLocal = temp; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ if(convId.equals(DateTimeZone.UTC)) { return offsetLocal; }
+[PATCH] if(offsetLocal!= offsetAdjusted){ if(offsetLocal - offsetAdjusted < 0){ return offsetLocal; }
+[PATCH] if(instantLocal >= offsetAdjusted){ int temp = getID(); if(temp!= offsetLocal){ return temp.getOffsetFromLocal(instantLocal); }
+[PATCH] if(offsetLocal >= offsetAdjusted){ int temp = offsetLocal - offsetAdjusted; if(temp!= nextLocal){ return temp; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ if(offsetLocal - offsetAdjusted < 0){ return offsetLocal; }
+[PATCH] if(offsetLocal!= offsetAdjusted){ if(( offsetLocal - offsetAdjusted)< 0){ return offsetLocal; }
+[PATCH] if(instantLocal >= offsetAdjusted){ if(compareTo(( offsetLocal - offsetAdjusted)< 0){ return offsetLocal - offsetAdjusted; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ offsetLocal = offsetLocal - 1; if(instantAdjusted < 0){ return offsetAdjusted; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ int temp = offsetLocal - offsetAdjusted; if(temp!= 0){ return temp; }
+[PATCH] else if(( offsetLocal - offsetAdjusted)< 0){ if(nextLocal!= instantAdjusted){ return offsetLocal; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ if(nextLocal - offsetAdjusted < 0){ return offsetLocal; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ if(Double.isNaN(instantLocal)) { return 0; }
+[PATCH] if(offsetLocal!= offsetAdjusted){ int temp = getOffsetFromLocal(instantLocal); if(temp!= offsetLocal){ offsetLocal = temp; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ DateTimeZone temp = cDefault.getZone(); if(temp == null){ return offsetLocal; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ if(offsetLocal - offsetAdjusted < 1){ return offsetLocal; }
+[PATCH] if(instantLocal >= offsetAdjusted){ if(Math.abs(instantLocal - offsetAdjusted)< 0){ return offsetLocal + 1; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ if(compareToFixedOffset(instantLocal)< 0){ return offsetLocal; }
+[PATCH] if(instantLocal >= offsetAdjusted){ if(( offsetLocal - offsetAdjusted)< 0){ return offsetLocal - 1; }
+[PATCH] if(( offsetLocal - offsetAdjusted)< 0){ if(iDefault == null){ return offsetLocal; }
+[PATCH] if(( offsetLocal - offsetAdjusted)< 0){ if(iID == null){ return offsetLocal; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ fixedOffsetZone(instantLocal); if(offsetLocal - offsetAdjusted < 0){ return offsetLocal; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ if(DateTimeUtils.isUTC(instantLocal)) { return offsetLocal; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ fixedOffsetZone(instantLocal); if(offsetLocal - offsetAdjusted < 1){ return offsetLocal; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ if(instantLocal - offsetAdjusted < 1){ return offsetLocal; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ int temp = getOffsetFromLocal(instantLocal - offsetAdjusted); if(temp!= 0){ return temp; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ int temp = getID(); if(temp!= instantLocal){ return temp.getOffset(instantLocal); }
+[PATCH] if(offsetLocal >= offsetAdjusted){ if(DateTimeUtils.isUTC(instantLocal)) { return offsetLocal - 1; }
+[PATCH] if(offsetLocal!= offsetAdjusted){ int temp = offsetLocal - offsetAdjusted; if(temp!= 0){ return temp; }
+[PATCH] if(offsetLocal!= offsetAdjusted){ int temp = offsetLocal - offsetAdjusted; if(temp!= nextLocal){ return temp; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ if(compareTo(instantLocal)< 0){ return offsetLocal - 1; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ if(convId.equals(DateTimeZone.UTC)) { return offsetLocal - offsetAdjusted; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ offsetLocal = offsetLocal - offsetAdjusted; if(instantLocal == instantAdjusted){ return 0; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ if(nextLocal == instantAdjusted){ return offsetLocal; }
+[PATCH] if(instantLocal >= offsetAdjusted){ int temp = getID(); if(temp!= offsetLocal){ offsetLocal = temp.offsetLocal; }
+[PATCH] if(( offsetLocal - offsetAdjusted)< 0){ if(iID == null){ return DateTimeZone.UTC; }
+[PATCH] if(( offsetLocal - offsetAdjusted)< 0){ if(instantAdjusted < 0){ return offsetLocal; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ int temp = getID(); if(temp!= instantLocal){ return offsetLocal - temp.getOffset(); }
+[PATCH] if(offsetLocal < 0){ if(instantAdjusted!= 0){ return offsetAdjusted; }
+[PATCH] if(instantLocal >= offsetAdjusted){ int temp = getID(); if(temp!= offsetLocal){ offsetLocal = temp; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ if(iID.equals(DateTimeZone.UTC)) { return offset; }
+[PATCH] if(instantLocal >= offsetAdjusted){ int temp = getOffsetFromLocal(instantAdjusted); if(temp!= offsetLocal){ offsetLocal = temp; }
+[PATCH] else if(offsetLocal >= offsetAdjusted){ int temp = offsetLocal - offsetAdjusted; if(temp!= nextLocal){ return temp; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ return offsetLocal - offsetAdjusted; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ if(convId == null){ return offset; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ int temp = getOffsetFromLocal(instantLocal); if(temp!= offsetLocal){ return temp.getOffset(); }
+[PATCH] if(offsetLocal >= offsetAdjusted){ if(iID == null){ return offset; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ if(overflow(instantLocal)) { return offsetLocal; }
+[PATCH] if(offsetLocal >= offsetAdjusted){ int temp = getOffsetFromLocal(instantLocal); if(temp!= offsetLocal){ offsetLocal = tmp; }

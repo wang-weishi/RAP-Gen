@@ -1,0 +1,100 @@
+[PATCH] && isDigits(numeric.substring(1)) &&(numeric.charAt(0)== '-' || Character.isDigit(numeric.charAt(0)))) {
+[PATCH] && isDigits(numeric.substring(1, 0)) &&(numeric.charAt(0)== '-' || Character.isDigit(numeric.charAt(0)))) {
+[PATCH] && isDigits(numeric.substring(1, 1)) &&(numeric.charAt(0)== '-' || Character.isDigit(numeric.charAt(0)))) {
+[PATCH] && isDigits(numeric.substring(1)) ||(numeric.charAt(0)== '-' || Character.isDigit(numeric.charAt(0)))) {
+[PATCH] && isDigits(numeric.substring(1, 2)) &&(numeric.charAt(0)== '-' || Character.isDigit(numeric.charAt(0)))) {
+[PATCH] && isDigits(numeric, str.substring(1)) &&(numeric.charAt(0)== '-' || Character.isDigit(numeric.charAt(0)))) {
+[PATCH] || isDigits(numeric.substring(1)) &&(numeric.charAt(0)== '-' || Character.isDigit(numeric.charAt(0)))) {
+[PATCH] && isDigits(numeric.substring(1, 11)) &&(numeric.charAt(0)== '-' || Character.isDigit(numeric.charAt(0)))) {
+[PATCH] && isDigits(numeric.substring(1, 9)) &&(numeric.charAt(0)== '-' || Character.isDigit(numeric.charAt(0)))) {
+[PATCH] && isDigits(numeric.substring(1, 1)) ||(numeric.charAt(0)== '-' || Character.isDigit(numeric.charAt(0)))) {
+[PATCH] && isDigits(numeric.substring(1, 0)) ||(numeric.charAt(0)== '-' || Character.isDigit(numeric.charAt(0)))) {
+[PATCH] && isDigits(numeric.substring(1), 1)&&(0 == '-' || Character.isDigit(numeric.charAt(0)))) {
+[PATCH] && isDigits(numeric.substring(1)&&(numeric.charAt(0)== '-' || Character.isDigit(numeric.charAt(0)))) {
+[PATCH] && isDigits(numeric.substring(1, 10)) &&(numeric.charAt(0)== '-' || Character.isDigit(numeric.charAt(0)))) {
+[PATCH] && isDigit(numeric.substring(1)) ||(numeric.charAt(0)== '-' || Character.isDigit(numeric.charAt(0)))) {
+[PATCH] && isDigits(numeric.substring(1), '0' + Character.isDigit(numeric.charAt(0)))) {
+[PATCH] && isDigits(numeric.substring(1)); &&(numeric.charAt(0)== '-' || Character.isDigit(numeric.charAt(0)))) {
+[PATCH] && isLeadingZero(numeric.substring(1)) &&(numeric.charAt(0)== '-' || Character.isDigit(numeric.charAt(0)))) {
+[PATCH] && isDigits(numeric.substring(1)) &&(numeric.charAt(0] == '-' || Character.isDigit(numeric.charAt(0)))) {
+[PATCH] && isDigits(numeric.substring(1)))&&(numeric.charAt(0)== '-' || Character.isDigit(numeric.charAt(0)))) {
+[PATCH] && isDigits(numeric.substring(1), 1)&&(charAt(0)== '-' || Character.isDigit(numeric.charAt(0)))) {
+[PATCH] && isDigits(numeric.substring(1, len)) &&(numeric.charAt(0)== '-' || Character.isDigit(numeric.charAt(0)))) {
+[PATCH] && isDigits(numeric.substring(1)) ||(numeric.length() == 0 || Character.isDigit(numeric.charAt(0)))) {
+[PATCH] && isDigits(numeric.substring(1)) || isDigit(numeric.charAt(0)))) {
+[PATCH] && isDigits(numeric.substring(1, 0), '0' || Character.isDigit(numeric.charAt(0)))) {
+[PATCH] && isDigits(numeric.substring(1), false)&&(0 == '-' || Character.isDigit(numeric.charAt(0)))) {
+[PATCH] && isDigits(numeric.substring(1), 1)&&!Character.isDigit(numeric.charAt(0)))) {
+[PATCH] && isDigits(numeric.substring(1)) ||(numeric.length() == 1 && Character.isDigit(numeric.charAt(0)))) {
+[PATCH] && isDigits(numeric.substring(1, 0)) &&(numeric.charAt(0] == '-' || Character.isDigit(numeric.charAt(0)))) {
+[PATCH] && isDigits(numeric.substring(1), 1)&&(lastChar == '-' || Character.isDigit(numeric.charAt(0)))) {
+[PATCH] && isDigits(numeric.substring(1), 0, 1)&&(0 == '-' || Character.isDigit(numeric.charAt(0)))) {
+[PATCH] && isDigits(numeric.substring(1)) &&(numeric.charAt(0 0)== '-' || Character.isDigit(numeric.charAt(0)))) {
+[PATCH] && isDigits(numeric.substring(1)) ||(numeric.length() == 0 && Character.isDigit(numeric.charAt(0)))) {
+[PATCH] && isDigits(numeric.substring(1), true)&&(0 == '-' || Character.isDigit(numeric.charAt(0)))) {
+[PATCH] && isDigits(numeric.substring(1), '0' || Character.isDigit(numeric.charAt(0)))) {
+[PATCH] && isDigits(numeric.substring(1),!Character.isDigit(numeric.charAt(0)))) {
+[PATCH] && isDigits(numeric.substring(1), 'A' + Character.isDigit(numeric.charAt(0)))) {
+[PATCH] && isDigits(numeric.substring(1)) ||!Character.isDigit(numeric.charAt(0)))) {
+[PATCH] && isDigits(numeric.substring(1), 0, -1)|| Character.isDigit(numeric.charAt(0)))) {
+[PATCH] && isDigits(numeric.substring(1), 1)) {
+[PATCH] && isDigits(numeric.substring(1)) &&(numeric.charAt(0)== '-' || Character.isDigit( numeric.charAt(0)))) {
+[PATCH] && isDigits(numeric.substring(1)) || areAllZeros(mant)&& isDigit(numeric.charAt(0)))) {
+[PATCH] && isLeadingZero(numeric.substring(1)) || isTrailingZero(numeric.charAt(0)))) {
+[PATCH] && isDigits(numeric.substring(1)); if(!Character.isDigit(numeric.charAt(0)))) {
+[PATCH] || isDigits(numeric.substring(1)) || isDigit(numeric.charAt(0)))) {
+[PATCH] && isDigits(numeric.substring(1)) &&(numeric.charAt(0)== '-' || Character.isDigit(numeric.charAt(0])))) {
+[PATCH] && isDigits(numeric.substring(1, 2), '0' || Character.isDigit(numeric.charAt(0)))) {
+[PATCH] && isDigits(numeric.substring(1), 0, -1)) {
+[PATCH] && isDigits(numeric.substring(1), 1)&&(numeric.charAt(0)== '-' || Character.isDigit(numeric.charAt 0)))) {
+[PATCH] && isDigits(numeric.substring(1), 0, str.length() - 1)) {
+[PATCH] && isDigits(numeric.substring(1)) || isDigit(numeric.charAt(0)) || allZeros){
+[PATCH] && isDigits(numeric.substring(1)) &&(numeric.charAt(0)== '-' || Character.isDigit(denominator.charAt(0)))) {
+[PATCH] && isDigits(numeric.substring(1)) &&(numeric.charAt(0)== '-' || Character.isDigit(numeric.charAt(0))), {
+[PATCH] && isDigits(numeric.substring(1)) || isDigit(numeric.charAt(0)))|| allZeros){
+[PATCH] && isDigits(numeric.substring(1)) || isLeadingZero(numeric.charAt(0)))) {
+[PATCH] && isLeadingZero(numeric.substring(1)) || isNegativeZero(numeric.charAt(0)))) {
+[PATCH] && isDigits(numeric.substring(1), '\0' || Character.isDigit(numeric.charAt(0)))) {
+[PATCH] && isDigits(numeric.substring(1)) || areAllZeros(mant)&& isLeadingZero(exp)) {
+[PATCH] && isDigits(numeric.substring(1)) ||isDigit(numeric.charAt(0)))) {
+[PATCH] && isLeadingZero(numeric.substring(1)) || isVerticalZero(numeric.charAt(0)))) {
+[PATCH] && isDigits(numeric.substring(1), true, false)) {
+[PATCH] && isDigits(numeric.substring(1)) || containsDigit(numeric, 0)) || allZeros){
+[PATCH] && isDigits(numeric.substring(1), true, false, false)) {
+[PATCH] && isDigits(numeric.substring(1), allZeros)) {
+[PATCH] && isDigits(numeric.substring(1)) || areAllZeros(mant)&& isExponential(exp)) {
+[PATCH] && isDigits(numeric.substring(1)) || isDigit(numeric.charAt(0)))) {
+[PATCH] && isDigits(numeric.substring(1)); if(!Character.isDigit(numeric.charAt(0))){
+[PATCH] && isDigits(numeric.substring(1, 0), true, false, false)) {
+[PATCH] && isDigits(numeric.substring(1), 100, 0, 0)) {
+[PATCH] && isDigits(numeric.substring(1), false, false, false)) {
+[PATCH] && isDigits(numeric.substring(1), str.length() == 2){
+[PATCH] && isDigits(numeric.substring(1, 2), true, false, false)) {
+[PATCH] && isDigits(numeric.substring(1, str.length() - 1)) {
+[PATCH] && isDigits(numeric.substring(1), '0'): 0;
+[PATCH] && isDigits(numeric.substring(1)) || checkDigit(numeric, false)) {
+[PATCH] && isDigits(numeric.substring(1), 0, 1)) {
+[PATCH] && isDigits(numeric.substring(1, str.length() - 2)) {
+[PATCH] && isDigits(numeric.substring(1))){
+[PATCH] && isDigits(numeric.substring(1), 0, 9)) {
+[PATCH] && isDigits(numeric.substring(1), 2)) {
+[PATCH] && isDigits(numeric.substring(1)) || allZeros){
+[PATCH] || isDigit(numeric.charAt(0)))) {
+[PATCH] && isDigits(numeric.substring(1), 0)) {
+[PATCH] && isDigits(numeric.substring(1));
+[PATCH] || isLeadingZero(numeric)) {
+[PATCH] || isDigits(numeric.substring(1))){
+[PATCH] && isDigits(numeric, 0)) {
+[PATCH] && isDigits(numeric, 1)) {
+[PATCH] || isDigits(numeric)) {
+[PATCH] || isDigit(numeric, 0)) {
+[PATCH] || isDigits(numeric, 0)) {
+[PATCH] && isLeadingZero(numeric)) {
+[PATCH] || isDigits(numeric, 1)) {
+[PATCH] || isDigit(numeric)) {
+[PATCH] || isLeapType(numeric)) {
+[PATCH] || isTrailingZero(numeric)) {
+[PATCH] || isDecimal(numeric)) {
+[PATCH] && isDigits(numeric);
+[PATCH] || areDigits(numeric)) {
+[PATCH] || isLeap(numeric)) {

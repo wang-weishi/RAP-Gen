@@ -1,0 +1,100 @@
+[PATCH] if(ext.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(ext.handlePropertyValue(p, ctxt, propName, null)) {
+[PATCH] if(ext.handlePropertyValue(p, ctxt, propName, buf)) {
+[PATCH] if(ext.handlePropertyValue(p, ctxt, propName,buffer)) {
+[PATCH] if(buffer.assignParameter(creatorProp, null)) {
+[PATCH] if(extended.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(EXT.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if( ext.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(ext.handlePropertyValue(p, ctxt, propName, buffers)) {
+[PATCH] if(ext. handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(Ext.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(buffer.assignParameter(creatorProp, p.getText())) {
+[PATCH] if(extension.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(ext.HandlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(creator.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(buffer.assignParameter(creatorProp, _deserialize(p, ctxt));
+[PATCH] if(ext.processPropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(extent.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(buffer.hasParameter(creatorProp)) {
+[PATCH] if(ext.handlePropertyValue(p, ctxt, propName, this)) {
+[PATCH] if(impl.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(ext.handlePropertyValue(p, ctxt, propName,Buffer)) {
+[PATCH] if(ext.handlePropertyValue(p, ctxt, propName, 0)) {
+[PATCH] if(!ext.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(EXT_handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(extensions.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(owner.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(area.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(ext.handlePropertyValue( p, ctxt, propName, buffer)) {
+[PATCH] if(ext.handlePropertyValue(p, ctxt, propName, currentSegment)) {
+[PATCH] if(ext.handlePropertyValue(p, ctxt, propName, builder)) {
+[PATCH] if(t == JsonToken.VALUE_NULL){
+[PATCH] if(ext.handlePropertyValue(p, ctxt, prop, buffer)) {
+[PATCH] if(text.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(buffer.assignParameter(creatorProp, null)!= null){
+[PATCH] if(extern.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(hc.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(ext.handlePropertyValue(p, ctxt, propName, currentOffset)) {
+[PATCH] if(ext.handlePropertyValue(p, ctxt, propName, bufferedBuffer)) {
+[PATCH] if(_ext.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] else if(ext.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(ext.handlePropertyValue(p, ctxt, propName, BUFFER)) {
+[PATCH] if(buffer.assignParameter(creatorProp, p.getDoubleValue());
+[PATCH] if(creatorProp.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(e.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(tokenStream.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(ext.handlePropertyValue(p, ctxt, propName, state)) {
+[PATCH] if(helper.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(buffer.assignParameter(creatorProp, buffer.getValue(creatorProp));
+[PATCH] if(exp.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(ext.handlePropertyValue(p, ctxt, propName, creatorProp)) {
+[PATCH] if(ext.handlePropertyValue(p, ctxt, propName, owner)) {
+[PATCH] if(xt.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(ext.handlePropertyValue(p, ctxt, propName, parent)) {
+[PATCH] if(EXT_PROTOTYPE_BUFFER.equals(creatorProp)) {
+[PATCH] if(buffer.assignParameter(creatorProp, p.getIntValue()));
+[PATCH] if(renderer.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(q.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(ext.handlePropertyValue(p, ctxt, propName, currentScope)) {
+[PATCH] if(callbacks.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(ext.handlePropertyValue(p, ctxt, propName, 1)) {
+[PATCH] if(ext.handlePropertyValue(p, ctxt, propName, NULL)) {
+[PATCH] if(template.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(( t = p.nextToken())== JsonToken.VALUE_NULL){
+[PATCH] if(ts.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(html.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(ext.handlePropertyValue(p, ctxt, propName,BUFFER)) {
+[PATCH] if(ext.handlePropertyValue(p, ctxt, propName, context)) {
+[PATCH] if(ext.handlePropertyValue(pe, ctxt, propName, buffer)) {
+[PATCH] if(( t = p.nextToken())== JsonToken.VALUE_STRING){
+[PATCH] if(builder.assignParameter(creatorProp, null)) {
+[PATCH] if(ext.handlePropertyValue(p, ctxt, propName, array)) {
+[PATCH] if(t == JsonToken.VALUE_STRING){
+[PATCH] if(buffer.assignParameter(creatorProp, p.getText());
+[PATCH] if(handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(t.getCurrentToken() == JsonToken.VALUE_STRING){
+[PATCH] if(jp.getCurrentToken() == JsonToken.VALUE_STRING){
+[PATCH] if(buffer.canAssignParameter(creatorProp)) {
+[PATCH] if(EXT_NO_RESULT.equals(creatorProp)) {
+[PATCH] if(buffer.assignParameter(creatorProp)!= null){
+[PATCH] if(buffer.assignParameter(creatorProp, p.getLongValue()));
+[PATCH] if(buffer.assignParameter(creatorProp, p.getDoubleValue()));
+[PATCH] if(buffer.findParameter(creatorProp)!= null){
+[PATCH] if(buf.assignParameter(creatorProp, null)) {
+[PATCH] if(t == JsonToken.START_OBJECT){
+[PATCH] if(buffer.assignParameter(creatorProp, null);
+[PATCH] if(creatorProp.canCreateUsingDefault()){
+[PATCH] if(currentToken == JsonToken.VALUE_NULL){
+[PATCH] if(creator.hasCreatorProperty(propName)) {
+[PATCH] if(currentToken == JsonToken.VALUE_STRING){
+[PATCH] if(buffer.assignParameter(creatorProp);
+[PATCH] if(EXT_ZERO.equals(creatorProp)) {
+[PATCH] if(builder.hasParameter(creatorProp)) {
+[PATCH] if(buf.hasParameter(creatorProp)) {
+[PATCH] if(t.isScalarValue()){
+[PATCH] if(EXT_START_OBJECT == creatorProp){
+[PATCH] if(creatorProp.canCreateFromString()){
+[PATCH] if(buffer.assignParameter(creatorProp)) {
+[PATCH] if(creatorProp.hasConstructorParameter()){
+[PATCH] if(buffer.canCreateUsingDefault()){

@@ -1,0 +1,100 @@
+[PATCH] else if(type == Collection.class){ return new LinkedList<Object>(); }
+[PATCH] else if(type == Collection.class){ return new ArrayList<Object>(); }
+[PATCH] if(type == Collection.class){ return new LinkedList<Object>(); }
+[PATCH] else if(type == Set.class){ return new LinkedList<Object>(); }
+[PATCH] else if(type == Collection.class){ return new List<Object>(); }
+[PATCH] else if(type == List.class){ return new LinkedList<Object>(); }
+[PATCH] else if(type == Map.class){ return new LinkedList<Object>(); }
+[PATCH] else if(type == List.class){ return new ArrayList<Object>(); }
+[PATCH] else if(type == Set.class){ return new HashSet<Object>(); }
+[PATCH] if(type == Collection.class){ return new ArrayList<Object>(); }
+[PATCH] else if(type == Set.class){ return new LinkedHashSet<Object>(); }
+[PATCH] if(type == Set.class){ return new LinkedList<Object>(); }
+[PATCH] else if(type == Iterable.class){ return new LinkedList<Object>(); }
+[PATCH] else if(type == Iterable.class){ return new Iterable<Object>(); }
+[PATCH] else if(type == Iterator.class){ return new Iterator<Object>(); }
+[PATCH] else if(type == Set.class){ return new TreeSet<Object>(); }
+[PATCH] else if(type == Predicate.class){ return new Predicate<Object>(); }
+[PATCH] if(type == List.class){ return new LinkedList<Object>(); }
+[PATCH] else if(type == SortedSet.class){ return new LinkedList<Object>(); }
+[PATCH] else if(type == Collection.class){ return new Collection<Object>(); }
+[PATCH] else if(type == Iterable.class){ return new Iterator<Object>(); }
+[PATCH] else if(type == Iterable.class){ return new ArrayList<Object>(); }
+[PATCH] if(type == Map.class){ return new LinkedList<Object>(); }
+[PATCH] if(type == Collection.class){ return new List<Object>(); }
+[PATCH] else if(type == Collection.class){ return new Iterator<Object>(); }
+[PATCH] if(type == List.class){ return new ArrayList<Object>(); }
+[PATCH] else if(type == Collection.class){ return new Iterable<Object>(); }
+[PATCH] else if(type == boolean.class){ return new Boolean<Object>(); }
+[PATCH] else if(type == Set.class){ return new ArrayList<Object>(); }
+[PATCH] else if(type == Object.class){ return new Object(); }
+[PATCH] else if(type == Iterator.class){ return new ArrayList<Object>(); }
+[PATCH] else if(type == Iterable.class){ return new Collection<Object>(); }
+[PATCH] else if(type == Set.class){ return new Collection<Object>(); }
+[PATCH] else if(type == Iterator.class){ return new LinkedList<Object>(); }
+[PATCH] if(type == Iterable.class){ return new Iterable<Object>(); }
+[PATCH] if(type == Iterable.class){ return new LinkedList<Object>(); }
+[PATCH] else if(type == Map.class){ return new LinkedHashMap<Object>(); }
+[PATCH] else if(type == Array.class){ return new Array<Object>(); }
+[PATCH] if(type == Set.class){ return new LinkedHashSet<Object>(); }
+[PATCH] if(type == Set.class){ return new HashSet<Object>(); }
+[PATCH] if(type == Iterator.class){ return new Iterator<Object>(); }
+[PATCH] else if(type == Collection.class){ return new Array<Object>(); }
+[PATCH] else if(type == EnumSet.class){ return new EnumSet<Object>(); }
+[PATCH] else if(type == BigInteger.class){ return new BigInteger<Object>(); }
+[PATCH] else if(type == Boolean.class){ return new Boolean<Object>(); }
+[PATCH] else if(type == Class.class){ return new Class<Object>(); }
+[PATCH] else if(type == File.class){ return new File<Object>(); }
+[PATCH] else if(type == Set.class){ return new List<Object>(); }
+[PATCH] else if(type == Object.class){ return null; }
+[PATCH] if(type == Iterable.class){ return new Iterator<Object>(); }
+[PATCH] else if(type == Collection.class){ return List<Object>(); }
+[PATCH] if(type == SortedSet.class){ return new LinkedList<Object>(); }
+[PATCH] else if(type == Collection.class){ return new CollectionUtils<Object>(); }
+[PATCH] else if(type == Collection.class){ return Collections.emptyList(); }
+[PATCH] if(type == Set.class){ return new TreeSet<Object>(); }
+[PATCH] else if(type == Number.class){ return new Number<Object>(); }
+[PATCH] if(type == Iterable.class){ return new ArrayList<Object>(); }
+[PATCH] else if(type == String.class){ return new StringBuffer<Object>(); }
+[PATCH] else if(type == SortedSet.class){ return new TreeSet<Object>(); }
+[PATCH] else if(type == Date.class){ return new Date<Object>(); }
+[PATCH] else if(type == SortedSet.class){ return new ArrayList<Object>(); }
+[PATCH] else if(type == Document.class){ return new Document<Object>(); }
+[PATCH] else if(type == Iterable.class){ return new List<Object>(); }
+[PATCH] if(type == Predicate.class){ return new Predicate<Object>(); }
+[PATCH] else if(type == Set.class){ return new EnumSet<Object>(); }
+[PATCH] if(type == Object.class){ return new Object(); }
+[PATCH] else if(type == Iterable.class){ return new Array<Object>(); }
+[PATCH] else if(type == Collection.class){ return newCollection<Object>(); }
+[PATCH] else if(type.isArray()){ return new Array<Object>(); }
+[PATCH] else if(type == ObjectId.class){ return new ObjectId<Object>(); }
+[PATCH] if(type == boolean.class){ return new Boolean<Object>(); }
+[PATCH] else if(type == Collection.class){ return ArrayList<Object>(); }
+[PATCH] else if(type == Collection.class){ return new LinkedHashSet<Object>(); }
+[PATCH] else if(type == Enum.class){ return new Enum<Object>(); }
+[PATCH] if(type == Iterable.class){ return new Collection<Object>(); }
+[PATCH] else if(type == Object.class){ return new Object<Object>(); }
+[PATCH] if(type == Iterator.class){ return new ArrayList<Object>(); }
+[PATCH] else if(type == SortedMap.class){ return new LinkedList<Object>(); }
+[PATCH] if(type == Collection.class){ return new Iterator<Object>(); }
+[PATCH] else if(type == String.class){ return new StringBuilder<Object>(); }
+[PATCH] if(type == Iterator.class){ return new LinkedList<Object>(); }
+[PATCH] if(type == Collection.class){ return new Collection<Object>(); }
+[PATCH] else if(type == boolean.class){ return true; }
+[PATCH] if(type == Collection.class){ return new Iterable<Object>(); }
+[PATCH] else if(type == Map.class){ return new HashMap<Object>(); }
+[PATCH] if(type == Set.class){ return new ArrayList<Object>(); }
+[PATCH] if(type == Array.class){ return new Array<Object>(); }
+[PATCH] else if(type == Integer.class){ return new Integer<Object>(); }
+[PATCH] else if(type == String.class){ return""; }
+[PATCH] if(type == Object.class){ return null; }
+[PATCH] if(type == Collection.class){ return Collections.emptyList(); }
+[PATCH] else if(type == Number.class){ return new Integer(0); }
+[PATCH] else if(type == Object.class){ return EMPTY_VALUE; }
+[PATCH] else if(type == Object.class){ return EMPTY_OBJECT; }
+[PATCH] if(type == String.class){ return""; }
+[PATCH] else if(type == Collection.class){ return new LinkedList<Object >(); }
+[PATCH] else if(type == Collection.class){ return ArrayList.<Object>(); }
+[PATCH] else if(type == Boolean.class){ return true; }
+[PATCH] if(type == boolean.class){ return true; }
+[PATCH] return Primitives.defaultValueFor(type);

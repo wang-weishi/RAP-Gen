@@ -1,0 +1,100 @@
+[PATCH] [Delete]
+[PATCH] [Delete] this.registerMismatch(leftType, rightType);
+[PATCH] if(!leftType.isNoType()){
+[PATCH] if(!leftType.equals(rightType)) {
+[PATCH] if(!leftType.isInvalidatingType()){
+[PATCH] [Delete] en(rightType, leftType, null);
+[PATCH] [Delete] en(rightType, leftType, null);
+[PATCH] if(owner.getType() == Token.ASSIGN){
+[PATCH] [Delete] 1(propName, leftType.toObjectType());
+[PATCH] if(!leftType.isFunctionType()){
+[PATCH] if(!leftType.isUnknownType()){
+[PATCH] if(!leftType.isThisType()){
+[PATCH] [Delete] (rightType, leftType, null);
+[PATCH] if(!leftType.isObject()){
+[PATCH] [Delete] ell(rightType, leftType, null);
+[PATCH] if(!leftType.isVoidType()){
+[PATCH] if(!leftType.isEmpty()){
+[PATCH] [Delete] (rightType, leftType, null);
+[PATCH] [Delete] 2(leftType, rightType);
+[PATCH] if(owner.isNoType()){
+[PATCH] [Delete] ineno(rightType);
+[PATCH] [Delete]
+[PATCH] [Delete] return false;
+[PATCH] [Delete] return true;
+[PATCH] [Delete] reversible
+[PATCH] [Delete] enhous
+[PATCH] [Delete] e
+[PATCH] [Delete] break;
+[PATCH] [Delete] break
+[PATCH] [Delete] of
+[PATCH] [Delete] return
+[PATCH] [Delete] otic
+[PATCH] [Delete] f
+[PATCH] [Delete] eed
+[PATCH] [Delete] f
+[PATCH] [Delete] i
+[PATCH] [Delete],
+[PATCH] [Delete] i
+[PATCH] [Delete] of
+[PATCH] [Delete] e
+[PATCH] [Delete] of
+[PATCH] [Delete] s
+[PATCH] [Delete] t
+[PATCH] [Delete] s
+[PATCH] [Delete] st
+[PATCH] [Delete] f
+[PATCH] [Delete] ing
+[PATCH] [Delete] ber
+[PATCH] [Delete] n
+[PATCH] [Delete] ine
+[PATCH] [Delete] u
+[PATCH] [Delete] u
+[PATCH] [Delete] ers
+[PATCH] [Delete] ;
+[PATCH] [Delete] ir
+[PATCH] [Delete] 2
+[PATCH] [Delete] d
+[PATCH] [Delete] of
+[PATCH] [Delete] o
+[PATCH] [Delete] ic
+[PATCH] [Delete] _
+[PATCH] [Delete] d
+[PATCH] [Delete] se
+[PATCH] [Delete] c
+[PATCH] [Delete] t
+[PATCH] [Delete] n
+[PATCH] [Delete] 1
+[PATCH] [Delete] //
+[PATCH] [Delete] f
+[PATCH] [Delete] r
+[PATCH] [Delete] ian
+[PATCH] [Delete] it
+[PATCH] [Delete] o
+[PATCH] [Delete] b
+[PATCH] [Delete] ot
+[PATCH] [Delete] }
+[PATCH] [Delete] it
+[PATCH] [Delete] D
+[PATCH] [Delete] ,
+[PATCH] [Delete] :
+[PATCH] [Delete] ed
+[PATCH] [Delete] p
+[PATCH] [Delete],
+[PATCH] [Delete] anner
+[PATCH] [Delete] nd
+[PATCH] [Delete] ex
+[PATCH] [Delete] iae
+[PATCH] [Delete] r
+[PATCH] [Delete] us
+[PATCH] [Delete] est
+[PATCH] [Delete] name
+[PATCH] [Delete] es
+[PATCH] [Delete] P
+[PATCH] [Delete] able
+[PATCH] [Delete] ice
+[PATCH] [Delete] I
+[PATCH] [Delete]
+[Delete]
+
+);

@@ -1,0 +1,100 @@
+[PATCH] if(u * v == 0){ return 0; } if(u * v == 0){
+[PATCH] if(u * v == 0){ return 0; } if(v > 0){
+[PATCH] if(u * v == 0){ return 0; } if(u * v == 0){ return u; }
+[PATCH] if(u * v == 0){ return 0; } if(!u.equals(v)) {
+[PATCH] if(u * v == 0){
+[PATCH] if(u * v == 0){ return 0; } if(v * u > 0){
+[PATCH] if(u * v == 0){ return 0; } if(u * v == 0){ return 2; }
+[PATCH] if(u * v > 0){ return u; } if(v == 0){ return 0; }
+[PATCH] if(u * v == 0){ return 0; } if(v == 0){ return 1; }
+[PATCH] if(u * v == 0){ return 0; } if(u * v == 0){ return 1; }
+[PATCH] if(u * v == 0){ return 0; } if(v * u!= 0){
+[PATCH] if(u * v == 0){ return 0; } if(u * v < 0){
+[PATCH] if(u * v > 0){ return Math.abs(v)- Math.abs(u); }
+[PATCH] if(u * v == 0){ return 0; } if(u * v == 0){ return 100; }
+[PATCH] if(u * v == 0){ return 0; } if(u * v == 0){ return 10; }
+[PATCH] if(u * v == 0){ return 0; } if(u * v == 0){ return 31; }
+[PATCH] if(u * v < 0){ return 0; } if(v == 0){ return 1; }
+[PATCH] if(u * v == 0){ return 0; } if(v * u == 0){
+[PATCH] if(u * v < 0){ return u; } if(v == 0){ return 0; }
+[PATCH] if(u * v == 0){ return 0; } if(v == 0){ return u; }
+[PATCH] if(u * v == 0){ return 0; } if(( u * v)< 0){
+[PATCH] if(u * v >= 0){ return u; } if(v == 0){ return 0; }
+[PATCH] if(u * v == 0){ return 0; } if(!u.isEquivalentTo(v)) {
+[PATCH] if(u * v == 0){ return u; } if(v == 0){ return 0; }
+[PATCH] if(u * v == 0){ u++; } if(v == 0){ return 0; }
+[PATCH] if(u * v == 0){ return 0; } if(!u.abs().equals(v)) {
+[PATCH] if(u * v == 0){ return 0; } if(u * v == 0){ return n; }
+[PATCH] if(u * v == 0){ return 0; } if(u * v > 0){
+[PATCH] if(u * v >= 0){ return 0; } if(v == 0){ return 1; }
+[PATCH] if(u * v == 0){ return 0; } else if(v > 0){ return -1; }
+[PATCH] if(u * v = Math.abs(v); if(u == 0){ return 0; }
+[PATCH] if(u * v == 0){ return 0; } if(!u.isSubtract(v)) {
+[PATCH] if(u * v == 0){ return 0; } if(v * u < 0){
+[PATCH] if(u * v == 0){ return 0; } if(v == 0){ return(-u); }
+[PATCH] if(u * v == 0){ return 0; } if(v == 0){ return -1; }
+[PATCH] if(u * v == 0){ return0; } if(u * v == 0){
+[PATCH] if(u == v){ return 0; } if(v == 0){
+[PATCH] if(Math.abs(u)< Math.abs(v)) {
+[PATCH] if(u * v == 0){ return 0; } if(v == 0){
+[PATCH] if(u * v < 0){ return 0; } if(v == 0){ return u; }
+[PATCH] if(u * v!= 0){ return u; } if(v == 0){ return 0; }
+[PATCH] if(Math.abs(u)< Math.abs(v)) { return 0; }
+[PATCH] u = Math.max(u, v); v = Math.max(v, u);
+[PATCH] if(u * v == 0){ return 0; }
+[PATCH] if(u * v == 0){ return 0; } if(v * u >= 0){
+[PATCH] if(u * v >= 0){ return Math.abs(v)- Math.abs(u); }
+[PATCH] if(u * v < 0){ return 0; } if(v == 0){ return -1; }
+[PATCH] if(u * v == 0){ return 0; } if(u * v== 0){
+[PATCH] if(u * v; u = Math.abs(u); v = Math.abs(v); }
+[PATCH] if(u * v == 0){ u = 0; v = 0; }
+[PATCH] u = Math.abs(u); v = Math.abs(v);
+[PATCH] if(u * v){ return 0; } if(v == 0){ return 1; }
+[PATCH] if(u * v > 0){ return Math.max(u, v); }
+[PATCH] if(u == 0){ return 0; } if(v == 0){ return 1; }
+[PATCH] if(u * v == 0){ return 0; } if(v * u== 0){
+[PATCH] if(u * v == 0){ return 0; } else if(u * v == 0){
+[PATCH] if(u * v > 0){ return Math.abs(v - u); }
+[PATCH] if(u * v == 0){ return 0; } if(v < 0){
+[PATCH] if(u * v > 0){ return Math.abs(v); }
+[PATCH] if(Math.abs(u)> Math.abs(v)) {
+[PATCH] if(u * v >= 0){
+[PATCH] if(u * v == 0){ return Math.abs(v); }
+[PATCH] if(u * v == 0){ throw new IllegalArgumentException(""); }
+[PATCH] if(u * v == 0){ return Math.abs(0); }
+[PATCH] if(u == 0){ return 0; } if(v == 0){
+[PATCH] if(u * v < 0){ return Math.abs(v); }
+[PATCH] if(u * v > 0){
+[PATCH] if(u * v == 0){ throw new ArithmeticException(""); }
+[PATCH] if(u == 0 && v == 0){ return 0; }
+[PATCH] if(u * v < 0){
+[PATCH] if(u * v || u == 0){ return 0; }
+[PATCH] if(u == 0 || v == 0){ return 0; }
+[PATCH] if(u * v < 0){ return 0; }
+[PATCH] if(u * Math.abs(v)> 0){
+[PATCH] return Math.abs(u)+ Math.abs(v);
+[PATCH] if(u * v >= 0 || v == 0){
+[PATCH] if(u * v == 0 || v == 0){
+[PATCH] if(u == 0 && v == 0){
+[PATCH] if(u * v / u == 0){
+[PATCH] if(u * v + u > 0){
+[PATCH] if(u * v!= 0){
+[PATCH] if(u * v== 0){
+[PATCH] if(u * 2 + v == 0){
+[PATCH] if(u * v || u == 0){
+[PATCH] if( u * v == 0){
+[PATCH] if(u*v == 0){
+[PATCH] if(u * v == 1){
+[PATCH] if(u > v){
+[PATCH] if(u * v){
+[PATCH] if(u * v
+[PATCH] clearResult();
+[PATCH] checkLenient();
+[PATCH] clearPrefix();
+[PATCH] try {
+[PATCH] ;
+[PATCH] {
+
+);
+*/
+;

@@ -1,0 +1,100 @@
+[PATCH] while(nextTransition(instantLocal - offsetAdjusted)> 0){ offsetLocal = nextTransition(instantLocal - offsetAdjusted);
+[PATCH] if(( offsetLocal - offsetAdjusted)< 0){ int nextLocal = nextTransition(instantLocal); if(nextLocal!= nextLocal){ return offsetLocal; }
+[PATCH] while(nextTransition(instantLocal)) { offsetLocal = nextTransition(instantLocal - offsetAdjusted);
+[PATCH] for(int offsetLocal = 0; offsetLocal!= instantLocal; offsetLocal = nextTransition(instantLocal - offsetAdjusted); if(offsetLocal!= nextLocal){ return offsetLocal; }
+[PATCH] while(nextTransition(instantLocal))!= 0){ offsetLocal = nextTransition(instantLocal - offsetAdjusted);
+[PATCH] while(nextTransition(instantLocal - offsetAdjusted)) { offsetLocal = nextTransition(instantLocal - offsetAdjusted);
+[PATCH] if(( offsetLocal - offsetAdjusted)< 0){ if(!offsetLocal.equals(instantLocal)) { return offsetLocal; }
+[PATCH] for(int offsetLocal = nextTransition(instantLocal); int offsetAdjusted = nextTransition(instantLocal - offsetAdjusted); if(offsetLocal!= nextLocal){ return offsetLocal; }
+[PATCH] if(( offsetLocal - offsetAdjusted)< 0){ long nextLocal = nextTransition(instantLocal); if(nextLocal!= nextLocal){ return offsetLocal; }
+[PATCH] for(int offsetLocal = instantLocal; offsetLocal!= 0; offsetLocal = nextTransition(instantLocal - offsetAdjusted); if(offsetLocal!= nextLocal){ return offsetLocal; }
+[PATCH] if(( offsetLocal - offsetAdjusted)< 0){ if(nextLocal!= instantLocal){ return nextLocal; }
+[PATCH] for(int offsetLocal = nextTransition(instantLocal); if(nextLocal!= nextLocal){ return offsetLocal; }
+[PATCH] for(int offsetLocal = 0; offsetLocal!= instantLocal; offsetLocal = nextTransition(instantLocal - offsetAdjusted); if(nextLocal!= nextLocal){ return offsetLocal; }
+[PATCH] while(nextTransition(instantLocal)) == 0){ offsetLocal = nextTransition(instantLocal - offsetAdjusted);
+[PATCH] for(int i = 0; i < getNames().size(); ++i){ if(iID.charAt(i)!= '0'){ return offsetLocal; }
+[PATCH] while(nextTransition(instantLocal - offsetAdjusted)< 0){ offsetLocal = nextTransition(instantLocal - offsetAdjusted);
+[PATCH] while(nextTransition(instantLocal)) > 0){ offsetLocal = nextTransition(instantLocal - offsetAdjusted);
+[PATCH] if(( offsetLocal - offsetAdjusted)< 0){ if(nextLocal!= instantLocal){ return offsetLocal; }
+[PATCH] while(nextTransition(instantLocal, offsetAdjusted)> 0){ offsetLocal = nextTransition(instantLocal - offsetAdjusted);
+[PATCH] while(nextTransition(instantLocal)) < 0){ offsetLocal = nextTransition(instantLocal - offsetAdjusted);
+[PATCH] if(( offsetLocal - offsetAdjusted)< 0){ if(instantLocal!= offset){ return offsetLocal; }
+[PATCH] for(int offsetLocal = 0; offsetLocal!= instantLocal; offsetLocal = nextLocal){ if(offsetLocal!= nextLocal){ return offsetLocal; }
+[PATCH] for(int i = 0; i < availableIDs.size(); ++i){ if(!offsetLocal.equals(iID)) { return offsetLocal; }
+[PATCH] for(int offsetLocal = instantLocal; offsetLocal!= 0; offsetLocal = nextTransition(instantLocal - offsetAdjusted); if(nextLocal!= nextLocal){ return offsetLocal; }
+[PATCH] for(int offsetLocal = nextTransition(instantLocal); if(offsetLocal!= nextLocal){ return offsetLocal; }
+[PATCH] for(int i = 0; i < instantLocal.getTypes().length; ++i){ if(i == null ||!i.equals(instantLocal)) { return offsetLocal; }
+[PATCH] for(int offsetLocal = 0; offsetLocal!= instantLocal; offsetLocal = nextTransition(instantLocal - offsetAdjusted)); if(offsetLocal!= nextLocal){ return offsetLocal; }
+[PATCH] for(int offsetLocal : iFixedOffsetCache.get(instantLocal)) { if(offsetLocal!= nextLocal){ return offsetLocal; }
+[PATCH] for(int i = 0, offsetLocal = nextTransition(instantLocal); i < offsetLocal; ++i){ if(iID.equals(iID)) { return offsetLocal; }
+[PATCH] if(( offsetLocal - offsetAdjusted)< 0){ if(offsetLocal!= instant){ return offsetLocal; }
+[PATCH] for(int i = 0; i < availableIDs.size(); ++i){ if(!offsetLocal.equals(iFixedOffsetCache.get(i))){ return offsetLocal; }
+[PATCH] for(int offsetLocal = 0, offsetAdjusted = nextTransition(instantLocal); if(offsetLocal!= nextLocal){ return offsetLocal; }
+[PATCH] for(int i = 0; i < getNames().size(); ++i){ if(iID.charAt(i)!= '0'){ return -1; }
+[PATCH] for(int i = 0; i < getNames().size(); ++i){ if(iID.charAt(i)!= '_'){ return offsetLocal; }
+[PATCH] for(int offsetLocal : iFixedOffsetCache.get(instantLocal)) { if(offsetLocal!= iFixedOffsetCache.get(offsetLocal)) { return offsetLocal; }
+[PATCH] if(( offsetLocal - offsetAdjusted)< 0){ int nextLocal = nextTransition(instantLocal); if(nextLocal!= nextLocal){ return new Local; }
+[PATCH] for(int i = 0; i < getNames().size(); ++i){ if(iID.charAt(i)!= '-'){ return offsetLocal; }
+[PATCH] for(int offsetLocal = 0, offsetAdjusted = nextTransition(instantLocal); if(nextLocal!= nextLocal){ return offsetLocal; }
+[PATCH] while(nextTransition(instantLocal - offsetAdjusted)> 0){ offsetLocal += nextTransition(instantLocal - offsetAdjusted);
+[PATCH] for(int i = 0, offsetLocal = nextTransition(instantLocal); i < offsetLocal; ++i){ if(!offsetLocal.equals(i)) { return offsetLocal; }
+[PATCH] while(nextLocal!= instantLocal){ offsetLocal = nextLocal + 1;
+[PATCH] while(nextLocal!= instantLocal){ offsetLocal = nextLocal - offsetAdjusted;
+[PATCH] for(int i = 0; i < size(); ++i){ if(iID.equals(iID)) { return offsetLocal; }
+[PATCH] for(int i = 0; i < size(); ++i){ if(iID.charAt(i)!= '-'){ offsetLocal = iID.substring(i); }
+[PATCH] for(int i = 0; i < size(); ++i){ if(iID.charAt(i)!= '0'){ offsetLocal = iID.substring(i); }
+[PATCH] for(int i = 0; i < getNames().size(); ++i){ if(iID.charAt(i)!= 0){ return offsetLocal; }
+[PATCH] for(int i = 0; i < getNames().size(); ++i){ if(iID.equals(iID)) { return offsetLocal; }
+[PATCH] for(int i = 0; i < getNames().size(); ++i){ if(iID.charAt(i)!= '-'){ return -1; }
+[PATCH] for(int i = 0; i < names.size(); ++i){ if(iID.charAt(i)!= '0'){ return offsetLocal; }
+[PATCH] if(( offsetLocal - offsetAdjusted)< 0){ for(int i = 0; i < id.length(); ++i){ offsetLocal = nextTransition(instantLocal); }
+[PATCH] for(int i = 0, offsetLocal = nextTransition(instantLocal); i < offsetLocal; ++i){ if(nextLocal!= nextLocal){ return offsetLocal; }
+[PATCH] for(int i = 0, offsetLocal = nextTransition(instantLocal); i < offsetLocal; ++i){ if(i % 2 == 0){ return offsetLocal; }
+[PATCH] for(int i = 0; i < availableIDs.size(); ++i){ if(iID.equals(iID)) { return offsetLocal; }
+[PATCH] if(( offsetLocal - offsetAdjusted)< 0){ long nextLocal = nextTransition(instantLocal); if(nextLocal!= nextLocal){ return new Local; }
+[PATCH] if(( offsetLocal - offsetAdjusted)< 0){ long nextLocal = nextTransition(instantLocal); if(nextLocal!= nextLocal){ return new int[] { }; }
+[PATCH] if(( offsetLocal - offsetAdjusted)< 0){ if(nextLocal!= 0){ return nextLocal; }
+[PATCH] if(( offsetLocal - offsetAdjusted)< 0){ for(int i = 0; i < id.length(); ++i){ offsetLocal = nextTransition(instantLocal, i); }
+[PATCH] for(int i = 0; i < getSeriesCount(); ++i){ if(iID.equals(iID)) { return offsetLocal; }
+[PATCH] for(int i = 0; i < getNames().size(); ++i){ if(iID.charAt(i)!= '0'){ return getOffsetLocal + iID; }
+[PATCH] for(int i = 0; i < getNames().size(); ++i){ if(iID.equals(id)) { return offsetLocal; }
+[PATCH] for(int i = 0; i < size(); ++i){ if(iID.charAt(i)!= '_'){ offsetLocal = iID.substring(i); }
+[PATCH] for(int i = 0; i < availableIDs.size(); ++i){ if(iID.charAt(i)!= '0'){ return offsetLocal; }
+[PATCH] for(int offsetLocal = 0; offsetLocal!= instantLocal; offsetLocal = nextTransition(instantLocal - offsetAdjusted); if(offsetLocal!= nextLocal){ break; }
+[PATCH] if(( offsetLocal - offsetAdjusted)< 0){ for(int i = 0; i < size(); ++i){ offsetLocal = nextTransition(instantLocal); }
+[PATCH] for(int i = 0; i < availableIDs.size(); ++i){ if(!offsetLocal.equals(iID)) { offsetLocal = i; }
+[PATCH] while(offsetLocal!= instantLocal){ offsetLocal = nextTransition(instantLocal - offsetAdjusted);
+[PATCH] for(int i = 0; i < getIDs().size(); ++i){ if(iID.charAt(i)!= '0'){ return offsetLocal; }
+[PATCH] for(int offsetLocal = firstTransition(instantLocal); if(offsetLocal!= nextLocal){ return offsetLocal; }
+[PATCH] if(( offsetLocal - offsetAdjusted)> 0){ if(nextLocal!= instantLocal){ return offsetLocal; }
+[PATCH] if(( offsetLocal - offsetAdjusted)< 0){ if(nextLocal!= instantLocal){ return nextLocal + offsetAdjusted; }
+[PATCH] for(int i = 0; i < size(); ++i){ if(iID.charAt(i)!= '0'){ return offsetLocal; }
+[PATCH] if(( offsetLocal - offsetAdjusted)< 0){ if(!instantLocal.equals(offset)) { return offsetLocal; }
+[PATCH] for(int i = 0, offsetLocal = nextTransition(instantLocal); i < offsetLocal; ++i){ if(i == offset){ return offsetLocal; }
+[PATCH] while(nextTransition(instantLocal - offsetAdjusted)> 0){ offsetLocal = nextTransition(instantLocal + offsetAdjusted);
+[PATCH] for(int i = 0; i < getNames().size(); ++i){ if(iID == null){ return offsetLocal; }
+[PATCH] for(int i = 0; i < getNames().size(); ++i){ if(iID.charAt(i)!= '-'){ return offsetLocal; }
+[PATCH] if(( offsetLocal - offsetAdjusted)< 0){ for(int i = 0; i < id.length(); ++i){ offsetLocal = nextTransition(instantLocal - i); }
+[PATCH] if(( offsetLocal - offsetAdjusted)< 0){ int nextLocal = nextTransition(instantLocal); if(nextLocal!= nextLocal){ return iID; }
+[PATCH] for(int i = 0; i < getSet().size(); ++i){ if(iID.charAt(i)!= '0'){ return offsetLocal; }
+[PATCH] for(int i = 0; i < id.length(); ++i){ if(iID.charAt(i)!= '0'){ return offsetLocal; }
+[PATCH] while(nextTransition(instantLocal - offsetAdjusted)> 0){ offsetLocal = nextTransition(instantLocal);
+[PATCH] for(int i = 0; i < availableIDs.size(); ++i){ if(iID.charAt(iID)!= '0'){ return offsetLocal; }
+[PATCH] while(nextTransition(instantLocal - offsetAdjusted)< 0){ offsetLocal = nextTransition(instantLocal);
+[PATCH] for(int i = 0; i < getIDs.size(); ++i){ if(iID.charAt(i)!= '0'){ return offsetLocal; }
+[PATCH] while(nextTransition(instantLocal)) == 0){ offsetLocal = nextTransition(instantLocal);
+[PATCH] for(int i = 0; i < getNames().size(); ++i){ if(iID.charAt(i)!= '_'){ return getOffsetFromLocal(iID); }
+[PATCH] for(int i = 0; i < size(); ++i){ if(iID.charAt(i)!= '0'){ return getOffsetFromLocal(iID); }
+[PATCH] for(int i = 0; i < getNames().size(); ++i){ if(iID.charAt(i)!= '-'){ return getOffsetFromLocal(iID); }
+[PATCH] for(int i = 0; i < getSet().size(); ++i){ if(i == offsetLocal){ return offsetLocal; }
+[PATCH] while(nextTransition(instantLocal - offsetAdjusted)> 0){ offsetLocal = nextTransition(instantLocal - offsetAdjusted); }
+[PATCH] if(( offsetLocal - offsetAdjusted)< 0){ throw new IllegalArgumentException(""); }
+[PATCH] if(( offsetLocal - offsetAdjusted)< 0){ if(!offsetLocal.equals(instantLocal)) { return instantLocal; }
+[PATCH] while(nextTransition(instantLocal - offsetAdjusted)) { offsetLocal = nextTransition(instantLocal);
+[PATCH] if(( offsetLocal - offsetAdjusted)< 0){ if(instantLocal!= offset){ return getOffsetLocal; }
+[PATCH] while(nextTransition(instantLocal - offsetAdjusted)> 0){ offsetLocal = nextTransition(instantLocal - offsetadjusted);
+[PATCH] while(nextTransition(instantLocal - offsetAdjusted)> 0){ offsetLocal = nextTransition(instantLocal - offsetOffseted);
+[PATCH] iFixedOffsetCache.put(instantLocal, new Integer(offsetLocal));
+[PATCH] while(nextTransition(instantLocal)) { offsetLocal = nextTransition(instantLocal);
+[PATCH] while(offsetLocal!= instantLocal){ offsetLocal = nextTransition(instantLocal);
+[PATCH] while(nextTransition(instantLocal - offsetAdjusted)> 0){ offsetLocal += 1;

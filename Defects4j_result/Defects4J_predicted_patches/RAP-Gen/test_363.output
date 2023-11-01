@@ -1,0 +1,100 @@
+[PATCH] return compute(args[0], args[1].computeValue(context))
+[PATCH] return compute(context, args[0], args[1].computeValue(context))
+[PATCH] return compute(args[0], args[1], context))
+[PATCH] return compute(context, args[0], args[1], null);
+[PATCH] return compute(context, args[0], args[1], context))
+[PATCH] return convert(args[0], args[1].computeValue(context))
+[PATCH] return compute(context, args[0], args[1])
+[PATCH] return compute(context, args[0], args[1]);
+[PATCH] return compute(context, args[0], args[1]).booleanValue()
+[PATCH] return compute(context, args[0], args[1], false): null;
+[PATCH] return compute(context, args[0], args[1].computeValue(context));
+[PATCH] return compute(context, args[0], args[1], false);
+[PATCH] return apply(context, args[0], args[1].computeValue(context))
+[PATCH] return compute(args[0], args[1].computeValue(context));
+[PATCH] return compute(context, args[0], args[1], null):
+[PATCH] return compute(context, args[0], args[1], null, null);
+[PATCH] return compute(context, args[0], args[1], null))
+[PATCH] return compute(context, args[0], args[1], false))
+[PATCH] return compute(context, args[0], args[1], null)
+[PATCH] return compute(context, args[0], args[1]).booleanValue();
+[PATCH] return compute(args[0], args[1], context):
+[PATCH] return evaluate(args[0], args[1].computeValue(context))
+[PATCH] return compute(context, args[0], args[1], true): null;
+[PATCH] returncompute(context, args[0], args[1].computeValue(context))
+[PATCH] return compute(getOperation(), args[0], args[1], context))
+[PATCH] return compute(context, args[0], args[1], context))
+[PATCH] return compute( args[0], args[1].computeValue(context))
+[PATCH] return compute(args[0][0], args[1].computeValue(context))
+[PATCH] return create(context, args[0], args[1].computeValue(context))
+[PATCH] return compute(context, args[0], args[1], null),
+[PATCH] return compute(context, args[0], args[1], context);
+[PATCH] return compute(args[0], args[1].computeValue(context),
+[PATCH] return compute(args[0], args[1], context))
+[PATCH] return compute(context, args[0], args[1].computeValue(context),
+[PATCH] return compute(context, args[0], args[1], true);
+[PATCH] return compute(args[0], args[1], context);
+[PATCH] return evaluate(context, args[0], args[1].computeValue(context))
+[PATCH] returncompute(args[0], args[1].computeValue(context))
+[PATCH] return calculate(context, args[0], args[1].computeValue(context))
+[PATCH] return apply(args[0], args[1].computeValue(context))
+[PATCH] return get(context, args[0], args[1].computeValue(context))
+[PATCH] return compute(args[0], args[1]).computeValue(context))
+[PATCH] return compute(context, args[0], args[1], context):
+[PATCH] return compute(context, args[0], args[1], null).booleanValue()
+[PATCH] return compute(args[0], args[1]);
+[PATCH] return compute(context, args[0], args[1], null){
+[PATCH] return compute( context, args[0], args[1].computeValue(context))
+[PATCH] return calculate(args[0], args[1].computeValue(context))
+[PATCH] return compute(getEvalContext(), args[0], args[1], context))
+[PATCH] return compute(context, args[0], args[1], false, null);
+[PATCH] return compute(context, args[0], args[1], null, null))
+[PATCH] return compute(args[0], args[1].computeValue(context))
+[PATCH] return compute(context, args[0], args[1].computeValue(context)))
+[PATCH] return compute(context, args[0], args[1].computeValue(context)
+[PATCH] return compute(context, args[0], args[1], 0))
+[PATCH] return compute(context, args[0], args[1]),
+[PATCH] return compute(context, args[0], args[1], false),
+[PATCH] return compute(context, args[0], args[1], false)
+[PATCH] return compute(args[0], args[1].computeValue(context), context);
+[PATCH] return apply(context, args[0], args[1], null);
+[PATCH] return compute(context, args[0], args[1], null)}
+[PATCH] return compute(context, args[0], args[1], true))
+[PATCH] return compute(args[0], args[1]).computeValue(context);
+[PATCH] return compute(context, args[0], args[1], context)
+[PATCH] return compute(context, args[0], args[1], context);
+[PATCH] return compute(context, args[0], args[1], false)}
+[PATCH] return compute(type, args[0], args[1], context))
+[PATCH] return compute(args[0], args[1].computeValue(context)))
+[PATCH] return compute(args[0], args[1], context)
+[PATCH] return get(args[0], args[1].computeValue(context))
+[PATCH] return translate(args[0], args[1].computeValue(context))
+[PATCH] return computeValue(context, args[0], args[1], null);
+[PATCH] return compute(context, args[0], args[1 ]).booleanValue()
+[PATCH] return compute(args[0], args[1])
+[PATCH] return compute(context, args[0], args[1], null, false);
+[PATCH] return compute(context, args[0], args[1], null, context);
+[PATCH] return compute(context, args[0], args[1], context)}
+[PATCH] return compute(context, args[0], args[1], true): false;
+[PATCH] return compute(context, args[0], args[1].computeValue(context):
+[PATCH] return compute(args[0), args[1].computeValue(context))
+[PATCH] return compute(args[0], args[1], context)}
+[PATCH] return compute(args[0].computeValue(context), args[1], null);
+[PATCH] return compute(context, args[0], args[1], DEFAULT_RANGE);
+[PATCH] return compute(args[0], args[1].computeValue(context)
+[PATCH] return compute(context, args[0], args[1], null).booleanValue();
+[PATCH] return compute(context, args[0], args[1], false, null))
+[PATCH] return compute(context, args[0], args[1], 0): null;
+[PATCH] return compute(args[0], args[1], context);
+[PATCH] return compute(context, args[0], args[1].computeValue( context))
+[PATCH] return compute(args[0], args[1].computeValue(context):
+[PATCH] return compute(context, args[0], args[1], 0):
+[PATCH] return compute(args[0], args[1], context.getRootContext());
+[PATCH] return compute(value, args[0], args[1], context))
+[PATCH] return compute(context, args[0], args[1], null, null):
+[PATCH] return compute(context, args[0], args[1], true)
+[PATCH] return compute(context, args[0], args[1], this);
+[PATCH] return compute(context, args[0], args[1], null, null),
+[PATCH] return compute(context, args[0], args[1], false){
+[PATCH] return compute(args[0], args[1], null, context);
+[PATCH] return compute(args[0], args[1], context)- 1

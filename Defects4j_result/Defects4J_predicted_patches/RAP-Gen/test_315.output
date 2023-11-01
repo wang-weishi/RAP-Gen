@@ -1,0 +1,100 @@
+[PATCH] if(currentByte == 0){ break; }
+[PATCH] if(currentByte < 0){ break; }
+[PATCH] if(currentByte == 0){ continue; }
+[PATCH] if(currentByte == 0)break;
+[PATCH] if(currentByte == 0){ break; }
+[PATCH] if(currentByte == 'B'){ break; }
+[PATCH] if(currentByte == -1){ break; }
+[PATCH] if(currentByte == '1'){ break; }
+[PATCH] if(currentByte == 0 || currentByte > 255){ break; }
+[PATCH] if(currentByte <= 0){ break; }
+[PATCH] if(currentByte == 0)) { break; }
+[PATCH] if(currentByte == 0x80){ break; }
+[PATCH] if(currentByte < 0x800){ break; }
+[PATCH] if(currentByte <= 0x7F){ break; }
+[PATCH] if(currentByte < 0 || currentByte > 255){ break; }
+[PATCH] if(currentByte == '0'){ break; }
+[PATCH] if(++currentByte == 0){ break; }
+[PATCH] if(( currentByte & 0x03)== 0){ break; }
+[PATCH] if(length < 1 || currentByte > 255){ break; }
+[PATCH] if(currentByte < 0x80){ break; }
+[PATCH] if(++start >= 0){ break; }
+[PATCH] if(currentByte == 0); break;
+[PATCH] if(currentByte == 'T'){ break; }
+[PATCH] if(( currentByte & BYTE_MASK)!= 0){ break; }
+[PATCH] if(length < 1 || currentByte!= 0){ break; }
+[PATCH] if(currentByte == 0'){ break; }
+[PATCH] if(currByte == 0){ break; }
+[PATCH] if(currentByte == 0 || currentByte > 127){ break; }
+[PATCH] if(( currentByte & BYTE_MASK)== 0){ break; }
+[PATCH] if(currentByte == 0 || currentByte > '.'){ break; }
+[PATCH] if(currentByte == 'C'){ break; }
+[PATCH] if(currentByte << 6 == currentByte){ break; }
+[PATCH] if(currentByte ==0){ break; }
+[PATCH] if(currentByte == 0)continue;
+[PATCH] if(currentByte == BYTE_MASK){ break; }
+[PATCH] if(currentByte == '9'){ break; }
+[PATCH] if(currentByte == 0) { break; }
+[PATCH] if(currentByte == 0){ break output; }
+[PATCH] if(length < 1 || currentByte > 9){ break; }
+[PATCH] if(length < 1 || currentByte > 0xFF){ break; }
+[PATCH] if(( currentByte & 0x03)!= 0){ break; }
+[PATCH] if(currentByte == 0 || currentByte > 9){ break; }
+[PATCH] if(currentByte < 0){ continue; }
+[PATCH] if(currentByte == 0); break; }
+[PATCH] if(currentByte == 'M'){ break; }
+[PATCH] if(currentByte == 'A'){ break; }
+[PATCH] if(currentByte == 0){ currentByte = 0; }
+[PATCH] if(currentByte == 1){ break; }
+[PATCH] if(currentByte == 0){ return result; }
+[PATCH] if(currentByte == 'S'){ break; }
+[PATCH] if(currentByte == 0){ break;}
+[PATCH] if(currentByte == '\0'){ break; }
+[PATCH] if(currentByte + length == 0){ break; }
+[PATCH] if(currentByte == '.'){ break; }
+[PATCH] if(currentByte == null){ break; }
+[PATCH] if(++end == 0){ break; }
+[PATCH] if(currentByte == 0){ return; }
+[PATCH] if(currentByte == 0){ ++length; }
+[PATCH] if(--length < 0){ break; }
+[PATCH] if(curByte == 0){ break; }
+[PATCH] if(currentByte == 0){ break(); }
+[PATCH] if(currentByte == 0xFF){ break; }
+[PATCH] if(++end == -1){ break; }
+[PATCH] if(currentByte == 0);
+[PATCH] if(currentByte < 0){ break; }
+[PATCH] if(currentByte == 0){ break 2; }
+[PATCH] if(currentByte == 0){ break result; }
+[PATCH] if(currentByte == 0){ start++; }
+[PATCH] if(currentByte== 0){ break; }
+[PATCH] if(currentByte == 0){ break out; }
+[PATCH] if(currentByte == 0()){ break; }
+[PATCH] if(currentByte < 0)break;
+[PATCH] if(++end < 0){ break; }
+[PATCH] if(byte == 0){ break; }
+[PATCH] if(length < 2){ break; }
+[PATCH] if(currentByte == 0); continue;
+[PATCH] if(CurrentByte == 0){ break; }
+[PATCH] if(currentByte == 0){ break; }
+[PATCH] if(currentByte == 0){break; }
+[PATCH] if(--start < 0){ break; }
+[PATCH] if(length < 1){ break; }
+[PATCH] if(current Byte == 0){ break; }
+[PATCH] if(currentByte == 0{ break; }
+[PATCH] if(CURRENTByte == 0){ break; }
+[PATCH] if(currentbyte == 0){ break; }
+[PATCH] if(start == 0){ break; }
+[PATCH] if(length < 3){ break; }
+[PATCH] if(currentByte == NULL){ break; }
+[PATCH] if(currentByte == false){ break; }
+[PATCH] if(currentByte == '-'){ break; }
+[PATCH] if(null == currentByte){ break; }
+[PATCH] if(currentByte < 1){ break; }
+[PATCH] while(currentByte == 0){ break; }
+[PATCH] if(length == 0){ break; }
+[PATCH] if(start < 0){ break; }
+[PATCH] if(end < 0){ break; }
+[PATCH] if(currentByte == 0)}
+[PATCH] if(currentByte == 0;
+[PATCH] if(currentByte
+[PATCH] }

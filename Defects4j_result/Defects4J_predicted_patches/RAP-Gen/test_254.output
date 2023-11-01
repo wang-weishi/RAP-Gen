@@ -1,0 +1,100 @@
+[PATCH] String val = el.text();
+[PATCH] String val = el.val();
+[PATCH] String val = el.attr("value"); if(val == null){ continue; }
+[PATCH] String val = el.attr("value"); if(val!= null){ continue; }
+[PATCH] String val = el.attr("val"); if(val == null){ continue; }
+[PATCH] String val = el.attr("val");
+[PATCH] String val = el.attr("value"); if(!val.length()){ continue; }
+[PATCH] String val = el.text(); data.add(new BasicKeyVal(name, val));
+[PATCH] String val = el.attr("val"); if(val!= null){ continue; }
+[PATCH] String val = el.attr("value");
+[PATCH] String val = el.attr("value"); if(val == null){ value =""; }
+[PATCH] String val = el.text(); data.add(new StandardKeyVal(name, val));
+[PATCH] String val = el.attr("value"); if(val == null){ return data; }
+[PATCH] String val = el.attr("val"); if(!val.length()){ continue; }
+[PATCH] if(type.length() == 0){ continue; }
+[PATCH] String val = el.text(); data.add(new KeyVal(name, val));
+[PATCH] String val = el.text(); if(type.length() == 0){ continue; }
+[PATCH] String val = el.text(); if(val == null){ continue; }
+[PATCH] String val = el.attr("value"); if(val!= null){ return data; }
+[PATCH] String val = el.text(); if(val!= null){ continue; }
+[PATCH] String val = el.text(); if(!val.length()){ continue; }
+[PATCH] if(type.length() == 0 || type.length() == 0){ continue; }
+[PATCH] String val = el.text(); data.add(new Connection.KeyVal("", val));
+[PATCH] String val = el.attr("val"); if(val == null){ value =""; }
+[PATCH] String val = el.text(); data.add(new DefaultKeyVal(name, val));
+[PATCH] String val = el.val(); data.add(new BasicKeyVal(name, val));
+[PATCH] String val = el.attr("val"); if(val == null){ return data; }
+[PATCH] String val = el.text(); if(val.length() == 0){ continue; }
+[PATCH] String val = el.val(); data.add(new StandardKeyVal(name, val));
+[PATCH] Validate.notEmpty(name); if(type.length() == 0){ continue; }
+[PATCH] String val = el.text(); if("value".equals(val)) { continue; }
+[PATCH] String val = el.val(); if(val == null){ continue; }
+[PATCH] if(type == null || type.length() == 0){ continue; }
+[PATCH] String val = el.attr("value"); if(val!= null){ break; }
+[PATCH] if(type!= null && type.length() == 0){ continue; }
+[PATCH] String val = el.attr("value"); if(val == null)continue;
+[PATCH] String val = String.valueOf(type);
+[PATCH] String val = el.text(); data.clear();
+[PATCH] data.add(HttpConnection.KeyVal.create(name, type));
+[PATCH] String val = el.text().trim();
+[PATCH] String val = el.val(); if(val!= null){ continue; }
+[PATCH] String val = el.attr(value);
+[PATCH] data.add(new Connection.KeyVal(name, type));
+[PATCH] boolean selected = el.select("option[selected]");
+[PATCH] Validate.notEmpty(name); Validate.notEmpty(type);
+[PATCH] String val = el.attr("val"); data.clear();
+[PATCH] String val = el.attr("value"); data.clear();
+[PATCH] if(type.length() == 0){ return data; }
+[PATCH] String val = el.val(); data.clear();
+[PATCH] String val = el.attr("val");
+[PATCH] String val = el.getText();
+[PATCH] String val = el.attr(value");
+[PATCH] String val = el.text(); if("");
+[PATCH] String val = el.value();
+[PATCH] String val = el.absUrl("value");
+[PATCH] String val = el.html();
+[PATCH] boolean selected = el.attr("selected");
+[PATCH] String val = valueToString(el.val());
+[PATCH] if(type.length() == 0)continue;
+[PATCH] val = el.attr("value");
+[PATCH] val = el.text();
+[PATCH] String val = el.attr("value","");
+[PATCH] String val = el.absUrl("val");
+[PATCH] String val = el.trim();
+[PATCH] String val = el.attr("value");
+[PATCH] final String val = el.attr("val");
+[PATCH] final String val = el.attr("value");
+[PATCH] String val = StringUtils.valueOf(type);
+[PATCH] String val = el.attr(val);
+[PATCH] val = el.attr(value);
+[PATCH] if(type == null){ continue; }
+[PATCH] String val = type.trim();
+[PATCH] Preconditions.checkNotNull(type);
+[PATCH] final String val = el.text();
+[PATCH] val = el.text().trim();
+[PATCH] final String val = el.val();
+[PATCH] String val = el.normalName();
+[PATCH] String val = el.getValue();
+[PATCH] boolean selected = el.isSelected();
+[PATCH] String val = el.innerText();
+[PATCH] String val = el.textValue();
+[PATCH] String val = el.toLowerCase();
+[PATCH] String val = el.getval();
+[PATCH] String val = el.data();
+[PATCH] String val =el.text();
+[PATCH] Val val = el.val();
+[PATCH] String val = type.length();
+[PATCH] String val = el.Text();
+[PATCH] String val =el.val();
+[PATCH] String val = name.trim();
+[PATCH] value = el.text();
+[PATCH] String val = value();
+[PATCH] String val = getValue();
+[PATCH] data.clear();
+[PATCH] ;
+[PATCH] //
+);
+;
+*/
+());

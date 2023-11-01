@@ -1,0 +1,100 @@
+[PATCH] reporter.onlyVoidMethodsCanBeSetToDoNothing();
+[PATCH] if(reporter.onlyVoidMethodsCanBeSetToDoNothing()){ }
+[PATCH] if(reporter!= null){ reporter.onlyVoidMethodsCanBeSetToDoNothing(); }
+[PATCH] if(reporter.onlyVoidMethodsCanBeSetToDoNothing()){ return; }
+[PATCH] if(reporter.onlyVoidMethodsCanBeSetToDoNothing(); }
+[PATCH] } else if(reporter.onlyVoidMethodsCanBeSetToDoNothing()){ return; }
+[PATCH] if(!reporter.onlyVoidMethodsCanBeSetToDoNothing()){ return; }
+[PATCH] reporter.tooLittleMethodsCanBeSetToDoNothing();
+[PATCH] if(reporter.onlyVoidMethodsCanBeSetToDoNothing(); } else { return; }
+[PATCH] new Reporter().onlyVoidMethodsCanBeSetToDoNothing();
+[PATCH] if(reporter.onlyVoidMethodsCanBeSetToDoNothing()){ if(""); }
+[PATCH] if(!reporter.onlyVoidMethodsCanBeSetToDoNothing()){ }
+[PATCH] } else if(reporter.onlyVoidMethodsCanBeSetToDoNothing()){ }
+[PATCH] if(reporter == null){ reporter.onlyVoidMethodsCanBeSetToDoNothing(); }
+[PATCH] } else if(reporter.onlyVoidMethodsCanBeSetToDoNothing(); }
+[PATCH] reporter.alwaysVoidMethodsCanBeSetToDoNothing();
+[PATCH] } else if(reporter = new Reporter().onlyVoidMethodsCanBeSetToDoNothing(); }
+[PATCH] } else if(reporter!= null){ throw new IllegalArgumentException(""); }
+[PATCH] reporter.onlyVoidMethodsCanBeSetToDoNothing(); }
+[PATCH] return new Reporter().onlyVoidMethodsCanBeSetToDoNothing();
+[PATCH] getArgumentValidator().validate(invocation, answer);
+[PATCH] if(!reporter.onlyVoidMethodsCanBeSetToDoNothing(); }
+[PATCH] } else if(reporter!= null){ throw new RuntimeException(""); }
+[PATCH] if(reporter.onlyVoidMethodsCanBeSetToDoNothing()){ if(); }
+[PATCH] reporter.tooLittleMethodCallsCanBeSetToDoNothing();
+[PATCH] } else if(reporter!= null){ return; }
+[PATCH] reporter.noMethodCanBeSetToDoNothing();
+[PATCH] reporter.onlyVoidMethodscanBeSetToDoNothing();
+[PATCH] reporter.noVoidMethodsCanBeSetToDoNothing();
+[PATCH] reporter.allMethodCallsCanBeSetToDoNothing();
+[PATCH] reporter.allMethodsCanBeSetToDoNothing();
+[PATCH] if(reporter.alwaysVoidMethodsCanBeSetToDoNothing()){ }
+[PATCH] if(reporter!= null){ return; } else { throw new IllegalArgumentException(""); }
+[PATCH] } else if(reporter!= null){ throw new IllegalStateException(""); }
+[PATCH] if(invocation.getMethod() == null){ throw new IllegalArgumentException(""); }
+[PATCH] reporter.onlyVoidMethodsCanBeSetToDoNothing(invocation);
+[PATCH] reporter.neverVoidMethodsCanBeSetToDoNothing();
+[PATCH] if(reporter!= null){ throw new IllegalArgumentException(""); }
+[PATCH] reporter.incompatibleMethodsCanBeSetToDoNothing();
+[PATCH] getMethodValidator().validate(invocation, answer);
+[PATCH] reporter.onlyVoidMethodsCanBeSetToReturn();
+[PATCH] reporter.onlyMethodsCanBeSetToDoNothing();
+[PATCH] reporter.weirdMethodsCanBeSetToDoNothing();
+[PATCH] reporter.onlyVoidMethodsCanBeSetToDONothing();
+[PATCH] reporter.onlyVoidMethodCanBeSetToDoNothing();
+[PATCH] } else if(answer instanceof Throws){ throw new IllegalArgumentException(""); }
+[PATCH] if(reporter.onlyVoidMethodsCanBeSetToDoNothing()){
+[PATCH] reporter.allMethodCanBeSetToDoNothing();
+[PATCH] if(reporter!= null){ throw new RuntimeException(""); }
+[PATCH] checker.onlyVoidMethodsCanBeSetToDoNothing();
+[PATCH] logger.onlyVoidMethodsCanBeSetToDoNothing();
+[PATCH] reporter.warningsCanBeSetToDoNothing();
+[PATCH] reporter.onlyMethodCanBeSetToDoNothing();
+[PATCH] reporter.expectReturn(invocation, answer);
+[PATCH] } else if(reporter == null){ reporter = new Reporter(); }
+[PATCH] reporter.compatibleMethodsCanBeSetToDoNothing();
+[PATCH] if(reporter!= null){ return; }
+[PATCH] new Reporter().onlyVoidMethodsCanBeSetToDoNothing(invocation);
+[PATCH] getMethodInfo(invocation).validate(answer);
+[PATCH] reporter.failWhenCallingRealMethodOnIterface(invocation);
+[PATCH] if(reporter!= null){ throw new IllegalStateException(""); }
+[PATCH] reporter.onlyVoidMethodsCanBeSetToDoNothing(); return;
+[PATCH] } else if(reporter!= null){ } else { return; }
+[PATCH] } else if(answer instanceof Throws){ throw new RuntimeException(""); }
+[PATCH] reporter.failWhenCallingRealMethodOnIterface();
+[PATCH] reporter.wrongMethodCanBeSetToDoNothing();
+[PATCH] reporter.tooLittleMethodsCanBeSetToReturn();
+[PATCH] reporter.allMethodCallsCanBeSetToReturn();
+[PATCH] if(reporter!= null){ throw new Reporter(""); }
+[PATCH] getArgumentValidator().validate(reporter, invocation);
+[PATCH] reporter.errorsCanBeSetToDoNothing();
+[PATCH] reporter.tooLittleMethodsCanBeSetToVoid();
+[PATCH] if(answer instanceof Throws){ throw new IllegalArgumentException(""); }
+[PATCH] reporter.expectReturn(invocation);
+[PATCH] getArgumentValidator().validate(invocation);
+[PATCH] reporter.everSetToDoNothing();
+[PATCH] return getReturnValue(invocation);
+[PATCH] reporter.mappingException("");
+[PATCH] validateReturnValue(answer, invocation);
+[PATCH] return invocation.getMethod();
+[PATCH] removeCallCandidates(invocation);
+[PATCH] getMethodValidator().validate(invocation);
+[PATCH] getArgumentValidator().validate(answer);
+[PATCH] reporter.reportCodeChange();
+[PATCH] throw new IllegalArgumentException("");
+[PATCH] return invocation.getMethodInfo();
+[PATCH] return getReturnValue(answer);
+[PATCH] return invocation.getInvocation();
+[PATCH] removeInvocation(invocation);
+[PATCH] throw new RuntimeException("");
+[PATCH] throw new IllegalStateException("");
+[PATCH] validateReturnValue();
+[PATCH] validateReturnValue(answer);
+[PATCH] endMethod();
+[PATCH] return getReturnValue();
+[PATCH] return answer;
+[PATCH] return result;
+[PATCH] reset();
+);
+;

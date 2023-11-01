@@ -1,0 +1,100 @@
+[PATCH] boolean hasSideEffects = false;
+[PATCH] if(!block.hasChildren()){ boolean hasSideEffects = false; Preconditions.checkState(block.hasOneChild()); }
+[PATCH] if(block!= null){ boolean hasSideEffects = false; if(block.hasChildren()){ Preconditions.checkState(block.hasOneChild()); }
+[PATCH] if(!block.hasChildren()){ boolean hasSideEffects = false; if(NodeUtil.mayHaveSideEffects(block.getFirstChild(), compiler); }
+[PATCH] if(block.hasChildren()){ boolean hasSideEffects = false; if(NodeUtil.mayHaveSideEffects(block.getFirstChild(), compiler); }
+[PATCH] if(block.hasChildren()){ boolean hasSideEffects = false; if(!block.hasChildren()){ return CanInlineResult.NO; }
+[PATCH] if(block.getType() == Token.BLOCK){ boolean hasSideEffects = false; if(block.hasChildren()){ Preconditions.checkState(block.hasOneChild()); }
+[PATCH] if(hasSideEffects){ boolean hasSideEffects = false; if(block.hasChildren()){ Preconditions.checkState(block.hasOneChild()); }
+[PATCH] if(callNode.getType() == Token.CALL){ boolean hasSideEffects = false; if(block.hasChildren()){ Preconditions.checkState(block.hasOneChild()); }
+[PATCH] if(block.hasChildren()){ boolean hasSideEffects = NodeUtil.mayHaveSideEffects(block.getFirstChild(), compiler); }
+[PATCH] if(block.getType() == Token.FUNCTION){ boolean hasSideEffects = false; if(block.hasChildren()){ Preconditions.checkState(block.hasOneChild()); }
+[PATCH] if(!block.hasChildren()){ boolean hasSideEffects = false; if(NodeUtil.mayHaveSideEffects(block.getFirstChild(), block, compiler); }
+[PATCH] if(block.hasChildren()){ boolean hasSideEffects = false; if(!NodeUtil.mayHaveSideEffects(block.getFirstChild(), compiler); }
+[PATCH] if(block.hasChildren()){ boolean hasSideEffects = false; if(!block.hasOneChild()){ return CanInlineResult.NO; }
+[PATCH] if(block.hasChildren()){ boolean hasSideEffects = false; if(!block.hasChildren()){ Preconditions.checkState(block.hasOneChild()); }
+[PATCH] if(block.getType() == Token.BLOCK){ boolean hasSideEffects = false; if(!block.hasChildren()){ return CanInlineResult.NO; }
+[PATCH] if(block.hasChildren()){ boolean hasSideEffects = true; if(!block.hasChildren()){ return CanInlineResult.NO; }
+[PATCH] if(!block.isVoid()){ boolean hasSideEffects = false; if(block.hasChildren()){ Preconditions.checkState(block.hasOneChild()); }
+[PATCH] if(block.hasChildren()){ boolean hasSideEffects = false; if(NodeUtil.mayHaveSideEffects(block.getFirstChild(), block, compiler); }
+[PATCH] if(block.getType() == Token.BLOCK){ boolean hasSideEffects = false; if(!block.hasChildren()){ Preconditions.checkState(block.hasOneChild()); }
+[PATCH] if(!hasSideEffects){ boolean hasSideEffects = false; if(block.hasChildren()){ Preconditions.checkState(block.hasOneChild()); }
+[PATCH] if(block.getType() == Token.CALL){ boolean hasSideEffects = false; if(!block.hasChildren()){ return CanInlineResult.NO; }
+[PATCH] if(block.hasChildren()){ boolean hasSideEffects = true; if(NodeUtil.mayHaveSideEffects(block.getFirstChild(), compiler); }
+[PATCH] if(block.getType() == Token.CALL){ boolean hasSideEffects = false; if(block.hasChildren()){ Preconditions.checkState(block.hasOneChild()); }
+[PATCH] if(block.hasChildren()){ boolean hasSideEffects = false; Preconditions.checkState(block.hasOneChild()); }
+[PATCH] if(block.getType() == Token.RETURN){ boolean hasSideEffects = false; if(block.hasChildren()){ Preconditions.checkState(block.hasOneChild()); }
+[PATCH] if(!block.hasChildren()){ boolean hasSideEffects = false; if(NodeUtil.mayHaveSideEffects(block.getFirstChild(), block), compiler); }
+[PATCH] if(block!= null){ boolean hasSideEffects = false; if(!block.hasChildren()){ Preconditions.checkState(block.hasOneChild()); }
+[PATCH] if(NodeUtil.isExpressionNode(block)) { boolean hasSideEffects = false; if(!block.hasChildren()){ return CanInlineResult.NO; }
+[PATCH] if(block.getType() == Token.ASSIGN){ boolean hasSideEffects = false; if(block.hasChildren()){ Preconditions.checkState(block.hasOneChild()); }
+[PATCH] if(callNode.getFirstChild()!= null){ boolean hasSideEffects = false; if(block.hasChildren()){ Preconditions.checkState(block.hasOneChild()); }
+[PATCH] if(callNode.getFirstChild().getType() == Token.CALL){ boolean hasSideEffects = false; if(block.hasChildren()){ return CanInlineResult.NO; }
+[PATCH] if(block!= null){ boolean hasSideEffects = false; if(!block.hasChildren()){ return CanInlineResult.NO; }
+[PATCH] if(block.getType() == Token.BLOCK){ boolean hasSideEffects = true; if(!block.hasChildren()){ return CanInlineResult.NO; }
+[PATCH] if(block.hasChildren()){ boolean hasSideEffects = true; if(!NodeUtil.mayHaveSideEffects(block.getFirstChild(), compiler); }
+[PATCH] if(block.getType() == Token.CALL){ boolean hasSideEffects = false; if(!block.hasChildren()){ Preconditions.checkState(block.hasOneChild()); }
+[PATCH] if(callNode.getType() == Token.CALL){ boolean hasSideEffects = false; if(!block.hasChildren()){ return CanInlineResult.NO; }
+[PATCH] if(block.hasChildren()){ boolean hasSideEffects = false; if(NodeUtil.mayHaveSideEffects(block.getFirstChild(), block), compiler); }
+[PATCH] if(block.getType() == Token.FUNCTION){ boolean hasSideEffects = false; if(!block.hasChildren()){ return CanInlineResult.NO; }
+[PATCH] if(block.hasChildren()){ boolean hasSideEffects = true; if(!block.hasChildren()){ Preconditions.checkState(block.hasOneChild()); }
+[PATCH] if(!block.hasChildren()){ boolean hasSideEffects = true; if(NodeUtil.mayHaveSideEffects(block.getFirstChild(), compiler); }
+[PATCH] if(!block.hasChildren()){ boolean hasSideEffects = false; if(NodeUtil.mayHaveSideEffects(block.getLastChild(), compiler); }
+[PATCH] if(block.getType() == Token.RETURN){ boolean hasSideEffects = false; if(!block.hasChildren()){ return CanInlineResult.NO; }
+[PATCH] if(!block.hasChildren()){ boolean hasSideEffects = false; if(block.getType() == Token.FUNCTION){ return CanInlineResult.NO; }
+[PATCH] if(hasSideEffects){ boolean hasSideEffects = true; if(block.hasChildren()){ Preconditions.checkState(block.hasOneChild()); }
+[PATCH] boolean hasSideEffects = true;
+[PATCH] if(!block.hasChildren()){ boolean hasSideEffects = false; Preconditions.checkState(block.hasOneChild()); Block block = block.getFirstChild(); }
+[PATCH] if(block!= null){ boolean hasSideEffects = true; if(block.hasChildren()){ Preconditions.checkState(block.hasOneChild()); }
+[PATCH] if(block.hasChildren()){ boolean hasSideEffects = false; if(!NodeUtil.mayHaveSideEffects(block.getFirstChild(), block, compiler); }
+[PATCH] if(block.hasChildren()){ boolean hasSideEffects = true; if(!block.hasOneChild()){ return CanInlineResult.NO; }
+[PATCH] if(callNode.getFirstChild().getType() == Token.CALL){ boolean hasSideEffects = false; Preconditions.checkState(block.hasOneChild()); }
+[PATCH] if(!block.hasChildren()){ boolean hasSideEffects = false; Preconditions.checkState(block.hasOneChild()); block.removeFirstChild(); }
+[PATCH] if(!block.hasChildren()){ boolean hasSideEffects = false; if(block.getType() == Token.RETURN){ hasSideEffects = true; }
+[PATCH] if(!block.hasChildren()){ boolean hasSideEffects = true; Preconditions.checkState(block.hasOneChild()); }
+[PATCH] if(block.hasChildren()){ boolean hasSideEffects = false; if(block.getType() == Token.RETURN){ hasSideEffects = true; }
+[PATCH] if(!block.hasChildren()){ boolean hasSideEffects = NodeUtil.mayHaveSideEffects(block.getFirstChild(), compiler); }
+[PATCH] if(!block.isVoid()){ boolean hasSideEffects = false; if(block.hasChildren()){ return CanInlineResult.NO; }
+[PATCH] if(!block.hasChildren()){ boolean hasSideEffects = false; if(NodeUtil.mayHaveSideEffects(block.getFirstChild(), block); }
+[PATCH] if(block.hasChildren()){ boolean hasSideEffects = true; Preconditions.checkState(block.hasOneChild()); }
+[PATCH] if(block!= null){ boolean hasSideEffects = false; if(block.hasChildren()){ return CanInlineResult.NO; }
+[PATCH] if(!block.hasChildren()){ boolean hasSideEffects = false; if(NodeUtil.mayHaveSideEffects(block.getFirstChild(), block, fnNode); }
+[PATCH] if(!block.hasChildren()){ boolean hasSideEffects = false; if(NodeUtil.mayHaveSideEffects(block.getFirstChild(), block, callNode); }
+[PATCH] boolean hasSideEffects = false; if(block.hasChildren()){ Preconditions.checkState(block.hasOneChild()); }
+[PATCH] if(!block.isVoid()){ boolean hasSideEffects = false; Preconditions.checkState(block.hasOneChild()); }
+[PATCH] if(!block.hasChildren()){ boolean hasSideEffects = false; Preconditions.checkState(block.hasOneChild()); Node block = block.getFirstChild(); }
+[PATCH] if(!block.hasChildren()){ Preconditions.checkState(block.hasOneChild()); }
+[PATCH] if(block.hasChildren()){ Preconditions.checkState(block.hasOneChild()); }
+[PATCH] if(!block.hasChildren()){ return CanInlineResult.NO; }
+[PATCH] if(!block.hasChildren()){ hasSideEffects = false; }
+[PATCH] if(!block.hasChildren()){ boolean hasSideEffects = false; }
+[PATCH] if(!block.hasChildren()){ hasSideEffects = true; }
+[PATCH] if(block.hasChildren()){ boolean hasSideEffects = false; }
+[PATCH] if(!block.hasChildren()){ throw new IllegalStateException(""); }
+[PATCH] if(!block.hasChildren()){ throw new IllegalArgumentException(""); }
+[PATCH] if(!block.hasChildren()){ throw new RuntimeException(""); }
+[PATCH] Preconditions.checkState(block.hasChildren());
+[PATCH] Preconditions.checkState(!block.hasChildren());
+[PATCH] hasSideEffects = false;
+[PATCH] Preconditions.checkState(block!= null);
+[PATCH] hasSideEffects = true;
+[PATCH] final boolean hasSideEffects = false;
+[PATCH] boolean hasSideEffects =!block.hasChildren();
+[PATCH] int hasSideEffects = false;
+[PATCH] boolean hasSideEffects = null;
+[PATCH] synchronized boolean hasSideEffects = false;
+[PATCH] final boolean hasSideEffects = true;
+[PATCH] Preconditions.checkNotNull(block);
+[PATCH] protected boolean hasSideEffects = false;
+[PATCH] Boolean hasSideEffects = false;
+[PATCH] checkState(block.hasChildren());
+[PATCH] void hasSideEffects = false;
+[PATCH] boolean hasSideEffect = false;
+[PATCH] void hasSideEffects = true;
+[PATCH] boolean haveSideEffects = false;
+[PATCH] true;
+[PATCH] ;
+[PATCH]
+);
+;
+*/

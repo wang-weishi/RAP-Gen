@@ -1,0 +1,100 @@
+[PATCH] if(id.length() > 0){
+[PATCH] bucket.setZone(DateTimeZone.forID(id));
+[PATCH] if(id.length() == 1){
+[PATCH] if(id.length() == 2){
+[PATCH] if(id!= null && id.length() > 0){
+[PATCH] if(hasSignChar || id.length() == 0){
+[PATCH] bucket.setZone(DateTimeZone.forId(id));
+[PATCH] if(str.startsWith(id)) {
+[PATCH] bucket.setZone(DateTimeZone.forName(id));
+[PATCH] if(id.length() > 1){
+[PATCH] if(ID_PATTERN.matcher(str)) {
+[PATCH] if(id.equals(bucket.getZone())) {
+[PATCH] if(hasSignChar || id.length() == 2){
+[PATCH] if(IDS.contains(id)) {
+[PATCH] if(str!= null && id.length() > 0){
+[PATCH] if(bucket.getZone()!= null){
+[PATCH] if(!bucket.getZone().equals(id)) {
+[PATCH] for(String id : ALL_IDS){
+[PATCH] if(id.trim().length() == 0){
+[PATCH] if(!id.equals("")) {
+[PATCH] if(id.equals(str)) {
+[PATCH] if(id.trim().length() > 0){
+[PATCH] if(id.length() == 0){
+[PATCH] if(id.toUpperCase().startsWith(str)) {
+[PATCH] if(id!= null){
+[PATCH] if(ids.contains(id)) {
+[PATCH] if(ID_FACTORY.isID(id)) {
+[PATCH] if(hasSignChar || id.length() < 2){
+[PATCH] if(id.toLowerCase().startsWith(str)) {
+[PATCH] bucket.setTimeZone(DateTimeZone.forID(id));
+[PATCH] if(true && str.startsWith(id)) {
+[PATCH] if(bucket.parseField(id)!= null){
+[PATCH] if(ID_PREFIX.equals(id)) {
+[PATCH] if(( id = str.substring(1))!= null){
+[PATCH] if(ID_PATTERN.matcher(str)> 0){
+[PATCH] if("P".equals(str)) {
+[PATCH] if(id.length() == 10){
+[PATCH] if(ID_TYPES.contains(id)) {
+[PATCH] if(hasSignChar || id.length() > 0){
+[PATCH] if(id.length() > 2){
+[PATCH] if(id.length() == 4){
+[PATCH] if(ID_MATCH.equals(id)) {
+[PATCH] if(id.trim()!= null){
+[PATCH] if(id.trim() == 0){
+[PATCH] if(ID_PATTERN.matcher(str)!= null){
+[PATCH] if(bucket.hasTimeZoneId()){
+[PATCH] if(true && id.length() > 0){
+[PATCH] if(id.toUpperCase().startsWith(prefix)) {
+[PATCH] if(ID_PATTERN.matcher(str, position)) {
+[PATCH] if(id.len() > 0){
+[PATCH] if(id!= null &&!id.isEmpty()){
+[PATCH] if(ID_REGEX.matcher(str)) {
+[PATCH] if(ID_FORMAT.equals(id)) {
+[PATCH] if(s.startsWith(id)) {
+[PATCH] if(id.toUpperCase() == true){
+[PATCH] if(hasSignChar || id.equals("")) {
+[PATCH] if(id.length() == 5){
+[PATCH] if(id.length()){
+[PATCH] if(hasSignChar || id.length() < 0){
+[PATCH] if(id.length() > 10){
+[PATCH] if(id.length() == 6){
+[PATCH] if(_idReader.hasIgnoreMarker(id)) {
+[PATCH] if(hasSignChar || id.length() == 1){
+[PATCH] if(!bucket.getZone().isUnknown()){
+[PATCH] if(id.equals(DateTimeZone.ID)) {
+[PATCH] if("GMT".equals(str)) {
+[PATCH] if(id.toLowerCase().startsWith(prefix)) {
+[PATCH] if(id. length() > 0){
+[PATCH] if(ID_PATTERN.matcher(str)== null){
+[PATCH] if(!bucket.getZone().isSupported()){
+[PATCH] if(ID_PATTERN.matcher(str, 0)) {
+[PATCH] if(bucket.getZone() == null){
+[PATCH] if(id.toLowerCase() == true){
+[PATCH] if(IDs.contains(id)) {
+[PATCH] if(matchId(id, str)) {
+[PATCH] if(!bucket.getZone().isID()){
+[PATCH] if(id.length()> 0){
+[PATCH] if(id.startsWith(prefix)) {
+[PATCH] if(id.toLowerCase()!= null){
+[PATCH] if("Z".equals(str)) {
+[PATCH] if(!id.isEmpty()){
+[PATCH] if(ID_REPLUSION == null){
+[PATCH] if(identifiers.contains(id)) {
+[PATCH] if(id.startsWith(str)) {
+[PATCH] if( id.length() > 0){
+[PATCH] if(id.length() > 20){
+[PATCH] if(id.trim()!= 0){
+[PATCH] if(id.length() > 0){
+[PATCH] if(id.length() < 0){
+[PATCH] if(hash.equals(id)) {
+[PATCH] if(_idReader.hasIgnoreMarker(str)) {
+[PATCH] while(id.length() > 0){
+[PATCH] if("T".equals(str)) {
+[PATCH] if(objectIdReader(str)) {
+[PATCH] if(id.trim() > 0){
+[PATCH] if(id.length() < 2){
+[PATCH] if(id.length() < 4){
+[PATCH] if(id.length() > 5){
+[PATCH] if(id.length() == 3){
+[PATCH] if(ID_REPLUSION == id){

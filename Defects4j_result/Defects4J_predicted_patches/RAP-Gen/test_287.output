@@ -1,0 +1,100 @@
+[PATCH] return n.binaryValue(b64variant);
+[PATCH] return getBinaryValue(b64variant, n.binaryValue());
+[PATCH] return getBinaryValue(b64variant, ob);
+[PATCH] return getBinaryValue(b64variant);
+[PATCH] return n.binaryValue();
+[PATCH] return getBinaryValue(b64variant, ob); }
+[PATCH] return(byte[])n.binaryValue();
+[PATCH] return(( POJONode)n).binaryValue();
+[PATCH] return getBinaryValue(( POJONode)n);
+[PATCH] return getBinaryValue(( Pojo)n, b64variant);
+[PATCH] return(byte[])ob; }
+[PATCH] return getBinaryValue(ob, b64variant);
+[PATCH] return getBinaryValue(b64variant, ob); }
+[PATCH] return pn.binaryValue(b64variant);
+[PATCH] return binaryValue(b64variant, n.binaryValue());
+[PATCH] return getBinaryValue(b64variant,ob);
+[PATCH] return getBinaryValue(getText(), b64variant);
+[PATCH] return getBinaryValue(( BinaryNode)n, b64variant);
+[PATCH] return getBinaryValue(b64variant.getBase64Variant());
+[PATCH] return getBinaryValue(( TextNode)n, b64variant);
+[PATCH] return getBinaryValue(( byte[])n, b64variant);
+[PATCH] return getBinaryValue(b64variant, n);
+[PATCH] return binaryValue(b64variant);
+[PATCH] return getBinaryValue(base64variant, n.binaryValue());
+[PATCH] return getBinaryValue(b64variant, ob.binaryValue());
+[PATCH] return getBinaryValue(( Pojo)n);
+[PATCH] return(( BinaryNode)n).binaryValue();
+[PATCH] return readBinary(b64variant, n.binaryValue());
+[PATCH] return getBinaryValue(b64variant); }
+[PATCH] return convert(n.binaryValue(), b64variant);
+[PATCH] return super.binaryValue(b64variant);
+[PATCH] return getBinaryValue(( BinaryNode)n);
+[PATCH] return ob.binaryValue(b64variant);
+[PATCH] return _nodeCursor.binaryValue(b64variant);
+[PATCH] return super.getBinaryValue(b64variant);
+[PATCH] return parent.binaryValue(b64variant);
+[PATCH] return c.binaryValue(b64variant);
+[PATCH] return t.binaryValue(b64variant);
+[PATCH] return getBinaryValue((POJONode)n);
+[PATCH] return binaryValue(b64variant, ob);
+[PATCH] return getBinaryValue(b64variant,ob); }
+[PATCH] return getBinaryValue(base64variant, ob);
+[PATCH] return base64variant.encode(n.binaryValue());
+[PATCH] return getBinaryValue(( Base64Node)n);
+[PATCH] return n.binaryValue(b64variant); }
+[PATCH] return getBinaryValue(( TextNode)n);
+[PATCH] return getBinaryValue(( String)n.getPojo());
+[PATCH] return getBinaryValue(( String)n, b64variant);
+[PATCH] return n.binaryValue(( byte[])ob);
+[PATCH] return getBinaryValue(ob, b64variant); }
+[PATCH] return getBinaryValue(( String)n.getText());
+[PATCH] return getBinaryValue(b64variant); }
+[PATCH] return getBinaryValue(binaryvariant, ob);
+[PATCH] return getBinaryValue(b64variant, n.bytes());
+[PATCH] return getBinaryValue(binaryvariant, n.binaryValue());
+[PATCH] return getBinaryValue(( POJONode)n,"binary");
+[PATCH] return n.binaryValue(b64variant); }
+[PATCH] return getBinaryValue(( Pojo)n.getPojo());
+[PATCH] return getBinaryValue(b64variant, n.binaryType());
+[PATCH] return getBinaryValue(( Pojo)n).binaryValue();
+[PATCH] return n.binaryValue(( byte[])ob; }
+[PATCH] return(( Pojo)n).binaryValue();
+[PATCH] returnn.binaryValue(b64variant);
+[PATCH] byte[] data = n.binaryValue();
+[PATCH] return getBinaryValue(b64variant.getBytes());
+[PATCH] return getBinaryValue(b64variant, ob);
+[PATCH] return getBinaryValue(( byte[])n);
+[PATCH] return(byte[])ob.binaryValue();
+[PATCH] return(( Base64Node)n).binaryValue();
+[PATCH] return n.binaryValue(( byte[])ob;
+[PATCH] return getBinaryValue(base64variant, ob); }
+[PATCH] return getBinaryValue(b64variant, 0);
+[PATCH] return getBinaryValue(( byte[])n.binaryValue());
+[PATCH] return base64variant.encodeAsBinary(ob);
+[PATCH] return(byte[])ob;
+[PATCH] return getBinaryValue(( Base64Variant)n);
+[PATCH] return pt.binaryValue(b64variant);
+[PATCH] return p.binaryValue(b64variant);
+[PATCH] return readBinary(b64variant, ob);
+[PATCH] return n.BinaryValue(b64variant);
+[PATCH] return getBinaryValue(ob, b64variant); }
+[PATCH] return(byte[])ob; }
+[PATCH] return getBinaryValue(binaryType, ob);
+[PATCH] return getBinaryValue(base64variant);
+[PATCH] return asBinary(b64variant);
+[PATCH] return data = n.binaryValue();
+[PATCH] return _binaryValue(b64variant);
+[PATCH] return getBinaryContent(b64variant);
+[PATCH] return getBinary(b64variant);
+[PATCH] return getBinaryValue(binaryvariant);
+[PATCH] return n.asBinary();
+[PATCH] [Delete]
+[PATCH] return bytes();
+[PATCH] }
+[PATCH] return [Delete]
+[PATCH] return
+[PATCH]
+);
+;
+*/

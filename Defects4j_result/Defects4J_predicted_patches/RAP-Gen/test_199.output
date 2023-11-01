@@ -1,0 +1,100 @@
+[PATCH] if(o1 == o2 || o2 == null){
+[PATCH] if(o1 == o2){
+[PATCH] if(( o1 == o2)&&(o2 == null)) {
+[PATCH] if(o1 == o2 || o2!= null){
+[PATCH] if(( o1 == null)&&(o2 == null)) {
+[PATCH] if(o1 == null || o2 == null){
+[PATCH] if(o1 == o2 && o2 == null){
+[PATCH] if(o1 == null && o2 == null){
+[PATCH] if(( o1 == o2)&&(o2!= null)) {
+[PATCH] if(o1 == null && o2!= null){
+[PATCH] if(( o1 == o2)&&!isNull(o1)) {
+[PATCH] if(( o1 == null && o2 == null)) {
+[PATCH] if(( o1 == o2)&&(o2 == null));
+[PATCH] if(( o1 == o2)&&(o2 == null = true));
+[PATCH] if(( o1 == o2)||(o2 == null)) {
+[PATCH] if(( o1 == o2 && o2 == null)) {
+[PATCH] if(( o1 == o2)&&!(o1 instanceof Null)) {
+[PATCH] if((o1 == o2)&&(o2 == null)) {
+[PATCH] if(o1 == null || o2!= null){
+[PATCH] if(( o1 == o2 || o2 == null)) {
+[PATCH] if(o1 == o2 || o2.getClass().isArray()){
+[PATCH] if(o1== o2 || o2 == null){
+[PATCH] if(( o1 == null || o2 == null)) {
+[PATCH] if(o1 == o2 ||!isObject(o1)) {
+[PATCH] if(( o1 == null)&&(o2!= null)) {
+[PATCH] if(o1 == o2 && o2!= null){
+[PATCH] if(( o1 == o2)&&!isEmpty(o1)) {
+[PATCH] if(o1 == o2 || o2 = o2.getClass();
+[PATCH] if(( o1 == o2)&&(o2 instanceof Boolean)) {
+[PATCH] if(( o1 == o2)&&(o2 instanceof Null)) {
+[PATCH] if(( o1 == null)||(o2 == null)) {
+[PATCH] if(isNull(o1)&&!isNull(o2)) {
+[PATCH] if(( o1 instanceof Number)&&(o2 instanceof Number)) {
+[PATCH] if(o1 == o2 || o2== null){
+[PATCH] if(o1 == o2 || o2 == this){
+[PATCH] if(o1 instanceof Number || o2 == null){
+[PATCH] if(o1 == o2 || o2 instanceof Boolean){
+[PATCH] if(o1.getClass()!= o2.getClass()){
+[PATCH] if(( o1!= null)&&(o2!= null)) {
+[PATCH] if(o1.getClass().isArray() || o2 == null){
+[PATCH] if(isNull(o1)|| isNull(o2)) {
+[PATCH] if(o1.getClass().isArray()){
+[PATCH] if(( o1!= null)&&(o2 == null)) {
+[PATCH] if(( o1 == o2)&&(o2== null)) {
+[PATCH] if(o1.getClass() == o2.getClass()){
+[PATCH] if(( o1 == o2)&&(o2 instanceof String)) {
+[PATCH] if(( o1== null)&&(o2 == null)) {
+[PATCH] if(( o1 == o2)&&(o2 == null);
+[PATCH] if(( o1 == o2)&&(o2 == null))){
+[PATCH] if(( o1 = o1)!= null && o2 == null){
+[PATCH] if(o1 == o2)return true;
+[PATCH] if(o1 == o2)&& o2 == null){
+[PATCH] if(o1 == o2|| o2 == null){
+[PATCH] if(o1 == o2 || o2 == null {
+[PATCH] if( o1 == o2 || o2 == null){
+[PATCH] if(o1 instanceof Integer || o2 == null){
+[PATCH] if(o1== o2 || o2!= null){
+[PATCH] if(o1 == i2 || o2 == i2){
+[PATCH] if(o1 == o2 || o2 instanceof Object){
+[PATCH] if(o1 == o2){
+[PATCH] if(o1 == o2)|| o2 == null){
+[PATCH] if(o1 == o2 || o2 == t){
+[PATCH] if(isNull(o1)|| o2 == null){
+[PATCH] if(o1 == o2 || o2 == null()){
+[PATCH] if(o1!= null && o2!= null){
+[PATCH] if(o1 == o2 || o2 instanceof Integer){
+[PATCH] if(o1 == o2 || o2 == true){
+[PATCH] if(o2 == null || o1!= o2){
+[PATCH] if(oOne == o2 || o2 == null){
+[PATCH] if(o1== null || o2 == null){
+[PATCH] if(o1== null && o2!= null){
+[PATCH] if(o1 == o2 || o2 instanceof String){
+[PATCH] if(o1 instanceof Boolean || o2 == null){
+[PATCH] if(o1 instanceof Object || o2 == null){
+[PATCH] if(o1 instanceof String || o2 == null){
+[PATCH] if(o1 == o2)return false;
+[PATCH] if(o1== o2){
+[PATCH] if(o1, o2 == null){
+[PATCH] if(o1 == o2 {
+[PATCH] if( o1 == o2){
+[PATCH] if(o2 == null){
+[PATCH] if(( o1 == o2)) {
+[PATCH] if(o1 = o2 == null){
+[PATCH] if(o1 && o2!= null){
+[PATCH] if(o1, o2!= null){
+[PATCH] if(o1 == o2)) {
+[PATCH] if(o1 == o2) {
+[PATCH] if(oOne == o2){
+[PATCH] if(o1 == o2);
+[PATCH] if(o1 < o2){
+[PATCH] if(( o1 == o2){
+[PATCH] if(o1 == oTwo){
+[PATCH] if(o1 == other){
+[PATCH] if("");
+[PATCH] if(o1
+[PATCH] if();
+[PATCH] if((
+[PATCH] if
+
+);

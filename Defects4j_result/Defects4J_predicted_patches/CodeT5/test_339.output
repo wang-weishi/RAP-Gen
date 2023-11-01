@@ -1,0 +1,100 @@
+[PATCH] if(jgen instanceof ToXmlGenerator){
+[PATCH] if(jgen instanceof ToXmlGenerator &&(( ToXmlGenerator)jgen).getRootName() == null){
+[PATCH] if(jgen instanceof ToXmlGenerator &&(( ToXmlGenerator)jgen).getDefaultRootName() == null){
+[PATCH] if(jgen instanceof ToXmlGenerator &&(( ToXmlGenerator)jgen).getNamespaceResolver() == null){
+[PATCH] if(jgen instanceof ToXmlGenerator &&(( ToXmlGenerator)jgen).getNamespacePrefix() == null){
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(( ToXmlGenerator)jgen).isDefaultRootName()){
+[PATCH] if(jgen instanceof ToXmlGenerator &&(( ToXmlGenerator)jgen).getDefaultNamespaceURI() == null){
+[PATCH] if(jgen instanceof ToXmlGenerator &&(( ToXmlGenerator)jgen).getNamespaceURI() == null){
+[PATCH] if(jgen instanceof ToXmlGenerator &&(( ToXmlGenerator)jgen).getNamespaceRootName() == null){
+[PATCH] if(jgen instanceof ToXmlGenerator &&(( ToXmlGenerator)jgen).getDefaultRootName()!= null){
+[PATCH] if(jgen instanceof ToXmlGenerator &&(( ToXmlGenerator)jgen).getDefaultPrettyPrinter() == null){
+[PATCH] if(jgen instanceof ToXmlGenerator &&(( ToXmlGenerator)jgen).getCurrentNodePointer() == null){
+[PATCH] if(jgen instanceof ToXmlGenerator &&(( ToXmlGenerator)jgen).getDefaultNamespaceDeclaration() == null){
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(( ToXmlGenerator)jgen).isScalarValue()){
+[PATCH] if(jgen instanceof ToXmlGenerator &&(( ToXmlGenerator)jgen).getRootNode() == null){
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(( ToXmlGenerator)jgen).isRoot()){
+[PATCH] if(jgen instanceof ToXmlGenerator &&(( ToXmlGenerator)jgen).isDefaultRootName()){
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(( ToXmlGenerator)jgen).isNamespaceAware()){
+[PATCH] if(jgen instanceof ToXmlGenerator &&(( ToXmlGenerator)jgen).getCodec() == this){
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(( ToXmlGenerator)jgen).isDefaultNamespaceDeclaration()){
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(( ToXmlGenerator)jgen).isValidating()){
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(( ToXmlGenerator)jgen).isExpectedStartElement()){
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(( ToXmlGenerator)jgen).isDefaultCreation()){
+[PATCH] if(jgen instanceof ToXmlGenerator &&(( ToXmlGenerator)jgen).getPrettyPrinter() == null){
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(( ToXmlGenerator)jgen).isContainer()){
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(( ToXmlGenerator)jgen).isDefaultPrettyPrinter()){
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(( ToXmlGenerator)jgen).isLenient()){
+[PATCH] if(jgen instanceof ToXmlGenerator &&(( ToXmlGenerator)jgen).getXMLRootName() == null){
+[PATCH] if(jgen instanceof ToXmlGenerator &&(( ToXmlGenerator)jgen).getNamespaceAware() == false){
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(( ToXmlGenerator)jgen).hasDefaultRootName()){
+[PATCH] if(jgen instanceof ToXmlGenerator &&(( ToXmlGenerator)jgen).getActiveNodePointer() == null){
+[PATCH] if(jgen instanceof ToXmlGenerator &&(( ToXmlGenerator)jgen).getBaseUri() == null){
+[PATCH] if(jgen instanceof ToXmlGenerator &&(( ToXmlGenerator)jgen).getTargetNamespace() == null){
+[PATCH] if(jgen instanceof ToXmlGenerator &&(( ToXmlGenerator)jgen).getValidatingRootName() == null){
+[PATCH] if(jgen instanceof ToXmlGenerator &&(( ToXmlGenerator)jgen).getDefaultNamespaceDecl() == null){
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(( ToXmlGenerator)jgen).isContainerType()){
+[PATCH] if(jgen instanceof ToXmlGenerator &&(( ToXmlGenerator)jgen).getDefaultNodePointer() == null){
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(( ToXmlGenerator)jgen).isOutputNull()){
+[PATCH] if(jgen instanceof ToXmlGenerator &&(( ToXmlGenerator)jgen).getNamespaceResolver() == this){
+[PATCH] if(jgen instanceof ToXmlGenerator &&(( ToXmlGenerator)jgen).getNamespaceContext() == null){
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(( ToXmlGenerator)jgen).isControlStructure()){
+[PATCH] if(jgen instanceof ToXmlGenerator &&(( ToXmlGenerator)jgen).getStartNode() == null){
+[PATCH] if(jgen instanceof ToXmlGenerator &&(( ToXmlGenerator)jgen).getDefaultNamespaceResolver() == null){
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(( ToXmlGenerator)jgen).isDynamicRoot()){
+[PATCH] if(jgen instanceof ToXmlGenerator &&(( ToXmlGenerator)jgen).getPrefix() == null){
+[PATCH] if(jgen instanceof ToXmlGenerator &&(( ToXmlGenerator)jgen).getContext().isRoot()){
+[PATCH] if(jgen instanceof ToXmlGenerator &&(( ToXmlGenerator)jgen).getParameterCount() == 0){
+[PATCH] if(jgen instanceof ToXmlGenerator &&(( ToXmlGenerator)jgen).getNamespacePrettyPrinter() == null){
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(( ToXmlGenerator)jgen).isDefaultImpl()){
+[PATCH] if(jgen instanceof ToXmlGenerator &&(( ToXmlGenerator)jgen).getNamespaceResolver().inRoot()){
+[PATCH] if(jgen instanceof ToXmlGenerator &&(( ToXmlGenerator)jgen).getNamespaceResolver().isRoot()){
+[PATCH] if(jgen instanceof ToXmlGenerator &&(( ToXmlGenerator)jgen).getSchemaRootName() == null){
+[PATCH] if(jgen instanceof ToXmlGenerator &&(( ToXmlGenerator)jgen).getDefaultNamespaceDeclaration()!= null){
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(( ToXmlGenerator)jgen).isOutputRoot()){
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(( ToXmlGenerator)jgen).isTranslated()){
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(( ToXmlGenerator)jgen).isOutputAsRoot()){
+[PATCH] if(jgen instanceof ToXmlGenerator &&(( ToXmlGenerator)jgen).getSchema().isRoot()){
+[PATCH] if(jgen instanceof ToXmlGenerator &&(( ToXmlGenerator)jgen).getInitialValue() == null){
+[PATCH] if(jgen instanceof ToXmlGenerator &&(( ToXmlGenerator)jgen).getNamespaceContext() == this){
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(( ToXmlGenerator)jgen).isStartElement()){
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(( ToXmlGenerator)jgen).hasRootName()){
+[PATCH] if(jgen instanceof ToXmlGenerator &&(( ToXmlGenerator)jgen).getNextName() == null){
+[PATCH] if(jgen instanceof ToXmlGenerator &&(( ToXmlGenerator)jgen).getNamespaceDeclaration() == null){
+[PATCH] if(jgen instanceof ToXmlGenerator &&(( ToXmlGenerator)jgen).getVersion() == 0){
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(( ToXmlGenerator)jgen).inRoot()){
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(( ToXmlGenerator)jgen).isRaw()){
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(( ToXmlGenerator)jgen).isImmutableValue()){
+[PATCH] if(jgen instanceof ToXmlGenerator &&(( ToXmlGenerator)jgen).getVersion() == 1){
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(_rootNameLookup instanceof XmlRootName)) {
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(( ToXmlGenerator)jgen).getNamespaceAwareRootName()){
+[PATCH] if(jgen instanceof ToXmlGenerator &&!_rootNameLookup.isRootName()){
+[PATCH] if(jgen instanceof ToXmlGenerator &&!_rootNameFromConfig();
+[PATCH] if(jgen instanceof ToXmlGenerator &&!(jgen instanceof JsonGenerator)) {
+[PATCH] if(jgen instanceof ToXmlGenerator &&!rootName.isEmpty()){
+[PATCH] if(jgen instanceof ToXmlGenerator && getRootNameForNull()!= null){
+[PATCH] if(jgen instanceof ToXmlGenerator && getDefaultRootName()!= null){
+[PATCH] if(jgen instanceof ToXmlGenerator && _rootNameFromConfig();
+[PATCH] if(jgen instanceof ToXmlGenerator && _rootNameLookup == null){
+[PATCH] if(jgen instanceof ToXmlGenerator &&Wrappers.size() == 0){
+[PATCH] if(jgen instanceof ToXmlGenerator){
+[PATCH] if(jgen instanceof ToXmlGenerator && isDefaultRootName()){
+[PATCH] if(jgen instanceof ToXmlGenerator && rootName == null){
+[PATCH] if(jgen instanceof ToXmlGenerator &&!loadMore()){
+[PATCH] if(jgen instanceof ToXmlGenerator && i == 0){
+[PATCH] if(jgen instanceof ToXmlGenerator && false){
+[PATCH] if(jgen instanceof ToXmlGenerator && isCollection()){
+[PATCH] if(jgen instanceof ToXmlGenerator &&";
+[PATCH] if(jgen instanceof ToXmlGenerator &&"){
+[PATCH] if(jgen instanceof ToXmlGenerator &&("");
+[PATCH] if(jgen instanceof ToXmlGenerators){
+[PATCH] if(jgen instanceof FromXmlGenerator){
+[PATCH] if(jgen instanceof AsXmlGenerator){
+[PATCH] if(jgen instanceof toXmlGenerator){
+[PATCH] if(jgen instanceof ToXmlWriter){
+[PATCH] if(jgen instanceof ToStringGenerator){
+[PATCH] if(jgen instanceof JsonGenerator){
+[PATCH] if(jgen instanceof ValueGenerator){
+[PATCH] if(jgen instanceof Writer){
+[PATCH] if(jgen instanceof Emitter){
+[PATCH] if(jgen instanceof TokenBuffer){

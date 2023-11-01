@@ -1,0 +1,100 @@
+[PATCH] if(( p2 > 0.0)&&(q2 > 0.0)) {
+[PATCH] if(( p2 > 0.0)||(q2 > 0.0)) {
+[PATCH] if(( p2 < 1)||(q2 > 1)) {
+[PATCH] if(( p2 > 1.0)||(q2 > 1.0)) {
+[PATCH] if(( p2 > overflow)&&(q2 > overflow)) {
+[PATCH] if(( p2 > 0)&&(q2 > 0)) {
+[PATCH] if(( p2 > maxDenominator)&&(q2 > maxDenominator)) {
+[PATCH] if(( p2 > 1)||(q2 > 1)) {
+[PATCH] if(( p2 > 1.0)&&(q2 > 1.0)) {
+[PATCH] if(( p2 < 0)||(q2 > 0)) {
+[PATCH] if(Double.isNaN(p2)|| Double.isNaN(q2)) {
+[PATCH] if(( p2 > value)&&(q2 > value)) {
+[PATCH] if(p2 < 1 || q2 > 1){
+[PATCH] if(( p2 > maxDenominator)||(q2 > maxDenominator)) {
+[PATCH] if(( p2 > 0.0|(q2 > 0.0)) {
+[PATCH] if(( p2 > 0)||(q2 > 0)) {
+[PATCH] if(( p2 > 0.0)-(q2 > 0.0)) {
+[PATCH] if(( p2 > 1)&&(q2 > 1)) {
+[PATCH] if(( p2 > value)||(q2 > value)) {
+[PATCH] if(( p2 < 1)||(q2 > maxDenominator)) {
+[PATCH] if(( p2 > 0.0f)||(q2 > 0.0)) {
+[PATCH] if(p2 < 0 || q2 > 0){
+[PATCH] if(( p2 > overflow)||(q2 > overflow)) {
+[PATCH] if(( p2 * q2)< 0 ||(p2 * q2)) {
+[PATCH] if(( p2 > 1.0|(q2 > 1.0)) {
+[PATCH] if(( p2 * q2)!= 0 ||(p2 * q2)) {
+[PATCH] if(p2 < 1.0 || q2 > 1.0){
+[PATCH] if(( p2 * q2)!= value ||(p2 * q2)) {
+[PATCH] if(1.0 - p2 < 1.0 || q2 > 1.0){
+[PATCH] if(( p2 - q2)< 0 ||(p2 > overflow)) {
+[PATCH] if(p2 < 0 || q2 > 0)) {
+[PATCH] if(( p2 > q2)||(q2 > maxDenominator)) {
+[PATCH] if(( p2 / q2)!= 0 ||(p2 > q2)) {
+[PATCH] if(( p2 - q2)< 0)||(p2 > 1)) {
+[PATCH] if(!setDenominator(p2)||!setDenominator(q2)) {
+[PATCH] if(( p2 - q2)< 0 ||(p2 > 1)) {
+[PATCH] if(( p2 / q2)!= value){
+[PATCH] if(( p2 / q2)!= value ||(p2 & ~q2)) {
+[PATCH] if(( p2 - q2)< 0 ||(p2 > maxDenominator)) {
+[PATCH] if(( p2 > INT_MAX || p2 > INT_MAX)) {
+[PATCH] if(( p2 & ~epsilon)||(q2 > maxDenominator)) {
+[PATCH] if(( p2 > 0.0)*(q2 > 0.0)) {
+[PATCH] if(( p2 > 0.0)&&(q2 < 0.0)) {
+[PATCH] if(( p2 / q2)!= 0 ||(p2 & ~q2)) {
+[PATCH] if(( p2 > q2)||(q2 > q2)) {
+[PATCH] if(( p2 | q2)< 0)||(p2 > 1)) {
+[PATCH] if(( p2 / q2)!= 0 ||(p2 / q2)) {
+[PATCH] if(n < maxIterations ||(q2 > maxDenominator)) {
+[PATCH] if(( p2 > MAX_VALUE)&&(q2 > MAX_VALUE)) {
+[PATCH] if(1.0 - p2 > 1.0 || q2 > 1.0){
+[PATCH] if(( p2 - q2)< 0 ||(p2 > 1.0)) {
+[PATCH] if(p2 < 1.0 || q2 > 1.0)) {
+[PATCH] if(( p2 / q2)!= value ||(p2 > q2)) {
+[PATCH] if(( p2 / q2)!= 0 ||(p2 % q2)) {
+[PATCH] if(( p2 - q2)< 0)||(p2 > overflow)) {
+[PATCH] if(( p2 > upperBound)||(q2 > upperBound)) {
+[PATCH] if(p2 < 1 || q2 > maxDenominator){
+[PATCH] if(1.0 < p2 ||(p2 > q2)) {
+[PATCH] if(( p2 * q2)!= 0 ||(q2 * p2)) {
+[PATCH] if(( p2 < 0)||(q2 > maxDenominator)) {
+[PATCH] if(( p2 > scale)&&(q2 > scale)) {
+[PATCH] if(( p2 / q2)!= value ||(p2 / q2)) {
+[PATCH] if(( p2 * q2)> value ||(p2 * q2)) {
+[PATCH] if(( p2 > error)||(q2 > error)) {
+[PATCH] if(p2 < 0.0 || q2 > 0.0){
+[PATCH] if(( p2 > limit)&&(q2 > limit)) {
+[PATCH] if(( p2 > limit)||(q2 > limit)) {
+[PATCH] if(( p2 > 0.0)&&(q2 > 1.0)) {
+[PATCH] if(( p2 / q2)< 0 ||(p2 > maxDenominator)) {
+[PATCH] if(( p2 < 1)&&(q2 > 1)) {
+[PATCH] if(( p2 / q2)< 0 ||(p2 & ~q2)) {
+[PATCH] if(( p2 > 100)&&(q2 > 100)) {
+[PATCH] if(( p2 * q2)!= value){
+[PATCH] if(( p2 - 1)< 0)||(q2 > 0)) {
+[PATCH] if(( p2 / q2)< 0 ||(p2 / q2)) {
+[PATCH] if(( p2 < 1)||(q2 > maximumDenominator)) {
+[PATCH] if(( p2 > h)&&(q2 > h)) {
+[PATCH] if(( p2 > maximum)&&(q2 > maximum)) {
+[PATCH] if(( p2 > MAX_VALUE)&&(q2 > maxValue)) {
+[PATCH] if(( p2 / q2)!= value ||(p2 % q2)) {
+[PATCH] if(( p2 > maximum)||(q2 > maximum)) {
+[PATCH] if(( p2 / q2)< 0 ||(p2 > overflow)) {
+[PATCH] if(( p2 | q2)< 0)||(p2 > overflow)) {
+[PATCH] if(( p2 > zero)||(q2 > zero)) {
+[PATCH] if(( p2 - q2)< 0.0 ||(p2 > overflow)) {
+[PATCH] if(( p2 > 100)||(q2 > 100)) {
+[PATCH] if(( p2 * q2)!= 0.0){
+[PATCH] if(( p2 / q2)!= 0){
+[PATCH] if(( p2 / q2)!= 0.0){
+[PATCH] if(( p2 * q2)< 0 ||(q2 * p2)) {
+[PATCH] if(( p2 / q2)!= 0 ||(p2 * q2)) {
+[PATCH] if(( p2 - q2)< 0||(p2 > 1)) {
+[PATCH] if(( p2 * q2)!= 0){
+[PATCH] if(( p2 > 0)*(q2 > 0)) {
+[PATCH] if(( p2 * q2)< 0 ||(p2 * q1)) {
+[PATCH] if(( p2 * q2)!= value ||(p2 * q1)) {
+[PATCH] if(p2 < 0.0 || q2 > 0.0)) {
+[PATCH] if(n < maxIterations ||(p2 > overflow)) {
+[PATCH] if(( p2 * q2)< 1)||(q2 * p1)) {
+[PATCH] if(s2 < 1 ||(s2 > 1)) {

@@ -1,0 +1,100 @@
+[PATCH] private final Object readResolve() {
+[PATCH] protected Object readResolve() {
+[PATCH] private Object readResolve() {
+[PATCH] private final Object readResolve() throws Exception {
+[PATCH] protected final Object readResolve() {
+[PATCH] private Object super.readResolve() {
+[PATCH] private final Object super.readResolve() {
+[PATCH] private Object readResolve() throws Exception {
+[PATCH] private final Object readResolve();
+[PATCH] private final Object super.readResolve();
+[PATCH] protected Object readResolve() throws Exception {
+[PATCH] protected final Object readResolve() throws Exception {
+[PATCH] private Object readResolve();
+[PATCH] private Object resolved = super.readResolve();
+[PATCH] private Object super.readResolve();
+[PATCH] private final Object readResolve() throws IOException {
+[PATCH] private Object computeHashCode(K[] keys){
+[PATCH] private final K[] keys = toArray();
+[PATCH] private Object calculateHashCode(K[] keys){
+[PATCH] protected Object readResolve(Object value){
+[PATCH] private Object resolve();
+[PATCH] private static final Object[] keys = toArray();
+[PATCH] private final Object readResolve() throws Throwable {
+[PATCH] protected Object readResolve(int index);
+[PATCH] private final Object getValue();
+[PATCH] private Object proxy = super.readResolve();
+[PATCH] private Object result = super.readResolve();
+[PATCH] private Object cache = super.readResolve();
+[PATCH] private private Object readResolve() {
+[PATCH] private protected Object readResolve() {
+[PATCH] protected Object readResolve(K[] keys){
+[PATCH] private K[] keys = this.keys;
+[PATCH] protected Object readResolve();
+[PATCH] protected Object super.readResolve() {
+[PATCH] private Object readResolve() throws IOException {
+[PATCH] private K[] keys = toArray();
+[PATCH] private Object value = super.readResolve();
+[PATCH] private private Object super.readResolve() {
+[PATCH] private static final K[] keys = toArray();
+[PATCH] private Object doResolve() {
+[PATCH] private Object readResolve(int index);
+[PATCH] private final Object resolve();
+[PATCH] private Object readResolve(Object value){
+[PATCH] protected Object readResolve(Object key){
+[PATCH] public Object readResolve() {
+[PATCH] private synchronized Object readResolve() {
+[PATCH] private final Object superResolve() {
+[PATCH] protected final Object readResolve() throws IOException {
+[PATCH] private Object computeHashCode(int total){
+[PATCH] protected Object readResolve() throws IOException {
+[PATCH] private private Object readResolve() throws Exception {
+[PATCH] protected Object readResolve(Object target){
+[PATCH] private static final Object super.readResolve();
+[PATCH] protected final Object readResolve();
+[PATCH] private Object doResolve();
+[PATCH] private Object writeResolve() {
+[PATCH] protected Object readResolve(int total){
+[PATCH] public final Object readResolve() {
+[PATCH] private final Object _resolve();
+[PATCH] protected K[] keys = toArray();
+[PATCH] private public Object readResolve() {
+[PATCH] private final Object writeResolve() {
+[PATCH] private Object readResolve() throws Throwable {
+[PATCH] protected Object resolve();
+[PATCH] private final Object value = new Object[] {
+[PATCH] private final Object[] keys = toArray();
+[PATCH] protected synchronized Object readResolve() {
+[PATCH] protected Object readResolve(int index){
+[PATCH] private Object resolve() {
+[PATCH] private Object doReadResolve() {
+[PATCH] private final Object cache = toArray();
+[PATCH] protected Object resolve() {
+[PATCH] private final Object superResolve();
+[PATCH] private private Object readResolve();
+[PATCH] protected Object doReadResolve() {
+[PATCH] protected final K[] keys = toArray();
+[PATCH] private final Object readResolve() throws Exception {"
+[PATCH] protected Object readResolve(Object obj){
+[PATCH] private final Object readResolve() throws ClassNotFoundException {
+[PATCH] private final Object value = new Object();
+[PATCH] protected Object readResolve() throws Throwable {
+[PATCH] private Object handleGet(int index);
+[PATCH] private final Object _resolve() {
+[PATCH] private final Object super.resolve();
+[PATCH] protected Object readResolve(Object actual){
+[PATCH] private Object super.resolve();
+[PATCH] private final Object readResolve() throws IOException {"
+[PATCH] protected Object doResolve() {
+[PATCH] private Object _resolve();
+[PATCH] private final Object readResolve() throws Exception){
+[PATCH] private final Object doResolve() {
+[PATCH] private final Object resolve() {
+[PATCH] private private Object super.readResolve();
+[PATCH] private final Object doResolve();
+[PATCH] private K[] keys = this.keys();
+[PATCH] private final Object cache = this.get();
+[PATCH] private Object superResolve() {
+[PATCH] private Object getValue();
+[PATCH] private final Object value = super.read();
+[PATCH] private Object doReadResolve();

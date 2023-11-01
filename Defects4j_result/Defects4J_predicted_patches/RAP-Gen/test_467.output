@@ -1,0 +1,100 @@
+[PATCH] if(declaredType.isContainerType()){
+[PATCH] if(!declaredType.isContainerType()){
+[PATCH] if(declaredType.isContainerType()
+[PATCH] if(!declaredType.getRawClass().isArray()){
+[PATCH] if(declaredType == null || declaredType.isContainerType()){
+[PATCH] if(declaredType.equals(serializationType)) {
+[PATCH] if(declaredType.isPrimitive() &&!serializationType.isContainerType()){
+[PATCH] if(declaredType.getContentType() == JsonTypeInfo.None.class
+[PATCH] if(!declaredType.isContainerType()
+[PATCH] if(declaredType.isContainerType() && _annotationIntrospector!= null){
+[PATCH] if(declaredType.equals(serializationType.getRawClass())) {
+[PATCH] if(declaredType.getValue() == null || declaredType.isContainerType()){
+[PATCH] if(declaredType.getRawClass().isArray()){
+[PATCH] if(declaredType.isContainerType() &&!serializationType.isDefault()){
+[PATCH] if(declaredType.isContainerType() &&!serializationType.canSerialize()){
+[PATCH] if(declaredType.getContentType() == JsonTypeInfo.None.class){
+[PATCH] if(declaredType.getContentType() == null || declaredType.isContainerType()){
+[PATCH] if(!propDef.isRequired()){
+[PATCH] if(declaredType.isNoType() || declaredType.isContainerType()){
+[PATCH] if(declaredType.getRawClass() == null
+[PATCH] if(declaredType.getRawClass() == BeanType.VOID_TYPE
+[PATCH] if(!declaredType.isAssignableFrom(serializationType)) {
+[PATCH] if(!serializationType.isContainerType()){
+[PATCH] if(declaredType == null || declaredType.equals(serializationType)) {
+[PATCH] if(declaredType.isUnknownType()
+[PATCH] if(declaredType.equals(serializerType.getRawClass())) {
+[PATCH] if(!declaredType.isContainerType() && _annotationIntrospector!= null){
+[PATCH] if(!propDef.isEmpty() &&!declaredType.isContainerType()){
+[PATCH] if(declaredType.isContainerType() &&!serializationType.isActual()){
+[PATCH] if(declaredType.isContainerType() &&!serializationType.isEmpty()){
+[PATCH] if(declaredType.getContentType() == JsonTypeInfo.As.ARRAY
+[PATCH] if(!declaredType.canCreateUsingDefault()){
+[PATCH] if(declaredType.isNone() &&!serializationType.isContainerType()){
+[PATCH] if(declaredType.isNone() || declaredType.isContainerType()){
+[PATCH] if(isEnabled(SerializationFeature.ACCEPT_EMPTY_OBJECT_ARRAY)) {
+[PATCH] if(declaredType.isPrimitive() && _annotationIntrospector!= null){
+[PATCH] if(declaredType.isEmpty()){
+[PATCH] if(serializationType.isContainerType()){
+[PATCH] if(declaredType.isNoType() && _annotationIntrospector!= null){
+[PATCH] if(declaredType.isContainerType() &&!serializationType.isSupported()){
+[PATCH] if(declaredType.getValue() == null){
+[PATCH] if(declaredType.getContentType() == JsonTypeInfo.VOID_TYPE){
+[PATCH] if(!declaredType.isArray()){
+[PATCH] if(declaredType.isContainerType() &&!serializationType.isInterface()){
+[PATCH] if(declaredType.equals(typeSer.getRawClass())) {
+[PATCH] if(!declaredType.getContentType().isContainerType()){
+[PATCH] if(declaredType.getRawClass() == null){
+[PATCH] if(declaredType.isPrimitive()){
+[PATCH] if(declaredType.isRawClass()){
+[PATCH] if(declaredType == null || declaredType.isContainerType()
+[PATCH] if(!declaredType.equals(serializationType)) {
+[PATCH] if(declaredType.getValue() == null && _annotationIntrospector!= null){
+[PATCH] if(declaredType.getContentType() == JsonSerializer.None.class
+[PATCH] if(declaredType.getRawClass() == BeanType.VOID_TYPE){
+[PATCH] if(declaredType.equals(valueToSuppress)) {
+[PATCH] if(declaredType.isVoidType()){
+[PATCH] if(declaredType.isUnknownType()){
+[PATCH] if(!declaredType.canAssignTo(serializationType)) {
+[PATCH] if(!declaredType.isRawClass()){
+[PATCH] if(declaredType.isNone()){
+[PATCH] if(declaredType.isNoType()
+[PATCH] if(typeDef.getType() == JavaType.ARRAY
+[PATCH] if(declaredType.isArray()){
+[PATCH] if(declaredType.equals(Object.class)) {
+[PATCH] if(!propDef.isContainerType()){
+[PATCH] if(declaringType.isContainerType()){
+[PATCH] if(!declaredType.hasReferenceName()){
+[PATCH] if(propDef.isNoDefault()){
+[PATCH] if(!declaredType.isPropertyTypeDeclared()){
+[PATCH] if(declaredType.getRawClass() == Object.class
+[PATCH] if(typeSer.isContainerType()){
+[PATCH] if(!propDef.isEmpty()){
+[PATCH] if(declaredType.equals(defaultType)) {
+[PATCH] if(declaredType.getValue() == null
+[PATCH] if(declaredType.getRawClass()!= null
+[PATCH] if(!def.isContainerType()){
+[PATCH] if(declaredType.isNoType()){
+[PATCH] if(!decl.isContainerType()){
+[PATCH] if(! declaredType.isContainerType()){
+[PATCH] if(!containingType.isContainerType()){
+[PATCH] if( declaredType.isContainerType()){
+[PATCH] if(propDef.isNoType()){
+[PATCH] if(declaredType.getRawClass() == Object.class){
+[PATCH] if(declarationsType.isContainerType()){
+[PATCH] if(!declaredType.isActual()){
+[PATCH] if(declaredType.isPrimitive()
+[PATCH] if(declaredType.isEmpty()
+[PATCH] if(!propDef.isNoType()){
+[PATCH] if(!declaredType.isVoidType()){
+[PATCH] if(declaredType.getContentType() == JsonTypeInfo.class
+[PATCH] if(declaredType.getRawClass() == String.class
+[PATCH] if(!propDef.isDefault()){
+[PATCH] if(declarationType.isContainerType()){
+[PATCH] if(declaredType.isPropertyTypeDeclared()){
+[PATCH] if(typeDef.isContainerType()){
+[PATCH] if(propDef.isRequired()){
+[PATCH] if(!declaredType.isNone()){
+[PATCH] if(!propDef.hasValue()){
+[PATCH] if(!declaredType.isUnknownType()
+[PATCH] if(propDef.isEmpty()){

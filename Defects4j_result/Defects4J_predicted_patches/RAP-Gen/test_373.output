@@ -1,0 +1,100 @@
+[PATCH] Preconditions.checkNotNull(axis);
+[PATCH] if(axis == this.domainAxis){ if(this.domainAxes == null){ throw new IllegalArgumentException(""); }
+[PATCH] if(axis.getOrientation() == PlotOrientation.HORIZONTAL){ axis = axis.getHorizontal(); }
+[PATCH] if(axis == this.domainAxis){ if(this.domainAxes == null){ return -1; }
+[PATCH] if(axis instanceof CategoryAxis){ if(this.domainAxes == null){ throw new IllegalArgumentException(""); }
+[PATCH] if(axis.getOrientation() == PlotOrientation.HORIZONTAL){ axis = axis.getDomainAxis(); }
+[PATCH] if(axis.getOrientation() == PlotOrientation.HORIZONTAL){ axis = axis.getHorizontalAxis(); }
+[PATCH] if(axis instanceof DomainAxis){ if(this.domainAxes == null){ throw new IllegalArgumentException(""); }
+[PATCH] if(axis instanceof CategoryAxis){ if(this.domainAxes == null){ this.domainAxes = new ObjectList(); }
+[PATCH] if(axis == null){ if(this.domainAxes == null){ throw new IllegalArgumentException(""); }
+[PATCH] CategoryAxis orientation = axis.getOrientation();
+[PATCH] if(axis == null){ if(this.domainAxes == null){ this.domainAxes = Collections.emptyList(); }
+[PATCH] if(axis.getOrientation() == PlotOrientation.HORIZONTAL){ axis = axis.getParent(); }
+[PATCH] if(axis == this.domainAxis){ if(this.domainAxes == null){ return 0; }
+[PATCH] if(axis == null){ if(this.domainAxes == null){ this.domainAxes = new ObjectList(); }
+[PATCH] if(axis == this.domainAxis){ if(this.domainAxes == null){ throw new IllegalStateException(""); }
+[PATCH] if(axis == this.domainAxis { if(this.domainAxes == null){ throw new IllegalArgumentException(""); }
+[PATCH] if(axis instanceof DefaultDomainAxis){ if(this.domainAxes == null){ throw new IllegalArgumentException(""); }
+[PATCH] if(axis!= null){ if(this.domainAxes == null){ throw new IllegalArgumentException(""); }
+[PATCH] if(axis == this.domainAxis){ if(this.domainAxes == null){ refreshDomainAxis(); }
+[PATCH] if(axis instanceof DomainAxis){ if(this.domainAxes == null){ this.domainAxes = new ObjectList(); }
+[PATCH] if(axis == null){ if(this.domainAxis == null){ throw new IllegalArgumentException(""); }
+[PATCH] if(axis instanceof CategoryAxis){ if(!axis.equals(this.domainAxis)) { throw new IllegalArgumentException(""); }
+[PATCH] if(axis instanceof CategoryAxis){ if(!axis.equals(this.domainAxis)) { return -1; }
+[PATCH] if(axis.getDomainAxisOrder() == PlotOrientation.HORIZONTAL){ axis = axis.getDomainAxis(); }
+[PATCH] if(axis instanceof CategoryAxis){ if(this.domainAxes == null){ return -1; }
+[PATCH] if(axis == null){ if(this.domainAxes == null){ this.domainAxes = new CategoryAxisList(); }
+[PATCH] if(axis.getOrientation() == PlotOrientation.HORIZONTAL){ axis = axis.getStandardTickUnits(); }
+[PATCH] if(axis.getOrientation() == PlotOrientation.HORIZONTAL){ throw new IllegalArgumentException(""); }
+[PATCH] if(axis == null){ if(this.domainAxes == null){ return -1; }
+[PATCH] if(axis == null){ if(this.domainAxis == null){ return -1; }
+[PATCH] if(axis instanceof CategoryAxis){ if(this.domainAxes == null){ this.domainAxes = new ArrayList(); }
+[PATCH] if(axis == this.domainAxis){ if(this.domainAxes == null){ throw new RuntimeException(""); }
+[PATCH] if(axis.getOrientation()!= PlotOrientation.HORIZONTAL){ axis = axis.getOrientation(); }
+[PATCH] if(axis.getOrientation() == PlotOrientation.HORIZONTAL){ axis = axis.getAncestor(2); }
+[PATCH] if(axis instanceof CategoryAxis){ if(this.domainAxes == null){ this.domainAxes = domainAxisList; }
+[PATCH] if(axis.getOrientation() == PlotOrientation.HORIZONTAL){ axis = axis.getInternalName(); }
+[PATCH] switch(axis.getOrientation()){ case PlotOrientation.HORIZONTAL : case PlotOrientation.INFINITE;
+[PATCH] if(axis.getOrientation() == PlotOrientation.HORIZONTAL){ axis = axis.getLowerBound(); }
+[PATCH] if(axis.getOrientation() == PlotOrientation.HORIZONTAL){ axis = axis.getLowerAxis(); }
+[PATCH] if(axis instanceof DomainAxis){ if(this.domainAxes == null){ return -1; }
+[PATCH] if(axis.getOrientation() == PlotOrientation.HORIZONTAL){ axis = axis.getPrimaryAxis(); }
+[PATCH] if(axis.getOrientation() == PlotOrientation.HORIZONTAL){ axis = axis.getForward(); }
+[PATCH] if(axis.getOrientation() == PlotOrientation.HORIZONTAL){ axis = axis.getStatic(); }
+[PATCH] while(axis.getOrientation() == PlotOrientation.HORIZONTAL){ axis = axis.getHorizontal();
+[PATCH] Preconditions.checkNotNull(axis, CategoryAxis.class);
+[PATCH] if(axis!= null){ if(this.domainAxes == null){ return -1; }
+[PATCH] Preconditions.checkArgument(axis.getOrientation() == PlotOrientation.HORIZONTAL);
+[PATCH] if(axis == null){ axis = getDefaultDomainAxis(); }
+[PATCH] if(axis == this.domainAxis){ throw new IllegalArgumentException(""); }
+[PATCH] if(axis == null){ axis = this.domainAxisSpace.getDefaultOrientation(); }
+[PATCH] Preconditions.checkArgument(axis.getCategory() == this.domainAxis);
+[PATCH] Preconditions.checkNotNull(axis,"Must not be null.");
+[PATCH] axis =(axis == this.domainAxis? this.domainAxis : axis);
+[PATCH] plot.setOrientation(axis.getOrientation());
+[PATCH] if(axis instanceof Zoom){ axis =(CategoryAxis)axis; }
+[PATCH] axis = DateTimeUtils.getCategoryAxis(axis);
+[PATCH] CategoryOrientation orientation = axis.getOrientation();
+[PATCH] axis =(axis == null? this.domainAxis : axis);
+[PATCH] PlotOrientation orientation = plot.getOrientation();
+[PATCH] CategoryAxis orientation = plot.getOrientation();
+[PATCH] axis = axis.getOrientation();
+[PATCH] if(axis == null){ throw new IllegalArgumentException(""); }
+[PATCH] if(axis == null){ axis = this.domainAxis; }
+[PATCH] axis = checkAxis(axis);
+[PATCH] if(axis == this.domainAxis){ if(""); }
+[PATCH] Preconditions.checkNotNull(axis, null);
+[PATCH] axis = this.getDomainAxis(axis);
+[PATCH] Preconditions.checkArgument(axis!= null);
+[PATCH] AxisOrientation orientation = axis.getOrientation();
+[PATCH] CategoryOrientation orientation = plot.getOrientation();
+[PATCH] PlotOrientation orientation = getPlot().getOrientation();
+[PATCH] axis =(axis == this.domainAxis);
+[PATCH] plotOrientation = plot.getOrientation();
+[PATCH] Validate.notNull(axis);
+[PATCH] ChartOrientation orientation = plot.getOrientation();
+[PATCH] Axis orientation = axis.getOrientation();
+[PATCH] TimeSeriesOrientation orientation = plot.getOrientation();
+[PATCH] axis =Validate.notNull(axis);
+[PATCH] axis = validate(axis);
+[PATCH] orientation = axis.getOrientation();
+[PATCH] axis = checkCategoryAxis(axis);
+[PATCH] axis = axis.getDomainAxis();
+[PATCH] axis = axis.getHorizontalAxis();
+[PATCH] axis = validateAxis(axis);
+[PATCH] checkAxis(axis);
+[PATCH] axis = axis.getParent();
+[PATCH] axis = transform(axis);
+[PATCH] axis = normalise(axis);
+[PATCH] axis = normalize(axis);
+[PATCH] axis =validate(axis);
+[PATCH] axis = translate(axis);
+[PATCH] deprecation();
+[PATCH] scale();
+[PATCH] synchronized();
+[PATCH] ;
+);
+;
+..
+());

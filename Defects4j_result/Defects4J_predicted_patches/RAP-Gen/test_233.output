@@ -1,0 +1,100 @@
+[PATCH] if(!inAttribute){
+[PATCH] if(!inAttribute)accum.append("<");
+[PATCH] if(!inAttribute)
+[PATCH] if(!inAttribute)accum.append("\n");
+[PATCH] if(!inAttribute) accum.append("<");
+[PATCH] if(!inAttribute)accum.append('<');
+[PATCH] if(!inAttribute)accum.append("=<");
+[PATCH] if(!inAttribute)accum.append("<";
+[PATCH] if(!inAttribute)accum.append("~");
+[PATCH] if(!inAttribute)accum.append("|");
+[PATCH] if(!inAttribute)accum.append("<<");
+[PATCH] if(!inAttribute)accum.append("\t");
+[PATCH] if(!inAttribute)accum.append("||");
+[PATCH] if(!inAttribute)subtract("&lt;");
+[PATCH] if(!inAttribute)accum.append("<!");
+[PATCH] if(!inAttribute)accum.append("==");
+[PATCH] if(!inAttribute)accum.append("</");
+[PATCH] if(!inAttribute)accum.append("<;)
+[PATCH] if("&lt;"); else accum.append(c);
+[PATCH] if(!inAttribute)c ="&lt;";
+[PATCH] if('&lt;'.indexOf(c)< 0){
+[PATCH] if (!inAttribute){
+[PATCH] if(!inAttribute)accum.append("=");
+[PATCH] if(!inAttribute)accum.append("=='");
+[PATCH] if(!inAttribute)accum.append("%");
+[PATCH] if(!inAttribute) accum.append("<;");
+[PATCH] if("&lt;".indexOf(c)< 0){
+[PATCH] if(!inAttribute)accum.append("'<');
+[PATCH] if(!inAttribute)c ="<";
+[PATCH] if(-1!= (c ="&lt;")) {
+[PATCH] if (!inAttribute)accum.append("<");
+[PATCH] if(!inAttribute)accum.append("!");
+[PATCH] if(-1 < c || c > '9'){
+[PATCH] if(-1!= (c & ~inAttribute)) {
+[PATCH] if(!inAttribute && c == '<'){
+[PATCH] if!inAttribute)accum.append("<");
+[PATCH] if(-1 < count && c > '9'){
+[PATCH] if(!inAttribute)c ="<");
+[PATCH] if(-1 < count &&!inAttribute){
+[PATCH] if(-1 < length ||!inAttribute){
+[PATCH] if(-1!= (c >> 6)) {
+[PATCH] if(-1 < c &&!inAttribute){
+[PATCH] if (!inAttribute)
+[PATCH] if(_inAttribute){
+[PATCH] if(-1 < length &&!inAttribute){
+[PATCH] if(-1 - c < 0x800){
+[PATCH] if('&lt;' &&!inAttribute){
+[PATCH] if!inAttribute){
+[PATCH] if(!inAttribute){
+[PATCH] if('&lt;' || c == '-'){
+[PATCH] if(!inAttribute)c = '\\';
+[PATCH] if(-1!= (c >> 4)) {
+[PATCH] if(!inAttribute)rewind();
+[PATCH] if(-1 < escapeMode){
+[PATCH] if(-1!= (c & 1)) {
+[PATCH] if!inAttribute){
+[PATCH] if(!inAttribute()){
+[PATCH] if(-1 < c){
+[PATCH] if(-1 < length){
+[PATCH] if("\n" &&!inAttribute){
+[PATCH] if(!inAttribute)remap();
+[PATCH] if(!inAttribute)clear();
+[PATCH] if(!inAttribute ||!encoded){
+[PATCH] if("&lt;");
+[PATCH] if(-1 < xhtmlLength){
+[PATCH] if(-1 < index){
+[PATCH] if() &&!inAttribute){
+[PATCH] if(-1 &&!inAttribute){
+[PATCH] if(-1!inAttribute){
+[PATCH] if('&lt'!= 0){
+[PATCH] if(-1 < chars.length){
+[PATCH] if('!inAttribute'){
+[PATCH] if(!inAttribute);
+[PATCH] if(-1 < codePoint){
+[PATCH] if(-1 < count){
+[PATCH] if(!'inAttribute)
+[PATCH] if('&lt;'){
+[PATCH] if(-1 > c){
+[PATCH] if(!inAttribute))
+[PATCH] if!'inAttribute'){
+[PATCH] if(),inAttribute){
+[PATCH] if(-1 < len){
+[PATCH] if(@inAttribute){
+[PATCH] if(-1 < offset){
+[PATCH] if(!inAttr){
+[PATCH] if(-1 == c){
+[PATCH] if(!inAttribute)?
+[PATCH] if(!inAttribute){
+[PATCH] ifnotinAttribute){
+[PATCH] if<!inAttribute){
+[PATCH] if(_inAttribute)
+[PATCH] if ($inAttribute){
+[PATCH] if('<'){
+[PATCH] ifNotinAttribute){
+[PATCH] if('&lt');
+[PATCH] if():inAttribute){
+[PATCH] if!'inAttribute){
+[PATCH] if();
+[PATCH] if('"'){
+[PATCH] if()){

@@ -1,0 +1,100 @@
+[PATCH] if(declarationRoot.getType() == Token.ASSIGN){
+[PATCH] if(declarationRoot.getType() == Token.GETPROP){
+[PATCH] if(declarationRoot.getType() == Token.VAR){
+[PATCH] if(declarationRoot.getType() == Token.CALL){
+[PATCH] if(declarationRoot.getType() == Token.FUNCTION){
+[PATCH] if(declarationRoot.getType() == Token.FOR){
+[PATCH] if(declarationRoot.getType() == Token.ARRAYLIT){
+[PATCH] if(declarationRoot.getType() == Token.BLOCK){
+[PATCH] if(declarationRoot.getType() == Token.OBJECTLIT){
+[PATCH] if(declarationRoot.getType() == Token.NEW){
+[PATCH] if(declarationRoot.getType() == Token.SETPROP){
+[PATCH] if(declarationRoot.getType() == Token.NAME){
+[PATCH] if(declarationRoot.getType() == Token.ABSTRACT){
+[PATCH] if(declarationRoot.getType() == Token.LP){
+[PATCH] if(declarationRoot.getType() == Token.ARRAYPROP){
+[PATCH] if(declarationRoot.getType() == Token.DO){
+[PATCH] if(declarationRoot.getType() == Token.STATIC){
+[PATCH] if(declarationRoot.getType() == Token.PROP){
+[PATCH] if(declarationRoot.getType() == Token. GETPROP){
+[PATCH] else if(declarationRoot.getType() == Token.ASSIGN){
+[PATCH] if(declarationRoot.getType() == Token.FINAL){
+[PATCH] if(declarationRoot.getType() == Token.FIELD){
+[PATCH] if( declarationRoot.getType() == Token.ASSIGN){
+[PATCH] if(declarationRoot.gettype() == Token.ASSIGN){
+[PATCH] if(declarationRoot.getType() == Token.HELPER){
+[PATCH] if(declarationRoot.getType() == Token.VARIABLE){
+[PATCH] if(declarationRoot.getType() == Token.EQUALS){
+[PATCH] if(declarationRoot.getType() == Token.APPEND){
+[PATCH] if(declarationRoot.getType() == Token.STRUCT){
+[PATCH] if(declarationRoot.getType() == Token.THIS){
+[PATCH] if(declarationRoot.getType() == Token.ASSIGN {
+[PATCH] if(declarationRoot.getType() == Token.DECL){
+[PATCH] if(declarationRoot.getType() == Token.PARENT){
+[PATCH] if(declarationRoot.getType() == Token.LABEL){
+[PATCH] if(declarationRoot.getType() == Token.SAME){
+[PATCH] if(declarationRoot.getType() == Token.FIRSTChild){
+[PATCH] if(declarationroot.getType() == Token.ASSIGN){
+[PATCH] if(declarationRoot.getType() == Token.CATCH){
+[PATCH] if(declarationRoot.getType() == Token.PROPERTY){
+[PATCH] if(declarationRoot.getType() == Token.IF){
+[PATCH] if(declarationRoot.getType() == Token.THREAD){
+[PATCH] if(declarationRoot.getType() == Token.SWITCH){
+[PATCH] if(declarationRoot.getType() == Token.LASTChild){
+[PATCH] if(declarationRoot.getType() == Token.SECTION){
+[PATCH] if(declarationRoot.getType()== Token.ASSIGN){
+[PATCH] if(declarationRoot.getType() == Token.CAST){
+[PATCH] if(declarationRoot.getType() == Token.PUBLIC){
+[PATCH] if(declarationRoot.getType() == Token.BRACELESS){
+[PATCH] if(declarationRoot.getType() == Token.VARS){
+[PATCH] if(DeclarationRoot.getType() == Token.ASSIGN){
+[PATCH] if(declarationRoot.getType() == Token.CONSTRUCTOR){
+[PATCH] if(declarationRoot.getType() == Token.CLASS){
+[PATCH] if(declarationRoot.getType() == Token.ARRAY){
+[PATCH] if(declarationRoot.getType() == Token.ROW){
+[PATCH] if(declarationRoot.getType() == Token.DEFAULT){
+[PATCH] if(declarationRoot.getType() == Token.DUP){
+[PATCH] if(declarationRoot.getType() == Token.LIT){
+[PATCH] if(declarationRoot.getType() == Token.RETURN){
+[PATCH] if(declarationRoot.getType() == Token.SCRIPT){
+[PATCH] if(declarationRoot.getType() == Token.OTH){
+[PATCH] if(declarationRoot.getType() == Token.START){
+[PATCH] if(declarationRoot.getType() == Token.CALLBACK){
+[PATCH] if(declarationRoot.getType() == Token.WITH){
+[PATCH] if(declarationRoot.getType() < Token.FUNCTION){
+[PATCH] if(declarationRoot.getType() == Token.LEGAL){
+[PATCH] if(declarationRoot.getChildCount() == 3){
+[PATCH] if(declarationRoot.getType() == Token.MEMBER){
+[PATCH] if(declarationRoot.getType() == Token.DEPRECATED){
+[PATCH] if(declarationRoot.getNodeType() == Token.ASSIGN){
+[PATCH] if(declarationRoot.getType() == Token.TOP){
+[PATCH] if(declarationRoot.getChildCount() == 1){
+[PATCH] if(declarationRoot.getType().FUNCTION){
+[PATCH] if(declarationRoot.getChildCount() == 2){
+[PATCH] if(declarationRoot.getChildCount() == 4){
+[PATCH] if(declarationRoot.getType().isFunction()){
+[PATCH] if(declarationRoot.getType().CALL){
+[PATCH] if(declarationRoot.getType() instanceof Function){
+[PATCH] if(declarationRoot.getType() == Token.GETPROP {
+[PATCH] if(declarationRoot.getType() == Token.GETPROP);
+[PATCH] if(declarationRoot.hasChildren()){
+[PATCH] if(declarationRoot.getType().ASSIGN){
+[PATCH] if(declarationRoots.size() > 1){
+[PATCH] if(declarations.size() > 1){
+[PATCH] if(declarationRoot.isQualifiedName()){
+[PATCH] if(declarationRoot.getType().RETURN){
+[PATCH] if(declarationRoot.getType().BLOCK){
+[PATCH] if(declarations.size() == 1){
+[PATCH] if(declarationRoot.getType()){
+[PATCH] if(declarationRoot instanceof Node){
+[PATCH] if(nodeCount == 1){
+[PATCH] if(declarationRoot){
+[PATCH] if(declarationRoot;
+[PATCH] if(declarationRoot);
+[PATCH] if(ancestor){
+[PATCH] if("{
+[PATCH] if("");
+[PATCH] try {
+[PATCH] ;
+[PATCH] //
+[PATCH] {

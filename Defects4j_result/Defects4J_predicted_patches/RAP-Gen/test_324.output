@@ -1,0 +1,100 @@
+[PATCH] } else if(clazz!= null){
+[PATCH] return(T)super.create();
+[PATCH] throw new FunctorException("");
+[PATCH] while(clazz.getSuperclass()!= null){
+[PATCH] } else if(clazz.isArray()){
+[PATCH] if(clazz!= null){
+[PATCH] return(T)decorated().get(key);
+[PATCH] if(clazz.getSuperclass()!= null){
+[PATCH] } else if(serialization){
+[PATCH] } else if(clazz == null){
+[PATCH] return(T)decorated().get(clazz);
+[PATCH] } else if(clazz.isInterface()){
+[PATCH] else if(clazz.getSuperclass()!= null){
+[PATCH] } else if(clazz.isInstance()){
+[PATCH] } else if(serializing){
+[PATCH] } else if(serializers!= null){
+[PATCH] } else if(_factoryConfig.hasDeserializer()){
+[PATCH] if(serializers!= null){
+[PATCH] if(clazz.getGenericSuperclass()!= null){
+[PATCH] else if(clazz.isArray()){
+[PATCH] } else if(clazz.isStatic()){
+[PATCH] } else if(clazz.isPrimitive()){
+[PATCH] if(clazz.isArray()){
+[PATCH] if(_factoryConfig.hasDeserializer()){
+[PATCH] synchronized(this.keySet()){
+[PATCH] synchronized ClassUtil.checkAndFixAccess(clazz);
+[PATCH] synchronized(this.getMap().keySet()){
+[PATCH] if(serializing){
+[PATCH] synchronized(this.getClass()){
+[PATCH] synchronized(this.decorated().keySet()){
+[PATCH] return(T)ReflectUtils.copy(clazz);
+[PATCH] throw new IllegalStateException("");
+[PATCH] synchronized(clazz.getGenericSuperclass()){
+[PATCH] return(T)clazz.newInstance();
+[PATCH] return Primitives.wrap(clazz);
+[PATCH] return(T)ReflectUtils.wrap(clazz);
+[PATCH] else if(clazz!= null){
+[PATCH] } else if(_factoryClass.isArray()){
+[PATCH] if(serialization){
+[PATCH] synchronized(this.getMap()){
+[PATCH] } else if(_factoryConfig.hasIgnoreComments()){
+[PATCH] else if(clazz.getComponentType()!= null){
+[PATCH] if(clazz.getComponentType()!= null){
+[PATCH] } else if(!serializing){
+[PATCH] synchronized(clazz.getDeclaredClasses()){
+[PATCH] else if(clazz.isInstance()){
+[PATCH] } else if(_factoryConfig.hasIgnoreAccess()){
+[PATCH] } else if(_factoryMethods == null){
+[PATCH] } else if(clazz.getSuperClass()){
+[PATCH] } else if(_factoryMethodCreator!= null){
+[PATCH] while(clazz.getSuperclass()!= null){ }
+[PATCH] synchronized(clazz.getSuperclass()){
+[PATCH] synchronized(clazz.getDeclaredClass()){
+[PATCH] setNamePrefix(clazz.getName());
+[PATCH] } else if(serializationEnabled){
+[PATCH] synchronized(this.class){ @SuppressWarnings("unchecked");
+[PATCH] return(T)decorated();
+[PATCH] while(clazz.getSuperclass()!= null){ {
+[PATCH] } else if(_factoryClass == null){
+[PATCH] } else if(_factoryProvider!= null){
+[PATCH] else if(clazz.isInterface()){
+[PATCH] } else if(_factoryMethod == null){
+[PATCH] } else if(serialization == null){
+[PATCH] } else if(_factoryConfig.hasDeserializer() {
+[PATCH] if(_factoryConfig.hasHandlers()){
+[PATCH] return(T)instantiate();
+[PATCH] if(_factoryClass.isArray()){
+[PATCH] } else if(serialization!= null){
+[PATCH] if(clazz.isInstance()){
+[PATCH] if(serializationEnabled){
+[PATCH] if(serialization == null){
+[PATCH] else if(clazz == null){
+[PATCH] protected boolean isSerializing() {
+[PATCH] if(clazz == null){
+[PATCH] } else if(clazz){
+[PATCH] throw new RuntimeException("");
+[PATCH] } else if(serializable){
+[PATCH] synchronized(this.clazz){
+[PATCH] return(T)construct();
+[PATCH] synchronized(this);
+[PATCH] finally {
+[PATCH] return super.create();
+[PATCH] synchronized(this.classes){
+[PATCH] synchronized(Class.class){
+[PATCH] synchronized(this.class){
+[PATCH] removeUnwantedProperties();
+[PATCH] return(T)value();
+[PATCH] throw new IllegalArgumentException("");
+[PATCH] setCollection(collection);
+[PATCH] return decorated();
+[PATCH] synchronized("");
+[PATCH] init();
+[PATCH] clear();
+[PATCH] close();
+[PATCH] }"");
+[PATCH] });
+[PATCH] ;
+[PATCH]
+);
+

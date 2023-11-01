@@ -1,0 +1,100 @@
+[PATCH] catch(org.mockito.exceptions.verification.junit.ArgumentsAreDifferent e){
+[PATCH] catch(java.mockito.exceptions.verification.junit.ArgumentsAreDifferent e){
+[PATCH] catch(org.mockito.exceptions.verification.junit.ArgumentsHaveDifferent e){
+[PATCH] catch(javax.exceptions.verification.junit.ArgumentsAreDifferent e){
+[PATCH] catch(com.mockito.exceptions.verification.junit.ArgumentsAreDifferent e){
+[PATCH] catch(java.util.verification.junit.ArgumentsAreDifferent e){
+[PATCH] catch( org.mockito.exceptions.verification.junit.ArgumentsAreDifferent e){
+[PATCH] catch(org.mockito.exceptions.verification.junit.ArgumentVerificationException e){
+[PATCH] else if(!Mockito.exceptions.verification.junit.ArgumentsAreDifferent e){
+[PATCH] catch(org.mockito.exceptions.verification.junit.ArgumentsAreMismatch e){
+[PATCH] catch(org.mockito.exceptions.verification.junit.ArgsAreDifferent e){
+[PATCH] catch(org.mockito.exceptions.verification.junit.ArgumentNullException e){
+[PATCH] catch(org.mockito.exceptions.verification.jUnit.ArgumentsAreDifferent e){
+[PATCH] catch(java.mockito.exceptions.verification.junit.ArgumentsHaveDifferent e){
+[PATCH] catch(org.mockito.exceptions.verification.junit.ArgumentAssertionError e){
+[PATCH] catch(org.mockito.exceptions.verification.junit.ArgumentMatcherException e){
+[PATCH] catch(org.mockito.exceptions.verification.junit.ArgumentsHaveChanged e){
+[PATCH] catch(org.mockito.exceptions.verification.junit.ArgumentError e){
+[PATCH] catch(org.mockito.exceptions.verification.junit.argumentsAreDifferent e){
+[PATCH] catch(org.mockito.exceptions.verification.junit.ArgumentsNotDifferent e){
+[PATCH] catch(org.mockito.exceptions.verification.junit.ParametersAreDifferent e){
+[PATCH] catch(org.mockito.exceptions.verification.j unit.ArgumentsAreDifferent e){
+[PATCH] catch(org.mockito.exceptions.verification.junit.ArgumentsHaveMismatch e){
+[PATCH] catch(org.mockito.exceptions.verification.junit.ArgumentsAreEqual e){
+[PATCH] catch(org.mockito.exceptions.verification.junit.ArgumentException e){
+[PATCH] catch(org.mockito.exceptions.verification.junit.ArgumentValidatorException e){
+[PATCH] catch(org.mockito.exceptions.verification.junit.ArgumentsWasDifferent e){
+[PATCH] catch(junit.exceptions.verification.junit.ArgumentsAreDifferent e){
+[PATCH] catch(io.mockito.exceptions.verification.junit.ArgumentsAreDifferent e){
+[PATCH] else if(!mockito.exceptions.verification.junit.ArgumentsAreDifferent e){
+[PATCH] catch(java.util.exceptions.verification.junit.ArgumentsAreDifferent e){
+[PATCH] catch(org.mockito.exceptions.verification.junit.ArgumentMismatchException e){
+[PATCH] catch(java.exceptions.verification.junit.ArgumentsAreDifferent e){
+[PATCH] catch(org.mockito.exceptions.verification.junit.ExceptionsAreDifferent e){
+[PATCH] catch(org.mockito.exceptions.verification.junit.ArgumentCheckerException e){
+[PATCH] catch(org.mockito.exceptions.verification.junit.ArgumentsAreChanged e){
+[PATCH] catch(org.mockito.exceptions.verification.Junit.ArgumentsAreDifferent e){
+[PATCH] catch(org.mockito.exceptions.verification.junit.AssertionError e){
+[PATCH] catch(org.mockito.Exceptions.verification.junit.ArgumentsAreDifferent e){
+[PATCH] catch(java.awt.exceptions.verification.junit.ArgumentsAreDifferent e){
+[PATCH] catch(Mockito.exceptions.verification.junit.ArgumentsAreDifferent e){
+[PATCH] catch(org.mockito.exceptions.verification.junit.ArgumentMatcherError e){
+[PATCH] catch(org.mockito.exceptions.verification.junit.ArgumentCheckException e){
+[PATCH] catch( com.mockito.exceptions.verification.junit.ArgumentsAreDifferent e){
+[PATCH] catch(javax.errors.verification.junit.ArgumentsAreDifferent e){
+[PATCH] catch(org.mockito.exceptions.verification.junit.ArgumentsAreDeprecated e){
+[PATCH] catch( java.mockito.exceptions.verification.junit.ArgumentsAreDifferent e){
+[PATCH] catch(org.mockito.exceptions.verification.junit.ArgumentsNotEmpty e){
+[PATCH] catch(java.math.exceptions.verification.junit.ArgumentsAreDifferent e){
+[PATCH] catch(org.mockito.exceptions.verification. junit.ArgumentsAreDifferent e){
+[PATCH] catch(org.mockito.exceptions.verification.junit.ArgumentsAreDifferente){
+[PATCH] catch(org.mockito.exceptions.verification.junit.ArgumentValueMismatch e){
+[PATCH] catch(com.mockito.exceptions.verification.junit.ArgumentsHaveDifferent e){
+[PATCH] catch(javax.exceptions.verification.junit.ArgumentsHaveDifferent e){
+[PATCH] except(org.mockito.exceptions.verification.junit.ArgumentsAreDifferent e){
+[PATCH] catch(org.mockito.exceptions.verification.junits.ArgumentsAreDifferent e){
+[PATCH] catch(Junit.exceptions.verification.junit.ArgumentsAreDifferent e){
+[PATCH] catch(org.mockito. exceptions.verification.junit.ArgumentsAreDifferent e){
+[PATCH] catch(org.mockito.exceptions.verification.junit.ArgumentSyntaxException e){
+[PATCH] else if(!this.exceptions.verification.junit.ArgumentsAreDifferent e){
+[PATCH] catch(java.lang.exceptions.verification.junit.ArgumentsAreDifferent e){
+[PATCH] catch(org.mockito.exceptions.verification.junit.ArgumentHandlerException e){
+[PATCH] catch(org.mockito.exceptions.verification.junit.ArgumentTestException e){
+[PATCH] catch(org.mockito.exceptions.verification.junit.ArgumentsAreDifferent e){
+[PATCH] catch(org.mockito.exceptions.verification.junit.ArgumentCheckError e){
+[PATCH] catch(javax.mockito.exceptions.verification.junit.ArgumentsAreDifferent e){
+[PATCH] catch(org.mockito.exceptions.verification.junit.ArgumentThrowable e){
+[PATCH] catch(org.mockito.exceptions.verification.junit.ArgumentsAREDifferent e){
+[PATCH] catch(org.mockito.exceptions.verification.junit.ArgumentsAre different e){
+[PATCH] catch(org.mockito.exceptions.verification.junit.ArgumentsHaveDifferente){
+[PATCH] catch(org.mockito.exceptions.verification.junit.ArgumentsAreDead e){
+[PATCH] catch(java.google.exceptions.verification.junit.ArgumentsAreDifferent e){
+[PATCH] catch(org.mockito.exceptions.verification.junit.ArgumentNullCause e){
+[PATCH] catch(org.mockito.exceptions.verification.junit.ArgumentVerificationError e){
+[PATCH] catch(java.testing.junit.ArgumentsAreDifferent e){
+[PATCH] catch(org.mockito.exceptions.verification.junit.ArgumentsMismatch e){
+[PATCH] catch(org.mockito.exceptions.verification.junit.ArgumentsAreDifferent e {
+[PATCH] catch(org.mockito.exceptions.verification.junit.ArgumentsHave different arguments){
+[PATCH] catch(org.mockito.exceptions.verification.junit.ArgumentsAreBad e){
+[PATCH] catch(java.errors.verification.junit.ArgumentsAreDifferent e){
+[PATCH] catch(java.amazon.exceptions.verification.junit.ArgumentsAreDifferent e){
+[PATCH] catch(org.mockito.exceptions.verification.junit.ArgumentsDone e){
+[PATCH] catch(java.util.verification.junit.ArgumentsHaveDifferent e){
+[PATCH] catch(org.mockito.exceptions.verification.junit.ArgumentsHavedifferent arguments){
+[PATCH] catch(Junit.Exceptions.verification.junit.ArgumentsAreDifferent e){
+[PATCH] catch(mockito.exceptions.verification.junit.ArgumentsAreDifferent e){
+[PATCH] catch(org.mockito.exceptions.verification.junit.ArgumentsAreDifferent exception){
+[PATCH] catch(javax.util.verification.junit.ArgumentsAreDifferent e){
+[PATCH] catch( java.util.verification.junit.ArgumentsAreDifferent e){
+[PATCH] catch(org.mockito.exceptions.verification.junit.ArgumentsAreDifferent t){
+[PATCH] catch(MockitoExceptions.verification.junit.ArgumentsAreDifferent e){
+[PATCH] catch(javax.verification.junit.ArgumentsAreDifferent e){
+[PATCH] catch( javax.exceptions.verification.junit.ArgumentsAreDifferent e){
+[PATCH] else if(!MockitoAssertionError.isUnexpectedException(e)) {
+[PATCH] catch(java.util.Verification.Junit.ArgumentsAreDifferent e){
+[PATCH] catch(java.expecting.junit.ArgumentsAreDifferent e){
+[PATCH] catch(javax.testing.junit.ArgumentsAreDifferent e){
+[PATCH] catch(java.verification.junit.ArgumentsAreDifferent e){
+[PATCH] catch(junit.ArgumentsAreDifferent e){
+[PATCH] catch(javax.validation.junit.ArgumentsAreDifferent e){

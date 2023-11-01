@@ -1,0 +1,100 @@
+[PATCH] if(rValue.getJSType()!= null &&!rValue.getJSType().isUnknownType()){
+[PATCH] if(rValue.getType() == Token.GETPROP){
+[PATCH] if(rValue.getType() == Token.ASSIGN){
+[PATCH] if(rValue.getType() == Token.FUNCTION || rValue.getJSType()!= null){
+[PATCH] if(rValue.getType()!= null &&!rValue.getJSType().isUnknownType()){
+[PATCH] if(rValue.getType() == Token.FUNCTION){
+[PATCH] if(rValue.getType() == Token.GETPROP && rValue.getJSType()!= null){
+[PATCH] if(rValue.getJSType()!= null ||!rValue.getJSType().isUnknownType()){
+[PATCH] if(rValue.getType() == Token.ASSIGN && rValue.getJSType()!= null){
+[PATCH] if(rValue.getJSType()!= null &&!rValue.getJSType().isUNKNOWNType()){
+[PATCH] if(rValue.getJSType()!= null && rValue.getJSType().isUnknownType()){
+[PATCH] if(rValue.getJSType()!= null &&!rValue.getJSType().isNone()){
+[PATCH] if(rValue.getType() == Token.FUNCTION || rValue.getJSType().isUnknownType()){
+[PATCH] if(rValue.getJSType()!= null &&!rValue.getJSType().isNativeType()){
+[PATCH] if(rValue.getType() == Token.FUNCTION || rValue.getJSType() instanceof EnumType){
+[PATCH] if(rValue.getType() == null &&!rValue.getJSType().isUnknownType()){
+[PATCH] if(rValue.isJSType() &&!rValue.getJSType().isUnknownType()){
+[PATCH] if(rValue.getJSType()!= null &&!rValue.getJSType().isNative()){
+[PATCH] if(rValue.getClass()!= null &&!rValue.getJSType().isUnknownType()){
+[PATCH] if(rType.getJSType()!= null &&!rValue.getJSType().isUnknownType()){
+[PATCH] if(rValue.getType() == null ||!rValue.getJSType().isUnknownType()){
+[PATCH] if(rValue.getType() == Token.GETPROP || rValue.getType() == Token.REGEXP){
+[PATCH] if(rValue.getType() == Token.FUNCTION ||!rValue.getJSType().isNative()){
+[PATCH] if(rValue.getType() instanceof String ||!rValue.getJSType().isUnknownType()){
+[PATCH] if(rValue.getJSType()!= null &&!rValue.getJSType().isVoidType()){
+[PATCH] if(rValue.getJSType()!= null &&!rValue.getJSType().isEnumType()){
+[PATCH] if(rValue.getType() instanceof JSType &&!rValue.getJSType().isUnknownType()){
+[PATCH] if(rValue.getClass() == null &&!rValue.getJSType().isUnknownType()){
+[PATCH] if(rValue.getType() == Token.FUNCTION ||!rValue.getJSType().isNone()){
+[PATCH] if(rValue.getType() == Token.ASSIGN &&!rValue.getJSType().isNative()){
+[PATCH] if(rValue.getType() == Token.FUNCTION ||!rValue.getJSType().isConstructor()){
+[PATCH] if(rValue.getType()!= null ||!rValue.getJSType().isUnknownType()){
+[PATCH] if(rValue.getJSType()!= null || rValue.getJSType().isUnknownType()){
+[PATCH] if(rValue.getType()!= Token.FUNCTION || rValue.getJSType()!= null){
+[PATCH] if(rValue.getJsType()!= null &&!rValue.getJSType().isUnknownType()){
+[PATCH] if(rValue.getClass() == null ||!rValue.getJSType().isUnknownType()){
+[PATCH] if(rValue.getJSType()!= null &&!rValue.getJSType().isNamedType()){
+[PATCH] if(rValue.getJSType()!= null &&!rValue.getJSType().isNoType()){
+[PATCH] if(rValue.getJSType()!= null &&!rValue.getJSType().isKnownType()){
+[PATCH] if(rValue.getJSType()!= null &&!rValue.getJSType().matchesUnknownType()){
+[PATCH] if(rValue.getFirstChild()!= null &&!rValue.getJSType().isUnknownType()){
+[PATCH] if(rValue.getJSType()!= null &&!rValue.getJSType().isConstructor()){
+[PATCH] if(rValue.getJSType()!= null &&!rValue.getJSType().isOptionalArg()){
+[PATCH] if(rValue.getType() instanceof EnumType &&!rValue.getJSType().isUnknownType()){
+[PATCH] if(rValue.getJSType()!= null &&!rValue.getJSType().containsUnknownType()){
+[PATCH] if(rValue.getType() == Token.FUNCTION || rValue.getJSType() == null){
+[PATCH] if(rValue.getFunctionType()!= null &&!rValue.getJSType().isUnknownType()){
+[PATCH] if(rValue.getType() == Token.INSTANCEOF && rValue.getJSType()!= null){
+[PATCH] if(rValue.getType() == Token.CALL && rValue.getJSType()!= null){
+[PATCH] if(rValue.getJSType()!= null &&!rValue.getJSType().isPropertyTypeDeclared()){
+[PATCH] if(rValue.getType()!= Token.FUNCTION){
+[PATCH] if(rValue.getJSType()!= null &&!rValue.getJSType().isUnknownType()){
+[PATCH] if(rValue.getType() == Token.BOOLEAN || rValue.getJSType()!= null){
+[PATCH] if(rValue.getJSType()!= null &&!rValue.getJSType().isFunctionType()){
+[PATCH] if(rValue.getType() == Token.FUNCTION || rValue.getType() == Token.GETPROP){
+[PATCH] if(rValue.getType() == Token.GETPROP || rValue.getType() == Token.SET){
+[PATCH] if(rValue.getType() == Token.FUNCTION || rValue.getJSType() instanceof UnknownType){
+[PATCH] if(rValue.getType() == Token.VAR && rValue.getJSType()!= null){
+[PATCH] if(rValue.getJSType()!= null &&!rValue.getJSType().isPrimitive()){
+[PATCH] if(rValue.getType() == Token.ASSIGN || rValue.getJSType()!= null){
+[PATCH] if(rValue.getType() &&!rValue.getJSType().isUnknownType()){
+[PATCH] if(rValue.getNext()!= null &&!rValue.getJSType().isUnknownType()){
+[PATCH] if(rValue.getType() == Token.FUNCTION ||!rValue.getJSType().isFunction()){
+[PATCH] if(rValue.getType() == Token.GETPROP || rValue.getType() == Token.ASSIGN){
+[PATCH] if(rValue.getType()!= Token.GETPROP){
+[PATCH] if(rValue.getType() == Token.OBJECTLIT || rValue.getType() == Token.ARRAY){
+[PATCH] if(!rValue.getJSType().isUnknownType()){
+[PATCH] if(rValue.getType() == Token.BOOLEAN){
+[PATCH] if(rValue.getType() == Token.GETELEM){
+[PATCH] if(rValue.getType() == Token.CALL){
+[PATCH] if(rValue.getType()!= JSType.UNKNOWN_TYPE){
+[PATCH] if(rValue.getType() instanceof EnumType){
+[PATCH] if(rValue.getJSType()!= null &&!rValue.getJSType().isUnknownType()) {
+[PATCH] if(rValue.getType() == Token.VAR){
+[PATCH] if(rValue.getType() == Token.TYPE){
+[PATCH] if(rValue.getType() == Token.OBJECTLIT){
+[PATCH] if(rValue.getType() == Token.SCRIPT){
+[PATCH] if(rValue.getType() == Token.VOID_TYPE){
+[PATCH] if(rValue.getType() == Token.FUNCTION || info.isConstructor()){
+[PATCH] if(rValue.getType() == Token.THIS){
+[PATCH] if(rValue.getFirstChild().getType() == Token.FUNCTION){
+[PATCH] if(rValue.getType() == Token.RETURN){
+[PATCH] if(rValue.getType() == Token.REF_SPECIAL){
+[PATCH] if(rValue.getFirstChild().getType() == Token.GETPROP){
+[PATCH] if(rValue.getType()!= Token.ASSIGN){
+[PATCH] if(rValue.getType() == Token.RP){
+[PATCH] if(rValue.getType() == Token.NUMBER){
+[PATCH] if(rValue.getParent().getType() == Token.ASSIGN){
+[PATCH] if(rValue.getType() == Token.NAME){
+[PATCH] if(rValue.getType() == Token.SETPROP){
+[PATCH] if(rValue.getType() == Token.T_BOOLEAN){
+[PATCH] if(rValue.getType() == Token.EXPRESSION){
+[PATCH] if(rValue.getClass() == Token.ASSIGN){
+[PATCH] if(rValue.getType() == Token.MULTIANEWARRAY){
+[PATCH] if(rValue.getType() == Token.LT){
+[PATCH] if(rValue.getType() == Token. GETPROP){
+[PATCH] if(rValue.getType() == Token.EQUALS){
+[PATCH] if(rValue.getType() == Token.STRING){
+[PATCH] if(rValue.getJSType()!= null){
+[PATCH] if(info.isConstructor() || info.isInterface()){

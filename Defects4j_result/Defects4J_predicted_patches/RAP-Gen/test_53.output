@@ -1,0 +1,100 @@
+[PATCH] addValue(( Comparable<?>)v);
+[PATCH] addValue(( Comparable)v);
+[PATCH] if(v instanceof Comparable){
+[PATCH] addValue(new Comparable<?>(v));
+[PATCH] if(v instanceof Comparable<?>){
+[PATCH] addValue(((Comparable<?>)v);
+[PATCH] addValue(( Comparable<Object>)v);
+[PATCH] if(!(v instanceof Comparable)) {
+[PATCH] addValue(new Comparable<Object>(v));
+[PATCH] Preconditions.checkNotNull(v);
+[PATCH] if(!(v instanceof Comparable<?>)v){
+[PATCH] addValue(((Comparable<?>)v));
+[PATCH] setValue(( Comparable<?>)v);
+[PATCH] addValue(( Comparable<?>)v, true);
+[PATCH] freqTable.put(( Comparable<?>)v);
+[PATCH] getValue(new Comparable<?>(v));
+[PATCH] addValue(( Comparable<? super T>)v);
+[PATCH] freqTable.put(v, null);
+[PATCH] getValue(( Comparable<?>)v);
+[PATCH] removeValue(new Comparable<?>(v));
+[PATCH] addValue(( Comparable)v, true);
+[PATCH] addValue(( Comparable<? super E>)v);
+[PATCH] addValue(( Class<?>)v);
+[PATCH] addValue(new Comparable<?>(v)));
+[PATCH] addValue(( Comparable<?>)v, null);
+[PATCH] if(v instanceof Comparable || v instanceof Long){
+[PATCH] if(!(v instanceof Comparable<?>)) {
+[PATCH] addValue(( Comparable<?>)v, freqTable);
+[PATCH] removeValue(( Comparable<?>)v);
+[PATCH] sumValue(( Comparable<?>)v);
+[PATCH] checkValue(new Comparable<?>(v));
+[PATCH] addValue(( Comparable<?>)v, false);
+[PATCH] setValue(new Comparable<?>(v));
+[PATCH] if(!(v instanceof Comparable<?>)v {
+[PATCH] this.freqTable.put(v, null);
+[PATCH] addValue(( Comparable<? super V>)v);
+[PATCH] addValue(new Long(v));
+[PATCH] getValue(new Long(v));
+[PATCH] getValue(new Comparable<?>(v)));
+[PATCH] super.addValue(( Comparable<?>)v);
+[PATCH] freqTable.put(( Comparable<?>)v);
+[PATCH] freqTable.put(v, true);
+[PATCH] if(!(v instanceof Comparable<?>)v);
+[PATCH] addValue(( Comparable<?>)v);
+[PATCH] synchronized(this.freqTable.keySet()){
+[PATCH] addValue(( Comparable)v, null);
+[PATCH] addValue(( NaturalComparator<?>)v);
+[PATCH] if(!(v instanceof Comparable<?>){
+[PATCH] setValue(( Comparable)v);
+[PATCH] this.freqTable.put(( Comparable)v);
+[PATCH] addValue(((Comparable)v).toString());
+[PATCH] freqTable.put(v, null);
+[PATCH] freqTable.put(new Long(v));
+[PATCH] addValue(( Comparable<E>)v);
+[PATCH] addValue(( Comparable)v, false);
+[PATCH] super.addValue(v);
+[PATCH] Preconditions.checkState(v instanceof Comparable);
+[PATCH] freqTable.put(( Comparable)v);
+[PATCH] this.freqTable.put(v, true);
+[PATCH] while(!(v instanceof Comparable)) {
+[PATCH] freqTable.put(new Comparable<?>, v);
+[PATCH] addValue(((Comparable)v).name);
+[PATCH] addValue(( Number)v);
+[PATCH] } else if(v instanceof Comparable){
+[PATCH] addValue(( ComparableType)v);
+[PATCH] if(v instanceof Comparable<?,?>){
+[PATCH] (new Comparable<Object>(v)));
+[PATCH] (new Long(v).longValue());
+[PATCH] (new Long(v)).longValue();
+[PATCH] (( Comparable<?>)v).getCount();
+[PATCH] freqTable.put(v, this);
+[PATCH] ADD_VALUE(( Comparable<?>)v);
+[PATCH] (Comparable<? super T> v);
+[PATCH] addValue(( Comparator<?>)v);
+[PATCH] updateValue(( Comparable<?>)v);
+[PATCH] (new Comparable<?>)v);
+[PATCH] synchronized(v instanceof Comparable<?>){
+[PATCH] (( Comparable<?>)v);
+[PATCH] removeValue(new Long(v));
+[PATCH] (new Comparable<Object>(v));
+[PATCH] freqTable.put(v, true);
+[PATCH] incValue(( Comparable<?>)v);
+[PATCH] addValue(new Comparable<?>, v);
+[PATCH] putValue(( Comparable<?>)v);
+[PATCH] addValue(( Collection<?>)v);
+[PATCH] else if(v instanceof Comparable){
+[PATCH] addValue(( Comparable<>)v);
+[PATCH] addValue(( Object)v);
+[PATCH] addValue(( Comparable<?>)v;
+[PATCH] AddValue(( Comparable<?>)v);
+[PATCH] (new Comparable<?>(v));
+[PATCH] getValues().add(v);
+[PATCH] (new Comparable<?>)v;
+[PATCH] (Comparable<?>)v;
+[PATCH] getValue(( Comparable)v);
+[PATCH] addValue(( String)v);
+[PATCH] addValue(( Long)v);
+[PATCH] addValue(( Type)v);
+[PATCH] getValue(new Long(v));
+[PATCH] addValue(( T)v);

@@ -1,0 +1,100 @@
+[PATCH] final static float toJavaVersionInt(version);
+[PATCH] final static float toJavaVersionInt(version){
+[PATCH] if(version!= null){
+[PATCH] static final float toJavaVersionInt(version){
+[PATCH] public static float toJavaVersionInt(String version){
+[PATCH] public int toJavaVersionInt(String version){
+[PATCH] static int toJavaVersionInt(String version){
+[PATCH] public float toJavaVersionInt(String version){
+[PATCH] public static int toJavaVersionInt(String version){
+[PATCH] public final static float toJavaVersionInt(version){
+[PATCH] static int toJavaVersionInt(version){
+[PATCH] final static int toJavaVersionInt(version){
+[PATCH] static final float toJavaVersionInt(version);
+[PATCH] final static int toJavaVersionInt(version);
+[PATCH] final public int toJavaVersionInt(String version){
+[PATCH] else if(version.startsWith("")) {
+[PATCH] static float toJavaVersionInt(version, 0);
+[PATCH] final static float toJavaVersionInt(String version){
+[PATCH] return toJavaVersionInt(version.toUpperCase());
+[PATCH] final int toJavaVersionInt(version);
+[PATCH] static final int toJavaVersionInt(version){
+[PATCH] int toJavaVersionInt(version){
+[PATCH] private final static float toJavaVersionInt(version){
+[PATCH] public final int toJavaVersionInt(String version){
+[PATCH] static float toJavaVersionInt(version);
+[PATCH] final static float toJavaVersionInt(version)) {
+[PATCH] return toJavaVersionInt(version);
+[PATCH] final int toJavaVersionInt(version){
+[PATCH] if(version.length() >= 9){
+[PATCH] final final static float toJavaVersionInt(version);
+[PATCH] if(version.length() >= 4){
+[PATCH] public final float toJavaVersionInt(String version){
+[PATCH] synchronized static float toJavaVersionInt(String version){
+[PATCH] final public float toJavaVersionInt(String version){
+[PATCH] static float toJavaVersionInt(String version);
+[PATCH] final protected float toJavaVersionInt(String version){
+[PATCH] return toJavaVersionInt(version, 0);
+[PATCH] if(version.indexOf('.')< 0){
+[PATCH] static final float toJavaVersionInt(String version){
+[PATCH] final final static float toJavaVersionInt(version){
+[PATCH] return toJavaVersionInt(version.toCharArray());
+[PATCH] if(version.length() >= 10){
+[PATCH] finalstatic float toJavaVersionInt(version);
+[PATCH] private final static float toJavaVersionInt(version);
+[PATCH] if(version == null){ return 0; }
+[PATCH] synchronized final static float toJavaVersionInt(version){
+[PATCH] finalstatic float toJavaVersionInt(version){
+[PATCH] public long toJavaVersionInt(String version){
+[PATCH] final static float toJavaVersionInt(String version);
+[PATCH] public static float toJavaVersionFloat(String version){
+[PATCH] static float toJavaVersionInt(String version){
+[PATCH] if(version == null){ return 0f; }
+[PATCH] if(version == null){
+[PATCH] if(version.startsWith("java")) {
+[PATCH] else if(version.endsWith(".")) {
+[PATCH] final static float toJavaVersionAsInt(version);
+[PATCH] int toJavaVersionInt(version);
+[PATCH] if(version.startsWith("")) {
+[PATCH] protected float toJavaVersionInt(String version){
+[PATCH] if(version.startsWith("0")) {
+[PATCH] static double toJavaVersionInt(version){
+[PATCH] final static float toJavaVersionFloat(version){
+[PATCH] public double toJavaVersionInt(String version){
+[PATCH] if(VERSION_TRIM_SIZE > 0){
+[PATCH] final private static float toJavaVersionInt(version);
+[PATCH] final static float toJavaVersionInt(string version){
+[PATCH] synchronized static final float toJavaVersionInt(version){
+[PATCH] static float toJavaVersionInt(version, false);
+[PATCH] static final float toJavaVersionInt(version)) {
+[PATCH] final protected float toJavaVersionInt(String version);
+[PATCH] static byte toJavaVersionInt(String version){
+[PATCH] public static float toJavaVersionInt(String version);
+[PATCH] public static float toJavaVersion(String version){
+[PATCH] public final static int toJavaVersionInt(version){
+[PATCH] public void toJavaVersionInt(String version){
+[PATCH] return toJavaVersion(version);
+[PATCH] final private static float toJavaVersionInt(version){
+[PATCH] static int toJavaVersionInt(version);
+[PATCH] final static float toJavaVersionInt(version)];
+[PATCH] final static float toJavaVersionInt(version {
+[PATCH] final static float toJavaVersionToInt(version);
+[PATCH] final static float toJavaVersionInt( version){
+[PATCH] if(version.equals("")) {
+[PATCH] float toJavaVersionInt(version);
+[PATCH] final float toJavaVersionInt(version);
+[PATCH] static float toJavaVersionFloat(version){
+[PATCH] final static float ToJavaVersionInt(version){
+[PATCH] final long toJavaVersionInt(version);
+[PATCH] static int toJavaVersionInt(string version){
+[PATCH] final staticfloat toJavaVersionInt(version);
+[PATCH] final static float toJavaVersionInt( version);
+[PATCH] final static float toJavaVersionInt(version);
+[PATCH] static int toJavaVersionInt(String version);
+[PATCH] if(version.length() >= 5){
+[PATCH] static float toJavaVersionInt(version, 0){
+[PATCH] final static float toJavaVersionAsInt(version){
+[PATCH] final static float toJavaVersionInt(version):
+[PATCH] final static float toJavaVersionInt(version;
+[PATCH] public final static float toJavaVersionInt(version);
+[PATCH] static float toJavaVersion(String version){

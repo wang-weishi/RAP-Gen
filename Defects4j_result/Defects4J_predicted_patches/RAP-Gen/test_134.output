@@ -1,0 +1,100 @@
+[PATCH] if(target!= null){
+[PATCH] if(target!= null && target.getType() == Token.STRING){
+[PATCH] if(target!= null && target.getType() == Token.NAME){
+[PATCH] if(target!= null && target.getType() == Token.ASSIGN){
+[PATCH] if(target!= null && target.getType() == Token.CALL){
+[PATCH] if(target!= null && target.getType() == Token.LT){
+[PATCH] if(target!= null && NodeUtil.isName(target)) {
+[PATCH] if(target!= null && target.getType() == Token.FUNCTION){
+[PATCH] if(target!= null && target.getType() == Token.NUMBER){
+[PATCH] if(target!= null && NodeUtil.isExprAssign(target)) {
+[PATCH] if(target!= null && target.getType() == Token.CLASS){
+[PATCH] if(target!= null && target.getType() == Token.VAR){
+[PATCH] if(target!= null && target.getType() == Token.VALUE){
+[PATCH] if(target!= null && target.getType() == Token.TEXT){
+[PATCH] if(target!= null && target.getType() == Token.NEW){
+[PATCH] if(target!= null && target.getType() == Token.GT){
+[PATCH] if(target!= null && target.getType() == Token.FIELD){
+[PATCH] if(target!= null && NodeUtil.isGetProp(target)) {
+[PATCH] if(target!= null && target.getType() == Token.String){
+[PATCH] if(target!= null && target.getType() == Token.RETURN){
+[PATCH] if(target!= null && target.getType() == Token.STR){
+[PATCH] if(target!= null && target.getType() == Token.REFERENCE){
+[PATCH] if(target!= null && target.getType() == Token.string){
+[PATCH] if(target!= null && target.getType() == Token.SCRIPT){
+[PATCH] if(target!= null && target.getType() == Token.HEX){
+[PATCH] if(target!= null && target.getType() == Token.REGEXP){
+[PATCH] if(target!= null && target.getType() == Token.DATE){
+[PATCH] if(target!= null && target.getType() == Token. STRING){
+[PATCH] if(target!= null && targets.getType() == Token.ASSIGN){
+[PATCH] if(target!= null && target.getType() == Token.LABEL){
+[PATCH] if(target!= null &&TARGET.getType() == Token.STRING){
+[PATCH] if(target!= null && target.getType() == Token.LITERAL){
+[PATCH] if(target.getType() == Token.STRING){
+[PATCH] if(target!= null && target.getType() == Token.CSS){
+[PATCH] if(target!= null && target.getType() == Token.NAMES){
+[PATCH] if(target!= null && targetClass.getType() == Token.ASSIGN){
+[PATCH] if(target!= null && target.getType() == Token.LP){
+[PATCH] if(target!= null && target.getType() == Token.LIT){
+[PATCH] if(target!= null && target.getType() == Token.PROPERTY){
+[PATCH] if(target!= null && target.getType() == Token.START){
+[PATCH] if(target!= null && target.getType() == Token.JAVA){
+[PATCH] if(target!= null && target.getType() == Token.1){
+[PATCH] if(target!= null && target.getType() == Token.LE){
+[PATCH] if(target!= null && target.getType() == Token.toString){
+[PATCH] if(target!= null && target.getType() == Token.TYPE){
+[PATCH] if(target!= null && target.getType() == Token.CHARS){
+[PATCH] if(target!= null && NodeUtil.isLiteralValue(target)) {
+[PATCH] if(target!= null && target.getType() == Token.LIST){
+[PATCH] if(target!= null && target.getType() == Token.DIV){
+[PATCH] if(target!= null && target.getType() == Token.CONST){
+[PATCH] if(target!= null && target.getType() == Token.QualifiedName){
+[PATCH] if(target!= null && target.getType() == Token.THREAD){
+[PATCH] if(target!= null && target.getType() == Token.ID){
+[PATCH] if(target!= null && target.getType() == Token.IDENTIFIER){
+[PATCH] if(target!= null && target.getType() == Token.TRUE){
+[PATCH] if(target!= null && NodeUtil.isIdeMode(target)) {
+[PATCH] if(target!= null &&TARGET.getType() == Token.ASSIGN){
+[PATCH] if(target!= null && target.getType() == Token.ADDRESS){
+[PATCH] if(target!= null && target.getType() == Token.NULL){
+[PATCH] if(target!= null && NodeUtil.isExpressionNode(target)) {
+[PATCH] if(target!= null && target.getType() == Token.EQ){
+[PATCH] if(target.getType() == Token.REF_SPECIAL){
+[PATCH] if(target!= null &&!target.isEmpty()){
+[PATCH] if(target.getType() == Token.NAME){
+[PATCH] if(target!= null && NodeUtil.isQualifiedName(target)) {
+[PATCH] if(target.getType() == Token.GETPROP){
+[PATCH] if(target!= null &&!target.isString()){
+[PATCH] if(target.getType() == Token.OBJECTLIT){
+[PATCH] if(target.getType() == Token.ASSIGN){
+[PATCH] if(target!= null && isExprAssign(target)) {
+[PATCH] if(target!= null && targetClass.isQualifiedName()){
+[PATCH] if("prototype".equals(target.getString())) {
+[PATCH] if(target.getType() == Token.CALL){
+[PATCH] if("toString".equals(target.getString())) {
+[PATCH] if(target!= null && targetClass.isType()){
+[PATCH] if(target!= null &&!target.isQualifiedName()){
+[PATCH] if(target.getType() == Token.THIS){
+[PATCH] if(target!= null && target.hasType()){
+[PATCH] if(target!= null && target.isQualifiedName()){
+[PATCH] if(target.getType() == Token.INSTANCEOF){
+[PATCH] if(target!= null && targetType.isQualifiedName()){
+[PATCH] if(target!= null && target instanceof String){
+[PATCH] if(target!= null && n > 0){
+[PATCH] if(target!= null && targetClass.hasChildren()){
+[PATCH] if(target!= null && targetClass.isString()){
+[PATCH] if(target!= null && isCall(target)) {
+[PATCH] if(target!= null && isToString(target)) {
+[PATCH] if(target!= null && isName(target)) {
+[PATCH] if(sourceName!= null && target!= null){
+[PATCH] if(target!= null && target instanceof Token){
+[PATCH] if(target!= null && n>0){
+[PATCH] if(target!= null {
+[PATCH] if(target!= null){
+[PATCH] if(target!= null){
+[PATCH] if(null && target!= null){
+[PATCH] if(target!= null && true){
+[PATCH] if(target!= null){
+[PATCH] if( target!= null){
+[PATCH] if(target!= null()){
+[PATCH] if(Target!= null){

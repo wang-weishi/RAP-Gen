@@ -1,0 +1,100 @@
+[PATCH] catch(MockitoException e){
+[PATCH] catch(AssertionError e){
+[PATCH] catch(ArgumentError e){
+[PATCH] catch(MockitoExceptione e){
+[PATCH] catch(IllegalArgumentException e){
+[PATCH] catch(AssertionFailedError e){
+[PATCH] catch(ArgumentMatcherError e){
+[PATCH] catch(MockitoAssertionError e){
+[PATCH] catch(ArgumentMismatchException e){
+[PATCH] catch(InvocationException e){
+[PATCH] catch(MethodMismatchException e){
+[PATCH] catch(ArgumentsAreDifferent e){
+[PATCH] catch(UnexpectedArgumentError e){
+[PATCH] catch(Throwable e){
+[PATCH] catch(MockitoArgumentError e){
+[PATCH] catch(ArgumentCheckError e){
+[PATCH] catch(JUnitException e){
+[PATCH] catch(JSError e){
+[PATCH] catch(MethodVerificationException e){
+[PATCH] catch(ArgumentVerificationException e){
+[PATCH] catch(ArgumentCheckerError e){
+[PATCH] catch(ArithmeticException e){
+[PATCH] catch(ArgsAreDifferent e){
+[PATCH] catch(MockitoException("");
+[PATCH] catch(ClassMismatchException e){
+[PATCH] catch(Exception e){
+[PATCH] catch(RuntimeException e){
+[PATCH] catch(MockitoArgumentException e){
+[PATCH] catch(final MockitoException e){
+[PATCH] catch(MockitoError e){
+[PATCH] catch(InvocationFailedException e){
+[PATCH] catch(InvocationError e){
+[PATCH] catch(ClassNotFoundException e){
+[PATCH] catch(ArgumentsAreDifferente){
+[PATCH] catch(MethodError e){
+[PATCH] catch(MockitoUnexpectedException e){
+[PATCH] catch(TypeMismatchException e){
+[PATCH] catch(MockitoIllegalArgumentException e){
+[PATCH] catch(JXPathException e){
+[PATCH] catch(InvocationCause e){
+[PATCH] catch(ArgumentConstraintError e){
+[PATCH] catch(ArgumentMatcherException e){
+[PATCH] catch(FunctionCheckError e){
+[PATCH] catch(ArgumentCheckerException e){
+[PATCH] catch(InternalError e){
+[PATCH] catch(ArgumentValidator.Exception e){
+[PATCH] catch(FunctionVerificationException e){
+[PATCH] catch(JSException e){
+[PATCH] catch(InvocationFailedError e){
+[PATCH] catch(ObjectMismatchException e){
+[PATCH] catch(ArgumentMismatchError e){
+[PATCH] catch(BadMethodError e){
+[PATCH] catch(MethodInvocationError e){
+[PATCH] catch(InvocationFailure e){
+[PATCH] catch(MethodInvocationException e){
+[PATCH] catch(KeyMismatchException e){
+[PATCH] catch(IllegalArgumentError e){
+[PATCH] catch(ArgumentException e){
+[PATCH] catch(JunitException e){
+[PATCH] catch(ArgumentNullException e){
+[PATCH] catch(MockitoRuntimeException e){
+[PATCH] catch(InvocationTargetException e){
+[PATCH] catch(NoSuchMethodError e){
+[PATCH] catch(ExpectationError e){
+[PATCH] catch(ArgumentCheckedException e){
+[PATCH] catch(ArgumentListException e){
+[PATCH] catch(ArgumentsAreDifferentException e){
+[PATCH] catch(MockitoException exception){
+[PATCH] catch(MockitoSecurityException e){
+[PATCH] catch(AssertionFailure e){
+[PATCH] catch(ArgumentErrore e){
+[PATCH] catch(InternalException e){
+[PATCH] catch(UnexpectedException e){
+[PATCH] catch(InterruptedException e){
+[PATCH] catch(ArgsAreDifferente){
+[PATCH] catch(IOException e){
+[PATCH] catch(ArgumentsHaveDifferente){
+[PATCH] catch(ConstraintError e){
+[PATCH] catch(UnexpectedArgumentException e){
+[PATCH] catch(SdkException e){
+[PATCH] catch(JSONException e){
+[PATCH] catch(FunctionError e){
+[PATCH] catch(AssertionFailedException e){
+[PATCH] catch(SyntaxException e){
+[PATCH] catch(MockitoException error){
+[PATCH] catch(MockitoExceptione){
+[PATCH] catch(CoreException e){
+[PATCH] catch(String e){
+[PATCH] catch(MockitoException e): {
+[PATCH] catch(ExecutionException e){
+[PATCH] catch(ArgumentException e){
+[PATCH] catch(Error e){
+[PATCH] catch(Cause e){
+[PATCH] catch(MockitoException(""));
+[PATCH] catch(MockitoException.class){
+[PATCH] catch(MockitoExceptione e {
+[PATCH] {
+[PATCH] ;
+);
+;

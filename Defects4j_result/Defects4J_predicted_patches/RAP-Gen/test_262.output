@@ -1,0 +1,100 @@
+[PATCH] if(ext.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(externalTypeHandler.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(impl.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(extended.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(externalTypeIdHandler.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(exp.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(t == JsonToken.END_ARRAY || t == JsonToken.END_OBJECT){
+[PATCH] if(ext.handlePropertyValue(p, ctxt, prop, buffer)) {
+[PATCH] if(ext.handlesPropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if( ext.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(!ext.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(ext.handleTypePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(!creatorProp.deserializeAndSet(p, ctxt, buffer)) {
+[PATCH] if(Ext.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(t == JsonToken.VALUE_NULL){
+[PATCH] if(ext.handleValueType(p, ctxt, propName, buffer)) {
+[PATCH] if(ext.complete(p, ctxt, propName, buffer)) {
+[PATCH] if(ext.handlePropertyValue(p, ctxt, buffer, creatorProp)) {
+[PATCH] if(ext.handlePropertyValue(p, propName, buffer)) {
+[PATCH] if(ext.handlePropertyValue(p, ctxt, propName, buffer)!= null){
+[PATCH] if(helper.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(ext.handlePropertyValue(p, ctxt, PROPERTY_NAME, propName)) {
+[PATCH] if(ext.handlePropertyValue(p, ctxt, oldName, propName, buffer)) {
+[PATCH] if(ext.handlePropertyValue(p, ctxt, p.nextToken())) {
+[PATCH] if(e.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(typeHandler.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(ext.handlePropertyValue(p, ctxt, t, propName, buffer)) {
+[PATCH] if(ext.handlePropertyValue(p, ctxt, props, propName, buffer)) {
+[PATCH] if(_externalTypeIdHandler.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(_handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(ext.handlePropertyValue(p, ctxt, null, propName, buffer)) {
+[PATCH] if(ext.handlePropertyValue(p, ctxt, propertyName, buffer)) {
+[PATCH] if(ext.handleProperty(p, ctxt, propName, buffer)) {
+[PATCH] if(ext.handlePropertyValue(t, p, ctxt, propName, buffer)) {
+[PATCH] if(ext. handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(ext.handlePropertyValue(p, ctxt, creatorProp, buffer)) {
+[PATCH] if(ext.handlePropertyValue(p, ctxt, propName, buf)) {
+[PATCH] if(t == JsonToken.START_OBJECT || t == JsonToken.END_ARRAY){
+[PATCH] if(fn.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(ext.handlePropertyValue(p, ctxt, propName,buffer)) {
+[PATCH] if(ext.handlePropertyValue(p, ctxt, p.getText())) {
+[PATCH] if(ext.handlePropertyValue(p, ctxt, prot, propName, buffer)) {
+[PATCH] if(ext.handlePropertyValue(p, p, ctxt, propName, buffer)) {
+[PATCH] if(!creatorProp.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(ext.handlePropertyValue(p, ctxt, objectName, buffer)) {
+[PATCH] if(ext.handlePropertyValue(p, ctxt, objectName, propName, buffer)) {
+[PATCH] if(tif.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(ext.handlePropertyValue(p, ctxt, propName, buffers)) {
+[PATCH] if(c.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(tc.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(ext.handlePropertyValue(p, ctxt, pn, buffer)) {
+[PATCH] if(ext.processPropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(info.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(ext.handlePropertyValue(p, ctxt, pv, buffer)) {
+[PATCH] if(fv.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(ext.handlePropertyValue(p,ctxt, propName, buffer)) {
+[PATCH] if(ext.handlePropertyValue(p, ctxt, methodName, buffer)) {
+[PATCH] if(ext.complete(p, ctxt, buffer)) {
+[PATCH] if(handler.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(ext.handlePropertyValue(p, ctxt, variableName, buffer)) {
+[PATCH] if(expr.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(ext.handleContentType(p, ctxt, propName, buffer)) {
+[PATCH] if(buffer.assignParameter(creatorProp, _deserialize(p, ctxt))){
+[PATCH] if(type.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(creatorProp.deserializeAndSet(p, ctxt, buffer)) {
+[PATCH] if(ext.handlePropertyValue(p, jp, propName, buffer)) {
+[PATCH] if(t == JsonToken.START_OBJECT){
+[PATCH] if(ext.handlePropertyValue(p, ctxt, argName, buffer)) {
+[PATCH] if(_handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(ext.handlePropertyValue(p, ctxt, propName, null)) {
+[PATCH] if(t == JsonToken.VALUE_NUMBER_INT){
+[PATCH] if(ext.handlePropertyValue(p, ctxt, propName, buffer){
+[PATCH] if(ext.handlePropertyValue(p, ctxt, buf)) {
+[PATCH] if(ext.handlePropertyValue(p, ctxt, propName, buffer)== false){
+[PATCH] ext.handlePropertyValue(p, ctxt, propName, buffer)) {
+[PATCH] if(( t = p.nextToken())== JsonToken.VALUE_NULL){
+[PATCH] if(t == JsonToken.VALUE_STRING){
+[PATCH] if(t == JsonToken.END_ARRAY){
+[PATCH] if(t == JsonToken.FIELD_NAME){
+[PATCH] if(_handleGet(p, ctxt, propName, buffer)) {
+[PATCH] if(p.nextToken() == JsonToken.VALUE_NULL){
+[PATCH] if(_factoryConfig.hasIgnoreMarker(creatorProp)) {
+[PATCH] if(EXT_WHOLE_COLLECTION){
+[PATCH] if(buffer.hasParameter(creatorProp)) {
+[PATCH] if(_ignoreCreatorProperty(creatorProp)) {
+[PATCH] if(_needViewProcesing){
+[PATCH] if(t.isScalarValue()){
+[PATCH] if("prototype".equals(propName)) {
+[PATCH] if(t == JsonToken.START_ARRAY){
+[PATCH] if(_factoryConfig.hasExternalTypeHandler()){
+[PATCH] if(_skipCreatorProperty(creatorProp)) {
+[PATCH] if(EXTENDS_ONLY){
+[PATCH] if(_needReversing){
+[PATCH] if(EXTENDS){
+[PATCH] if(_needInline()){
+[PATCH] if(ext == null){
+);
+;
+());

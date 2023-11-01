@@ -1,0 +1,100 @@
+[PATCH] if(!options.dependencyOptions.needsManagement()){
+[PATCH] if(!options.dependencyOptions.hasExistingFunctionDefinition() ||!options.closurePass){
+[PATCH] if(options.dependencyOptions.needsManagement() || options.closurePass){
+[PATCH] if(!options.dependencyOptions.hasExistingFunctionDefinition() || options.closurePass){
+[PATCH] if(!options.dependencyOptions.needsManagement() &&!options.closurePass){
+[PATCH] if(options.dependencyOptions.needsManagement()){
+[PATCH] if(options.dependencyOptions.hasExistingFunctionDefinition() || options.closurePass){
+[PATCH] if(!options.dependencyOptions.hasManagementModifiers()){
+[PATCH] if(!options. dependencyOptions.needsManagement()){
+[PATCH] if(options.dependencyOptions.isRequired()){
+[PATCH] if(options.dependencyOptions.isEnabled(Feature.ALLOW_SINGLE_QUOTES)) {
+[PATCH] if(options.dependencyOptions.isEnabled(MapperFeature.ALLOW_SINGLE_QUOTES)) {
+[PATCH] if(!options. dependencyOptions.hasExistingFunctionDefinition() || options.closurePass){
+[PATCH] if(!options.dependencyOptions.isEnabled(Feature.ALLOW_SINGLE_QUOTES)) {
+[PATCH] if(!options.dependencyOptions.mayHaveSideEffects()){
+[PATCH] if(!options. dependencyOptions.hasExistingFunctionDefinition() ||!options.closurePass){
+[PATCH] if(!options.dependencyOptions.needsManagement() && options.closurePass){
+[PATCH] if(!options.dependencyOptions.hasExistingMethodDefinition() || options.closurePass){
+[PATCH] if(!options.dependencyOptions.hasExistingMethodDefinition() ||!options.closurePass){
+[PATCH] if(options.dependencyOptions.isMultiline() || options.closurePass){
+[PATCH] if(options.dependencyOptions.hasManagement() || options.closurePass){
+[PATCH] if(options.dependencyOptions.isRequired() && options.closurePass){
+[PATCH] if(options.dependencyOptions.canOverrideAccessModifiers()){
+[PATCH] if(!options.dependencyOptions.needsManagement() || options.closurePass){
+[PATCH] if(options.dependencyOptions.isEnabled(Feature.EAGER_DEPENDENCY)) {
+[PATCH] if(options.dependencyOptions.hasManagedReferenceName() || options.closurePass){
+[PATCH] if(options.dependencyOptions.isEnabled(Feature.START_AND_END)) {
+[PATCH] if(options.dependencyOptions.hasManagementMode()){
+[PATCH] if(options.dependencyOptions.hasCreatorAnnotation()){
+[PATCH] if(options.dependencyOptions.needsActivation() || options.closurePass){
+[PATCH] if(!options.dependencyOptions.canBeInitialized()){
+[PATCH] if(!options.dependencyOptions.hasExistingFunctionDeclaration() ||!options.closurePass){
+[PATCH] if(!options.dependencyOptions.requiresManagement()){
+[PATCH] if(options.dependencyOptions.canBeInitialized() || options.closurePass){
+[PATCH] if(options.dependencyOptions.needManagement() || options.closurePass){
+[PATCH] if(!options. dependencyOptions.needsManagement() &&!options.closurePass){
+[PATCH] if(!options.dependencyOptions.hasExistingFunctionDeclaration() || options.closurePass){
+[PATCH] if(!options.dependencyOptions.hasManagedReferenceName()){
+[PATCH] if(options.dependencyOptions.needsActivation() && options.closurePass){
+[PATCH] if(options.dependencyOptions.isEnabled(Feature.ALLOW_MUTATORS)) {
+[PATCH] if(!options.dependencyOptions.hasCallbacks()){
+[PATCH] if(options.dependencyOptions.canCreateUsingDefault()){
+[PATCH] if(options.dependencyOptions.canBeInitialized() && options.closurePass){
+[PATCH] if(options.dependencyOptions.isEnabled(Feature.EAGER_DEPENDENCY));
+[PATCH] if(options.dependencyOptions.hasManagementModifiers()){
+[PATCH] if(!options.dependencyOptions.hasExistingParameterAnnotations()){
+[PATCH] if(options.dependencyOptions.isManagement() && options.closurePass == null){
+[PATCH] if(!options. dependencyOptions.hasManagementModifiers()){
+[PATCH] if(options.dependencyOptions.isEnabled(Feature.ACCEPT_SINGLE_QUOTES)) {
+[PATCH] if(!options.dependencyOptions.isRequired()){
+[PATCH] if(!options.dependencyOptions.hasExistingScope() ||!options.closurePass){
+[PATCH] if(options.dependencyOptions.isManagement() && options.closurePass){
+[PATCH] if(options.dependencyOptions.isAccessible() && options.closurePass){
+[PATCH] if(!options.dependencyOptions.canOverrideAccessModifiers()){
+[PATCH] if(options.dependencyOptions.isEnabled(MapperFeature.EAGER_DEPENDENCY));
+[PATCH] if(!options.dependencyOptions.hasCachedValues()){
+[PATCH] if(!options.dependencyOptions.hasChanges()){
+[PATCH] if(!options.dependencyOptions.hasExistingFunctionDefinition()){
+[PATCH] if(!options.dependencyOptions.hasPolicyRequirements()){
+[PATCH] if(options.dependencyOptions.isEnabled(MapperFeature.INFER_DEPENDENCY));
+[PATCH] if(!options.dependencyOptions.hasExistingDependency()){
+[PATCH] if(!options.dependencyOptions.hasManagementFeatures()){
+[PATCH] if(!options.dependencyOptions.hasExistingFunctionProperties()){
+[PATCH] if(options.dependencyOptions.hasCallbacks()){
+[PATCH] if(options.dependencyOptions.canBeInitialized()){
+[PATCH] if(!options.dependencyOptions.hasExistingFunctionInfo()){
+[PATCH] if(options.dependencyOptions.hasPermissionPolicies()){
+[PATCH] if(!options.dependencyOptions.hasExistingParameterTags()){
+[PATCH] if(!options.dependencyOptions.hasReferenceName()){
+[PATCH] if(!options.dependencyOptions.hasGlobalRequirements()){
+[PATCH] if(!options.dependencyOptions.hasExistingParameter()){
+[PATCH] if(!options.dependencyOptions.hasPermissionPolicies()){
+[PATCH] if(!options.dependencyOptions.hasExistingFunctionInformation()){
+[PATCH] if(!options.dependencyOptions.hasManagementRequirements()){
+[PATCH] if(!options.dependencyOptions.hasManagementDependencies()){
+[PATCH] if(!options.dependencyOptions.hasSideEffects()){
+[PATCH] if(!options.dependencyOptions.hasGlobalState()){
+[PATCH] if(options.dependencyOptions.isManagement()){
+[PATCH] if(options.dependencyOptions.hasAccessControlAnnotation()){
+[PATCH] if(!options.dependencyOptions.hasServices()){
+[PATCH] if(options.dependencyOptions.mayHaveSideEffects()){
+[PATCH] if(!options.dependencyOptions.hasExistingFunctionParameters()){
+[PATCH] if(options.dependencyOptions.hasSideEffects()){
+[PATCH] if(!options.dependencyOptions.hasPolicyModifiers()){
+[PATCH] if(!options.dependencyOptions.hasExistingParameters()){
+[PATCH] if(options.dependencyOptions.hasManagedReferenceName()){
+[PATCH] if(options.dependencyOptions.enabledByDefault()){
+[PATCH] if(options.dependencyOptions.hasCrossReferenceName()){
+[PATCH] if(!options.dependencyOptions.needManagement()){
+[PATCH] if(!options.dependencyOptions.hasManagementMode()){
+[PATCH] if(!options.dependencyOptions.hasExistingSpecification()){
+[PATCH] if(options.dependencyOptions.isEnhanced()){
+[PATCH] if(!options.dependencyOptions.hasResources()){
+[PATCH] if(!options.dependencyOptions.hasReferences()){
+[PATCH] if(options.dependencyOptions.isExtern()){
+[PATCH] if(options.dependencyOptions.isGlobal()){
+[PATCH] if(options.dependencyOptions.needManagement()){
+[PATCH] if(options.dependencyOptions.hasMutator()){
+[PATCH] {
+);

@@ -1,0 +1,100 @@
+[PATCH] Preconditions.checkState(block.isHoisted);
+[PATCH] block.setIsHoisted(true);
+[PATCH] if(block.isHoisted){ return false; }
+[PATCH] if(!block.isHoisted){ return false; }
+[PATCH] if(block.isHoisted){ return true; }
+[PATCH] block.isHoisted = block.isHoisted;
+[PATCH] Preconditions.checkState(ref.isHoisted);
+[PATCH] ref.isHoisted = block.isHoisted;
+[PATCH] Preconditions.checkState(block.hasOneChild());
+[PATCH] blockStack.push(block);
+[PATCH] block.setHoisted(true);
+[PATCH] Preconditions.checkState(block.getParent()!= null);
+[PATCH] if(ref.isHoisted){ return false; }
+[PATCH] ref.getNameNode().setString("");
+[PATCH] block.setIsHoisted();
+[PATCH] ref.getGrandparent().setType(Token.VAR);
+[PATCH] block.setIsHoistedBlock(true);
+[PATCH] Preconditions.checkState(block.getHoisted());
+[PATCH] if(isFunctionAnonymous(block)) { return false; }
+[PATCH] block.setGrandparent(ref.getGrandparent());
+[PATCH] if(isHoisted){ return false; }
+[PATCH] references.add(block);
+[PATCH] Preconditions.checkState(block.isHoisted());
+[PATCH] block.isHoisted = true;
+[PATCH] block = block.getParent();
+[PATCH] block.setLineno(ref.getLineno());
+[PATCH] Preconditions.checkState(varFilter.apply(block));
+[PATCH] checkState(block.isHoisted);
+[PATCH] Preconditions.checkState(!block.isHoisted);
+[PATCH] blocksWithDeclarations.add(block);
+[PATCH] block.setGrandparent(ref.getNameNode());
+[PATCH] referenceMap.put(block.getName(), ref);
+[PATCH] if(ref.isHoisted){ return true; }
+[PATCH] Preconditions.checkState(block.isInitializingDeclaration());
+[PATCH] Preconditions.checkState(block.isVarDeclaration());
+[PATCH] Preconditions.checkState(block.getFinally()!= null);
+[PATCH] ref.getGrandparent().setIsHoistedBlock();
+[PATCH] referenceMap.put(block.getName(), block);
+[PATCH] checkForHoistedFunctionDeclaration(block);
+[PATCH] Preconditions.checkState(block.getSize() == 1);
+[PATCH] block.setJSDocInfo(null);
+[PATCH] blockStack.push(new BasicBlock(block));
+[PATCH] Preconditions.checkState(block.getInitializer()!= null);
+[PATCH] block.setIsHoistedBlock();
+[PATCH] if(isHoisted){ return true; }
+[PATCH] if(!block.isLvalue()){ return false; }
+[PATCH] if(!block.hasChildren()){ return false; }
+[PATCH] ref.getGrandparent().removeChild(block);
+[PATCH] Preconditions.checkState(block.getDepth() == 1);
+[PATCH] if(block.hasHoisted){ return false; }
+[PATCH] Preconditions.checkState(block.getDepth() < 1);
+[PATCH] Preconditions.checkState(block.isNoSideEffects());
+[PATCH] block.setFallThrough(ref.getNameNode());
+[PATCH] Preconditions.checkState(!block.isHoisted());
+[PATCH] block.setIsHoistedFunctionDeclaration(true);
+[PATCH] ref.getGrandparent().setType(Token.RETURN);
+[PATCH] Preconditions.checkState(block.isHoisted");
+[PATCH] block.isHoisted = block.isHoisted();
+[PATCH] blockStack.push(new BasicBlock(block, false));
+[PATCH] Preconditions.checkState(block.isFinally());
+[PATCH] ref.getNameNode().setJSDocInfo(null);
+[PATCH] if(Block.isHoisted){ return false; }
+[PATCH] block.addChildToBack(ref);
+[PATCH] Preconditions.checkState(block.getParent() == ref);
+[PATCH] block.setRValue(ref.getNameNode());
+[PATCH] Preconditions.checkState(block.getFallThrough());
+[PATCH] Preconditions.checkState(block.getParent()!= ref);
+[PATCH] Preconditions.checkState(block.hasChildren());
+[PATCH] Preconditions.checkState(block.isVoid());
+[PATCH] checkState(!block.isHoisted);
+[PATCH] block.setHoistedBlock(true);
+[PATCH] block.setHoistedFunction(true);
+[PATCH] varFilter.apply(block);
+[PATCH] ref.getParent().removeChild(block);
+[PATCH] blocksWithReturnStatements.add(block);
+[PATCH] block.setIsHoistedState();
+[PATCH] return block.isHoisted;
+[PATCH] block.setGrandparent(ref);
+[PATCH] block.setJSDocInfo(ref);
+[PATCH] block.setIsHoisted(false);
+[PATCH] checkState(ref.isHoisted);
+[PATCH] ref.getNameNode().setString(null);
+[PATCH] isAssignedOnceInLifetime(block);
+[PATCH] ref.setGrandparent(block);
+[PATCH] block.setIsHoistedBoolean();
+[PATCH] block.setAliased(true);
+[PATCH] block.setTwin(null);
+[PATCH] blocksWithReferences.add(block);
+[PATCH] blockStack.pop();
+[PATCH] processFunctionDeclaration(block);
+[PATCH] ref.isLvalue();
+[PATCH] varFilter.evaluate(block);
+[PATCH] markFunctionDeclaration(block);
+[PATCH] ref.isInitializingDeclaration();
+[PATCH] blockStack.push(ref);
+[PATCH] ref.isGrandparent();
+[PATCH] blocksToRemove.add(block);
+[PATCH] refs.add(block);
+[PATCH] markFunctionAnonymous(block);
+[PATCH] block.redeclare();

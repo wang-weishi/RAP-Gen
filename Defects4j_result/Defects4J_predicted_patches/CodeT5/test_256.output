@@ -1,0 +1,100 @@
+[PATCH] if(!(value instanceof String)) {
+[PATCH] if(value == null){ return; }
+[PATCH] if(value == null){
+[PATCH] if(!(value instanceof Serializable)) {
+[PATCH] if(!(value instanceof JsonPrimitive)) {
+[PATCH] if(!(value instanceof ObjectId)) {
+[PATCH] if(provider.getActiveView()!= null){
+[PATCH] if(!(value instanceof JsonNull)) {
+[PATCH] if(!(value instanceof Object)) {
+[PATCH] if(!(value instanceof Class)) {
+[PATCH] if(!serializeDateKeys){
+[PATCH] if(!(value instanceof Character)) {
+[PATCH] if(value.getClass().isArray()){
+[PATCH] if(!(value instanceof Constructor)) {
+[PATCH] if(!serializeSpecialFloatingPointValues){
+[PATCH] if(!(value instanceof JsonObject)) {
+[PATCH] if(!(value instanceof Enum<?>)) {
+[PATCH] if(String.isEmpty(value)) {
+[PATCH] if(!(value instanceof JsonFieldName)) {
+[PATCH] if(!(value instanceof HashedObject)) {
+[PATCH] if(!(value instanceof JsonKey)) {
+[PATCH] if(jgen.writeFieldName("value");
+[PATCH] if(!(value instanceof JsonField)) {
+[PATCH] if(!(value instanceof ObjectType)) {
+[PATCH] if(!serializeNulls){
+[PATCH] if(!(value instanceof JsonToken)) {
+[PATCH] if(!(value instanceof JsonSerializer)) {
+[PATCH] if(!(value instanceof Enum)) {
+[PATCH] if(!serializeDateProps){
+[PATCH] if(!(value instanceof Token)) {
+[PATCH] if(!serializeDateFields){
+[PATCH] if(provider!= null){
+[PATCH] if(!(value instanceof UnknownType)) {
+[PATCH] if(StringUtils.isEmpty(value)) {
+[PATCH] if(value.getClass().isPrimitive()){
+[PATCH] if(!(value instanceof KindedObject)) {
+[PATCH] if(!serializeFieldName(value)) {
+[PATCH] if(!(value instanceof Comparable)) {
+[PATCH] if(!(value instanceof Map)) {
+[PATCH] if(!(value instanceof JsonSerializerBase)) {
+[PATCH] if(idFromValue(value)) {
+[PATCH] if(!(value instanceof StringBuffer)) {
+[PATCH] if(!(value instanceof CharSequence)) {
+[PATCH] if(!(value instanceof JsonString)) {
+[PATCH] if(!(value instanceof JSONString)) {
+[PATCH] if(!serializeDates){
+[PATCH] if(!(value instanceof StringUtils)) {
+[PATCH] if(!(value instanceof JsonProperty)) {
+[PATCH] if(!(value instanceof JsonSerializable)) {
+[PATCH] if(!serializeDateFormat.equals(value)) {
+[PATCH] if(name.equals("date")) {
+[PATCH] if(!(value instanceof Converter)) {
+[PATCH] if(value == null){ return; }
+[PATCH] if(value instanceof String){
+[PATCH] if(!(value instanceof Legend)) {
+[PATCH] jgen.writeStartObject();
+[PATCH] if(!serializeDateProperties){
+[PATCH] if(!(value instanceof JacksonDate)) {
+[PATCH] if(!serializeKeys){
+[PATCH] if(!(value instanceof NotNull)) {
+[PATCH] if(!(value instanceof Gson)) {
+[PATCH] if(!(value instanceof Reference)) {
+[PATCH] if(!(value instanceof Member)) {
+[PATCH] if(!(value instanceof Name)) {
+[PATCH] if(!serializeFields){
+[PATCH] if(!(value instanceof BigInteger)) {
+[PATCH] if(!serializeDateStrings){
+[PATCH] if(value == null { return; }
+[PATCH] if(!(value instanceof FieldName)) {
+[PATCH] if(!(value instanceof Instant)) {
+[PATCH] if(!(value instanceof UUID)) {
+[PATCH] if(!(value instanceof MessageDigest)) {
+[PATCH] if(serializeDateKeys){
+[PATCH] if(name == null){
+[PATCH] if(!(value instanceof Digest)) {
+[PATCH] if(!serializeSpecialDateKeys){
+[PATCH] if(value == null)return;
+[PATCH] if(!serializeProps){
+[PATCH] if(provider == null){
+[PATCH] if(!serializeStrings){
+[PATCH] if(!serializeDateAsFieldName){
+[PATCH] if(null == value){
+[PATCH] if(value == this){
+[PATCH] if(!serializeNull){
+[PATCH] if(!serializeProperties){
+[PATCH] if(!serializeSpecialDateFormat){
+[PATCH] while(value!= null){
+[PATCH] if(!serializeDateFormat){
+[PATCH] if(!serializeDate){
+[PATCH] if(!serializePrimitive){
+[PATCH] if(value instanceof Serializable){
+[PATCH] if(!serializeValues){
+[PATCH] if(!serializeDigits){
+[PATCH] if(!serializeFlag){
+[PATCH] if(!serializeMonths){
+[PATCH] if(serializeNulls){
+[PATCH] if(serializeDateFormat){
+[PATCH] if(serializeDate){
+[PATCH] if(null){
+[PATCH] if(false){

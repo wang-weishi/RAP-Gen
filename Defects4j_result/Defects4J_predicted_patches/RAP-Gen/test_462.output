@@ -1,0 +1,100 @@
+[PATCH] if(( toRelease!= src)&&(toRelease.length!= src.length)) { throw wrongBuf(); }
+[PATCH] if(( toRelease!= null)&&(toRelease.length!= src.length)) { throw wrongBuf(); }
+[PATCH] if(( toRelease!= src)||(toRelease.length!= src.length)) { throw wrongBuf(); }
+[PATCH] if(toRelease!= src &&!toRelease.length.equals(src.length)) { throw wrongBuf(); }
+[PATCH] if(( toRelease!= src)||(toRelease.length!= src.length)) { throw new IllegalArgumentException(""); }
+[PATCH] if(toRelease!= src ||!toRelease.length.equals(src.length)) { throw wrongBuf(); }
+[PATCH] if(toRelease == null || src == null || toRelease.length!= src.length){ throw wrongBuf(); }
+[PATCH] if(!toRelease.length.equals(src.length)) { throw wrongBuf(); }
+[PATCH] if(( toRelease!= src)&&(_toRelease.length!= src.length)) { throw wrongBuf(); }
+[PATCH] if(toRelease!= null && src!= null && toRelease.length!= src.length){ throw wrongBuf(); }
+[PATCH] if(toRelease!= src || src == null || toRelease.length!= src.length){ throw wrongBuf(); }
+[PATCH] if(toRelease == src ||!toRelease.length.equals(src.length)) { throw wrongBuf(); }
+[PATCH] if(( src == null)||(toRelease.length!= src.length)) { throw wrongBuf(); }
+[PATCH] if(( toRelease == src)&&(toRelease.length!= src.length)) { throw wrongBuf(); }
+[PATCH] if(toRelease!= src){ if(toRelease.length!= src.length){ throw wrongBuf(); }
+[PATCH] if(( toRelease!= null)&&(_src.length!= src.length)) { throw wrongBuf(); }
+[PATCH] if(( toRelease == null)||(toRelease.length!= src.length)) { throw wrongBuf(); }
+[PATCH] if(( toRelease!= null)&&(src.length!= toRelease.length)) { throw wrongBuf(); }
+[PATCH] if(( toRelease!= src)&&!toRelease.length == src.length){ throw wrongBuf(); }
+[PATCH] if(( toRelease!= null)||(toRelease.length!= src.length)) { throw wrongBuf(); }
+[PATCH] if(!toRelease.length.equals(src.length)) { throw new IllegalArgumentException(""); }
+[PATCH] if(( src!= null)&&(toRelease.length!= src.length)) { throw wrongBuf(); }
+[PATCH] if(( toRelease == src)||(toRelease.length!= src.length)) { throw wrongBuf(); }
+[PATCH] if(( toRelease!= src)&&(toRelease.length!= src.length)) { throw wrongBounds(); }
+[PATCH] if(( toRelease!= src)&&(toRelease.length!= src.length)) { throw wrongSrc(); }
+[PATCH] if(( toRelease!= src)&&!toRelease.length == src.length)) { throw wrongBuf(); }
+[PATCH] if(_release == null ||!toRelease.length.equals(src.length)) { throw wrongBuf(); }
+[PATCH] if(toRelease!= src || toRelease.length!= src.length){ throw wrongBuf(); }
+[PATCH] if(( toRelease!= null)&&(_toRelease.length!= src.length)) { throw wrongBuf(); }
+[PATCH] if(toRelease == null ||!toRelease.length.equals(src.length)) { throw wrongBuf(); }
+[PATCH] if(toRelease.length!= src.length || toRelease.length!= src.length){ throw wrongBuf(); }
+[PATCH] if(( toRelease!= src)||(toRelease.length!= src.length)) { throw new IllegalStateException(""); }
+[PATCH] if(( toRelease!= null)&&(_release.length!= src.length)) { throw wrongBuf(); }
+[PATCH] if(( toRelease!= null)&&(_releaseLength!= src.length)) { throw wrongBuf(); }
+[PATCH] if(( toRelease!= src)&&(toRelease.length!= src.length)) { throw illegalBuf(); }
+[PATCH] if(( toRelease == null)&&(src == null)) { throw wrongBuf(); }
+[PATCH] if(( toRelease!= src)&&(toRelease.length!= src.length)) { throw wrongBuffer(); }
+[PATCH] if(( toRelease!= null)&&(toRelease.length!= src.length)) { throw wrongSrc(); }
+[PATCH] if(toRelease!= src){ if(toRelease.length!= src.length){ throw new IllegalArgumentException(""); }
+[PATCH] if(( toRelease!= src)&&(toRelease.length!= src.length)) { throwwrongBuf(); }
+[PATCH] if(( src == null)||(toRelease.length!= src.length)) { throw new IllegalArgumentException(""); }
+[PATCH] if(( toRelease!= src)&&!toRelease.length == src.length){ throw new IllegalArgumentException(""); }
+[PATCH] if(( toRelease!= src)&&(toRelease.length < src.length)) { throw wrongBuf(); }
+[PATCH] if(_release == null ||!toRelease.length.equals(src.length)) { throw new IllegalArgumentException(""); }
+[PATCH] if(( toRelease == null)||(toRelease.length!= src.length)) { throw new IllegalArgumentException(""); }
+[PATCH] if(( toRelease!= src)&&(_releaseLength!= src.length)) { throw wrongBuf(); }
+[PATCH] if(( toRelease!= src)&&(toRelease.length!= src.length)) { throw WrongBuffer(); }
+[PATCH] if(toRelease!= src && src.length!= toRelease.length){ throw wrongBuf(); }
+[PATCH] if(( toRelease!= null)&&(toRelease.length!= src.length)) { throw wrongBounds(); }
+[PATCH] if(toRelease == src || toRelease.length!= src.length){ throw wrongBuf(); }
+[PATCH] if(( toRelease!= null)&&(toRelease.length!= src.length)) { throw illegalBuf(); }
+[PATCH] if(( toRelease!= null)&&(_src.length!= src.length)) { throw new IllegalArgumentException(""); }
+[PATCH] if(( toRelease!= null)&&(toRelease.length!= src.length)) { throw wrongBuffer(); }
+[PATCH] if(toRelease!= null || src == null || toRelease.length!= src.length){ throw wrongBuf(); }
+[PATCH] if(( toRelease!= null)&&(toRelease.length!= src.length)) { throwwrongBuf(); }
+[PATCH] if(( toRelease == null)&&(src == null)) { throw new IllegalArgumentException(""); }
+[PATCH] if(toRelease!= src || toRelease.length!= src.length){ throw new IllegalArgumentException(""); }
+[PATCH] if(( toRelease!= null)||(toRelease.length!= src.length)) { throw new IllegalArgumentException(""); }
+[PATCH] if(( toRelease!= src)&&(toRelease.length!= src.length)) { throw wrongPtr(); }
+[PATCH] if(( src!= null)&&(toRelease.length!= src.length)) { throw new IllegalArgumentException(""); }
+[PATCH] if(( src == null)&&(toRelease.length!= src.length)) { throw wrongBuf(); }
+[PATCH] if(( toRelease!= src)&&(_release.length!= src.length)) { throw wrongBuf(); }
+[PATCH] if(_release == null || toRelease.length!= src.length){ throw wrongBuf(); }
+[PATCH] if(toRelease == null || toRelease.length!= src.length){ throw wrongBuf(); }
+[PATCH] if(toRelease.length!= src.length){ throw wrongBuf(); }
+[PATCH] if(_release == null || toRelease.length!= src.length){ throw new IllegalArgumentException(""); }
+[PATCH] if(toRelease == null || src.length!= toRelease.length){ throw wrongBuf(); }
+[PATCH] if(toRelease == null || toRelease.length!= src.length){ throw new IllegalArgumentException(""); }
+[PATCH] if(toRelease == src || toRelease.length!= src.length){ throw new IllegalArgumentException(""); }
+[PATCH] if(toRelease!= src && src.length!= toRelease.length){ throw new IllegalArgumentException(""); }
+[PATCH] if(!toRelease.length.equals(src.length)) {
+[PATCH] if(( toRelease!= null)||(src == null)) { throw wrongBuf(); }
+[PATCH] if(toRelease!= src && toRelease.length!= src.length){ throw wrongBuf(); }
+[PATCH] if(( toRelease!= src)&&!toRelease.length).{ throw wrongBuf(); }
+[PATCH] if(( toRelease == null)&&(src!= null)) { throw wrongBuf(); }
+[PATCH] if(src == null || toRelease.length!= src.length){ throw wrongBuf(); }
+[PATCH] if(( toRelease!= null)&&(_src == null)) { throw wrongBuf(); }
+[PATCH] if(toRelease == null || src == null){
+[PATCH] if(toRelease!= src){
+[PATCH] if(( toRelease!= src)||(toRelease.length!= src.length)) {
+[PATCH] if(( toRelease!= null)&&(_sourceRef == null)) {
+[PATCH] if(toRelease.length!= src.length){ throw new IllegalArgumentException(""); }
+[PATCH] if(!toRelease.equals(src)) {
+[PATCH] if(( toRelease!= null)||(src == null)) {
+[PATCH] if(toRelease!= null && src!= null){
+[PATCH] if(toRelease == null || src!= null){
+[PATCH] if(toRelease!= src || src == null){
+[PATCH] if(_managedResource || _bufferRecycler == null){
+[PATCH] if(!_managedResource){
+[PATCH] if(_managedResource){
+[PATCH] if(toRelease == src){
+[PATCH] if(_bufferRecycler == null){
+[PATCH] if(toRelease!= null){
+[PATCH] if(( toRelease!= src){
+[PATCH] if(_locking){
+[PATCH] throw wrongBuf();
+[PATCH] if("");
+[PATCH] [Delete]
+[PATCH] if
+[PATCH] {

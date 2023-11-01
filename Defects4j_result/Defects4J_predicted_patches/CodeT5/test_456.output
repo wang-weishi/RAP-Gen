@@ -1,0 +1,100 @@
+[PATCH] if(o1 == o2){ return true; }
+[PATCH] o1 = getValue(o1); o2 = getValue(o2);
+[PATCH] if(o1 == null && o2 == null){ return false; }
+[PATCH] if(o1 == o2){ return false; }
+[PATCH] o2 = getValue(o2);
+[PATCH] if(o1 == null && o2!= null){ return false; }
+[PATCH] if(o1 == null && o2 == null){ return true; }
+[PATCH] checkState(o1!= null); checkState(o2!= null);
+[PATCH] checkNotNull(o1); checkNotNull(o2);
+[PATCH] o2 = getValue(o2); o1 = getValue(o1);
+[PATCH] if(o1 == null && o2!= null){ return true; }
+[PATCH] o1 = getValue(o1); o2 = value(o2);
+[PATCH] checkArgument(o1!= null); checkArgument(o2!= null);
+[PATCH] o1 = getValue(o1); o2 = getValue(o2);
+[PATCH] Validate.notNull(o1); Validate.notNull(o2);
+[PATCH] if(o1 == null && o2 == null); return false; }
+[PATCH] if(o2 == o1){ return true; }
+[PATCH] if(o1 instanceof Object && o2 == null){ return false; }
+[PATCH] o1 = convert(o1); o2 = convert(o2);
+[PATCH] o1 = cast(o1); o2 = cast(o2);
+[PATCH] i1 = getValue(o1); i2 = getValue(o2);
+[PATCH] Validator.notNull(o1); Validate.notNull(o2);
+[PATCH] if(o2 == null){ return o1 == null; }
+[PATCH] o1 = getValue(o1);
+[PATCH] o1 = typeOf(o1); o2 = typeOf(o2);
+[PATCH] ifo1 == o2 || o2 == null){ return false; }
+[PATCH] checkState(o1!= null); verifyState(o2!= null);
+[PATCH] O1 = getValue(o1); O2 = getValue(o2);
+[PATCH] if(o2 == null){ return false; }
+[PATCH] o2 = TypeUtils.convert(o2, type);
+[PATCH] if(o2 == null){ return true; }
+[PATCH] if(o1 instanceof Comparable && o2 == null){ return false; }
+[PATCH] if(o1 == null && o2 == null); return true; }
+[PATCH] o1 = value(o1); o2 = value(o2);
+[PATCH] O1 = getValue(o1); o2 = getValue(o2);
+[PATCH] (o1 == o2 || o2 == null);
+[PATCH] Preconditions.checkNotNull(o1); checkNotNull(o2);
+[PATCH] checkState(o1 == o2 || o2 == null);
+[PATCH] super.areEqual(o1, o2);
+[PATCH] return o1 == o2 || o2 == null;
+[PATCH] o1 = getValue(o1); o2 = setValue(o2);
+[PATCH] if(o1 instanceof Object && o2 == null){ return true; }
+[PATCH] switch(o2.getClass()){ case null : return false;
+[PATCH] o1 = getValue(o1); O2 = getValue(o2);
+[PATCH] checkArgument(o1!= null); verifyArgument(o2!= null);
+[PATCH] Object o1 = getValue(o1);
+[PATCH] o1 = getValue(o1); o2 =getValue(o2);
+[PATCH] o1 = unwrap(o1); o2 = wrap(o2);
+[PATCH] if(o1 == o2){ return true; }
+[PATCH] if(o1 == o2){ returntrue; }
+[PATCH] o1 = getValue(o1); o2 = values(o2);
+[PATCH] if(o1 == o2){ return!o2.equals(); }
+[PATCH] if(o1 instanceof Comparable && o2 == this){ return true; }
+[PATCH] o1 = getValue(o1); o2 =Value(o2);
+[PATCH] FunctorUtils.validate(o1, o2);
+[PATCH] if(o1 == null && o2!= null); return false; }
+[PATCH] checkNotNull(o1); checkNull(o2);
+[PATCH] if(o1 == null && o2 == null; return false; }
+[PATCH] checkState(o1!= null && o2!= null);
+[PATCH] o1 = getValue(o1); o2 = convert(o2);
+[PATCH] o1 = getValue(); o2 = getValue(o2);
+[PATCH] if(o1 == o2); return true; }
+[PATCH] Preconditions.checkState(o1!= null);
+[PATCH] o2 = convert(o2);
+[PATCH] Preconditions.checkNotNull(o1); verifyNull(o2);
+[PATCH] checkNotNull(o1); verifyNotNull(o2);
+[PATCH] o2 = Primitives.unwrap(o2);
+[PATCH] if(o1 == this){ return o2 == null; }
+[PATCH] Preconditions.checkNotNull(o1);
+[PATCH] else if(o1 == o2){ return true; }
+[PATCH] notNull(o1); notNull(o2);
+[PATCH] FunctorUtils.checkState(o1!= null);
+[PATCH] assert o1!= null && o2!= null;
+[PATCH] checkNotNull(o1); isValidNull(o2);
+[PATCH] checkArgument(o1 == o2 || o2 == null);
+[PATCH] o2 = Validate.notNull(o2);
+[PATCH] if(o1 == o2){ return 0; }
+[PATCH] (( Object)o2).setClass(o1 == null);
+[PATCH] o2 = TypeUtils.convert(o2, getType());
+[PATCH] if(o1 == o2); return false; }
+[PATCH] o2 = cast(o2);
+[PATCH] checkState(o1!= null);
+[PATCH] validator.validate(o1, o2);
+[PATCH] (o1 == null && o2!= null);
+[PATCH] Preconditions.checkArgument(o1!= null);
+[PATCH] checkEqual(o1, o2);
+[PATCH] o2 = convert(o2, false);
+[PATCH] sanityCheck(o1, o2);
+[PATCH] obj2 = getValue(o2);
+[PATCH] assertEquals(o1, o2);
+[PATCH] checkState(o1 == o2);
+[PATCH] o2 = NodeUtil.getValue(o2);
+[PATCH] Object o2 = getValue(o2);
+[PATCH] o2 = getValue(o2);
+[PATCH] setCopy(o1, o2);
+[PATCH] null = getValue(o1);
+[PATCH] keyCheck(o1, o2);
+[PATCH] o2 = convert(o2, true);
+[PATCH] validate(o1, o2);
+[PATCH] test(o1, o2);

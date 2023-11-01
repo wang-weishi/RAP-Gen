@@ -1,0 +1,100 @@
+[PATCH] } else if(name.equals("head")) {
+[PATCH] } else if(StringUtil.in(name,"head","script","noscript","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head","basefont","br","command","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head","footer","command","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head","body","script","noscript","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head","basefont","footer","command","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head","basefont","script","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head","basefont","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head","script","noscript","link","meta","title","href")) {
+[PATCH] } else if(StringUtil.in(name,"head","basefont","br","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head","title","script","noscript","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head","header","script","noscript","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head","basefont","body","command","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head","basefont","br","cmd","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head","basefont","header","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head","basefont","blank","command","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head","script","noscript","link","meta","title","weight","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head","center","script","noscript","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head","basefont","empty","command","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head","basefont","bgsound","command","link","meta","title","href")) {
+[PATCH] } else if(StringUtil.in(name,"head","body","html","noscript","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head","br","font","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head","basefont","br","title","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head","basefont","br","color","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head","script","noscript","link","meta","title","height")) {
+[PATCH] } else if(StringUtil.in(name,"head","basefont","br","script","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"html","head","script","noscript","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head","basefont","br","caption","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head","basefont","br","option","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head","script","basefont","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head")) {
+[PATCH] } else if(StringUtil.in(name,"head","body","html","basefont","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head","body","script","noscript","link","meta","title","href")) {
+[PATCH] } else if(StringUtil.in(name,"head","body","basefont","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head","basefont","header","script","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head","basefont","br","command","link","meta","title","style","object")) {
+[PATCH] } else if(StringUtil.in(name,"head","last","script","noscript","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head","footer","basefont","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head","basefont","br","action","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head","footer","basefont","header","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head","script","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head","basefont","br","command","link","meta","title","href")) {
+[PATCH] } else if(StringUtil.in(name,"head","script","noscript","command","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head","script","noscript","link","meta","title","style","object")) {
+[PATCH] } else if(StringUtil.in(name,"head","br","script","noscript","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head","basefont","br","col","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"base","basefont","script","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head","basefont","bgsound","command","link","meta","title","height")) {
+[PATCH] } else if(StringUtil.in(name,"head","footer","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"base","basefont","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head","script","noscript","link","meta","title","size","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"base","basefont","br","command","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head","body","script","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head","middle","command","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head","footer","cmd","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head","basefont","br","header","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head","basefont","comment","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head","script","noscript","link","meta","title","style","font")) {
+[PATCH] } else if(StringUtil.in(name,"head","footer","command","link","meta","title","href")) {
+[PATCH] } else if(StringUtil.in(name,"head"," footer","command","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head","basefont","title","command","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head","basefont","action","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head","basefont","script","link","meta","title","href")) {
+[PATCH] } else if(StringUtil.in(name,"head","basefont","br","command","link","meta","title","height")) {
+[PATCH] } else if(StringUtil.in(name,"head","basefont","link","meta","title","href")) {
+[PATCH] } else if(StringUtil.in(name,"head","script","noscript","link","meta","title","url")) {
+[PATCH] } else if(StringUtil.in(name,"head","title","font","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head","script","noscript","link","meta","title","width","height")) {
+[PATCH] } else if(StringUtil.in(name,"head","basefont","script","noscript","link","meta","title","href")) {
+[PATCH] } else if(StringUtil.in(name,"head","script","noscript","link","meta","title","lang","title")) {
+[PATCH] } else if(StringUtil.in(name,"head","script","noscript","link","meta","title","style","header")) {
+[PATCH] } else if(StringUtil.in(name,"head","title","footer","command","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head","basefont","link","meta","title","style","object")) {
+[PATCH] } else if(StringUtil.in(name,"head","script","font","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head","title","script","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head","noscript","link","meta","title","style","title")) {
+[PATCH] } else if(StringUtil.in(name,"head"), startTag.tagName().equals("base")) {
+[PATCH] } else if(StringUtil.in(name,"head","basefont","bgsound","command","link","meta","title","style")) {
+[PATCH] } else if(StringUtil.in(name,"head","body","title","style","object")) {
+[PATCH] } else if(name.equals("html")) {
+[PATCH] } else if(name.equals("title")) {
+[PATCH] } else if(name.equals("in")) {
+[PATCH] } else if(StringUtil.equals(name,"head")) {
+[PATCH] } else if(name.equals("header")) {
+[PATCH] } else if(name.equals("base")) {
+[PATCH] } else if(name.equals(" head")) {
+[PATCH] } else if(name.equals("link")) {
+[PATCH] } else if(StringUtil.in(name,"head"):
+[PATCH] } else if(name.equals("meta")) {
+[PATCH] } else if(name.equals("script")) {
+[PATCH] } else if(name.equals("Head")) {
+[PATCH] } else if(name.equals("anchor")) {
+[PATCH] } else if(name.equals("thead")) {
+[PATCH] } else if(names.equals(name)) {
+[PATCH] return false;
+[PATCH] return true;
+[PATCH] } break;
+[PATCH] }){
+[PATCH] } else
+[PATCH] {

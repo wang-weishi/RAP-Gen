@@ -1,0 +1,100 @@
+[PATCH] for(Node value : callNode.children()){ if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node value : callNode.getValues()){ if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node value : node.children()){ if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node value : callNode.getNext()){ if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node callNode : getCallNodes()){ if(!canMoveModerately(callNode, reference)) { return false; }
+[PATCH] for(Node value : callNode.getValues()){ if(!canMoveAggressively(value)) { return false; }
+[PATCH] for(Node value : callNode.children()){ if(!canMoveAggressively(value)) { return false; }
+[PATCH] for(Node callNode : methodNode.getArguments()){ if(!canMoveModerately(callNode, reference)) { return false; }
+[PATCH] for(Node value : getCallValues()){ if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node value : callNode.children()){ if(!canMoveModerately(value, relationship)) { return false; }
+[PATCH] for(Node value : callNode.getNulls()){ if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node callNode : getCalls()){ if(!canMoveModerately(callNode, reference)) { return false; }
+[PATCH] for(Node value : callNode.children()){ if(canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node value : methodNode.children()){ if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node callNode : getCallCandidates()){ if(!canMoveModerately(callNode, reference)) { return false; }
+[PATCH] for(Node value : callNode.getArrays()){ if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node value : callNode.getExpressions()){ if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node value : callNode.getValues()){ if(!canMoveModerately(value, relationship)) { return false; }
+[PATCH] for(Node value : callNode.cloneTree()){ if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node value : getArg1().children()){ if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node value : callNode.getValues()){ if(canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node callNode : getCallableNodes()){ if(!canMoveModerately(callNode, reference)) { return false; }
+[PATCH] for(Node value : methodNode.getValues()){ if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node node : callNode.getArguments()){ if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node value : callNode.getActualValues()){ if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node value : callNode.getNext().children()){ if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node value : getCallCandidates()){ if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node node : callNode.children()){ if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node value : callNode.getArgs()){ if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node value : callNode.getActualValue()){ if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node value : callNode.childNodes()){ if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node value : node.getValues()){ if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node value : callNode.getAncestors()){ if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node value : callNode.getObjects()){ if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node callNode : parent.children()){ if(!canMoveModerately(callNode, reference)) { return false; }
+[PATCH] for(Node value : getCallValue().children()){ if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node value : getArg3().children()){ if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node value : callNode.getValue().children()){ if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node value : getArg1().getNext()){ if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node value : reference.getValues()){ if(!canMoveModerately(value, relationship)) { return false; }
+[PATCH] for(Node value : getArgValues()){ if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] return canMoveModerately(initialization, reference);
+[PATCH] for(Node value : callNode.values()){ if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node value : callNode.getFirstChild().children()){ if(canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node value : callNode.getChildren()){ if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node value : callNode.getValue()){ if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node value : getCallArguments()){ if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node value : callNode.getAlternatives()){ if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node value : initialization.getValues()){ if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node value : getCallableNodes()){ if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node callNode : methodNode.getArguments()){ if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node value : nodeSet()){ if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node value : getSet()){ if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node value : invocation.getArguments()){ if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node value : getArg2().children()){ if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node value : callNode.getNext()){ if(!canMoveAggressively(value)) { return false; }
+[PATCH] for(Node node : callNode.getAncestors()){ if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node value : getCallValues()){ if(!canMoveAggressively(value)) { return false; }
+[PATCH] for(Node value : arguments){ if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node value : callNode.getFirstChild().children()){ if(!canMoveAggressively(value)) { return false; }
+[PATCH] for(Node value : getCalls()){ if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node value : node.values()){ if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node callNode : calls){ if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node value : getArgNodes()){ if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node value : args){ if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node value : node.children()){ if(!canMoveAggressively(value)) { return false; }
+[PATCH] for(Node value : computeValue(value)) { if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node value : callNode.getNext()){ if(!canMoveModerately(value, relationship)) { return false; }
+[PATCH] for(Node value : getCallNodes()){ if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node value : callNode.getNext()){ if(canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node value : node.children()){ if(!canMoveModerately(value, relationship)) { return false; }
+[PATCH] for(Node value : node.children()){ if(canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node callNode : arguments){ if(!canMoveModerately(callNode, reference)) { return false; }
+[PATCH] for(Node value : node.array()){ if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node value : callNode.children()){ if(!canMoveAggressively(value, reference)) { return false; }
+[PATCH] for(Node value : reference.getValues()){ if(!canMoveAggressively(value)) { return false; }
+[PATCH] for(Node value : argumentNodes){ if(!canMoveModerately(value, reference)) { return false; }
+[PATCH] for(Node value : callNode.children()){ if(!canMoveModerately(value, reference)) { return true; }
+[PATCH] return!canMoveModerately(initialization, reference);
+[PATCH] for(Node value : getCallCandidates()){ if(!canMoveAggressively(value)) { return false; }
+[PATCH] for(Node value : callNode.getValues()){ if(!canMoveModerately(value, reference)) { return true; }
+[PATCH] for(Node value : arguments){ if(!canMoveAggressively(value)) { return false; }
+[PATCH] for(Node value : args){ if(!canMoveAggressively(value)) { return false; }
+[PATCH] for(Node value : callNode.getValues()){ if(canMoveModerately(value, reference)) { return true; }
+[PATCH] for(Node value : callNode.getNext()){ if(!canMoveModerately(value, reference)) { return true; }
+[PATCH] for(Node value : callNode.getFirstChild().children()){ if(canMoveModerately(value, reference)) { return true; }
+[PATCH] return canMoveModerately(value, reference);
+[PATCH] for(Node callNode : methodNode.getArguments()){ if(!canMoveModerately(callNode, reference)) { return true; }
+[PATCH] for(Node callNode : getCallNodes()){ if(!canMoveModerately(callNode, reference)) { return true; }
+[PATCH] for(Node value : callNode.getNulls()){ if(!canMoveModerately(value, reference)) { return true; }
+[PATCH] for(Node value : callNode.getNext().children()){ if(!canMoveModerately(value, reference)) { return true; }
+[PATCH] for(Node value : callNode.getActualValues()){ if(!canMoveModerately(value, reference)) { return true; }
+[PATCH] for(Node value : callNode.getActualValue()){ if(!canMoveModerately(value, reference)) { return true; }
+[PATCH] return canMoveModerately(callNode, reference);
+[PATCH] return!canMoveModerately(value, reference);
+[PATCH] return canMoveModerately(initialization, reference); }
+[PATCH] return canMoveModerately(node, reference);
+[PATCH] return canMoveModerately(initialization, relationship);
+);
+;

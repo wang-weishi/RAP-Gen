@@ -1,0 +1,100 @@
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(typeParameter.getBounds()!= null){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(Type typeParameter : parameterizedType.getActualTypeArguments()){ if(typeParameter.getBounds()!= null){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(!typeParameter.isActual()){ throw new IllegalArgumentException(""); }
+[PATCH] if(typeVariable.getBounds()!= null){ for(Type typeParameter : typeVariable.getBounds()){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(!typeParameter.isNullable()){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(Type typeParameter : parameterizedType.getActualTypeArguments()){ if(typeParameter.getGenericParameterType(0)== null){ throw new IllegalArgumentException(""); }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(!typeParameter.isActual()){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(!typeParameter.isActual()){ continue; }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(!typeParameter.isAssignableFrom(typeVariable)) { continue; }
+[PATCH] for(Type typeParameter : parameterizedType.getActualTypeArguments()){ if(typeParameter.getDescriptor().equals("*")) { registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(!typeParameter.isBounds()){ registerTypeVariablesOn(typeParameter); }
+[PATCH] if(!typeVariable.isConstant()){ for(Type typeParameter : parameterizedType.getActualTypeArguments()){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(Type typeParameter : parameterizedType.getActualTypeArguments()){ if(!typeParameter.isNullable()){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(!typeParameter.isConstant()){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(typeParameter.getGenericParameterType(0)== null){ throw new IllegalArgumentException(""); }
+[PATCH] if(typeVariable.getActualTypeArguments()!= null){ for(Type typeParameter : typeVariable.getActualTypeArguments()){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(typeParameter.getArgumentCount() == 1){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(typeParameter.getName().equals("*")) { registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getActualTypeArguments()){ if(typeParameter.getBounds()!= null){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(Type typeParameter : parameterizedType.getActualTypeArguments()){ if(!typeParameters.isEmpty()){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(!typeParameter.isNotNull()){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(!typeParameter.isActual()){ throw new IllegalStateException(""); }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(typeParameter.getSimpleName()!= null){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(Type typeParameter : parameterizedType.getActualTypeArguments()){ if(!typeParameter.isGeneric()){ throw new IllegalArgumentException(""); }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(!typeParameter.isEmpty()){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(Type typeParameter : parameterizedType.getActualTypeArguments()){ if(typeParameter == null){ throw new IllegalArgumentException(""); }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(!typeParameter.isImplicitPrototype()){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(!typeParameter.isGeneric()){ throw new IllegalArgumentException(""); }
+[PATCH] for(Type typeParameter : parameterizedType.getActualTypeArguments()){ if(!typeParameter.isAssignableFrom(typeVariable)) { continue; }
+[PATCH] if(typeVariable.getArgumentTypes()!= null){ for(TypeVariable typeParameter : typeVariable.getArgumentTypes()){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(Type typeParameter : parameterizedType.getActualTypeArguments()){ if(typeParameter instanceof TypeVariable<?>){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(!typeParameter.isBounds()){ throw new IllegalArgumentException(""); }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(typeParameter.getURI()!= null){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(Type typeParameter : parameterizedType.getActualTypeArguments()){ if(typeParameter.getGenericParameterType(0)== null){ continue; }
+[PATCH] for(Type typeParameter : parameterizedType.getTypeParameters()){ if(typeParameter.getBounds()!= null){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(!typeParameter.isAssignableFrom(typeVariable)) { throw new IllegalArgumentException(""); }
+[PATCH] for(Type typeParameter : parameterizedType.getActualTypeArguments()){ if(typeParameter.getArgumentCount() == 1){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(typeParameter.getMinimumSize()!= 1){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(!typeParameter.isGenericType()){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(Type typeParameter : parameterizedType.getActualTypeArguments()){ if(typeParameter.getSize() == 1){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(!typeParameter.isNull()){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(typeParameter.getRawClass()!= null){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(Type typeParameter : parameterizedType.getActualTypeArguments()){ if(!typeParameter.isEmpty()){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(!typeParameter.isGeneric()){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(!typeParameter.isGenericType()){ continue; }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(!typeParameter.isGenericType()){ throw new IllegalArgumentException(""); }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(!typeParameter.isBounds()){ continue; }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(!typeParameter.isNone()){ registerTypeVariablesOn(typeParameter); }
+[PATCH] if(typeVariable.getActualTypeArguments()!= null){ for(Type typeParameter : typeParameters){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(!typeParameter.isContainerType()){ continue; }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(typeParameter.getSize() == 1){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(typeParameter.getStartType()!= null){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(Type typeParameter : parameterizedType.getParameters()){ if(typeParameter.getBounds()!= null){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(typeParameter == null){ throw new IllegalArgumentException(""); }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(typeParameter.getUpperBound() == null){ throw new IllegalArgumentException(""); }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(!typeParameter.isResolved()){ throw new IllegalArgumentException(""); }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(typeParameter.getIndex() == 1){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(Type typeParameter : parameterizedType.getTypeParameters()){ if(!typeParameter.isActual()){ throw new IllegalArgumentException(""); }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(!typeParameter.isConstant()){ continue; }
+[PATCH] for(Type typeParameter : parameterizedType.getActualTypeArguments()){ if(!typeParameter.isGeneric()){ continue; }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(!typeParameter.isConstant()){ throw new IllegalArgumentException(""); }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(!typeParameter.isGeneric()){ continue; }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(typeParameter.getDeclaration()!= null){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(!typeParameter.isRawType()){ continue; }
+[PATCH] for(Type typeParameter : parameterizedType.getTypes()){ if(typeParameter.getBounds()!= null){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(typeParameter.getSimpleName().equals("*")) { continue; }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(typeParameter.getOptionalArg()!= null){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(Type typeParameter : parameterizedType.getActualTypeArguments()){ if(typeParameter.getGenericParameterType(0)== null){ throw new IllegalStateException(""); }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(typeParameter.getGenericParameterType(0)== null){ continue; }
+[PATCH] for(Type typeParameter : parameterizedType.getActualTypeArguments()){ if(typeParameter.getUpperBound() == null){ throw new IllegalArgumentException(""); }
+[PATCH] for(Type typeParameter : parameterizedType.getActualTypeArguments()){ if(typeParameter.getDescriptor().equals("*")) { continue; }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(!typeParameter.isContainerType()){ throw new IllegalArgumentException(""); }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getActualTypeArguments()){ if(typeParameter.getGenericParameterType(0)== null){ throw new IllegalArgumentException(""); }
+[PATCH] for(Type typeParameter : parameterizedType.getActualTypeArguments()){ if(!typeParameter.isAssignableFrom(typeVariable)) { throw new IllegalArgumentException(""); }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(typeParameter.getDescriptor().equals("*")) { continue; }
+[PATCH] for(Type typeParameter : parameterizedType.getActualTypeArguments()){ if(typeParameter.getGenericParameterType(0)== null){ registerTypeVariablesOn(null); }
+[PATCH] for(Type typeParameter : parameterizedType.getTypeParameters()){ if(!typeParameter.isAssignableFrom(typeVariable)) { continue; }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(typeParameter.getIndex() == 0){ throw new IllegalArgumentException(""); }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(typeParameter.getLocalPart()!= null){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(Type typeParameter : parameterizedType.getActualTypeArguments()){ if(!typeParameters.containsKey(typeVariable)) { continue; }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(!typeParameter.isActual()){ break; }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(typeParameter.getUpperBound()!= null){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(!typeParameter.isAssignableFrom(typeVariable.getBounds())) { continue; }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(!typeParameter.isActual()){ throw new RuntimeException(""); }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(!typeParameter.isResolved()){ continue; }
+[PATCH] for(Type typeParameter : parameterizedType.getParameters()){ if(!typeParameter.isActual()){ throw new IllegalArgumentException(""); }
+[PATCH] for(Type typeParameter : parameterizedType.getActualTypeArguments()){ if(!typeParameter.isContainerType()){ continue; }
+[PATCH] for(Type typeParameter : parameterizedType.getActualTypeArguments()){ if(typeParameters.length == 1){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(typeParameter.getIndex() == 0){ registerTypeVariablesOn(null); }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(typeParameter.getIndex() == -1){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(!typeParameter.isBound()){ continue; }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(typeParameter.getGenericParameterType(0)== null){ throw new IllegalStateException(""); }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(!typeParameter.isSimpleType()){ continue; }
+[PATCH] for(Type typeParameter : parameterizedType.getActualTypeArguments()){ if(typeParameter.getGenericParameterType(0)== null){ break; }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(typeParameter.getLowerBound()!= null){ registerTypeVariablesOn(typeParameter); }
+[PATCH] for(Type typeParameter : parameterizedType.getActualTypeArguments()){ if(!typeParameter.isRawType()){ continue; }
+[PATCH] for(Type typeParameter : parameterizedType.getActualTypeArguments()){ if(typeParameter.getGenericParameterType(0)== null){ return; }
+[PATCH] for(TypeVariable typeParameter : parameterizedType.getTypeParameters()){ if(!typeParameter.isResolved()){ throw new IllegalStateException(""); }
+[PATCH] for(Type typeParameter : parameterizedType.getTypeParameters()){ if(!typeParameter.isActual()){ continue; }
+[PATCH] for(Type typeParameter : parameterizedType.getActualTypeArguments()){ if(!typeParameter.isGenericType()){ continue; }

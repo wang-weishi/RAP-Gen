@@ -1,0 +1,100 @@
+[PATCH] if(!Character.isDigit(str)) { return null; }
+[PATCH] if(!str.startsWith("")) { return null; }
+[PATCH] if(str.startsWith("-")) { return null; }
+[PATCH] if(str.length() < 3){ return null; }
+[PATCH] if(str.length() == 0){ return null; }
+[PATCH] if(!Integer.isDigit(str)) { return null; }
+[PATCH] if(!StringUtils.isNumeric(str)) { return null; }
+[PATCH] if(!Character.isJavaIdentifierPart(str)) { return null; }
+[PATCH] if(str.startsWith("")) { return null; }
+[PATCH] if(!Validate.isNumeric(str)) { return null; }
+[PATCH] if(!str.startsWith("0")) { return null; }
+[PATCH] if(!str.startsWith("-")) { return null; }
+[PATCH] if(!str.length()){ return null; }
+[PATCH] if(!NumberUtils.isNumeric(str)) { return null; }
+[PATCH] if(!str.startsWith("#")) { return null; }
+[PATCH] if(!Validate.isTrue(str.startsWith("-")) { return null; }
+[PATCH] if(str.startsWith("-")) { return null; }
+[PATCH] if(str.length() < 4){ return null; }
+[PATCH] if(str.length() < 2){ return null; }
+[PATCH] if(!Character.isDigit(str)|| isInteger(str)) { return null; }
+[PATCH] if(!Character.isLetterOrDigit(str)) { return null; }
+[PATCH] if(!isNumeric(str)) { return null; }
+[PATCH] if(!str.startsWith("-")) { return null; }
+[PATCH] if(str.startsWith(".")) { return null; }
+[PATCH] if(!Validate.isTrue(str.startsWith("0")) { return null; }
+[PATCH] if(str.startsWith("0")) { return null; }
+[PATCH] if(str.length() < 10){ return null; }
+[PATCH] if(!Character.isNumeric(str)) { return null; }
+[PATCH] if(!str.startsWith("$")) { return null; }
+[PATCH] if(!str.startsWith(".")) { return null; }
+[PATCH] if(!Validate.isTrue(str.startsWith("-")) { return null; }
+[PATCH] if(!Validate.isTrue(str.startsWith("")) { return null; }
+[PATCH] if(str.trim().length() == 0){ return null; }
+[PATCH] if(str.length() < 1){ return null; }
+[PATCH] if(str.length() < 1 || str.startsWith("")) { return null; }
+[PATCH] if(!Strings.isNumeric(str)) { return null; }
+[PATCH] if(!str.endsWith("")) { return null; }
+[PATCH] if(!Float.isNaN(str)) { return null; }
+[PATCH] if(!Util.isNumeric(str)) { return null; }
+[PATCH] if(!NumericUtils.isNumeric(str)) { return null; }
+[PATCH] if(str.equals("")) { return null; }
+[PATCH] if(!TextUtils.isNumeric(str)) { return null; }
+[PATCH] if(!str.startsWith("+")) { return null; }
+[PATCH] if(!Character.isUpperCase(str)) { return null; }
+[PATCH] if(!StringUtils.isDigit(str)) { return null; }
+[PATCH] if(!str.startsWith("x")) { return null; }
+[PATCH] if(!Character.isISOControl(str)) { return null; }
+[PATCH] if(str.trim().length() < 3){ return null; }
+[PATCH] if(!str.startsWith("e")) { return null; }
+[PATCH] if(!Character.is [Delete] (str)) { return null; }
+[PATCH] if(str.indexOf('.')< 0){ return null; }
+[PATCH] if(!str.startsWith("+")) { return null; }
+[PATCH] if(!NumUtils.isNumeric(str)) { return null; }
+[PATCH] if(str == null || str.length() == 0){ return null; }
+[PATCH] if("-".equals(str)) { return null; }
+[PATCH] if(str.startsWith("--")) { return null; }
+[PATCH] if(str.startsWith("#")) { return null; }
+[PATCH] if(!Validator.isNumeric(str)) { return null; }
+[PATCH] if(str.startsWith("$")) { return null; }
+[PATCH] if(!Integer.isNumeric(str)) { return null; }
+[PATCH] if(!Double.isNaN(str)) { return null; }
+[PATCH] if(!ParseUtils.isNumeric(str)) { return null; }
+[PATCH] if(!str.endsWith(".")) { return null; }
+[PATCH] if(!Float.isDigit(str)) { return null; }
+[PATCH] if(!Character.isDefined(str)) { return null; }
+[PATCH] if(!Integer.isNaN(str)) { return null; }
+[PATCH] if(!Any.isDigit(str)) { return null; }
+[PATCH] if(str.trim() == 0){ return null; }
+[PATCH] if(!Double.isDigit(str)) { return null; }
+[PATCH] if(!str.startsWith("-"){ return null; }
+[PATCH] if(!Integer.isHexString(str)) { return null; }
+[PATCH] if(str.startsWith("e")) { return null; }
+[PATCH] if(str.length() < 5){ return null; }
+[PATCH] if(!Character.isdigit(str)) { return null; }
+[PATCH] if(!Character.isDigit(str)) { return null; }
+[PATCH] if(!str.contains(".")) { return null; }
+[PATCH] if(str.length() < 9){ return null; }
+[PATCH] if(!parseInt(str)) { return null; }
+[PATCH] if(str.startsWith("+")) { return null; }
+[PATCH] if(!_isNumeric(str)) { return null; }
+[PATCH] if(!num.length()){ return null; }
+[PATCH] if(!str.isNumeric()){ return null; }
+[PATCH] if(!parseDigit(str)) { return null; }
+[PATCH] if(str.length() < 8){ return null; }
+[PATCH] if(str.length() < 7){ return null; }
+[PATCH] if(str == null){ return null; }
+[PATCH] return null;
+[PATCH] if(!allZeros){ return null; }
+[PATCH] return new Long(str);
+[PATCH] return new BigDecimal(str);
+[PATCH] return createInteger(str);
+[PATCH] return new Double(str);
+[PATCH] return new Number(str);
+[PATCH] return 0;
+[PATCH] if();
+[PATCH] //
+[PATCH] return
+[PATCH]
+
+);

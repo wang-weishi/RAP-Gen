@@ -1,0 +1,100 @@
+[PATCH] if(inferred){ inferred =!(rhsValue!= null && rhsValue.isFunction() ||
+[PATCH] if(inferred){ inferred =!(rhsValue!= null && rhsValue.isFunction())||
+[PATCH] if(inferred){ inferred =!(rhsValue!= null || rhsValue.isFunction() ||
+[PATCH] if(inferred){ inferred =!(rhsValue!= null && rhsValue.isFunction())&&
+[PATCH] inferred =!(rhsValue!= null && rhsValue.isFunction() ||
+[PATCH] if(inferred){ inferred =!(rhsValue!= null && rhsValue.isString() ||
+[PATCH] if(inferred && rhsValue!= null &&!rhsValue.isFunction()){
+[PATCH] if(inference){ inferred =!(rhsValue!= null && rhsValue.isFunction() ||
+[PATCH] if(inferred){ inferred =!(rhsValue!= null && rhsValue.isFunctionType() ||
+[PATCH] if(inferred){ inferred =!(rhsValue!= null && rhsValue.isOptionalArg() ||
+[PATCH] if(inferred){ inferred =!(rhsValue!= null || rhsValue.isFunction() &&
+[PATCH] if(inferred){ inferred =!(rhsValue!= null && rhsValue.isBoolean() ||
+[PATCH] if(!inferred){ inferred =!(rhsValue!= null && rhsValue.isFunction() ||
+[PATCH] if(inferred &&(rhsValue!= null || rhsValue.isFunction())&&
+[PATCH] if(scope.isGlobal()){ inferred =!(rhsValue!= null && rhsValue.isFunction() ||
+[PATCH] if(inferred){ inferred =!(rhsType!= null && rhsValue.isFunction() ||
+[PATCH] if(inferred && isCallable()){ inferred =!(rhsValue!= null && rhsValue.isFunction() ||
+[PATCH] if(inferred){ inferred =!(rhsValue == null || rhsValue.isFunction() ||
+[PATCH] if(inferred){ inferred =!(rhsValue!= null && rhsValue.isFunction() ||
+[PATCH] if(inferred ||(rhsValue!= null && rhsValue.isFunction())||
+[PATCH] if(inferred){ inferred =!(rhsValue!= null && rhsValue.isQualifiedName())||
+[PATCH] if(inferred &&!(rhsValue!= null && rhsValue.isFunction() ||
+[PATCH] if(inferred){ this.inferred =!(rhsValue!= null && rhsValue.isFunction() ||
+[PATCH] if(typeRegistry.isType()){ inferred =!(rhsValue!= null && rhsValue.isFunction() ||
+[PATCH] if(info!= null){ inferred =!(rhsValue!= null && rhsValue.isFunction() ||
+[PATCH] if(inferred && isQualifiedName()){ inferred =!(rhsValue!= null && rhsValue.isFunction() ||
+[PATCH] if(inferred && rhsValue!= null && rhsValue.isFunction()){
+[PATCH] if(inferred){ inferred =!(rhsValue!= null && rhsValue.isType() ||
+[PATCH] if(inverted){ inferred =!(rhsValue!= null && rhsValue.isFunction() ||
+[PATCH] if(inferred){ inferred =!(rhsValue!= null && rhsValue.isFunctionPrototypeType() ||
+[PATCH] if(invisible){ inferred =!(rhsValue!= null && rhsValue.isFunction() ||
+[PATCH] if(inferred){ inferred =!(rhsValue!= null && rhsValue.is Function() ||
+[PATCH] if(inferred){ inferred =!(rhsValue!= null && rhsValue.isFunctionType())||
+[PATCH] if(inclusion){ inferred =!(rhsValue!= null && rhsValue.isFunction() ||
+[PATCH] if(inferred == true){ inferred =!(rhsValue!= null && rhsValue.isFunction() ||
+[PATCH] if(this.inferred){ inferred =!(rhsValue!= null && rhsValue.isFunction() ||
+[PATCH] if(inferred){ inferred =!(rhsValue!= null && rhsValue.isBooleanType() ||
+[PATCH] if(inferred){ inferred =!(rhsValue!= null && rhsValue.getFunction() ||
+[PATCH] if(inferred){ inferred =!(rhsValue!= null && rhsValue.isScalarType() ||
+[PATCH] if(inferred){ inferred =!(rhsValue == null || rhsValue.isFunction() &&
+[PATCH] if(inferred &&(rhsValue!= null ||!rhsValue.isFunction())&&
+[PATCH] if(inferred){ inferred =!(rhsValue!= null && rhsValue.isFUNCTION() ||
+[PATCH] if(inferred){ inferred =!(rhsValue!= null || rhsValue.isFunction())&&
+[PATCH] if(inferred &&!(rhsValue!= null && rhsValue.isFunction())&&
+[PATCH] if(inferred){ if(rhsValue!= null && rhsValue.isFunction()){ inferred = false; }
+[PATCH] if(in inferred){ inferred =!(rhsValue!= null && rhsValue.isFunction() ||
+[PATCH] if(redeclare){ inferred =!(rhsValue!= null && rhsValue.isFunction() ||
+[PATCH] if(inferred){ inferred =!(rhsValue!= null && rhsValue.isObject() ||
+[PATCH] if(inferred){ inferred =!(rhsValue!= null && rhsValue.isClass() ||
+[PATCH] if(inferred == false){ inferred =!(rhsValue!= null && rhsValue.isFunction() ||
+[PATCH] if(inferred && rhsValue!= null &&!rhsValue.isFunction()){
+[PATCH] if(inferred){ inferred =!(rhsValue!= null && rhsValue.isBoolean())||
+[PATCH] if(scope!= null){ inferred =!(rhsValue!= null && rhsValue.isFunction() ||
+[PATCH] if(inferred){ inode =!(rhsValue!= null && rhsValue.isFunction() ||
+[PATCH] if(inferred)&&!(rhsValue!= null && rhsValue.isFunction() ||
+[PATCH] if(inferred){ inferred =!(rhsValue!= null && rhsValue.isJSType() ||
+[PATCH] if(inferred && rhsValue!= null &&!rhsValue.isFunction() &&
+[PATCH] if(inferred){ if(rhsValue!= null ||!rhsValue.isFunction()){ inferred = false; }
+[PATCH] if(inferred){ inferred =!(rhsValue!= null && rhsValue.isVoid() ||
+[PATCH] if(inferred){ inferred =!(rhsValue!= null && rhsValue.isFunctionDeclaration() ||
+[PATCH] if(independent){ inferred =!(rhsValue!= null && rhsValue.isFunction() ||
+[PATCH] if(inferred){ inferred =!(rhsValue!= null && rhsValue.isVarArgs() ||
+[PATCH] if(inferred){ inferred =!(rhsvalue!= null && rhsValue.isFunction() ||
+[PATCH] if(inferred){ inferred =!(rhsValue!= null && rhsValue.isFunction()); }
+[PATCH] if(inlined){ inferred =!(rhsValue!= null && rhsValue.isFunction() ||
+[PATCH] if(inferred && rhsValue!= null &&!rhsValue.isString()){
+[PATCH] if(inspected){ inferred =!(rhsValue!= null && rhsValue.isFunction() ||
+[PATCH] if(inferred && rhsValue!= null &&!rhsValue.isQualifiedName()){
+[PATCH] if(inferred){ inferred =!(rhsValue!= null && rhsValue.isFunction() ||
+[PATCH] if(inferred){ if(rhsValue!= null &&!rhsValue.isFunction()){ inferred = false; }
+[PATCH] if(inferred && rhsValue!= null && rhsValue.isFunction() ||
+[PATCH] if(inferred && rhsValue!= null &&!rhsValue.isFunction() ||
+[PATCH] if(inferred){ inferred =!(valueType!= null &&!valueType.isUnknownType())||
+[PATCH] if(inferred && rhsValue!= null &&!rhsValue.isFunctionType()){
+[PATCH] if(inferred && rhsValue!= null &&!rhsValue.isBoolean()){
+[PATCH] if(inferred){ inferred =!(rhsValue!= null || rhsValue.isOptionalArg() ||
+[PATCH] if(inferred &&!(rhsValue!= null && rhsValue.isFunction())||
+[PATCH] if(inferred && rhsValue!= null ||!rhsValue.isFunction()){
+[PATCH] if(inferred){ inferred =!(rhsValue!= null && rhsValue.isUntitled() ||
+[PATCH] if(inferred && rvalue!= null &&!rvalue.isFunction()){
+[PATCH] if(inferred &&"prototype".equals(rhsValue.getQualifiedName())) {
+[PATCH] if(inferred){ inferred =!(rhsValue!= null && rhsValue.isUntitled())||
+[PATCH] if(inferred){ inferred =!(rhsValue!= null && rhsValue.isFunction() || isExtern()); }
+[PATCH] if(inferred){ inferred =!(rhsValue!= null && rhsValue.isFunctionType())&&
+[PATCH] if(inferred){ inferred =!(rhsValue!= null && rhsValue.isFunction() || isExterns()); }
+[PATCH] if(inferred && NodeUtil.isFunctionAnonymous(rhsValue)) {
+[PATCH] if(scope!= null && scope.isDeclared(qName, false)) {
+[PATCH] if(inferred &&"prototype".equals(qName)) {
+[PATCH] if(scope.isDeclared(qName, false)) {
+[PATCH] if(inferred &&"prototype".equals(rhsName)) {
+[PATCH] if(inferred){
+[PATCH] if(inferred && getFunctionType()!= null){
+[PATCH] if(inferred && isCallable()){
+[PATCH] if(inferred){ return; }
+[PATCH] if(inferred){ break; }
+[PATCH] if(inferred){ }
+[PATCH] if(in inferred){
+[PATCH] ;
+);
+;

@@ -1,0 +1,100 @@
+[PATCH] if(name.aliasingGets > 0){
+[PATCH] if(name.isAlias() && name.aliasingGets > 0){
+[PATCH] if(name.isAliasing()){
+[PATCH] if(name.isAlias()){
+[PATCH] if(name.aliasingGets > 0 && name.globalSets == 1){
+[PATCH] if(name.isClass() && name.aliasingGets > 0){
+[PATCH] if(name.isAliasing() && name.aliasingGets > 0){
+[PATCH] if(name.localSets == 1 && name.aliasingGets > 0){
+[PATCH] if(name.aliasingGets > 0 && name.globalSets < 1){
+[PATCH] if(name.isLocal() && name.aliasingGets > 0){
+[PATCH] if(name.isAliasable() && name.aliasingGets > 0){
+[PATCH] if(isAliasingOnExternTypes && name.aliasingGets > 0){
+[PATCH] if(name.isAlias() && name.scope.isLocal()){
+[PATCH] if(name.isClass()){
+[PATCH] if(name.aliasingGets > 0 || name.globalSets == 1){
+[PATCH] if(name.aliasingGets > 0 && name.localSets == 1){
+[PATCH] if(name.isInternal() && name.aliasingGets > 0){
+[PATCH] if(name.scope.isGlobal()){
+[PATCH] if(name.isType() && name.aliasingGets > 0){
+[PATCH] if(name.isSimpleAlias() && name.aliasingGets > 0){
+[PATCH] if(name.isDeprecated() || name.aliasingGets > 0){
+[PATCH] if(name.localSets == 1 || name.aliasingGets > 0){
+[PATCH] if(name.mode == InliningMode.CONSTANTS_ONLY){
+[PATCH] if(aliasingGets > 0 && name.globalSets == 1){
+[PATCH] if(name.globalSets == 1 && name.aliasingGets > 0){
+[PATCH] if(name.isProperty() && name.aliasingGets > 0){
+[PATCH] if(name.globalSets == 1 || name.aliasingGets > 0){
+[PATCH] if(name.isInExtern() && name.aliasingGets > 0){
+[PATCH] if(name.type == Type.ALIASING_GET){
+[PATCH] if(name.localSets > 0 && name.aliasingGets > 0){
+[PATCH] if(name.aliasingGets > 0 && name.localSets < 1){
+[PATCH] if(name.aliasingGets > 0 || name.globalSets < 1){
+[PATCH] if(name.hasAlias() && name.aliasingGets > 0){
+[PATCH] if(name.isAliasable()){
+[PATCH] if(name.isInstance() && name.aliasingGets > 0){
+[PATCH] if(name.isSimple() && name.aliasingGets > 0){
+[PATCH] if(name.localSets > 0 || name.aliasingGets > 0){
+[PATCH] if(name.hasAliasingGets()){
+[PATCH] if(name.isNamespace() && name.aliasingGets > 0){
+[PATCH] if(name.mode == Mode.CONSTANTS_ONLY){
+[PATCH] if(name.type == Name.Type.ALIASING_GET){
+[PATCH] if(name.isExtern() && name.aliasingGets > 0){
+[PATCH] if(name.isConst() && name.aliasingGets > 0){
+[PATCH] if(name.isAlias() || name.aliasingGets > 0){
+[PATCH] if(aliasingGets > 0){
+[PATCH] if(name.isAlias() && name.scope.isGlobal()){
+[PATCH] if(name.hasReferences()){
+[PATCH] if(name.aliasingGets > 0 || name.localSets == 1){
+[PATCH] if(name.isAlias() && aliasingGets > 0){
+[PATCH] if(isAliasingDeclared(name, namespace)) {
+[PATCH] if(aliasingGets > 0 && name.globalSets < 1){
+[PATCH] if(name.type == Name.Type.ASSIGN){
+[PATCH] if(name.isTypeInferred()){
+[PATCH] if(name.componentType == Type.ALIASING_GET){
+[PATCH] if(isAliasingDeclaration(name)) {
+[PATCH] if(name.isConstructor() || name.isInterface()){
+[PATCH] if(name.isClass() || name.isInterface()){
+[PATCH] if(name.isClass() || name.isStatic()){
+[PATCH] if(name.mode == Type.CONSTANTS_ONLY){
+[PATCH] if(name.isTypeInExtern()){
+[PATCH] if(name.isTypeInclusion()){
+[PATCH] if(name.isLink()){
+[PATCH] if(name.isLocal()){
+[PATCH] if(name.isAliased()){
+[PATCH] if(name.isTypeInAliasing()){
+[PATCH] if(name.isLhs()){
+[PATCH] if(name.inExternTypes){
+[PATCH] if(name.isaliasing()){
+[PATCH] if(name.scope.isLocal()){
+[PATCH] if(name.addChangeListener(this)) {
+[PATCH] if(name.isInExtern()){
+[PATCH] if(isAliasingOnExternTypes){
+[PATCH] if(name.usesAliasing()){
+[PATCH] if(name.isSimpleAliasing()){
+[PATCH] if(name.hasRef()){
+[PATCH] if(name.hasAliases()){
+[PATCH] if(name.aliasableGets > 0){
+[PATCH] if(name.isAliases()){
+[PATCH] if(isAliasingOnExternTypes()){
+[PATCH] if(name.type == Type.ASSIGN){
+[PATCH] if(name.aliasingsGets > 0){
+[PATCH] if(collapsePropertiesOnExternTypes){
+[PATCH] if(isInlineable()){
+[PATCH] if(name.hasChildren()){
+[PATCH] if(name.isaliasingGets()){
+[PATCH] if(name.mode == Type.PROPERTY){
+[PATCH] if(name.isExtern()){
+[PATCH] if(name.hasAlias()){
+[PATCH] if(name.hasRefs()){
+[PATCH] if(name.isContainer()){
+[PATCH] if(name.isDeprecated()){
+[PATCH] if(scope.isGlobal()){
+[PATCH] if(name.isRef()){
+[PATCH] if(name.isName()){
+[PATCH] if(name.isReferenced()){
+[PATCH] if(name.isDot()){
+[PATCH] if(name.isQuoted()){
+[PATCH] if(name.isConst()){
+[PATCH] if(name.isReference()){
+[PATCH] if(name.isPath()){

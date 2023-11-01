@@ -1,0 +1,100 @@
+[PATCH] if(!out.syntax() == Document.OutputSettings.Syntax.html &&(key == null || key.equals("")) && val!= null){
+[PATCH] if(!out.isAppendable() &&(key.length() == 0 || key.trim().length() == 0)) {
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val!= null || val.length() == 0)) {
+[PATCH] if(!out.isAppendable() &&(val == null || val.equals("")&& Attribute.isBooleanAttribute(key))){
+[PATCH] if(!out.isAppendable() &&(val!= null && val.length() > 0)) {
+[PATCH] if(!out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.length() == 0)) {
+[PATCH] if(!out.isEnabled(Feature.QUOTE_ATTRIBUTE_NAMES)) {
+[PATCH] if(!out.syntax() == Document.OutputSettings.Syntax.html &&(key == null || key.equals("*")) && val!= null){
+[PATCH] if(!out.isEmpty() &&(key.equals("true")|| key.equals("false")) && val.equals("null")) {
+[PATCH] if(!out.syntax() == Document.OutputSettings.Syntax.html &&(key == null || key.equals(">")) && val!= null){
+[PATCH] if(!out.isAppendable() &&(key.equals("\"")|| key.equals("\"")) && val!= null){
+[PATCH] if(!out.syntax() == Document.OutputSettings.Syntax.html &&(val!= null && val.length() > 0)) {
+[PATCH] if(!out.isAttributeInExterns(key)&&!val.equals("")) {
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(key == null || key.equals("")) && val!= null){
+[PATCH] if(!out.isAppendable() &&(key.length() == 0 || key.trim().equals("")) && val!= null){
+[PATCH] if(!out.isAppendable() &&(val == null || val.length() == 0)&& Attribute.isBooleanAttribute(key)) {
+[PATCH] if(!out.isAppendable() &&(key.equals("true")|| key.equals("false")) && val!= null){
+[PATCH] if(!out.syntax() == Document.OutputSettings.Syntax.html &&(key == null || key.equals("=")) && val!= null){
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&!key.equals("")) {
+[PATCH] if(!out.isEmpty() &&(key.length() == 0 || key.trim().length() == 0)) {
+[PATCH] if(!out.hasChildren() &&(key.length() == 0 || key.trim().length() == 0)) {
+[PATCH] if(!out.syntax() == Document.OutputSettings.Syntax.html &&(key == null || key.equals("-")) && val!= null){
+[PATCH] if(!out.isAbsolute() &&(key.equals("true")|| key.equals("false")) && val.equals("null")) {
+[PATCH] if(!out.isNull() && out.syntax() == Document.OutputSettings.Syntax.html && key.equals("")) {
+[PATCH] if(!out.syntax() == Document.OutputSettings.Syntax.html &&(key == null || key.trim().length() == 0)) {
+[PATCH] if(!out.hasChildren() &&(key.equals("true")|| key.equals("false")) && val.equals("null")) {
+[PATCH] if(!out.syntax() == Document.OutputSettings.Syntax.html &&(key == null || key.equals("/>")) && val!= null){
+[PATCH] if(!out.isAppendable() &&(key.equals("*")|| key.equals("\"")) && val!= null){
+[PATCH] if(!out.isEmpty() &&(val == null || val.equals("")&& Attribute.isBooleanAttribute(key))){
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&!key.equals("")&&!val.equals("")) {
+[PATCH] if(!out.isAppendable() &&(key.equals("\"")|| key.equals(">")) && val!= null){
+[PATCH] if(!out.isAbsolute() &&(key.length() == 0 || key.trim().length() == 0)) {
+[PATCH] if(!out.isAppendable() &&(key.equals("" +")|| key.equals("")) && val!= null){
+[PATCH] if(!out.isNull() && out.syntax() == Document.OutputSettings.Syntax.html && key.equals(">")) {
+[PATCH] if(!out.isAppendable() &&(key.equals("*")|| key.equals("\"")) && val!= null){
+[PATCH] if(!out.isHtml()){
+[PATCH] if(!out.isOutput() &&!key.equals("")&&!val.equals("")) {
+[PATCH] if(!out.isAppendable() &&(key.equals(">")|| key.equals("\"")) && val!= null){
+[PATCH] if(!out.isAppendable() &&(val == null || val.length() == 0)) {
+[PATCH] if(!out.isEnabled(Feature.QUOTE_NON_EMPTY_STRING_AS_NULL)) {
+[PATCH] if(!out.syntax() == Document.OutputSettings.Syntax.html &&(key == null || key.equals("");
+[PATCH] if(!out.isAppendable() &&(val!= null && key.length() > 0)) {
+[PATCH] if(!out.isEnabled(Feature.QUOTE_NON_STRING_AS_NULL)) {
+[PATCH] if(!out.syntax() == Document.OutputSettings.Syntax.html &&!key.equals("")) {
+[PATCH] if(!out.syntax() == Document.OutputSettings.Syntax.html &&(val == null || val.equals(""))){
+[PATCH] if(!out.writeRaw('"'.equals(key)) &&(val!= null && val.length() > 0)) {
+[PATCH] if(!out.isOutput() &&!key.equals("")) {
+[PATCH] if(out.syntax() == Document.OutputSettings.Syntax.html &&(val!= null || val.equals(""))){
+[PATCH] if(!out.isAppendable()){
+[PATCH] if(!out.isEnabled(Feature.QUOTE_EMPTY_STRING_AS_NULL_OBJECT)) {
+[PATCH] if(!out.isEnabled(Feature.QUOTE_NON_NUMERIC_ATTRIBUTE)) {
+[PATCH] if(!out.isEnabled(Feature.QUOTE_NON_NUMERIC_VALUES_AS_NULL)) {
+[PATCH] if(!out.isAttributeInvisible(key)&&!val.equals("")) {
+[PATCH] if(!out.isAppendable() &&(val!= null && val.length() == 0)) {
+[PATCH] if(!out.isAPPEND() &&!key.equals("")) {
+[PATCH] if(!out.isAppendable() &&(val!= null && val.equals(""))){
+[PATCH] if(!Out.isEnabled(Feature.QUOTE_ATTRIBUTE_NAMES)) {
+[PATCH] if(!out.isAppendable() &&(val!= null && key.equals("\""))){
+[PATCH] if(!out.isInline()){
+[PATCH] if(!out.outputSettings().isEnabled(Feature.QUOTE_ATTRIBUTE_NAMES)) {
+[PATCH] if(!out.isOn() &&!val.equals("")) {
+[PATCH] if(!out.isAppendable() &&(val!= null && key.equals(""))){
+[PATCH] if(!out.isEmpty() &&!key.equals("")) {
+[PATCH] if(!out.append(" :");
+[PATCH] if(!out.println() &&!key.equals("")) {
+[PATCH] if(!out.isEnabled(Feature.QUOTE_ATTR_NAMES)) {
+[PATCH] if(!out.isEnabled(Feature.QUOTE_SINGLE_QUOTES)) {
+[PATCH] if(!out.isEnabled(Feature.QUOTE_VALUES_AS_NULL)) {
+[PATCH] if(!out.isEnabled(Feature.QUOTE_NON_ASCII)) {
+[PATCH] if(!out.isEnabled(Feature.QUOTE_ELEMENTS_AS_NULL)) {
+[PATCH] if(!out.isStatement() &&!key.equals("")) {
+[PATCH] if(!out.isln() &&!key.equals("")) {
+[PATCH] if(!Out.isEnabled(Feature.QUOTE_NON_NUMERIC_ATTRIBUTE)) {
+[PATCH] if(!out.isOn() &&!key.equals("")) {
+[PATCH] if(out.isEnabled(Feature.QUOTE_ATTRIBUTE_NAMES)) {
+[PATCH] if(!out.isEqualTo(accum)) {
+[PATCH] if(!out.toString().equals("")) {
+[PATCH] if(!out.equalTo(accum)) {
+[PATCH] if(!out.isEquivalentTo(accum)) {
+[PATCH] if(!out.hasAttribute(key)) {
+[PATCH] if(!out.isRenderingHints()){
+[PATCH] if(!out.isOutput()){
+[PATCH] if(!out.writeRaw("")) {
+[PATCH] if(!out.writer().isEmpty()){
+[PATCH] if(!out.isString()){
+[PATCH] if(!out.isEscaped()){
+[PATCH] if(!out.hasMoreThanOneAttribute()){
+[PATCH] if(!out.isRaw()){
+[PATCH] if(!out.hasTag(key)) {
+[PATCH] if(!out.equals(accum)) {
+[PATCH] if(!out.printValues()){
+[PATCH] if(!accum.append(" :");
+[PATCH] if(!Out.isInline()){
+[PATCH] if(!out.writtenOnce()){
+[PATCH] if(!out.writeRaw()){
+[PATCH] if(!out.printRaw()){
+[PATCH] if(!out.isOn()){
+[PATCH] if(!out.writeStrings()){
+[PATCH] if(!out.writeLine()){
+[PATCH] if(!out.html()){

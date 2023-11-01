@@ -1,0 +1,100 @@
+[PATCH] if(identifier!= null){ if(!ESTIMATED_IDENTIFIER.equals(identifier)) { throw new IllegalArgumentException(""); }
+[PATCH] if(identifier!= null){ if(!contains(ESTIMATED_IDENTIFIER)) { throw new IllegalArgumentException(""); }
+[PATCH] if(identifier!= null){ if(!ESTIMATED_IDENTIFIER.equals(identifier)) { add(ESTIMATED_IDENTIFIER); }
+[PATCH] if(identifier!= null){ if(!contains(ESTIMATED_IDENTIFIER)) { add(ESTIMATED_IDENTIFIER); }
+[PATCH] if(identifier!= null){ if(!isEmpty(identifier)) { throw new IllegalArgumentException(""); }
+[PATCH] if(identifier!= null){ if(!ESTIMATED_IDENTIFIER.equals(identifier)) { throw new IllegalStateException(""); }
+[PATCH] if(identifier == null){ add(ESTIMATED_IDENTIFIER); } else { throw new IllegalArgumentException(""); }
+[PATCH] if(identifier!= null){ if(!ESTIMATED_IDENTIFIER.equals(identifier)) { super.addIdentifier(identifier); }
+[PATCH] if(identifier.length() == 0){ add(ESTIMATED_IDENTIFIER); } else { throw new IllegalArgumentException(""); }
+[PATCH] if(identifier!= null){ if(!contains(ESTIMATED_IDENTIFIER)) { throw new IllegalStateException(""); }
+[PATCH] if(identifier!= null){ if(!DELETED_IDENTIFIER.equals(identifier)) { throw new IllegalArgumentException(""); }
+[PATCH] if(identifier.length() == 1){ if(ESTIMATED_IDENTIFIER.equals(identifier)) { throw new IllegalArgumentException(""); }
+[PATCH] if(identifier!= null){ if(!isValidIdentifier(ESTIMATED_IDENTIFIER)) { throw new IllegalArgumentException(""); }
+[PATCH] if(identifier.length() == 1){ add(ESTIMATED_IDENTIFIER); } else { throw new IllegalArgumentException(""); }
+[PATCH] if(identifier!= null){ if(ESTIMATED_IDENTIFIER.equals(identifier)) { add(ESTIMATED_IDENTIFIER); }
+[PATCH] if(identifier!= null){ if(!USE_DEFAULT_IDENTIFIER.equals(identifier)) { throw new IllegalArgumentException(""); }
+[PATCH] if(identifier!= null){ if(!isEmpty(identifier)) { add(ESTIMATED_IDENTIFIER); }
+[PATCH] if(identifier!= null){ if(!isValidIdentifier(identifier)) { throw new IllegalArgumentException(""); }
+[PATCH] if(ESTIMATED_IDENTIFIER.equals(identifier)) { if(!isEmpty()){ add(ESTIMATED_IDENTIFIER); }
+[PATCH] if(identifier.length() == 0){ if(ESTIMATED_IDENTIFIER == null){ add(ESTIMATED_IDENTIFIER); }
+[PATCH] if(identifier.length() == 0){ add(ESTIMATED_IDENTIFIER); } else { throw new IllegalStateException(""); }
+[PATCH] if(identifier.length() == 1){ if(ESTIMATED_IDENTIFIER.equals(identifier)) { throw new IllegalStateException(""); }
+[PATCH] if(identifier!= null){ if(!PASS_ON_INVALID_IDENTIFIER.equals(identifier)) { throw new IllegalArgumentException(""); }
+[PATCH] if(identifier == null){ add(ESTIMATED_IDENTIFIER); } else { throw new IllegalStateException(""); }
+[PATCH] if(identifier.equals("*")) { if(ESTIMATED_IDENTIFIER == null){ add(ESTIMATED_IDENTIFIER); }
+[PATCH] if(ESTIMATED_IDENTIFIER.equals(identifier)) { if(!hasAnySingletonTypeTags()){ throw new IllegalArgumentException(""); }
+[PATCH] if(ESTIMATED_IDENTIFIER.equals(identifier)) { if(!hasAnySingletonTypeTags()){ throw new IllegalStateException(""); }
+[PATCH] if(identifier!= null){ if(!UUID.isEmpty(identifier)) { throw new IllegalArgumentException(""); }
+[PATCH] if(identifier == null){ if(ESTIMATED_IDENTIFIER == null){ add(ESTIMATED_IDENTIFIER); }
+[PATCH] if(!isEmpty()){ if(ESTIMATED_IDENTIFIER.equals(identifier)) { add(ESTIMATED_IDENTIFIER); }
+[PATCH] if(ESTIMATED_IDENTIFIER.equals(identifier)) { if(getLastGeneration()){ add(ESTIMATED_IDENTIFIER); }
+[PATCH] if(identifier!= null){ if(!contains(ESTIMATED_IDENTIFIER)) { super.addIdentifier(identifier); }
+[PATCH] if(identifier == null){ if(ESTIMATED_IDENTIFIER!= null){ add(ESTIMATED_IDENTIFIER); }
+[PATCH] if(identifier!= null){ if(!UUID.isEmpty(identifier)) { add(ESTIMATED_IDENTIFIER); }
+[PATCH] if(identifier == null){ add(ESTIMATED_IDENTIFIER); } else { super.addIdentifier(identifier); }
+[PATCH] if(identifier!= null){ if(!DELETED_IDENTIFIER.equals(identifier)) { add(ESTIMATED_IDENTIFIER); }
+[PATCH] if(identifier!= null){ if(!isEmpty(ESTIMATED_IDENTIFIER.equals(identifier)) { throw new IllegalArgumentException(""); }
+[PATCH] if(identifier!= null){ if(!UNIQUE_IDENTIFIER.equals(identifier)) { throw new IllegalArgumentException(""); }
+[PATCH] if(identifier!= null){ if(!"".equals(identifier)) { throw new IllegalArgumentException(""); }
+[PATCH] if(identifier!= null){ if(!USE_ALPHA.equals(identifier)) { throw new IllegalArgumentException(""); }
+[PATCH] if(identifier.equals("")) { if(ESTIMATED_IDENTIFIER == null){ add(ESTIMATED_IDENTIFIER); }
+[PATCH] if(identifier == null){ super.addIdentifier(ESTIMATED_IDENTIFIER); } else { throw new IllegalArgumentException(""); }
+[PATCH] if(identifier!= null){ if(!".equals(identifier)) { throw new IllegalArgumentException(""); }
+[PATCH] if(identifier!= null){ if(!USE_ALPHA.equals(identifier)) { add(ESTIMATED_IDENTIFIER); }
+[PATCH] if(identifier.length() == 1){ add(ESTIMATED_IDENTIFIER); } else { throw new IllegalStateException(""); }
+[PATCH] if(identifier == null){ this.add(ESTIMATED_IDENTIFIER); } else { throw new IllegalArgumentException(""); }
+[PATCH] if(identifier!= null){ if(!add(ESTIMATED_IDENTIFIER.equals(identifier)) { throw new IllegalArgumentException(""); }
+[PATCH] if(identifier!= null){ if(!equals(ESTIMATED_IDENTIFIER)) { throw new IllegalArgumentException(""); }
+[PATCH] if(identifier!= null){ if(!hasAnySingletonTypeTags()){ throw new IllegalArgumentException(""); }
+[PATCH] if(identifier.length() == 0){ add(ESTIMATED_IDENTIFIER); } else { super.addIdentifier(identifier); }
+[PATCH] if(identifier!= null){ if(!USE_DUPLICATE_IDENTIFIER.equals(identifier)) { throw new IllegalArgumentException(""); }
+[PATCH] if(ESTIMATED_IDENTIFIER.equals(identifier)) { if(hashCode == 0){ add(ESTIMATED_IDENTIFIER); }
+[PATCH] if(identifier.equals("$")) { if(ESTIMATED_IDENTIFIER == null){ add(ESTIMATED_IDENTIFIER); }
+[PATCH] if(identifier!= null){ if(!symbols.contains(ESTIMATED_IDENTIFIER)) { throw new IllegalArgumentException(""); }
+[PATCH] if(identifier!= null){ if(ESTIMATED_IDENTIFIER.equals(identifier)) { throw new IllegalArgumentException(""); }
+[PATCH] if(identifier!= null){ if(!DELETED_IDENTIFIER.equals(identifier)) { throw new IllegalStateException(""); }
+[PATCH] if(identifier.length() == 16){ if(ESTIMATED_IDENTIFIER.equals(identifier)) { throw new IllegalArgumentException(""); }
+[PATCH] if(ESTIMATED_IDENTIFIER.equals(identifier)) { throw new IllegalArgumentException(""); }
+[PATCH] if(identifier!= null){ if(!isEmpty(ESTIMATED_IDENTIFIER)) { throw new IllegalArgumentException(""); }
+[PATCH] if(identifier!= null){ if(!Strings.isEmpty(identifier)) { throw new IllegalArgumentException(""); }
+[PATCH] if(identifier!= null){ if(!SHARED_IDENTIFIER.equals(identifier)) { throw new IllegalArgumentException(""); }
+[PATCH] if(ESTIMATED_IDENTIFIER.equals(identifier)) { throw new IllegalStateException(""); }
+[PATCH] if(identifier.endsWith("__")) { if(!contains("__")) { throw new IllegalArgumentException(""); }
+[PATCH] if(identifier!= null){ if(!hasAnySingletonTypeTags()){ add(ESTIMATED_IDENTIFIER); }
+[PATCH] if(identifier!= null){ if(!isEmpty(identifier)) { throw new IllegalStateException(""); }
+[PATCH] if(identifier!= null){ if(!ESTIMATED_IDENTIFIER.equals(identifier)) { throw new UnsupportedOperationException(""); }
+[PATCH] if(identifier.endsWith("__")) { if(!hasAnySingletonTypeTags()){ throw new IllegalArgumentException(""); }
+[PATCH] if(identifier.endsWith("__")) { if(!contains("__")) { throw new IllegalStateException(""); }
+[PATCH] if(identifier!= null){ if(!NO_IDENTIFIER.equals(identifier)) { throw new IllegalArgumentException(""); }
+[PATCH] if(identifier!= null){ if(!DUPLICATE_IDENTIFIER.equals(identifier)) { throw new IllegalArgumentException(""); }
+[PATCH] if(identifier!= null){ if(!hasAnySingletonTypeTags()){ throw new IllegalStateException(""); }
+[PATCH] if(identifier!= null){ if(!("".equals(identifier)) { throw new IllegalArgumentException(""); }
+[PATCH] if(ESTIMATED_IDENTIFIER.equals(identifier)) { if(!hasAnySingletonTypeTags()){ throw new UnsupportedOperationException(""); }
+[PATCH] if(identifier!= null){ if(!Double.isNaN(identifier)) { throw new IllegalArgumentException(""); }
+[PATCH] if(ESTIMATED_IDENTIFIER.equals(identifier)) { if(!isEmpty()){ throw new IllegalArgumentException(""); }
+[PATCH] if(identifier.endsWith("__")) { if(!hasAnySingletonTypeTags()){ throw new IllegalStateException(""); }
+[PATCH] if(identifier.length() == 16){ if(ESTIMATED_IDENTIFIER.equals(identifier)) { throw new IllegalStateException(""); }
+[PATCH] if(identifier!= null){ if(!isEmpty(identifier)) { super.addIdentifier(identifier); }
+[PATCH] if(identifier!= null){ if(!hasValidIdentifier(identifier)) { throw new IllegalArgumentException(""); }
+[PATCH] if(identifier == null){ this.add(ESTIMATED_IDENTIFIER); } else { throw new IllegalStateException(""); }
+[PATCH] if(identifier!= null){ if("".equals(identifier)) { throw new IllegalArgumentException(""); }
+[PATCH] if(identifier!= null){ if(!ESTIMATED_IDENTIFIER.equals(identifier)) { throw new AssertionError(""); }
+[PATCH] if(identifier!= null){ if(!PASS_ON_INVALID_IDENTIFIER.equals(identifier)) { throw new IllegalStateException(""); }
+[PATCH] if(identifier!= null){ if(!Long.isNaN(identifier)) { throw new IllegalArgumentException(""); }
+[PATCH] if(identifier!= null){ if(!StringUtil.isEmpty(identifier)) { throw new IllegalArgumentException(""); }
+[PATCH] if(identifier.length() == 1){ if(ESTIMATED_IDENTIFIER.equals(identifier)) { throw new UnsupportedOperationException(""); }
+[PATCH] if(identifier == null){ add(ESTIMATED_IDENTIFIER); } else { throw new UnsupportedOperationException(""); }
+[PATCH] if(identifier!= null){ if(!hasAnyIdentifier()){ throw new IllegalArgumentException(""); }
+[PATCH] if(identifier!= null){ for(String identifier : identifier.split("\\.")) { add(identifier); }
+[PATCH] if(identifier.length() == 0){ throw new IllegalArgumentException(""); }
+[PATCH] if(identifier!= null){ if(!isEmpty(ESTIMATED_IDENTIFIER.equals(identifier)) { throw new IllegalStateException(""); }
+[PATCH] if(identifier!= null){ if(!isBlank(identifier)) { throw new IllegalArgumentException(""); }
+[PATCH] if(ESTIMATED_IDENTIFIER.equals(identifier)) { if(!hasAnySingletonTypeTags()){ throw new AssertionError(""); }
+[PATCH] if(identifier!= null){ if(!isEmpty()){ throw new IllegalArgumentException(""); }
+[PATCH] if(identifier.length() == 1){ if(ESTIMATED_IDENTIFIER.equals(identifier)) { throw new AssertionError(""); }
+[PATCH] if(identifier!= null){ if(!USE_DUPLICATE_IDENTIFIER.equals(identifier)) { throw new IllegalStateException(""); }
+[PATCH] if(!ESTIMATED_IDENTIFIER.equals(identifier)) { throw new IllegalArgumentException(""); }
+[PATCH] if(identifier!= null){ if(!ESTIMATED_IDENTIFIER.equals(identifier)) { add(ESTIMATED_SYMBOL); }
+[PATCH] if(identifier!= null){ if(!contains("__")) { throw new IllegalArgumentException(""); }
+[PATCH] if(ESTIMATED_IDENTIFIER.equals(identifier)) { return; }

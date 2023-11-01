@@ -1,0 +1,100 @@
+[PATCH] } @Override public boolean isToInclusive() { return super.isToInclusive();
+[PATCH] } public boolean isToInclusive() { return super.isToInclusive();
+[PATCH] } @ Override public boolean isToInclusive() { return super.isToInclusive();
+[PATCH] } @Override public boolean isToInclusive() { return true;
+[PATCH] } protected static final Map<K, V> map = new HashMap<K, V>();
+[PATCH] } public static boolean isToInclusive() { return true;
+[PATCH] } private static final long serialVersionUID = 1L;
+[PATCH] }, new RangeEntrySet() { public boolean isToInclusive() { return true; }
+[PATCH] } public static final Map<K, V> map = new TreeMap<K, V>();
+[PATCH] } protected static final Map<K, V> map = new TreeMap<K, V>();
+[PATCH] } public static final boolean isToInclusive() { return true;
+[PATCH] } public static final Map<K, V> map = new HashMap<K, V>();
+[PATCH] } public static final Map<K, V> map = new SortedMap<K, V>();
+[PATCH] } protected static final long serialVersionUID = 1L;
+[PATCH] } private static final Map<K, V> map = new HashMap<K, V>();
+[PATCH] protected static final Map<K, V> map = new TreeMap<K, V>();
+[PATCH] protected static final Map<K, V> map = new HashMap<K, V>();
+[PATCH] } protected static final Map<K, V> map = new SortedMap<K, V>();
+[PATCH] } else if(!isToInclusive()){ return new SortedMap<K, V>(); }
+[PATCH] } private static final Map<K, V> map = new TreeMap<K, V>();
+[PATCH] return super.createRangeMap();
+[PATCH] return super.createRangeMap(fromKey, fromInclusive, toKey);
+[PATCH] } public static final long serialVersionUID = 1L;
+[PATCH] } else if(!isToInclusive()){ throw new IllegalArgumentException(""); }
+[PATCH] protected static final Map<K, V> map = new SortedMap<K, V>();
+[PATCH] public static final Map<K, V> map = new TreeMap<K, V>();
+[PATCH] } private static final Map<K, V> map = new SortedMap<K, V>();
+[PATCH] } public static boolean isPrefixedMap(final K fromKey){ return true;
+[PATCH] } public static boolean isToInclusive() { return super.isToInclusive();
+[PATCH] }, new RangeEntrySet() { private static final long serialVersionUID = 1L;
+[PATCH] } public boolean isToInclusive() { return true;
+[PATCH] } @ Override public boolean isToInclusive() { return true;
+[PATCH] } public static final boolean isToInclusive() { return super.isToInclusive();
+[PATCH] } public boolean isToInclusive() { return this.isToInclusive();
+[PATCH] } protected static final Map<K, V> delegate = new HashMap<K, V>();
+[PATCH] } private static final Map<K, V> delegate = new HashMap<K, V>();
+[PATCH] } @Override public boolean isToInclusive() { return this.isToInclusive();
+[PATCH] } public static Map<K, V> map = new HashMap<K, V>();
+[PATCH] } public static Map<K, V> map = new TreeMap<K, V>();
+[PATCH] } @Override public boolean contains(final K fromKey){ return true;
+[PATCH] } @Override public boolean isToInclusive() { return super.isToInclusive(); }
+[PATCH] } protected static final boolean isPrefixedMap(final K fromKey){ return true;
+[PATCH] } public static final boolean isPrefixedMap(final K fromKey){ return true;
+[PATCH] } public static Map<K, V> map = new SortedMap<K, V>();
+[PATCH] } public boolean isToInclusive() { return getKey().equals(toKey);
+[PATCH] } public boolean isToInclusive() { return super.isToInclusive(); }
+[PATCH] } protected static final boolean isToInclusive() { return true;
+[PATCH] } else if(!isToInclusive()){ return super.createRangeMap(); }
+[PATCH] }, new RangeEntrySet() { public boolean isToInclusive() { return false; }
+[PATCH] } public static final long serialVersionUID = 1L){ private static final long serialVersionUID = 1L;
+[PATCH] }, new RangeEntrySet() { public boolean isToInclusive() { return true;
+[PATCH] } private static final Map<K, V> map = super.createRangeMap();
+[PATCH] } public boolean isToInclusive() { return getKey().equals(toKey); }
+[PATCH] } @Override public boolean isToInclusive() { return false;
+[PATCH] } @Override public boolean containsPrefix(K fromKey){ return true;
+[PATCH] protected static final long serialVersionUID = 1L;
+[PATCH] } @ Override public boolean isToInclusive() { return super.isToInclusive(); }
+[PATCH] } @Override public boolean isToInclusive(); return true;
+[PATCH] } @Override public boolean contains(K fromKey){ return true;
+[PATCH] } @Override public static boolean isToInclusive() { return true;
+[PATCH] @Override public boolean isToInclusive() { return true;
+[PATCH] } @Override public boolean isToInclusive() { return predicate == null;
+[PATCH] } public static boolean isPrefixedMap(final K fromKey){ return false;
+[PATCH] } public static boolean isToInclusive() { return super.isToInclusive(); }
+[PATCH] protected static final long serialVersionUID = DateTimeUtils.currentTimeMillis();
+[PATCH] } public static final boolean isToInclusive() { return super.isToInclusive(); }
+[PATCH] } public static boolean isPrefixedMap(final K fromKey){ return true; }
+[PATCH] } @Override public Map<K, V> getMap();
+[PATCH] } public static boolean isToInclusive() { return false;
+[PATCH] } public static boolean isToInclusive() { return true; }
+[PATCH] } public static final long serialVersionUID = 1L);
+[PATCH] public static final boolean isToInclusive() { return true;
+[PATCH] protected static final boolean isToInclusive() { return true;
+[PATCH] } public boolean isToInclusive() { return false;
+[PATCH] return super.createRangeMap(fromKey);
+[PATCH] private static final long serialVersionUID = 1L;
+[PATCH] public static final long serialVersionUID = 1L;
+[PATCH] } @Override public boolean isToInclusive();
+[PATCH] } private static final long serialVersionUID = 1L);
+[PATCH] } protected static final long serialVersionUID = 1L);
+[PATCH] Collections.sort(this);
+[PATCH] } public static long serialVersionUID = 1L;
+[PATCH] protected static final boolean isToInclusive();
+[PATCH] } @SuppressWarnings("unchecked");
+[PATCH] } @Override public boolean isToSet();
+[PATCH] } @Override public void clear();
+[PATCH] protected final boolean isToInclusive();
+[PATCH] throw new IllegalArgumentException("");
+[PATCH] } public void clear();
+[PATCH] throw new IllegalStateException("");
+[PATCH] super();
+[PATCH] }
+[PATCH] });
+[PATCH] }
+[PATCH] };
+[PATCH] init();
+[PATCH] }"");
+[PATCH] } }
+[PATCH] ;
+[PATCH]

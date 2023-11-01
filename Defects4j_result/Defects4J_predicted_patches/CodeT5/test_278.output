@@ -1,0 +1,100 @@
+[PATCH] if(!creator.hasCreatorProperty(propName)) {
+[PATCH] if(creatorProp.hasConstructorParameter()){
+[PATCH] if(creatorProp.canCreateUsingDefault()){
+[PATCH] if(creatorProp.hasCreatorProperty(propName)) {
+[PATCH] if(!creatorProp.hasCreatorProperty(propName)) {
+[PATCH] if(creatorProp.hasParameter(propName)) {
+[PATCH] if(creatorProp.hasCreatorParameter(propName)) {
+[PATCH] if(creatorProp.hasCreatorParameter()){
+[PATCH] if(!creator.isInvalidatingCreator(propName)) {
+[PATCH] if(!creatorProp.hasDefaultCreatorProperty()){
+[PATCH] if(creatorProp.deserializeAndSet(p, ctxt)) {
+[PATCH] if(!creatorProp.deserializer.canCreateUsingDefault()){
+[PATCH] if(!creator.isPropertyInExterns(propName)) {
+[PATCH] if(!creatorProp.hasConstructorParameter()){
+[PATCH] if(!creatorProp.deserializeAndSet(p, ctxt)) {
+[PATCH] if(!creator.equals(propName)) {
+[PATCH] if(!creatorProp.deserializer.canCreateFromString()){
+[PATCH] if(!creator.hasProperty(propName)) {
+[PATCH] if(!creatorProp.hasParameter(propName)) {
+[PATCH] if(!creator.hasDefaultCreatorProperty(propName)) {
+[PATCH] if(!creator.getIgnoreUnwrappedProperty(propName)) {
+[PATCH] if(!creator.inExterns(propName)) {
+[PATCH] if(!creator.isPropertyTypeDeclared(propName)) {
+[PATCH] if(!creator.isValidCreatorProperty(propName)) {
+[PATCH] if(!creatorProp.hasCreatorParameter(propName)) {
+[PATCH] if(creatorProp.hasCreatorAnnotation(propName)) {
+[PATCH] if(creatorProp.canCreateParameter(ctxt, propName)) {
+[PATCH] if(!creator.inGlobalScope()){
+[PATCH] if(creatorProp.shouldDeserialize(p, ctxt)) {
+[PATCH] if(creatorProp.getCreator() == null){
+[PATCH] if(!creator.canCreateUsingDefault()){
+[PATCH] if(!creatorProp.hasDefaultConstructorParameter()){
+[PATCH] if(!p.isExpectedStartObjectToken()){
+[PATCH] if(creatorProp.getConstructor()!= null){
+[PATCH] if(creatorProp.hasDefaultCreator()){
+[PATCH] if(!creator.handlePropertyValue(p, ctxt, propName)) {
+[PATCH] if(creatorProp.hasDefaultConstructorParameter()){
+[PATCH] if(creatorProp.getCreatorIndex() == 0){
+[PATCH] if(!creator.hasCreatorParameter(propName)) {
+[PATCH] if(creatorProp.hasRequiredParameter(propName)) {
+[PATCH] if(creatorProp.getCreatorIndex() == BIND_PROPERTY){
+[PATCH] if(creatorProp.canCreateFromString()){
+[PATCH] if(!creator.getIgnoreUnknownProperty(propName)) {
+[PATCH] if(!creator.hasOwnProperty(propName)) {
+[PATCH] if(!creatorProp.canCreateUsingDefault()){
+[PATCH] if(creatorProp.nextToken() == JsonToken.START_OBJECT){
+[PATCH] if(creatorProp.getInstantiator()!= null){
+[PATCH] if(creatorProp!= null){
+[PATCH] if(!creator.propertyIsAssignableFrom(propName)) {
+[PATCH] if(creatorProp.deserializeAndSet(p, ctxt)== null){
+[PATCH] if(creatorProp.getParameterCount() == 1){
+[PATCH] if(creatorProp.canCreateUsingPropertyBased()){
+[PATCH] if(!creator.hasCreatorAnnotation(propName)) {
+[PATCH] if(creatorProp.canCreateUsingProperty(propName)) {
+[PATCH] if(!creatorProp.hasDefaultCreatorParameter()){
+[PATCH] if(creatorProp.canBuild(ctxt)) {
+[PATCH] if(!buffer.assignParameter(creatorProp, propName)) {
+[PATCH] if(creatorProp.getCreatorIndex() == -1){
+[PATCH] if(creatorProp.canDeserialize(p, ctxt)) {
+[PATCH] if(!creator.useCreatorProperty(propName)) {
+[PATCH] if(!creatorProp.deserializer.canInstantiate()){
+[PATCH] if(creatorProp.hasArg()){
+[PATCH] if(!creator.processProperty(p, ctxt, propName)) {
+[PATCH] if(!creatorProp.hasDefaultCreator()){
+[PATCH] if(creatorProp.assignParameter(ctxt, propName)) {
+[PATCH] if(!creator.matchesProperty(propName)) {
+[PATCH] if(creatorProp.handlePropertyValue(p, ctxt, propName)) {
+[PATCH] if(creatorProp.canAssignTo(ctxt)) {
+[PATCH] if(creatorProp.canSetAndReturn(buffer)) {
+[PATCH] if(!buffer.assignParameter(creatorProp, null)) {
+[PATCH] if(!creator.inAnnotation(propName)) {
+[PATCH] if(creatorProp.getCreator()!= null){
+[PATCH] if(creatorProp.getCreatorIndex() == prop){
+[PATCH] if(!creator.inClass(propName)) {
+[PATCH] if(creatorProp.canAssignParameter()){
+[PATCH] if(!creator.getSuppressWarnings(propName)) {
+[PATCH] if(!creatorProp.deserializationEnabled()){
+[PATCH] if(creatorProp.canCreateFromObjectWith()){
+[PATCH] if(creatorProp.hasDefaultCreatorProperty()){
+[PATCH] if(!creator.inStaticScope()){
+[PATCH] if(creatorProp.hasDefaultConstructor()){
+[PATCH] if(!creator. hasProperty(propName)) {
+[PATCH] if(creatorProp.getCreatorIndex() == BIND_PROP){
+[PATCH] if(creatorProp.needCreatorParameter()){
+[PATCH] if(creatorProp.getCreatorIndex() == creator.propertyIndex){
+[PATCH] if(creatorProp.length() == 1){
+[PATCH] if(t == JsonToken.START_OBJECT){
+[PATCH] if(creatorProp.hasCreateParameter()){
+[PATCH] if(creatorProp.hasCreatorIndex()){
+[PATCH] if(creatorProp.hasInitParameter()){
+[PATCH] if(creatorProp.hasInitialValue()){
+[PATCH] if(!creatorProp.deserializer.hasDefaultCreator()){
+[PATCH] if(creatorProp.hasCreatorParam()){
+[PATCH] if(creatorProp.canInstantiate()){
+[PATCH] if(true){
+[PATCH] [Delete]
+[PATCH] {
+[PATCH] ;
+);
+;

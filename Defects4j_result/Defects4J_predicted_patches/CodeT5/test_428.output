@@ -1,0 +1,100 @@
+[PATCH] if(resolved){
+[PATCH] if(resolved && detectImplicitPrototypeCycle()){
+[PATCH] if(resolved && enclosing == null){
+[PATCH] if(resolved && registry.isLastGeneration()){
+[PATCH] if(resolved == false){
+[PATCH] if(resolved &&!forAnnotations){
+[PATCH] if(resolved && this.isEnumType()){
+[PATCH] if(resolved && this.isConstructor()){
+[PATCH] if(resolved && enclosing!= null){
+[PATCH] if(resolved && this.isFunctionPrototype()){
+[PATCH] if(resolved && regExp == null){
+[PATCH] if(resolved && skipPropertyContinuations()){
+[PATCH] if(resolved && getTypeCycle()!= null){
+[PATCH] if(resolved && this.isEnumElementType()){
+[PATCH] if(resolved && tryResolveImplicitPrototypeCycle()){
+[PATCH] if(resolved && this.isTypeCycle()){
+[PATCH] if(resolved && t.inGlobalScope()){
+[PATCH] if(resolved && type.isUnknownType()){
+[PATCH] if(resolved && typeContinuations!= null){
+[PATCH] if(resolved && isReferenceToLastGeneration()){
+[PATCH] if(resolved && skipPropertyContinuations){
+[PATCH] if(resolved && tryMinimizePrototypeCycle()){
+[PATCH] if(resolved && containsTypeCycle()){
+[PATCH] if(resolved && this.isContainerType()){
+[PATCH] if(resolved && enclosing.isGlobal()){
+[PATCH] if(resolved && isPropertyTypeDeclared(reference)) {
+[PATCH] if(resolved && this.isUnknownType()){
+[PATCH] if(resolved && shouldResolveImplicitPrototype()){
+[PATCH] if(resolved &&detectImplicitPrototypeCycle()){
+[PATCH] if(resolved && this.isFunctionType()){
+[PATCH] if(resolved && encounteredTypeCycle()){
+[PATCH] if(resolved && hasNonLocalTypeTags()){
+[PATCH] if(resolved && tryResolveImplicitPrototype()){
+[PATCH] if(resolved &&!detachImplicitPrototype()){
+[PATCH] if(resolved && enclosing.isTypeDeclared()){
+[PATCH] if(resolved && hasNonLocalTypeDeclaration()){
+[PATCH] if(resolved &&registry.isLastGeneration()){
+[PATCH] if(resolved && typeContinuations == null){
+[PATCH] if(resolved && this.type == null){
+[PATCH] if(resolved && type == null){
+[PATCH] if(resolved && typeCycleCount() == 1){
+[PATCH] if(resolved && supportTypeCycle()){
+[PATCH] if(resolved && this.isEnumElement()){
+[PATCH] if(resolved && isRegexpType()){
+[PATCH] if(resolved && cycles.size() == 0){
+[PATCH] if(resolved && stopPropertyContinuations()){
+[PATCH] if(resolved && findTypeCycle(t)) {
+[PATCH] if(resolved && hasNonLocalObjectType()){
+[PATCH] if(resolved && typeOfCycle()!= null){
+[PATCH] if(resolved && peekPropertyContinuations()){
+[PATCH] if(resolved && typeCycleCount > 0){
+[PATCH] if(resolved && isConstructorCycle()){
+[PATCH] if(resolved && isEnumElementCycle()){
+[PATCH] if(resolved && isPropertyCycle()){
+[PATCH] if(resolved && isReferenceName()){
+[PATCH] if(resolved && enclosing.isTypeBound()){
+[PATCH] if(resolved && tryMinimizeCycle()){
+[PATCH] if(registry.isLastGeneration() && resolved){
+[PATCH] if(resolved && typeCycleCount() == 0){
+[PATCH] if(resolved && identifyTypeCycle()){
+[PATCH] if(resolved && classInfo.isConstructor()){
+[PATCH] if(resolved && this.isPropertyCycle()){
+[PATCH] if(resolved && hasTypeCycle()){
+[PATCH] if(resolved && this.isReferenceName()){
+[PATCH] if(resolved && isPropertyTreeCycle()){
+[PATCH] if(resolved && isPropertyTreeResolved()){
+[PATCH] if(resolved && forAnnotations){
+[PATCH] if(resolved && isPropertyInferred()){
+[PATCH] if(resolved && isSupportedCycle()){
+[PATCH] if(resolved && tryFindTypeCycle()){
+[PATCH] if(resolved && findTypeCycle()){
+[PATCH] if(resolved && this.isReference()){
+[PATCH] if(resolved && hasReferenceName()){
+[PATCH] if(resolved && isPropertyContinuation()){
+[PATCH] if(!resolved){
+[PATCH] if(resolved && isPropertyTree()){
+[PATCH] if(resolved && walker == null){
+[PATCH] if(resolved && encounteredTypeCycle){
+[PATCH] if(resolved && typeCycle == null){
+[PATCH] if(resolved && listeners == null){
+[PATCH] if(resolved && supportsTypeCycle()){
+[PATCH] if(resolved && isTypeCycle()){
+[PATCH] if(resolved && enclosing == this){
+[PATCH] if(resolved && true){
+[PATCH] if(resolved && supportTypeCycle){
+[PATCH] if(resolved && isCycle()){
+[PATCH] if(resolved && iterator == null){
+[PATCH] if(resolved && transitions == null){
+[PATCH] if(resolved && false){
+[PATCH] if(resolved && isFirstGeneration()){
+[PATCH] if(resolved && resolved){
+[PATCH] if(resolved && cycles == null){
+[PATCH] if(resolved && reference == null){
+[PATCH] if(resolved && declaration == null){
+[PATCH] if(resolved && isInterface()){
+[PATCH] if(resolved && checkForAnnotations){
+[PATCH] if(resolved && itf){
+[PATCH] if(resolved && enclosing){
+[PATCH] if(resolved && unresolved){
+[PATCH] if(resolved == true){

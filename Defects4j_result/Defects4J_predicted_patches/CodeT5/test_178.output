@@ -1,0 +1,100 @@
+[PATCH] if(node.getType() == Token.CALL && NodeUtil.isGet(parent)) {
+[PATCH] if(node.getType() == Token.CALL && NodeUtil.isGet(child)) {
+[PATCH] if(node.getType() == Token.CALL && NodeUtil.isFunctionCall(node)) {
+[PATCH] if(node.getType() == Token.CALL && NodeUtil.isFunctionAnonymous(node)) {
+[PATCH] if(node.getType() == Token.CALL && NodeUtil.isGet(firstChild)) {
+[PATCH] if(node.getType() == Token.CALL && NodeUtil.isExprCall(node)) {
+[PATCH] if(node.getType() == Token.CALL && NodeUtil.isNew(node)) {
+[PATCH] if(node.getType() == Token.CALL && NodeUtil.isCallSite(node)) {
+[PATCH] if(node.getFirstChild().getType() == Token.CALL && NodeUtil.isGet(child)) {
+[PATCH] if(node.getType() == Token.CALL && NodeUtil.isFunctionDeclaration(node)) {
+[PATCH] if(node.getType() == Token.CALL && NodeUtil.isFunctionObjectCall(node)) {
+[PATCH] if(node.getType() == Token.CALL && changed.contains(child.getString())) {
+[PATCH] if(node.getType() == Token.CALL && NodeUtil.isCallThatTriggersRemoval(node)) {
+[PATCH] if(node.getType() == Token.CALL && NodeUtil.isExpressionNode(parent)) {
+[PATCH] if(node.getType() == Token.CALL && NodeUtil.isGet(callNode)) {
+[PATCH] if(node.getType() == Token.CALL && NodeUtil.isExprCall(parent)) {
+[PATCH] if(node.getType() == Token.CALL && NodeUtil.isGetFirstChild(node)) {
+[PATCH] if(node.getType() == Token.CALL && NodeUtil.isCall(node)) {
+[PATCH] if(node.getType() == Token.CALL && child.getFirstChild() == node.callNode){
+[PATCH] if(node.getType() == Token.CALL && child.getFirstChild() == node.firstChild){
+[PATCH] if(node.getType() == Token.CALL && child.getFirstChild() == node){
+[PATCH] if(node.getType() == Token.NAME && child.getString().equals("call")) {
+[PATCH] if(node.getType() == Token.CALL && NodeUtil.isCallAnonymous(node)) {
+[PATCH] if(node.getType() == Token.CALL && NodeUtil.isGetCall(node)) {
+[PATCH] if(node.getType() == Token.CALL && parent.getFirstChild() == node){
+[PATCH] if(node.getType() == Token.CALL && NodeUtil.isGet(child)) {
+[PATCH] if(node.getType() == Token.CALL && NodeUtil.isFunctionCall(node)) {
+[PATCH] if(node.getFirstChild().getType() == Token.CALL && NodeUtil.isGet(parent)) {
+[PATCH] if(node.getType() == Token.CALL && NodeUtil.isGet(root)) {
+[PATCH] if(node.getFirstChild().getType() == Token.NAME){
+[PATCH] if(node.getType() == Token.CALL && NodeUtil.isFnCall(node)) {
+[PATCH] if(node.getType() == Token.CALL && child.getFirstChild() == node.lastChild){
+[PATCH] if(node.getType() == Token.CALL && NodeUtil.isCallOrNew(node)) {
+[PATCH] if(node.getType() == Token.CALL && NodeUtil.isGetChild(node)) {
+[PATCH] if(node.getType() == Token.CALL && NodeUtil.isGet(Node.GETPROP)) {
+[PATCH] if(node.getType() == Token.CALL && NodeUtil.isGet(lastChild)) {
+[PATCH] if(node.getType() == Token.CALL && child.getFirstChild() == node.this){
+[PATCH] if(node.getType() == Token.CALL && NodeUtil.isFunctionsCall(node)) {
+[PATCH] if(node.getType() == Token.CALL &&!NodeUtil.isNew(node)) {
+[PATCH] if(node.getType() == Token.CALL && NodeUtil.isExprCall(node)) {
+[PATCH] if(node.getType() == Token.CALL && child.getFirstChild() == node.newExpr){
+[PATCH] if(node.getType() == Token.CALL && child.getFirstChild() == node.returnNode();
+[PATCH] if(node.getType() == Token.CALL && NodeUtil.isGet(parent)) {
+[PATCH] if(node.getType() == Token.CALL &&changed.contains(child.getString())) {
+[PATCH] if(node.getType() == Token.CALL && NodeUtil.isGet(parentNode)) {
+[PATCH] if(node.getType() == Token.CALL && NodeUtil.isCallSite(node)) {
+[PATCH] if(node.getType() == Token.CALL && child.getFirstChild() == node.execute()){
+[PATCH] if(node.getType() == Token.CALL && NodeUtil.isFunctionInvocation(node)) {
+[PATCH] if(node.getType() == Token.CALL && NodeUtil.isGetCalledFunction(node)) {
+[PATCH] if(node.getType() == Token.CALL && NodeUtil.isCallAliasedFunctionDeclaration(node)) {
+[PATCH] if(node.getType() == Token.CALL && NodeUtil.isGet(firstChild)) {
+[PATCH] if(node.getType() == Token.CALL && child.getFirstChild() == node.callee){
+[PATCH] if(node.getType() == Token.CALL && callNode == node.getFirstChild()){
+[PATCH] if(node.getType() == Token.CALL && NodeUtil.isGet(node)) {
+[PATCH] if(node.getType() == Token.CALL && NodeUtil.isLhs(node, parent)) {
+[PATCH] if(node.getType() == Token.CALL && NodeUtil.isStaticCall(node)) {
+[PATCH] if(node.getType() == Token.CALL && NodeUtil.isCallAndNew(node)) {
+[PATCH] if(node.getType() == Token.CALL && NodeUtil.isCall(parent)) {
+[PATCH] if(node.getType() == Token.CALL && NodeUtil.isFunctionCaller(node)) {
+[PATCH] if(node.getType() == Token.CALL && NodeUtil.isNew(node)) {
+[PATCH] if(node.getType() == Token.CALL && child.getFirstChild()!= null){
+[PATCH] if(node.getType() == Token.CALL && child.getFirstChild() == node.NEW){
+[PATCH] if(node.getType() == Token.CALL && child.getFirstChild() == node.returnValue();
+[PATCH] if(node.getType() == Token.CALL && child.getFirstChild() == node.New){
+[PATCH] if(node.getType() == Token.CALL && NodeUtil.isCall(node.getFirstChild)) {
+[PATCH] if(node.getType() == Token.CALL && NodeUtil.isGet(parent, node)) {
+[PATCH] if(node.getType() == Token.CALL && NodeUtil.isReturn(node)) {
+[PATCH] if(node.getType() == Token.CALL && child.getFirstChild() == node.delegateNode){
+[PATCH] if(node.getType() == Token.CALL && child.getFirstChild() == node.call){
+[PATCH] if(node.getType() == Token.CALL && child.getFirstChild() == node.delegateCall){
+[PATCH] if(node.getChildCount() == 3){
+[PATCH] if(node.getType() == Token.CALL && siblingIndex == 0){
+[PATCH] if(node.getFirstChild().getType() == Token.CALL){
+[PATCH] if(node.getType() == Token.NAME){
+[PATCH] if(node.getChildCount() == 4){
+[PATCH] if(changed.contains(node.getString())) {
+[PATCH] if(node.getType() == Token.GETPROP){
+[PATCH] if(node.getNext().getType() == Token.CALL){
+[PATCH] if(NodeUtil.isFunctionCall(node)) {
+[PATCH] if(node.getChildCount() == 2){
+[PATCH] if(node.getType() == Token.NEW){
+[PATCH] if(node.getType() == Token.CALL){
+[PATCH] changed.add(child.getString());
+[PATCH] if(NodeUtil.isExprCall(node)) {
+[PATCH] if(node.getChildCount() == 1){
+[PATCH] if(node.getJSDocInfo()!= null){
+[PATCH] if(NodeUtil.isCall(node)) {
+[PATCH] if(node.getChildCount() == 5){
+[PATCH] if(node.getChildCount() == 6){
+[PATCH] if(privateFunctionNames.contains(node)) {
+[PATCH] if(node.getCallback() == null){
+[PATCH] if(node.getChildCount() > 1){
+[PATCH] if(node.getFunction()!= null){
+[PATCH] if(node.getFirstChild()!= null){
+[PATCH] if(node.getNext()!= null){
+[PATCH] if(node.getFunction() == null){
+[PATCH] if(privateFunctionInliningEnabled){
+[PATCH] if(!node.isNew()){
+[PATCH] if(changed.size() == 1){
+[PATCH] if(NODE_FUNCTIONS == node){

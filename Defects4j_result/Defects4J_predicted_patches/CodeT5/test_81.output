@@ -1,0 +1,100 @@
+[PATCH] boolean allZeros = val.startsWith("0b")|| val.startsWith("-0b");
+[PATCH] boolean allZeros = val.startsWith("0")|| val.startsWith("-0");
+[PATCH] boolean allZeros = val.startsWith("0")) { if(!allZeros){ return null; }
+[PATCH] if(val.startsWith("0")) { return null; }
+[PATCH] boolean allZeros = val.length() == 1; if(val.startsWith("0")) { return null; }
+[PATCH] boolean allZeros = val.startsWith("0E" || val.startsWith("-0E")) == false;
+[PATCH] boolean allZeros = val.startsWith("0" || val.startsWith("-0")) == false;
+[PATCH] boolean allZeros = val.startsWith("0b")|| val.startsWith("-0b");
+[PATCH] boolean allZeros = val.length() < 2; if(val.startsWith("0")) { return null; }
+[PATCH] boolean allZeros = val.startsWith("0E" || val.startsWith("-0E")) == true;
+[PATCH] boolean allZeros = val.startsWith("0")) { if(allZeros){ return null; }
+[PATCH] if(val.startsWith("--")) { return null; }
+[PATCH] if(val.startsWith("-")) { return null; }
+[PATCH] boolean allZeros = val.startsWith("0"), val.startsWith("-0");
+[PATCH] boolean allZeros = val.startsWith("0" || val.startsWith("-0")) == true;
+[PATCH] boolean allZeros = val.startsWith("0x")|| val.startsWith("-0x");
+[PATCH] boolean allZeros = val.startsWith("0")) { return Double.valueOf(val);
+[PATCH] boolean allZeros = val.startsWith("0"); if(val.startsWith("-")) { return null; }
+[PATCH] boolean allZeros = val.startsWith("0-");
+[PATCH] boolean allZeros = val.startsWith("0")|| val.startsWith("-0");
+[PATCH] boolean allZeros = val.startsWith("0")) { return Boolean.valueOf(val.substring(1));
+[PATCH] if(val.startsWith("0")) { return Double.valueOf(val); }
+[PATCH] boolean allZeros = val.startsWith("0")) { return new Double(val.substring(1));
+[PATCH] boolean allZeros = val.startsWith("0.");
+[PATCH] boolean allZeros = val.startsWith("0")) { return createLong(val);
+[PATCH] boolean allZeros = val.startsWith("0")|| val.startsWith("-0".equals(val);
+[PATCH] boolean allZeros = val.startsWith("0" + val.substring(1));
+[PATCH] boolean allZeros = val.startsWith("0 [CE] [CE] [CE] [CE] [CE] [CE] [CE] [CE] [CE] [CE] [CE] [CE] [CE] [CE].");
+[PATCH] boolean allZeros = val.startsWith("0b")|| val.startsWith("-0b")) == true;
+[PATCH] boolean allZeros = val.startsWith("0a")|| val.startsWith("-0a");
+[PATCH] boolean allZeros = val.startsWith("0 [CE] [CE] [CE] [CE] [CE] [CE] [CE] [CE] [CE] [CE] [CE] [CE] [CE].");
+[PATCH] boolean allZeros = val.startsWith("0 [CE] [CE] [CE] [CE] [CE] [CE] [CE] [CE] [CE] [CE] [CE] [CE].");
+[PATCH] boolean allZeros = val.startsWith("0")||"0".equals(val.substring(1));
+[PATCH] boolean allZeros = val.equals("allZeros")|| val.equals("-AllZeros");
+[PATCH] boolean allZeros = val.startsWith("0")) { return createInteger(val);
+[PATCH] boolean allZeros = val.startsWith("0".equals(val.substring(1)));
+[PATCH] boolean allZeros = val.startsWith("0")) { return createInteger(val, true);
+[PATCH] boolean allZeros = val.startsWith("0" || val.startsWith("-0");
+[PATCH] boolean allZeros = val.startsWith("0")) { return null;
+[PATCH] boolean allZeros = val.startsWith("0-")) { if(!allZeros){ return null; }
+[PATCH] boolean allZeros = val.startsWith("0")||"0".equals(val.substring(1)));
+[PATCH] if(val.startsWith("0")) { return createInteger(val); }
+[PATCH] boolean allZeros = val.startsWith("+")|| val.startsWith("-");
+[PATCH] if(val.startsWith("0")) { return new Double(val.substring(1)); }
+[PATCH] if(val.startsWith("0")) { return createLong(val); }
+[PATCH] boolean allZeros = val.startsWith("0f")|| val.startsWith("-f");
+[PATCH] boolean allZeros = val.startsWith("0")) { return createInteger(val, false);
+[PATCH] boolean allZeros = val.startsWith("0")||"0".equals(val);
+[PATCH] boolean allZeros = val.equals("-AllZeros")|| val.equals("0" + val);
+[PATCH] boolean allZeros = val.startsWith("0/")|| val.startsWith("-0/");
+[PATCH] boolean allZeros = val.startsWith("0" + val.length() - 1);
+[PATCH] if(val.startsWith("--")) { return createLong(val); }
+[PATCH] boolean allZeros = val.startsWith("0");
+[PATCH] boolean allZeros = val.startsWith("0")) { return createBoolean(val);
+[PATCH] if(val.startsWith("0-")) { return null; }
+[PATCH] boolean allZeros = val.startsWith("0"): val.startsWith("-0");
+[PATCH] boolean allZeros = val.startsWith("0")) { return Boolean.FALSE;
+[PATCH] boolean allZeros = val.equals("-AllZeros")|| val.equals("Infinity");
+[PATCH] boolean allZeros = val.startsWith("0")) { return true;
+[PATCH] boolean allZeros = val.startsWith("0")||"0";
+[PATCH] boolean allZeros = val.equals("-AllZeros")|| val.equals("+");
+[PATCH] boolean allZeros = val.startsWith("0");
+[PATCH] if(val.startsWith("0.")) { return null; }
+[PATCH] boolean allZeros = val.startsWith("0").length() == 0;
+[PATCH] boolean allZeros = val.startsWith("0*");
+[PATCH] boolean allZeros = val.startsWith("0$");
+[PATCH] boolean allZeros = val.equals("-AllZeros");
+[PATCH] boolean allZeros = val.length() == 1;
+[PATCH] boolean allZeros = val.startsWith("0?")||"0";
+[PATCH] boolean allZeros = val.startsWith("0?");
+[PATCH] boolean allZeros = val.startsWith("0"), false;
+[PATCH] if(val.startsWith("0")) { return NaN; }
+[PATCH] boolean allZeros = val.startsWith("0x");
+[PATCH] boolean allZeros = val.startsWith("0_");
+[PATCH] boolean allZeros = val.length() < 2;
+[PATCH] boolean allZeros = val.startsWith("0/");
+[PATCH] boolean allZeros = isAllZeros(val);
+[PATCH] boolean allZeros = val.equals("-Infinity");
+[PATCH] boolean allZeros = val.startsWith("0...");
+[PATCH] boolean allZeros = val.startsWith("0-9");
+[PATCH] boolean allZeros = val.startsWith("0;");
+[PATCH] boolean allZeros = val.isAllZeros();
+[PATCH] boolean allZeros = val.equals("-allZeros");
+[PATCH] boolean allZeros = val.length() > 0;
+[PATCH] boolean allZeros = val.startsWith("++");
+[PATCH] boolean allZeros = val.equals("allZeros");
+[PATCH] boolean allZeros = val.length() == 0;
+[PATCH] val = val.trim();
+[PATCH] boolean allZeros = val.equals("-Z");
+[PATCH] boolean allZeros = val.indexOf("0");
+[PATCH] boolean allZeros = val.allZeros();
+[PATCH] boolean allZeros = val.length();
+[PATCH] int allZeros = val.length();
+[PATCH] trimTrailingZeroes(val);
+[PATCH] value = val.trim();
+[PATCH] return createLong(val);
+[PATCH] checkLenient();
+[PATCH] validateValue(val);
+[PATCH] validate(val);
+[PATCH] clearPrefix();

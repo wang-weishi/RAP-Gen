@@ -1,0 +1,100 @@
+[PATCH] return FastMath.pow(2 * Math.PI, -dim / 2)*
+[PATCH] return FastMath.pow(2 * FastMath.PI, -dim / 2)*
+[PATCH] return Math.pow(2 * FastMath.PI, -dim / 2)*
+[PATCH] return FastMath.pow(10, -dim / 2)*
+[PATCH] return FastMath.pow(2 * Gamma.PI, -dim / 2)*
+[PATCH] return FastMath.pow(10 * Math.PI, -dim / 2)*
+[PATCH] return Math.pow(10, -dim / 2)*
+[PATCH] return Math.pow(2 * Math.PI, -dim / 2)*
+[PATCH] return FastMath.pow(10, -dim)*
+[PATCH] return FastMath.pow(2 * Gradient.PI, -dim / 2)*
+[PATCH] return Gamma.pow(2 * Math.PI, -dim / 2)*
+[PATCH] return Math.pow(10, -dim)*
+[PATCH] return Math.pow(2 * Gamma.PI, -dim / 2)*
+[PATCH] return Gamma.pow(2 * FastMath.PI, -dim / 2)*
+[PATCH] return FastMath.pow(2 * Math.PI, 2 * dim)*
+[PATCH] return Double.pow(2 * FastMath.PI, -dim / 2)*
+[PATCH] return FastMath.pow(2 * Math.PI, 0.5)*
+[PATCH] return Double.pow(2 * Math.PI, -dim / 2)*
+[PATCH] return FastMath.pow(2 * Double.PI, -dim / 2)*
+[PATCH] return FastMath.pow(2 * Math.PI, -dim)*
+[PATCH] return Math.pow(10 * Math.PI, -dim / 2)*
+[PATCH] return FastMath.pow(2 * 0.5, -dim / 2)*
+[PATCH] return FastMath.pow(3 * Math.PI, -dim / 2)*
+[PATCH] return FastMath.pow(2 * Math.PI, 2)*
+[PATCH] return FastMath.pow(2 * mu, -dim / 2)*
+[PATCH] return FastMath.pow(2 * Float.PI, -dim / 2)*
+[PATCH] return FastMath.pow(2 * Math.PI,(-dim / 2)*
+[PATCH] return FastMath.pow(10 * Gamma.PI, -dim / 2)*
+[PATCH] return FastMath.pow(4 * Math.PI, -dim / 2)*
+[PATCH] return FastMath.pow(2 * FastMath.PI, 0.5)*
+[PATCH] return FastMath.pow(2 * FastMath.PI, 2 * dim)*
+[PATCH] return FastMath.pow(2 * Math.pi, -dim / 2)*
+[PATCH] return FastMath.pow(2 * LOG.PI, -dim / 2)*
+[PATCH] return FastMath.pow(2 * Matrix.PI, -dim / 2)*
+[PATCH] return Mean.pow(2 * Math.PI, -dim / 2)*
+[PATCH] return Math.pow(2 * Gradient.PI, -dim / 2)*
+[PATCH] return FastMath.pow(2 * System.PI, -dim / 2)*
+[PATCH] return FastMath.pow(2 * ArrayIterator.PI, -dim / 2)*
+[PATCH] return FastMath.pow(2 * Math.log, -dim / 2)*
+[PATCH] return Mean.pow(2 * FastMath.PI, -dim / 2)*
+[PATCH] return FastMath.pow(2 * x, -dim / 2)*
+[PATCH] return FastMath.pow(2 * Random.PI, -dim / 2)*
+[PATCH] return FastMath.pow(2 * Vector.PI, -dim / 2)*
+[PATCH] return FastMath.pow(10 * Math.PI, 2 * dim)*
+[PATCH] return FastMath.pow(0.5, -dim / 2)*
+[PATCH] return FastMath.pow(2 *sqrt.PI, -dim / 2)*
+[PATCH] return FastMath.pow(2 * sqrt.PI, -dim / 2)*
+[PATCH] return FastMath.pow(10, -dim * 2)*
+[PATCH] return FastMath.pow(2*Math.PI, -dim / 2)*
+[PATCH] return FastMath.pow(2 * G, -dim / 2)*
+[PATCH] return %.pow(2 * FastMath.PI, -dim / 2)*
+[PATCH] return FastMath.pow(2 * FastMath.PI, -dim)*
+[PATCH] return FastMath.pow(2 * Math.PI, - dim / 2)*
+[PATCH] return FastMath.pow(2 * np.PI, -dim / 2)*
+[PATCH] return FastMath.pow(2 * Ra.PI, -dim / 2)*
+[PATCH] return FastMath.pow(2 * Math.PI, -dim / 2)-
+[PATCH] return FastMath.pow(10, 2 * Math.PI)*
+[PATCH] return FastMath.pow(2 * Math.PI, -dim/ 2)*
+[PATCH] return %.pow(2 * Math.PI, -dim / 2)*
+[PATCH] return FastMath.pow(1.0, -dim / 2)*
+[PATCH] return FastMath.pow(2 * Math.PI, -dim)/ 2)*
+[PATCH] return FastMath.pow(2 * exp, -dim / 2)*
+[PATCH] return FastMath.pow(2 * Math.PI, dim / 2)*
+[PATCH] return Math.pow(2 * FastMath.PI, 0.5)*
+[PATCH] return FastMath.pow(2 * Math.PI, -dims / 2)*
+[PATCH] return FastMath.pow(2 * Math.PI, 2 *
+[PATCH] return FastMath.pow(2 * MOVE, -dim / 2)*
+[PATCH] return FastMath.pow(2 * 4, -dim / 2)*
+[PATCH] return Math.pow(2 * FastMath.PI, -dim)*
+[PATCH] return Math.pow(10, -dim * 2)*
+[PATCH] return FastMath.pow(10.0, -dim / 2)*
+[PATCH] return FastMath.pow(2 * FastMath.PI, 2)*
+[PATCH] return(2 * Math.PI, -dim / 2)*
+[PATCH] return FastMath.pow(2 * Math.PI, 10.0)*
+[PATCH] return FastMath.pow(2 * Math.PI, 4 * dim)*
+[PATCH] return FastMath.pow(2 * 2, -dim / 2)*
+[PATCH] return Math.pow(2 * FastMath.PI, 2 * dim)*
+[PATCH] return FastMath.pow(2 * Math.PI, -axis / 2)*
+[PATCH] return FastMath.pow(2 * ln, -dim / 2)*
+[PATCH] return FastMath.pow(2 * M, -dim / 2)*
+[PATCH] return FastMath.pow(Math.PI, -dim / 2)*
+[PATCH] return(2 * FastMath.PI, -dim / 2)*
+[PATCH] return FastMath.pow(2 * FastMath.PI, -dim / 2)-
+[PATCH] return FastMath.pow(2 * Gamma.PI, 2 * dim)*
+[PATCH] return FastMath.pow(2 * Math.PI, 1.0)*
+[PATCH] return Math.pow(10, 2 * FastMath.PI)*
+[PATCH] return FastMath.pow(2 * Math.PI, 2 * size)*
+[PATCH] return FastMath.pow(10 * Math.PI, 2)*
+[PATCH] return FastMath.pow(2 * Math.PI, -d / 2)*
+[PATCH] return FastMath.pow(2 * Math.PI, 2 * mu)*
+[PATCH] return FastMath.pow(2 * Math.PI, -dim);
+[PATCH] return FastMath.pow(10, -dim)/ 2)*
+[PATCH] return FastMath.pow(2 * FastMath.PI, -dim/ 2)*
+[PATCH] return FastMath.pow(2 * Math.PI, 2*dim)*
+[PATCH] returnFastMath.pow(10, -dim / 2)*
+[PATCH] return Double.pow(10, -dim / 2)*
+[PATCH] return FastMath.pow(2 * FastMath.PI, -dim)/ 2)*
+[PATCH] return FastMath.pow(2 * Math.PI, 0.0)*
+[PATCH] return FastMath.pow(2 * FastMath.PI, 2 *
+[PATCH] return FastMath.pow(2 * Gamma.PI, -dim)*

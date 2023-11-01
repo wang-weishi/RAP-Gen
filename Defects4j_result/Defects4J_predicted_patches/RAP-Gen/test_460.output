@@ -1,0 +1,100 @@
+[PATCH] if(_objectIdReader!= null){ if(id instanceof ObjectId){ return deserializeFromObjectId(jp, ctxt, instance); }
+[PATCH] if(_objectIdReader!= null){ if(id instanceof ObjectId){ return deserializeWithObjectId(jp, ctxt, id); }
+[PATCH] if(_objectIdReader!= null){ if(id instanceof ObjectId){ id = deserializeObjectId(jp, ctxt, instance); }
+[PATCH] if(_objectIdReader!= null){ if(id instanceof ObjectId){ return deserializeWithObjectId(jp, ctxt, instance); }
+[PATCH] if(_objectIdReader!= null){ if(id instanceof ObjectId){ return deserializeFromObjectId(jp, ctxt, id); }
+[PATCH] while(jp.nextToken()!= JsonToken.END_ARRAY){ jp.skipChildren();
+[PATCH] while(jp.nextToken()!= JsonToken.FIELD_NAME){ id = deserialize(jp, ctxt);
+[PATCH] while(jp.nextToken()!= JsonToken.FIELD_NAME){ id = deserializeValue(jp, ctxt);
+[PATCH] if(_objectIdReader!= null){ if(id instanceof ObjectId){ id = deserializeObjectId(jp, ctxt); }
+[PATCH] if(_objectIdReader!= null){ if(id.isEmpty()){ return null; }
+[PATCH] if(_objectIdReader!= null){ if(id instanceof ObjectId){ id = deserializeFromObjectId(jp, ctxt); }
+[PATCH] if(id!= null){ if(_objectIdReader == null){ _objectIdReader = new ObjectIdReader(ctxt); }
+[PATCH] if(_objectIdReader!= null){ if(id instanceof ObjectId){ return deserializeFromObject(jp, ctxt, instance); }
+[PATCH] while(jp.nextToken()!= JsonToken.END_ARRAY){ id = deserialize(jp, ctxt);
+[PATCH] if(_objectIdReader!= null){ if(id instanceof ObjectId){ throw ctxt.mappingException(""); }
+[PATCH] while(jp.nextToken()!= JsonToken.FIELD_NAME){ id = _deserialize(jp, ctxt);
+[PATCH] if(_objectIdReader!= null){ if(id instanceof ObjectId){ id = deserializeFromObjectId(jp, ctxt, instance); }
+[PATCH] while(jp.nextToken()!= JsonToken.FIELD_NAME){ id = deserializeFromObject(jp, ctxt);
+[PATCH] if(_objectIdReader!= null){ if(id instanceof ObjectId){ objectIdReader.deserializeAndSet(jp, ctxt, instance); }
+[PATCH] if(_objectIdReader!= null){ if(id == ObjectIdReader.None.class){ return null; }
+[PATCH] while(jp.nextToken()!= JsonToken.START_OBJECT){ id = deserialize(jp, ctxt);
+[PATCH] while(jp.nextToken()!= JsonToken.FIELD_NAME){ id = deserializeFromObjectId(jp, ctxt);
+[PATCH] while(jp.nextToken()!= JsonToken.FIELD_NAME){ id = deserializeWithObjectId(jp, ctxt, id);
+[PATCH] if(_objectIdReader!= null){ if(id instanceof ObjectId){ return deserializeObjectId(jp, ctxt, instance); }
+[PATCH] if(_objectIdReader!= null){ if(id instanceof ObjectId){ id = deserializeObjectId(jp, ctxt, objectIdReader); }
+[PATCH] if(_objectIdReader!= null){ if(id instanceof ObjectId){ id = deserializeFromObject(jp, ctxt); }
+[PATCH] while(jp.nextToken()!= JsonToken.FIELD_NAME){ jp.skipChildren();
+[PATCH] if(_objectIdReader!= null){ if(id instanceof ObjectId){ id =(( ObjectId)id).getValue(); }
+[PATCH] if(id!= null){ if(_objectIdReader == null){ _objectIdReader = ctxt.getObjectIdReader(); }
+[PATCH] if(_objectIdReader!= null){ if(id instanceof ObjectId){ id = deserializeWithObjectId(jp, ctxt, instance); }
+[PATCH] while(jp.nextToken()!= JsonToken.VALUE_STRING){ id = deserialize(jp, ctxt);
+[PATCH] if(_objectIdReader!= null){ if(id == ObjectIdReader.None.class){ return instance; }
+[PATCH] while(jp.nextToken()!= JsonToken.VALUE_NUMBER_INT){ id = deserialize(jp, ctxt);
+[PATCH] if(_objectIdReader!= null){ if(id instanceof ObjectId){ id = ctxt.deserializeObjectId(jp, ctxt); }
+[PATCH] if(_objectIdReader!= null){ if(id instanceof ObjectId){ _objectIdReader.reset(); }
+[PATCH] while(jp.nextToken() == JsonToken.START_OBJECT){ id = deserialize(jp, ctxt);
+[PATCH] if(_objectIdReader!= null){ if(id == null || id.length() == 0){ return null; }
+[PATCH] while(jp.nextToken()!= JsonToken.START_OBJECT){ id = deserializeValue(jp, ctxt);
+[PATCH] while(jp.nextToken()!= JsonToken.END_OBJECT){ jp.skipChildren();
+[PATCH] _objectIdReader.deserializeAndSet(jp, ctxt, id);
+[PATCH] if(_objectIdReader!= null){ if(id instanceof ObjectId){ id = objectIdReader.deserialize(jp, ctxt); }
+[PATCH] while(jp.nextToken()!= JsonToken.FIELD_NAME){ id = _parseObjectId(jp, ctxt);
+[PATCH] if(_objectIdReader!= null){ if(id instanceof ObjectId){ objectIdReader = ctxt.findObjectIdReader(id); }
+[PATCH] while(jp.nextToken()!= JsonToken.FIELD_NAME){ id = deserializeGet(jp, ctxt);
+[PATCH] while(jp.nextToken()!= JsonToken.VALUE_NUMBER_INT){ id = deserializeValue(jp, ctxt);
+[PATCH] while(jp.nextToken()!= JsonToken.START_OBJECT){ id = deserializeFromObject(jp, ctxt);
+[PATCH] while(jp.nextToken() == JsonToken.VALUE_NUMBER_INT){ id = deserialize(jp, ctxt);
+[PATCH] if(_objectIdReader!= null){ if(id.equals("")) { return instance; }
+[PATCH] while(jp.nextToken()!= JsonToken.START_OBJECT){ id = _deserialize(jp, ctxt);
+[PATCH] if(_objectIdReader!= null){ if(id == null || id.length() == 0){ return instance; }
+[PATCH] while(jp.nextToken()!= JsonToken.VALUE_NUMBER_INT){ id = deserializeFromObjectId(jp, ctxt);
+[PATCH] if(_objectIdReader!= null){ if(id instanceof ObjectId){ id = deserialize(( ObjectId)id, ctxt); }
+[PATCH] if(_objectIdReader!= null){ if(id.length() == 0){ return null; }
+[PATCH] if(_objectIdReader.generator!= null){ if(id == ObjectIdReader.None.class){ return null; }
+[PATCH] if(id!= null){ if(_objectIdReader.generator == ObjectIdGenerators.None.class){ return null; }
+[PATCH] if(_objectIdReader!= null){ if(id instanceof ObjectId){ return deserializeUsingObjectId(jp, ctxt, instance); }
+[PATCH] while(jp.nextToken()!= JsonToken.VALUE_EMBEDDED_OBJECT){ id = deserialize(jp, ctxt);
+[PATCH] if(id!= null){ if(_objectIdReader == null){ _objectIdReader = ctxt.findObjectIdReader(); }
+[PATCH] if(_objectIdReader!= null){ if(id == ObjectIdReader.None.valueOf(id)) { return null; }
+[PATCH] if(_objectIdReader.generator!= null){ if(id instanceof ObjectId){ id = deserializeObjectId(jp, ctxt); }
+[PATCH] while(jp.nextToken() == JsonToken.VALUE_STRING){ id = deserialize(jp, ctxt);
+[PATCH] if(_objectIdReader!= null){ if(id instanceof ObjectId){ id =(( ObjectId)id).getObjectId(); }
+[PATCH] while(jp.nextToken() == JsonToken.FIELD_NAME){ id = deserialize(jp, ctxt);
+[PATCH] if(_objectIdReader!= null){ if(id instanceof ObjectId){ return deserializeFromObjectId(jp, ctxt); }
+[PATCH] if(_objectIdReader.canCreateUsingDefault()){ if(id == null){ return null; }
+[PATCH] if(_objectIdReader.hasNext()){ if(id == null){ return null; }
+[PATCH] if(_objectIdReader!= null){ if(id instanceof ObjectId){ continue; }
+[PATCH] if(id!= null){ if(_objectIdReader == null){ return null; }
+[PATCH] if(_objectIdReader!= null){ if(id instanceof ObjectId){ return deserializeFromObject(jp, ctxt, id); }
+[PATCH] if(_objectIdReader.generator!= null){ if(id == ObjectIdReader.None.class){ return instance; }
+[PATCH] if(_objectIdReader!= null){ if(id == null){ return null; }
+[PATCH] if(_objectIdReader!= null){ if(id.equals("")) { return null; }
+[PATCH] while(jp.nextToken()!= JsonToken.FIELD_NAME){ id = deserializeObjectId(jp, ctxt);
+[PATCH] while(jp.nextToken()!= JsonToken.START_OBJECT){ jp.skipChildren();
+[PATCH] while(jp.nextToken() == JsonToken.END_ARRAY){ jp.skipChildren();
+[PATCH] while(jp.nextToken() == JsonToken.START_OBJECT){ jp.skipChildren();
+[PATCH] if(_objectIdReader!= null){ if(id == null)return null;
+[PATCH] _objectIdReader = ctxt.findObjectIdReader(id);
+[PATCH] ObjectIdReader objectIdReader = ctxt.findObjectIdReader(id);
+[PATCH] instance = _valueDeserializer.deserialize(jp, ctxt);
+[PATCH] _objectIdReader = ctxt.getObjectIdReader();
+[PATCH] ObjectIdReader objectIdReader = ctxt.getObjectIdReader();
+[PATCH] return deserializeWithObjectId(jp, ctxt, id);
+[PATCH] _deserializeAndSet(jp, ctxt, id);
+[PATCH] _objectIdReader.reset(instance);
+[PATCH] deserializeAndSet(jp, ctxt, instance);
+[PATCH] deserializeAndSet(jp, ctxt, id);
+[PATCH] _objectIdReader.reset();
+[PATCH] id = deserialize(jp, ctxt);
+[PATCH] _objectIdReader.find();
+[PATCH] synchronized(instance);
+[PATCH] nonNull(id);
+[PATCH] withObjectId(id);
+[PATCH] if("");
+[PATCH] refresh();
+[PATCH] ;
+);
+;
+());
+*/

@@ -1,0 +1,100 @@
+[PATCH] } else if(actualTypeArgument instanceof Type){
+[PATCH] } else if(actualTypeArgument instanceof ParameterizedType){
+[PATCH] } else if(actualTypeArgument instanceof TypeVariable<?>){
+[PATCH] } else if(actualTypeArgument instanceof Class<?>){
+[PATCH] } else if(actualTypeArgument instanceof GenericParameterType){
+[PATCH] } else if(actualTypeArgument instanceof RegularType){
+[PATCH] } else if(actualTypeArgument instanceof UnionType){
+[PATCH] } else if(actualTypeArgument instanceof GenericArrayType){
+[PATCH] } else if(actualTypeArgument instanceof LocalType){
+[PATCH] } else if(!(actualTypeArgument instanceof Type)) {
+[PATCH] } else if(actualTypeArgument instanceof GenericType){
+[PATCH] } else if(actualTypeArgument == null){
+[PATCH] } else if(actualTypeArgument instanceof Integer){
+[PATCH] } else if(actualTypeArgument instanceof FunctionType){
+[PATCH] } else if(actualTypeArgument!= null){
+[PATCH] } else if(actualTypeArgument.isGeneric()){
+[PATCH] } else if(actualTypeArgument instanceof GenericUnionType){
+[PATCH] } else if(actualTypeArgument instanceof GenericTypeArguments){
+[PATCH] } else if(actualTypeArgument > 0){
+[PATCH] } else if(actualTypeArgument instanceof UnknownType){
+[PATCH] } else if(actualTypeArgument.isUnknownType()){
+[PATCH] } else if(actualTypeArgument.isPrimitive()){
+[PATCH] } else if(actualTypeArgument instanceof NamedType){
+[PATCH] } else if(actualTypeArgument instanceof ConstantType){
+[PATCH] } else if(actualTypeArgument instanceof Constructor){
+[PATCH] } else if(actualTypeArgument instanceof SimpleType){
+[PATCH] } else if(actualTypeArgument instanceof AnnotatedType){
+[PATCH] } else if(actualTypeArgument instanceof GenericBounds){
+[PATCH] } else if(actualTypeArgument < 0.0){
+[PATCH] } else if(!(actualTypeArgument instanceof ParameterizedType)) {
+[PATCH] } else if(actualTypeArgument instanceof InstanceType){
+[PATCH] } else if(actualTypeArgument instanceof TypeVariable<Type>){
+[PATCH] } else if(actualTypeArgument instanceof List){
+[PATCH] } else if(actualTypeArgument instanceof String){
+[PATCH] } else if(actualTypeArgument instanceof GenericInstanceType){
+[PATCH] } else if(actualTypeArgument instanceof Number){
+[PATCH] } else if(actualTypeArgument.length() > 0){
+[PATCH] } else if(actualTypeArgument instanceof LocalizedType){
+[PATCH] } else if(actualTypeArgument instanceof CompositeType){
+[PATCH] } else if(actualTypeArgument < typeParameters.length){
+[PATCH] } else if(actualTypeArgument instanceof Pointer){
+[PATCH] } else if(actualTypeArgument instanceof StringType){
+[PATCH] } else if(actualTypeArgument instanceof UnboundType){
+[PATCH] } else if(actualTypeArgument instanceof ObjectType){
+[PATCH] } else if(actualTypeArgument instanceof UnsupportedType){
+[PATCH] } else if(actualTypeArgument instanceof Argument){
+[PATCH] } else if(actualTypeArgument instanceof type){
+[PATCH] } else if(actualTypeArgument in contextualActualTypeParameters){
+[PATCH] } else if(actualTypeArgument instanceof LocalizedType){
+[PATCH] } else if(actualTypeArgument instanceof UnresolvedType){
+[PATCH] } else if(typeArgument.getSize() == 1){
+[PATCH] } else if(actualTypeArgument instanceof TypeVariable < Type>){
+[PATCH] } else if(actualTypeArgument instanceof SingletonType){
+[PATCH] } else if(actualTypeArgument instanceof LocalObjectType){
+[PATCH] } else if(actualTypeArgument instanceof RegularTypeParameter){
+[PATCH] } else if(actualTypeArgument instanceof EnumType){
+[PATCH] } else if(actualTypeArgument instanceof ArrayType){
+[PATCH] } else if(actualTypeArgument instanceof WildcardType){
+[PATCH] } else if(actualTypeArgument instanceofGenericType){
+[PATCH] } else if(actualTypeArgument instanceof GenericGenericType){
+[PATCH] } else if(actualTypeArgument instanceof MapType){
+[PATCH] } else if(actualTypeArgument instanceof TypeReference){
+[PATCH] } else if(actualTypeArgument instanceof TypeName){
+[PATCH] } else if(actualTypeArgument instanceof Collection){
+[PATCH] } else if(!actualTypeArgument.isEmpty()){
+[PATCH] } else if(actualTypeArgument instanceof TypeVariable){
+[PATCH] } else if(actualTypeArgument.equals(ClassType)) {
+[PATCH] } else if(!(actualTypeArgument instanceof List)) {
+[PATCH] } else if(actualTypeArgument instanceof Variable){
+[PATCH] } else if(typeArgument.getSize() > 0){
+[PATCH] } else if(actualTypeArgument == classType){
+[PATCH] } else if(actualTypeArgument instanceof Rectangle){
+[PATCH] } else if(actualTypeArgument instanceof TypeVariable <?>){
+[PATCH] } else if(typeArgument instanceof Type){
+[PATCH] } else if(actualTypeArgument instanceof Factory){
+[PATCH] } else if(actualTypeArgument instanceof LocalTime){
+[PATCH] } else if(actualTypeArgument instanceof GenericParamType){
+[PATCH] } else if(actualTypeArgument instanceof int){
+[PATCH] } else if(actualTypeArgument instanceof Double){
+[PATCH] } else if(actualTypeArgument < 1){
+[PATCH] } else if(actualTypeArgument instanceof GenericGenericParameterType){
+[PATCH] } else if(actualTypeArgument instanceof Size){
+[PATCH] } else if(actualTypeArgument instanceof Float){
+[PATCH] } else if(actualTypeArgument instanceof HashSet){
+[PATCH] } else if(actualTypeArgument instanceof JSType){
+[PATCH] } else if(actualTypeArgument instanceof TypeVariable<? >){
+[PATCH] } else if(actualTypeArgument.length() == 0){
+[PATCH] } else if(typeArgument.getSize() > 1){
+[PATCH] } else if(actualTypeArgument instanceof GenericGenericTypeArguments){
+[PATCH] } else if(actualTypeArgument instanceof GenericGeneric){
+[PATCH] } else if(actualTypeArgument
+[PATCH] } else if(true){
+[PATCH] } else if();
+[PATCH] } else {
+[PATCH] } else if
+[PATCH] return;
+[PATCH] }){
+[PATCH] continue;
+[PATCH] } else
+[PATCH] break;

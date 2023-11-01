@@ -1,0 +1,100 @@
+[PATCH] if(creatorProp.deserializeAndSet(p, ctxt)) {
+[PATCH] if(!creatorProp.deserializeAndSet(p, ctxt)) {
+[PATCH] if(creatorProp.deserializeSetAndReturn(p, ctxt)) {
+[PATCH] if(creatorProp.deserializeAndSet(p, ctxt)== null){
+[PATCH] if(ctxt.getConfig().hasCreatorProperty(propName)) {
+[PATCH] if(creatorProp.deserializeAndSet(p, ctxt, buffer)) {
+[PATCH] if(creatorProp.deserializeAndSet(p, ctxt)!= null){
+[PATCH] if(creatorProp.deserializeAndSet(p, ctxt)== false){
+[PATCH] if(jp.nextToken() == JsonToken.START_OBJECT){
+[PATCH] if(deserializer.canCreateUsingDefault()){
+[PATCH] if( creatorProp.deserializeAndSet(p, ctxt)) {
+[PATCH] if(t == JsonToken.START_OBJECT){
+[PATCH] if(!creatorProp.getCreator().canCreateUsingDefault()){
+[PATCH] if(creatorProp.deserializeAndSet(p, ctxt)< 0){
+[PATCH] if(creatorProp.deserializeAndSet(p, ctxt)== true){
+[PATCH] if(creatorProp.deserializeAndSet(p, ctxt)){
+[PATCH] if(deserializeAndSet(p, ctxt, propName)) {
+[PATCH] if(creatorProp.deserializeAndSet(p, ctxt, propName)) {
+[PATCH] if(jp.getCurrentToken() == JsonToken.START_OBJECT){
+[PATCH] if(ctxt.getConfig().canOverrideAccessModifiers()){
+[PATCH] if(p.nextToken() == JsonToken.START_OBJECT){
+[PATCH] if(creatorProp.deserializeAndSet(p, ctxt, null)) {
+[PATCH] if(creatorProp.deserializeIfUnwrapped(p, ctxt)) {
+[PATCH] if(factory.canCreateUsingDefault()){
+[PATCH] if(creatorProp.deserializeAndSet(p, ctxt, true)) {
+[PATCH] if(creator.deserializeAndSet(p, ctxt, propName)) {
+[PATCH] if(builderProp.deserializeAndSet(p, ctxt)) {
+[PATCH] if(!creatorProp.serializeAndSet(p, ctxt)) {
+[PATCH] if(deserializeAndSet(p, ctxt, creatorProp)) {
+[PATCH] if(creator.canCreateUsingDefault()){
+[PATCH] if(deserializer.hasCreatorProperty(propName)) {
+[PATCH] if(creatorProp.deserializeAndSet(p, ctxt), null){
+[PATCH] if(_buildMethod.getParameterTypes().contains(propName)) {
+[PATCH] if(!_creatorProp.deserializeAndSet(p, ctxt)) {
+[PATCH] if(creatorProp.validate(p, ctxt)) {
+[PATCH] if(ctxt.getConfig().hasIgnoreMarker(propName)) {
+[PATCH] if(factoryInfo.hasCreatorProperty(propName)) {
+[PATCH] if(creatorProp.getType() == JsonTypeInfo.class){
+[PATCH] if(creatorProp.deserializeAndSet(p, ctxt, buf)) {
+[PATCH] if(creatorProp.deserializeAndSet(p, ctxt), buffer){
+[PATCH] if(!creatorProp.set(ctxt, propName, buffer)) {
+[PATCH] if(creatorProp.deserializeAndSet(p, ctxt)== 0){
+[PATCH] if(creatorProp.deserializeAndSet(p, ctxt, t)) {
+[PATCH] if(_factoryConfig.hasCreatorProperty(propName)) {
+[PATCH] if(creatorProp.deserializeAndSet(p, ctxt): {
+[PATCH] if(deserializer.usesCreatorProperty(propName)) {
+[PATCH] if(generators[creatorProp.getCreatorIndex() ] == null){
+[PATCH] if(Creator.deserializeAndSet(p, ctxt, propName)) {
+[PATCH] if(creatorProp.deserializeAndSet(p, ctxt))){
+[PATCH] if(!creatorProp.set(ctxt, p)) {
+[PATCH] if(deserializer.deserializeAndSet(p, ctxt, propName)) {
+[PATCH] if(creatorProp.getCreatorType() == JsonTypeInfo.class){
+[PATCH] if(jp.getCurrentToken().isScalarValue()){
+[PATCH] if(!creatorProp.set(ctxt, buffer)) {
+[PATCH] if(creator.hasCreatorProperty(propName)) {
+[PATCH] if(ctxt.getConfig().canCreateUsingDefault()){
+[PATCH] if(factoryConfig.hasCreatorProperty(propName)) {
+[PATCH] if(factory.hasCreatorProperty(propName)) {
+[PATCH] if(creatorProp.getType() == JsonCreator.class){
+[PATCH] if(creatorProp.deserializeAndSet() == null){
+[PATCH] if(creatorProp.deserializeAndSet(p, ctxt), true){
+[PATCH] if(creatorProp.addDeserializer(p, ctxt)) {
+[PATCH] if(impl.hasCreatorProperty(propName)) {
+[PATCH] if(!creatorProp.set(p, null)) {
+[PATCH] if(creatorProp.getType() == JsonDeserializer.class){
+[PATCH] if(factoryType.canCreateUsingDefault()){
+[PATCH] if(context.hasCreatorProperty(propName)) {
+[PATCH] if(ctxt.getConfig().hasProperty(propName)) {
+[PATCH] if(creatorProp.deserializeAndThrow(p, ctxt)) {
+[PATCH] if(creatorProp.canCreateUsingDefault()){
+[PATCH] if(_buildMethod.getParameterTypes().length == 0){
+[PATCH] if(creatorProp.deserializeAndSet(p, ctxt), false){
+[PATCH] if(! creatorProp.deserializeAndSet(p, ctxt)) {
+[PATCH] if(!creatorProp.deserializeAndSet()){ continue; }
+[PATCH] if(t!= JsonToken.FIELD_NAME){
+[PATCH] if(!creatorProp.equals(prop)) {
+[PATCH] if(creatorProp.set(p, null)) {
+[PATCH] if(_buildMethod.getMember() == null){
+[PATCH] if(creatorProp.getDeserializer()!= null){
+[PATCH] if(jp.nextToken().isScalarValue()){
+[PATCH] if(creatorProp.deserializeSetAndReturn()){
+[PATCH] if(!creatorProp.canCreateUsingDefault()){
+[PATCH] if(!creatorProp.deserializeAndSet()){
+[PATCH] if(creatorProp.set(p, true)) {
+[PATCH] if(creatorProp.deserializeAndSet(p, ctxt){
+[PATCH] if(creatorProp.deserializeAndSet()){
+[PATCH] if(creatorProp.getCreatorParameterType() == propName){
+[PATCH] if(_buildMethod.getMember()!= null){
+[PATCH] if(ctxt.inGlobalScope()){
+[PATCH] if(ctxt.getConfig().hasDeserializer()){
+[PATCH] if(t == JsonToken.FIELD_NAME){
+[PATCH] if(deser.canCreateUsingDefault()){
+[PATCH] creatorProp.deserializeAndSet(p, ctxt);
+[PATCH] if(mapper.canCreateUsingDefault()){
+[PATCH] if(t.isScalarValue()){
+[PATCH] if(reader.canCreateUsingDefault()){
+[PATCH] if(writer.canCreateUsingDefault()){
+[PATCH] if(ctxt.inFactory()){
+[PATCH] if(creatorProp.hasDeserializer()){
+[PATCH] if(getDeserializer()!= null){

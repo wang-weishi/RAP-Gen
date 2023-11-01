@@ -1,0 +1,100 @@
+[PATCH] if(!lB.equals(uB)) { throw new IllegalArgumentException(""); }
+[PATCH] if(!isSequence(0, lB, uB)) { throw new IllegalArgumentException(""); }
+[PATCH] if(uB > lB){ throw new IllegalArgumentException(""); }
+[PATCH] if(!isSequence(0, lB, uB)) { if(bounds.length < 3){ throw new IllegalArgumentException(""); }
+[PATCH] if(lB * uB >= 0.0){ if(bounds[1] < lB){ throw new IllegalArgumentException(""); }
+[PATCH] if(!isSequence(lB, uB)) { throw new IllegalArgumentException(""); }
+[PATCH] if(!isSequence(0, 0, lB, uB)) { throw new IllegalArgumentException(""); }
+[PATCH] if(!intersectsEqual(lB, uB)) { throw new IllegalArgumentException(""); }
+[PATCH] if(!isSequence(0, lB, uB)) { if(bounds.length < 4){ throw new IllegalArgumentException(""); }
+[PATCH] if(!bounds[0].equals(lB)) { throw new IllegalArgumentException(""); }
+[PATCH] if(lB!= init[0]){ if(uB!= init[1]){ throw new IllegalArgumentException(""); }
+[PATCH] if(!bounds[0] &&!bounds[1]){ throw new IllegalArgumentException(""); }
+[PATCH] if(!isSequence(0, lB, uB)) { if(bounds.length!= 2){ throw new IllegalArgumentException(""); }
+[PATCH] if(lB * uB >= 0.0){ if(boundaries[1] < lB){ throw new IllegalArgumentException(""); }
+[PATCH] if(!isSequence(lB, uB)) { if(bounds[1] < lB){ throw new IllegalArgumentException(""); }
+[PATCH] if(!intersectsArea(lB, uB)) { throw new IllegalArgumentException(""); }
+[PATCH] if(!lB.equals(uB)) { return null; }
+[PATCH] if(!isSequence(0, lB, uB)) { if(bounds.length < 2){ throw new IllegalArgumentException(""); }
+[PATCH] if(!lB.equals(uB)) { if(bounds[1]!= uB){ throw new IllegalArgumentException(""); }
+[PATCH] if(lB!= init.lB){ if(uB!= init.uB){ throw new IllegalArgumentException(""); }
+[PATCH] if(!lB.equals(uB)) { throw new RangeMismatchException(""); }
+[PATCH] if(lB >= 0.0){ if(uB > 0.0){ throw new IllegalArgumentException(""); }
+[PATCH] if(bounds[0] >= lB){ if(bounds[1] < uB){ throw new IllegalArgumentException(""); }
+[PATCH] if(lB >= upperBound){ if(uB <= upperBound){ throw new IllegalArgumentException(""); }
+[PATCH] if(bounds.length!= init.length){ throw new DimensionMismatchException(""); }
+[PATCH] if(uB < lB){ throw new IllegalArgumentException(""); }
+[PATCH] if(!isSequence(0, lB, uB)) { inputSigma = null; return new DimensionMismatchException(""); }
+[PATCH] if(!lB.equals(uB)) { boundaries[2] = lB; } else { throw new IllegalArgumentException(""); }
+[PATCH] if(lB >= 0.0){ if(uB < 0.0){ throw new IllegalArgumentException(""); }
+[PATCH] if(bounds.length < 3){ if(uB > lB){ throw new IllegalArgumentException(""); }
+[PATCH] if(!lB.equals(uB)) { if(boundaries[1]!= uB){ throw new IllegalArgumentException(""); }
+[PATCH] if(!intersectsAny(lB, uB)) { throw new IllegalArgumentException(""); }
+[PATCH] if(!isSequence(lB, uB)) { if(bounds.length < 3){ throw new IllegalArgumentException(""); }
+[PATCH] if(!isSequence(lB, uB)) { if(bounds.length!= init.length){ throw new IllegalArgumentException(""); }
+[PATCH] if(!isSequence(lB, uB)) { if(bounds.length < 4){ throw new IllegalArgumentException(""); }
+[PATCH] if(inputSigma!= null){ if(bounds.length!= init.length){ throw new DimensionMismatchException(""); }
+[PATCH] if(lB * uB >= 0.0){ if(bounds[1] < 0.0){ throw new IllegalArgumentException(""); }
+[PATCH] if(!lB.equals(uB)) { throw new DimensionMismatchException(""); }
+[PATCH] if(!lB.equals(uB)) { throw new ArithmeticException(""); }
+[PATCH] if(lB * uB > 0.0){ if(bounds[1] >= 0.0){ throw new IllegalArgumentException(""); }
+[PATCH] if(uB > lB){ if(bounds[1] < lB){ throw new IllegalArgumentException(""); }
+[PATCH] if(!intersectsUpperBounds(lB, uB)) { throw new IllegalArgumentException(""); }
+[PATCH] if(lB!= uB){ if(bounds.length < 4){ throw new IllegalArgumentException(""); }
+[PATCH] if(i > 0){ if(bounds[1] >= lB){ throw new IllegalArgumentException(""); }
+[PATCH] if(uB >= lB){ if(bounds[1] < lB){ throw new IllegalArgumentException(""); }
+[PATCH] if(gcd!= null){ if(bounds[1] >= lB){ throw new IllegalArgumentException(""); }
+[PATCH] if(i > 0){ if(bounds[1] < lB){ throw new IllegalArgumentException(""); }
+[PATCH] if(lB * uB >= 0.0){ if(bounds[1] < lB){ throw new ArithmeticException(""); }
+[PATCH] if(lB!= init.length){ if(uB!= init.length){ throw new IllegalArgumentException(""); }
+[PATCH] if(!isSequence(0, lB, uB)) { throw new DimensionMismatchException(""); }
+[PATCH] if(lB > uB){ throw new IllegalArgumentException(""); }
+[PATCH] if(uB < lB){ throw new IllegalArgumentException(""); } else if(lB > uB){ throw new IllegalArgumentException(""); }
+[PATCH] if(!isSequence(lB, uB)) { if(bounds.length < 2){ throw new IllegalArgumentException(""); }
+[PATCH] if(!Double.isInfinite(lB)&&!Double.isInfinite(uB)) { return null; }
+[PATCH] if(gcd!= null){ if(bounds[1] < lB){ throw new IllegalArgumentException(""); }
+[PATCH] if(coordinates.length!= 2){ if(bounds[1] < lB){ throw new IllegalArgumentException(""); }
+[PATCH] if(bounds.length!= init.length){ throw new IllegalArgumentException(""); }
+[PATCH] if(gcd!= null){ if(bounds.length < 3){ throw new IllegalArgumentException(""); }
+[PATCH] if(!Math.isInfinite(lB)&&!Math.isInfinite(uB)) { return null; }
+[PATCH] if(lB >= upperBound){ if(uB <= lowerBound){ throw new IllegalArgumentException(""); }
+[PATCH] if(!lB.equals(uB)) { inputSigma = null; return new DimensionMismatchException(""); }
+[PATCH] if(lB!= uB){ if(bounds.length < 3){ throw new IllegalArgumentException(""); }
+[PATCH] if(!regionMatch(lB, uB)) { throw new IllegalArgumentException(""); }
+[PATCH] if(!Float.isInfinite(lB * uB)) { throw new IllegalArgumentException(""); }
+[PATCH] if(lB * uB >= 0.0){ throw new IllegalArgumentException(""); }
+[PATCH] if(lB!= init[0]){ if(uB!= init[1]){ throw new DimensionMismatchException(""); }
+[PATCH] if(!intersectsEqual(lB, uB)) { throw new RangeMismatchException(""); }
+[PATCH] if(!lB.equals(uB)) { throw new AnalyzerException(""); }
+[PATCH] if(lB >= upperBound){ if(uB < leftBound){ throw new IllegalArgumentException(""); }
+[PATCH] if(!isSequence(0, lB, uB)) { return null; }
+[PATCH] if(!LB.equals(lB)) { throw new IllegalArgumentException(""); }
+[PATCH] if(gcd!= null){ if(bounds.length < 4){ throw new IllegalArgumentException(""); }
+[PATCH] if(!isSequence(0, 0, lB, uB)) { throw new DimensionMismatchException(""); }
+[PATCH] if(!lB.equals(uB)) { throw new MatrixMismatchException(""); }
+[PATCH] if(uB > lB){ if(--chunksBeforeLF <= 0){ throw new IllegalArgumentException(""); }
+[PATCH] if(!lB.equals(uB)) { boundaries[2] = lB; }
+[PATCH] if(!lB.equals(uB)) { throw new RangeException(""); }
+[PATCH] if(!bounds.length){ throw new IllegalArgumentException(""); }
+[PATCH] if(!bounds[0].contains(lB)) { throw new IllegalArgumentException(""); }
+[PATCH] if(!interceptDuringConstruction){ throw new IllegalArgumentException(""); }
+[PATCH] if(!lB.equals(uB)) { throw new IndexOutOfBoundsException(""); }
+[PATCH] if(uB > lB){ throw new ArithmeticException(""); }
+[PATCH] if(bounds.length < 3){ throw new IllegalArgumentException(""); }
+[PATCH] if(!bounds[0].equals(lB)) { boundaries[1] = uB; }
+[PATCH] if(!bounds[0].equals(lB)) { boundaries[2] = uB; }
+[PATCH] if(!intersectsArea(init, boundaries)) { throw new IllegalArgumentException(""); }
+[PATCH] if(uB >= lB){ throw new IllegalArgumentException(""); }
+[PATCH] if(uB < lB){ throw new ArithmeticException(""); }
+[PATCH] if(lB < uB){ throw new IllegalArgumentException(""); }
+[PATCH] if(!bounds.equals(lB)) { throw new IllegalArgumentException(""); }
+[PATCH] if(!bounds.equals(init)) { throw new IllegalArgumentException(""); }
+[PATCH] if(uB > lB){ throw new RangeMismatchException(""); }
+[PATCH] if(!intersectsInverted()){ throw new IllegalArgumentException(""); }
+[PATCH] if(uB!= lB){ throw new IllegalArgumentException(""); }
+[PATCH] if(!boundaries.length){ throw new IllegalArgumentException(""); }
+[PATCH] if(lB!= uB){ throw new IllegalArgumentException(""); }
+[PATCH] if(uB == lB){ throw new IllegalArgumentException(""); }
+[PATCH] if(!intersectsOK){ throw new IllegalArgumentException(""); }
+[PATCH] if(!intersectsActual){ throw new IllegalArgumentException(""); }
+[PATCH] }

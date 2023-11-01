@@ -1,0 +1,100 @@
+[PATCH] if(n!= null && NodeUtil.isLhs(n, assign)&& n.getType() == Token.GETPROP){
+[PATCH] if(NodeUtil.isLhs(n, assign)&& n.getType() == Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.isLhs(n, n)&& n.getType() == Token.GETPROP){
+[PATCH] if( n!= null && NodeUtil.isLhs(n, assign)&& n.getType() == Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.isLhs( n, assign)&& n.getType() == Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil. isLhs(n, assign)&& n.getType() == Token.GETPROP){
+[PATCH] if(isLhs(n, assign)&& n.getType() == Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.isValidLhs(n, assign)&& n.getType() == Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.mayHaveSideEffects(n)|| n.getType() == Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.is Lhs(n, assign)&& n.getType() == Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.isLhs(n, assign)&& n.getType() == Token. GETPROP){
+[PATCH] if(n!= null && NodeUtil.isLhs(n, assign)&& n.getType() == Token.GETPROP){
+[PATCH] if(n instanceof Node && NodeUtil.isLhs(n, assign)&& n.getType() == Token.GETPROP){
+[PATCH] if(!NodeUtil.isLhs(n, assign)&& n.getType() == Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.isLhs(n,assign)&& n.getType() == Token.GETPROP){
+[PATCH] if(n == null && NodeUtil.isLhs(n, assign)&& n.getType() == Token.GETPROP){
+[PATCH] if("prototype".equals(n.getString())) {
+[PATCH] if(n!= null && NodeUtil.inLhs(n, assign)&& n.getType() == Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.isLhs(n, assign)&& n.getType() ==Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.isLhs(n, assign)&& n.getType()== Token.GETPROP){
+[PATCH] if n!= null && NodeUtil.isLhs(n, assign)&& n.getType() == Token.GETPROP){
+[PATCH] if("prototype".equals(n.getString())&& n.getType() == Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.isLhs(n, assign)&& n.getType() == Token.GETPROP {
+[PATCH] if(n == null || NodeUtil.isLhs(n, assign)&& n.getType() == Token.GETPROP){
+[PATCH] if(parent!= null && NodeUtil.isLhs(n, parent)&& n.getType() == Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.isLhs(n, assigned)&& n.getType() == Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.isLhs(n, assignment)&& n.getType() == Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.isLhs(assign, n)&& n.getType() == Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.isLhs(n, assign)&& n.getType() == Token.GETprop){
+[PATCH] if(n!= null && NodeUtil.isLhs(n, assign)&& p.getType() == Token.GETPROP){
+[PATCH] if("prototype".equals(n.getQualifiedName())&& n.getNext().getType() == Token.GETPROP){
+[PATCH] if(( n!= null && NodeUtil.isLhs(n, assign)&& n.getType() == Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.isLhs(n, assign)&&!NodeUtil.isGetProp(n)) {
+[PATCH] if( NodeUtil.isLhs(n, assign)&& n.getType() == Token.GETPROP){
+[PATCH] if(n!= null || NodeUtil.isLhs(n, assign)&& n.getType() == Token.GETPROP){
+[PATCH] if(null!= n && NodeUtil.isLhs(n, assign)&& n.getType() == Token.GETPROP){
+[PATCH] if(n!= null and NodeUtil.isLhs(n, assign)&& n.getType() == Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.isLhs(n, assign)&& n.getType() == Token.GETProp){
+[PATCH] if(n!= null && NodeUtil.mayHaveSideEffects(n)&& n.getType() == Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.isLhs(n, assign)&& n.getToken() == Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.isLhs(n, assign)&& n.gettype() == Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.isLhs(n, assign)&& n.getType() == Token.GETPROPERTY){
+[PATCH] if(n!= null && NodeUtil.getLhs(n, assign)&& n.getType() == Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.isLhs(n, assignments)&& n.getType() == Token.GETPROP){
+[PATCH] if(n > null && NodeUtil.isLhs(n, assign)&& n.getType() == Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.isLhs(n, assign)&& parent.getType() == Token.GETPROP){
+[PATCH] if(n && NodeUtil.isLhs(n, assign)&& n.getType() == Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.hasLhs(n, assign)&& n.getType() == Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.islhs(n, assign)&& n.getType() == Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.isLhs(n, assign)|| n.getType() == Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.isGetProp(n)|| n.getType() == Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.notLhs(n, assign)&& n.getType() == Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.isLhs(n, assign)&& n.getType() == Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.isLiteralValue(n)|| n.getType() == Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.IsLhs(n, assign)&& n.getType() == Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.isLhs(n, assign)&& 1 == n.getType()){
+[PATCH] if(JSType.isLhs(n, assign)&& n.getType() == Token.GETPROP){
+[PATCH] if(0 <= n && NodeUtil.isLhs(n, assign)&& n.getType() == Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.wasLhs(n, assign)&& n.getType() == Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.isLhs(n, assign)&& n.getClass() == Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.isPrototypeProperty(n)|| n.getType() == Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.isRhs(n, assign)&& n.getType() == Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.isLhs(n,"prototype")&& n.getType() == Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.isLhs(n, set)&& n.getType() == Token.GETPROP){
+[PATCH] if(parent!= null && NodeUtil.isLhs(n, assign)&& n.getType() == Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.isLhs(n, assign)&& n.getType() == Token.GetPROP){
+[PATCH] if("prototype".equals(n.getString())&& n.getNext().getType() == Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.isLhs(n, assign)&& pn.getType() == Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.isLhs(n, assign)&& n.getType() == token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.isLhs(n, assign)&& 0 <= n.getType()){
+[PATCH] if(!isLhs(n, assign)&& n.getType() == Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.isLhs(n, assign)&& nodeType(n, Token.GETPROP)) {
+[PATCH] if(null && NodeUtil.isLhs(n, assign)&& n.getType() == Token.GETPROP){
+[PATCH] if(NodeUtil.isLhs(n, n)&& n.getType() == Token.GETPROP){
+[PATCH] if(NodeUtil.isLhs(n, assign)&& NodeUtil.isGetProp(n)) {
+[PATCH] if(n!= null && NodeUtil.isLhs(n, assign)&& n.getType() == Token.ASSIGN){
+[PATCH] if(n!= null && NodeUtil.isLiteralValue(n)&& n.getType() == Token.GETPROP){
+[PATCH] if(JSTypeUtil.isLhs(n, assign)&& n.getType() == Token.GETPROP){
+[PATCH] if(N.isLhs(n, assign)&& n.getType() == Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.isLhs(n, assign)&& n.getType() instanceof Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.isLhs(n, assign)&& n.getType() == Token.PUTPROP){
+[PATCH] if(n!= null && n.getType() == Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.isLhs(n, assign)&& n.getType() < Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.isQualifiedName(n)&& n.getType() == Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.isLhs(n, assign)&& n.getType() == Token.GETPROP);
+[PATCH] if("Lhs".equals(n.getString())&& n.getType() == Token.GETPROP){
+[PATCH] if(Node.isLhs(n, assign)&& n.getType() == Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.isQualifiedName(n)|| n.getType() == Token.GETPROP){
+[PATCH] if(NodeUtil.isLhs( n, assign)&& n.getType() == Token.GETPROP){
+[PATCH] if(cw.isLhs(n, assign)&& n.getType() == Token.GETPROP){
+[PATCH] if(!n.isLhs(n, assign)&& n.getType() == Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.isLhs(n, assign)&& n.getType() == Token.SETPROP){
+[PATCH] if(n!= null && NodeUtil.isPropertyName(n)|| n.getType() == Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.isName(n)|| n.getType() == Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.isLhs(n, assign)&& n == Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.isLhs(n, assign)&& n.getType() == Token.GETProperty){
+[PATCH] if(n!= null && NodeUtil.isLhs(n, assign)&&!n.isGetProp()){
+[PATCH] if(NodeUtil.isGetProp(n)|| n.getType() == Token.GETPROP){
+[PATCH] if(n!= null && NodeUtil.isLhs(n, assign)&& n.getType() == Token.CALL){
+[PATCH] if(n!= null && NodeUtil.isLhs(n, assign)&& n.getType() == Token.GETP){

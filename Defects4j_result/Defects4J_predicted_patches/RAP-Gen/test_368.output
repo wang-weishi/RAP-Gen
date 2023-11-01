@@ -1,0 +1,100 @@
+[PATCH] if(index >= 0 && y!= null){
+[PATCH] if(index >= 0 &&!this.allowDuplicateXValues){
+[PATCH] if(index >= 0 && index < this.data.size()){
+[PATCH] if(index >= 0 &&!this.autoSort){
+[PATCH] if(index >= 0 &&!this.data.isEmpty()){
+[PATCH] if(index >= 0 && index < this.data.size()){
+[PATCH] if(index >= 0 && x.equals(this.x)) {
+[PATCH] if(index >= 0 && x.equals(this.first)) {
+[PATCH] if(index >= 0 && this.allowDuplicateXValues){
+[PATCH] if(index >= 0 &&!this.autoboxesTo()){
+[PATCH] if(index >= 0 && y < this.maximumItemCount){
+[PATCH] if(index >= 0 && data.size() > index){
+[PATCH] if(index >= 0 &&!this.AutoSort){
+[PATCH] if(index >= 0 &&!this.allowDuplicatesXValues){
+[PATCH] if(index >= 0 && index < this.data.size){
+[PATCH] if(index >= 0 &&!this.dataRemoved){
+[PATCH] if(index >= 0 || index < this.data.size()){
+[PATCH] if(index >= 0 && i < this.data.size()){
+[PATCH] if(index >= 0 && this.autoSort){
+[PATCH] if(index >= 0 && y > this.maximumItemCount){
+[PATCH] if(index >= 0 && this.data.size() > index){
+[PATCH] if(index >= 0 &&!isInverted()){
+[PATCH] if(index >= 0 && j < this.data.size()){
+[PATCH] if(index >= 0 && index < this.data.length()){
+[PATCH] if(index >= 0 &&!contains(index, -1)) {
+[PATCH] if(index >= 0 && index <= this.data.size()){
+[PATCH] if(index >= 0 && index <this.data.size()){
+[PATCH] if(index >= 0 && new Double(y)!= null){
+[PATCH] if(index >= 0 &&!this.isInverted()){
+[PATCH] if(index >= 0 && y.equals(this.y)) {
+[PATCH] if(index >= 0 && n < this.data.size()){
+[PATCH] if(index >= 0 && index < this.size){
+[PATCH] if(index >= 0 && null < this.data.size()){
+[PATCH] if(index >= 0 && idx < this.data.size()){
+[PATCH] if(index >= 0 && count() > this.maximumItemCount){
+[PATCH] if(index >= 0 &&!this.dataRemoved()){
+[PATCH] if(index >= 0 && y == null){
+[PATCH] if(index >= 0 && y!= null || this.autoSort){
+[PATCH] if(index >= 0 && options.allowDuplicateXValues){
+[PATCH] if(index >= 0 && n > this.data.size()){
+[PATCH] if(index >= 0, index < this.data.size()){
+[PATCH] if(index >= 0 && pos < this.data.size()){
+[PATCH] if(index >= 0 && x.equals(y)) {
+[PATCH] if(index >= 0 &&!this.allowDupXValues){
+[PATCH] if(index >= 0 &&(_data.size() > index)) {
+[PATCH] if(index > -1 &&!this.allowDuplicateXValues){
+[PATCH] if(index >= 0 &&!this.allowduplicateXValues){
+[PATCH] if(index >= 0 && y > null){
+[PATCH] if(index >= 0 && currentItemCount() > this.maximumItemCount){
+[PATCH] if(index >= 0 && index < this.data.size() {
+[PATCH] if(index >= 0 && this.data.contains(index)) {
+[PATCH] if(index >= 0 && y!= this.maximumItemCount){
+[PATCH] if(index >= 0 && x.equals(this.start)) {
+[PATCH] if(index >= 0 &&!contains(index, true)) {
+[PATCH] if(index >= 0 && getIndex(index)!= -1){
+[PATCH] if(index >= 0 && numItemCount() > this.maximumItemCount){
+[PATCH] if(index >= 0 && len() > this.maximumItemCount){
+[PATCH] if(index >= 0 && _data.size() > index){
+[PATCH] if(index >= 0 &&!this.isEmpty()){
+[PATCH] if(index >= 0 &&!this.ignoreDuplicateXValues){
+[PATCH] if(index >= 0 &&!this.prefetch()){
+[PATCH] if(index >= 0 && index < this.getItemCount()){
+[PATCH] if(index >= 0 && isValidIndex(index)) {
+[PATCH] if(index >= 0 && index < this.maxItemCount){
+[PATCH] if(index >= 0 && type > this.data.size()){
+[PATCH] if(index >= 0 && length() > this.maximumItemCount){
+[PATCH] if(index >= 0 &&!this.isSorted()){
+[PATCH] if(index >= 0 && indexOf(y)> -1){
+[PATCH] if(index >= 0 &&!isEmpty(index)) {
+[PATCH] if(index >= 0 && getIndex(index)> -1){
+[PATCH] if(index >= 0 &&!this.canAddOrUpdate()){
+[PATCH] if(index >= 0 && isTimeSeries(index)) {
+[PATCH] if(index >= 0 && index < this.data.size();
+[PATCH] if(index >= 0 && x.equals(this.X)) {
+[PATCH] if(index >= 0 && data.contains(index)) {
+[PATCH] if(index >= 0 &&!this.canSort()){
+[PATCH] if(index >= 0 && x.length() > 0){
+[PATCH] if(index >= 0 &&!contains(index, false)) {
+[PATCH] if(index >= 0 && y!= this.autoSort){
+[PATCH] if(index >= 0 && y!= null || autoSort){
+[PATCH] if(index >= 0 &&!this.filterByY()){
+[PATCH] if(index >= 0 &&!this.automaticSort){
+[PATCH] if(index >= 0 && y.isNaN()){
+[PATCH] if(index >= 0 && index < this.length){
+[PATCH] if(index >= 0 && y.isEmpty()){
+[PATCH] if(index >= 0 && height > this.maximumItemCount){
+[PATCH] if(index >= 0 && isCloneable()){
+[PATCH] if(index >= 0 && if(y!= null){
+[PATCH] if(index >= 0 && test(index, false)) {
+[PATCH] if(index >= 0 && isInverted()){
+[PATCH] if(index >= 0 &&!this.permitted()){
+[PATCH] if(index >= 0 &&!this.canAdd()){
+[PATCH] if(index >= 0 && Y!= null){
+[PATCH] if(index >= 0 && _isInverted()){
+[PATCH] if(index >= 0 &&!allowDuplicateXValues){
+[PATCH] if(index >= 0 &&y!= null){
+[PATCH] if(index >= 0 && true){
+[PATCH] if(index >= 0 && n > this.data.size()){
+[PATCH] if(index >= 0 &&!this.data.contains(index):
+[PATCH] if(index >= 0 && hasNext(index)) {

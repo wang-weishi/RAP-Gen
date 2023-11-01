@@ -1,0 +1,100 @@
+[PATCH] if(len == 1){ return a[0] * b[1]; }
+[PATCH] if(len == 1){ return a[0] + b[0]; }
+[PATCH] System.arraycopy(a, 0, prodHigh, 0, len);
+[PATCH] if(a[0] == b[0]){ return 0; }
+[PATCH] if(a[0] == b[0]){ return 1; }
+[PATCH] final double[] prodHighCur = Math.sqrt(b[len - 1];
+[PATCH] if(a.length == 0){ return 0; }
+[PATCH] if(a.length == 1){ return b[0]; }
+[PATCH] if(len < SPLIT_FACTOR){ throw new DimensionMismatchException(""); }
+[PATCH] if(a.length == len + 1){ return 0; }
+[PATCH] final double[] sPrime = Math.pow(10, len);
+[PATCH] final double[] prodHighCur = Math.pow(10, len);
+[PATCH] Arrays.sort(a); Arrays.sort(b);
+[PATCH] if(a.length == len + 1){ return b[0]; }
+[PATCH] if(len > 1){ return a[0] * b[1]; }
+[PATCH] if(len > 1){ return a[0] + b[1]; }
+[PATCH] int lenMinusOne = Math.min(a.length, b.length);
+[PATCH] if(a.length == len - 1){ return 0; }
+[PATCH] final double[] prodHighCur = Math.sqrt(b[len - 1]);
+[PATCH] if(a.length == 1){ return 0; }
+[PATCH] if(len == 1){ return a[0]; }
+[PATCH] else if(len == 1){ return a[0]; }
+[PATCH] test(a, b);
+[PATCH] final int lenMinusOne = Math.ceil(b[len - 1];
+[PATCH] final int numElements = Math.max(a.length, b.length);
+[PATCH] final int len = Math.min(a.length, b.length);
+[PATCH] if(a[0] == b[0]){ return 1d; }
+[PATCH] if(len > 1){ return a[0]; }
+[PATCH] if(len > 1){ throw new DimensionMismatchException(""); }
+[PATCH] if(a.length == len - 1){ return b[0]; }
+[PATCH] final int lenMinusOne = Math.floor(b[len - 1];
+[PATCH] double[] sPrime = Math.pow(10, len);
+[PATCH] if(a.length < len){ throw new DimensionMismatchException(""); }
+[PATCH] if(len < len){ throw new DimensionMismatchException(""); }
+[PATCH] if(a.length == len){ return 0; }
+[PATCH] if(len == 0){ return 0; }
+[PATCH] if(a.length == len){ return b[0]; }
+[PATCH] d = Math.pow(a.length, b.length);
+[PATCH] if(len < SPLIT_FACTOR){ return a[0]; }
+[PATCH] if(a == null || b == null){ return 0; }
+[PATCH] final int lenMinusOne = Math.floor(b[len - 1]);
+[PATCH] final double[] prodHighCur = Math.sqrt(1.0 - len);
+[PATCH] final int lenMinusOne = Math.min(a.length, len);
+[PATCH] final double[] prodHighCur = Math.sqrt(b[0]);
+[PATCH] c = Math.pow(a.length, b.length);
+[PATCH] if(len < 2){ throw new DimensionMismatchException(""); }
+[PATCH] if(len == 1){ return 0; }
+[PATCH] eps = Math.pow(a.length, b.length);
+[PATCH] Arrays.sort(a);
+[PATCH] if(len < len){ return a[0]; }
+[PATCH] max = Math.max(1.0, len - 1);
+[PATCH] final double sPrime = Math.pow(10, len);
+[PATCH] if(len < 1){ return a[0]; }
+[PATCH] if(len == 1){ return 0.0; }
+[PATCH] Arrays.fill(a, b);
+[PATCH] test(a[0], b[0]);
+[PATCH] if(len < 2){ return 0; }
+[PATCH] clearResult(); verifyNumElements(len);
+[PATCH] if(len < len){ return 0; }
+[PATCH] sort(a); sort(b);
+[PATCH] clearResult(); verifyOrder(a, b);
+[PATCH] super.multiply(a, b);
+[PATCH] Collections.sort(a);
+[PATCH] clearResult();
+[PATCH] assert(len == a.length);
+[PATCH] clear();
+[PATCH] Math.sort(a);
+[PATCH] multiply(a, b);
+[PATCH] sort(a, b);
+[PATCH] clearPrefix();
+[PATCH] decompose(a, b);
+[PATCH] clearOrder();
+[PATCH] expand(a, b);
+[PATCH] assert(len == 1);
+[PATCH] solve(a, b);
+[PATCH] clearSum();
+[PATCH] clearNumElements();
+[PATCH] clearSums();
+[PATCH] Math.random();
+[PATCH] clearOutliers();
+[PATCH] clearLengths();
+[PATCH] sort(a);
+[PATCH] clearMultivariate();
+[PATCH] clearSolver();
+[PATCH] clearEquivalence();
+[PATCH] zeroAll();
+[PATCH] clearTraversal();
+[PATCH] clearRangeCheck();
+[PATCH] clearRangeInfo();
+[PATCH] clearMatrix();
+[PATCH] clearBuffer();
+[PATCH] clearArray();
+[PATCH] randomize();
+[PATCH] clearOut();
+[PATCH] clearIterations();
+[PATCH] clearData();
+[PATCH] clearDifference();
+[PATCH] clearPrefixes();
+[PATCH] prune();
+[PATCH] ClearResult();

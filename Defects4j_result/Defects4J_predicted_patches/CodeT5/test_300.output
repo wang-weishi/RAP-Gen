@@ -1,0 +1,100 @@
+[PATCH] if(buffer[i] == 0){ result.append(( char)buffer[i]); }
+[PATCH] if(buffer[i] == 0xFF){ result.append(( char)buffer[i]); }
+[PATCH] if(buffer[i] == 0){ break; }
+[PATCH] if(buffer[i] == 0){ continue; }
+[PATCH] if(buffer[i] == 0){
+[PATCH] if(buffer[i] < 0){ result.append(( char)buffer[i]); }
+[PATCH] if(buffer[i] == 0){ return result.append(( char)buffer[i]); }
+[PATCH] if(buffer[i] == 0){ throw new IllegalArgumentException(""); }
+[PATCH] if(buffer[i] == 0 || buffer[i] == BYTE_MASK){ break; }
+[PATCH] if(buffer[i] == 0){ return null; }
+[PATCH] if(buffer[i] == 0xff){ result.append(( char)buffer[i]); }
+[PATCH] if(buffer[i] < 0){ break; }
+[PATCH] if(buffer[i] == 0 || buffer[i] == CHAR_NULL){ break; }
+[PATCH] if(buffer[i] < '0' || buffer[i] > '9'){
+[PATCH] if(buffer[i] == 0xFFFFFFFF){ result.append(( char)buffer[i]); }
+[PATCH] if(buffer[i] == 0){ result.append(( char)buffer[i]);
+[PATCH] if(buffer[i] == 0 || buffer[i] == 0){ break; }
+[PATCH] if(buffer[i] == 0 || buffer[i] == BYTE_MASK){ continue; }
+[PATCH] if(buffer[i] >= 0){ result.append(( char)buffer[i]); }
+[PATCH] if(buffer[i] == 0 || buffer[i] == INT_NULL){ break; }
+[PATCH] if(buffer[i] == 0 || buffer[i] == '0'){ break; }
+[PATCH] if(buffer[i] == 0xFF){ break; }
+[PATCH] if(buffer[i] == 0 || buffer[i] == '\0'){ break; }
+[PATCH] if(buffer[i] == 0 || buffer[i] == INT_SPACE){ break; }
+[PATCH] if(buffer[i] == 0){ result.append(( char)buffer[i]); }
+[PATCH] if(buffer[i] == 0xF){ result.append(( char)buffer[i]); }
+[PATCH] if(buffer[i] == 0 || buffer[i] == INT_QUOTE){ break; }
+[PATCH] if(buffer[i] == 0xEFBBBF){ break; }
+[PATCH] if(buffer[i] == -1){ result.append(( char)buffer[i]); }
+[PATCH] if(buffer[i] == 0 || buffer[i] == INT_0){ break; }
+[PATCH] if(buffer[i] ==0){ result.append(( char)buffer[i]); }
+[PATCH] if(buffer[i] == 0 || buffer[i] == 255){ break; }
+[PATCH] if(buffer[i] == 0){ i result.append(( char)buffer[i]); }
+[PATCH] if(buffer[i] == 0){ throw new IOException(""); }
+[PATCH] if(buffer[i] == 0xf){ result.append(( char)buffer[i]); }
+[PATCH] if(buffer[i]!= 0){ result.append(( char)buffer[i]); }
+[PATCH] if(buffer[i] == 0 || buffer[i] == BAD_NAME){ break; }
+[PATCH] if(buffer[i] == 0){ return new String(( char)buffer[i]); }
+[PATCH] if(buffer[i] > 0){ result.append(( char)buffer[i]); }
+[PATCH] if(buffer[i] == 0){ throw new NumberFormatException(""); }
+[PATCH] if(buffer[i] == 0 || buffer[i] == 127){ break; }
+[PATCH] if(buffer[i] == 0 || buffer[i] == 0){ continue; }
+[PATCH] if(buffer[i] == 0 || buffer[i] == '0'){
+[PATCH] if(buffer[i] == 0 || buffer[i] == '0'){ continue; }
+[PATCH] if(buffer[i] == 0){ end.append(( char)buffer[i]); }
+[PATCH] if(buffer[i] == 0){ if(result.length() == 0){ break; }
+[PATCH] if(buffer[i] == 0){result.append(( char)buffer[i]); }
+[PATCH] if(buffer[i] == 0){ throw new RuntimeException(""); }
+[PATCH] if(buffer[i] == 0 || buffer[i] == END_BYTE){ break; }
+[PATCH] if(buffer[i] < 128){ result.append(( char)buffer[i]); }
+[PATCH] if(buffer[i] == 0 || buffer[i] == BYTE_MASK){
+[PATCH] if(buffer[i] < 0){ continue; }
+[PATCH] if(buffer[i] == 0 || buffer[i] == '\0'){ continue; }
+[PATCH] if(buffer[i] == 0 || buffer[i] == CHAR_NULL){ continue; }
+[PATCH] if(buffer[i] == 0 || buffer[i] == '\0'){
+[PATCH] if(buffer[i] == 0){ result.append(( char)buffer[0]); }
+[PATCH] if(buffer[i] == 0Opcode){ result.append(( char)buffer[i]); }
+[PATCH] if(buffer[i] == 0x20 || buffer[i] == 0){ break; }
+[PATCH] if(buffer[i] == 0xFF){ continue; }
+[PATCH] if(buffer[i]== 0){ result.append(( char)buffer[i]); }
+[PATCH] if(buffer[i] == 0){ return new String(buffer, offset, end); }
+[PATCH] if(buffer[i] == 255){ result.append(( char)buffer[i]); }
+[PATCH] if(buffer[i] == 0xEFBBBF){
+[PATCH] if(buffer[i] < '0' || buffer[i] == '9'){
+[PATCH] if(buffer[i] == 0 || buffer[i] == '\\'){ break; }
+[PATCH] if(buffer[i] == 0xEFBBBF){ continue; }
+[PATCH] if(buffer[i] == 0){ result.append((char)buffer[i]); }
+[PATCH] if(buffer[i] == 127){ result.append(( char)buffer[i]); }
+[PATCH] if(buffer[i] == 0 || result.length() == 0){ break; }
+[PATCH] if(buffer[i] == 0 || buffer[i] == 128){ break; }
+[PATCH] if(buffer[i] == 0 || buffer[i] == '.'){ break; }
+[PATCH] if(buffer[i] == 0 || buffer[i] == ']'){ break; }
+[PATCH] if(buffer[i] == 0 || buffer[i] == '"'){ break; }
+[PATCH] if(buffer[i] == 0 || i == end){ break; }
+[PATCH] if(buffer[i] == 0){ ++i; }
+[PATCH] if(buffer[i] == 0x80){ break; }
+[PATCH] if(buffer[i] == 0){ return result.toString(); }
+[PATCH] if(buffer[i] == CHAR_NULL){ break; }
+[PATCH] if(buffer[i] == 0xFF){
+[PATCH] if(buffer[i] == 0){ throw new IllegalFieldValueException(""); }
+[PATCH] if(buffer[i] == 0){ throw new IndexOutOfBoundsException(""); }
+[PATCH] if(buffer[i] == 0xFF){ return null; }
+[PATCH] if(buffer[i] == 0){ return""; }
+[PATCH] if(buffer[i] == BAD_NAME){ break; }
+[PATCH] if(buffer[i] < 0){ return null; }
+[PATCH] if(buffer[i] == 0xFF){ throw new IllegalArgumentException(""); }
+[PATCH] if(buffer[i] == NULL){ break; }
+[PATCH] if(buffer[i] == 0){ throw new IllegalStateException(""); }
+[PATCH] if(buffer[i] == 0)continue;
+[PATCH] if(( buffer[i] == 0)== false){ break; }
+[PATCH] if(buffer[i] == 0xFFFFFFFF){ break; }
+[PATCH] if(( buffer[i] == 0)== 0){ break; }
+[PATCH] if(buffer[i] == 0 || i == end){
+[PATCH] if(buffer[i] == -1){ break; }
+[PATCH] if(buffer[i] < 0){
+[PATCH] if(buffer[i]!= 0){ break; }
+[PATCH] if(buffer[i] == 0x7F){
+[PATCH] if(buffer[i] == 0)break;
+[PATCH] if(buffer[i] == 0)throw new IllegalArgumentException("");
+[PATCH] if(buffer[i] < BYTE_MASK){ break; }

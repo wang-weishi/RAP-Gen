@@ -1,0 +1,100 @@
+[PATCH] if(name!= null){ if(this.name!= null){ throw new IllegalStateException(""); }
+[PATCH] if(name!= null){ if(this.name!= null){ throw new IllegalArgumentException(""); }
+[PATCH] if(( this.name == null)||(name.length() == 0)) { throw new IllegalArgumentException(""); }
+[PATCH] if(name!= null){ if(this.name!= null){ throw new RuntimeException(""); }
+[PATCH] if(this.name!= null){ if(name.equals("")) { throw new IllegalArgumentException(""); }
+[PATCH] if(this.name!= null){ if(name.equals("")) { throw new RuntimeException(""); }
+[PATCH] if(name!= null){ if(this.name == null){ throw new RuntimeException(""); }
+[PATCH] if(name!= null){ if(this.name == null){ throw new IllegalArgumentException(""); }
+[PATCH] if(this.name!= null){ if(name.length() == 0){ throw new RuntimeException(""); }
+[PATCH] if(( this.name == null)||(name.length() == 0)) { throw new RuntimeException(""); }
+[PATCH] if(this.name!= null){ if(name.equals("")) { throw new IllegalStateException(""); }
+[PATCH] if(name!= null){ if(this.name!= null){ throw new IOException(""); }
+[PATCH] if(this.name!= null){ if(name.length() == 0){ throw new IllegalArgumentException(""); }
+[PATCH] if(name!= null){ if(this.name == null){ throw new IllegalStateException(""); }
+[PATCH] if(this.name!= null){ if(name.equals("")) { throw new ZipException(""); }
+[PATCH] if(this.name!= null){ if(name.length() == 0){ throw new IllegalStateException(""); }
+[PATCH] if(( this.name == null)||(name.length() == 0)) { throw new IllegalStateException(""); }
+[PATCH] if(( entryName == null)||(entryName.length() == 0)) { throw new IllegalArgumentException(""); }
+[PATCH] if(this.name!= null){ if(name.equals("")) { throw new IOException(""); }
+[PATCH] if(( this.name == null)||(name.equals(""))){ throw new IllegalArgumentException(""); }
+[PATCH] if(name!= null){ if(this.name!= null){ throw new ZipException(""); }
+[PATCH] if(this.name == null){ if(name!= null){ throw new IllegalArgumentException(""); }
+[PATCH] if(( entryName == null)||(entryName.length() == 0)) { throw new RuntimeException(""); }
+[PATCH] if(this.name!= null){ if(name.equals("")) { throw new UnsupportedOperationException(""); }
+[PATCH] if(name!= null){ if(this.name == null){ throw new ZipException(""); }
+[PATCH] if(this.name!= null){ if(name.equals("")) { this.name = null; }
+[PATCH] if(name!= null){ if(this.name == null){ throw new IOException(""); }
+[PATCH] if(this.name!= null){ if(name.length() == 0){ throw new IOException(""); }
+[PATCH] if(this.name!= null){ if(name.length() == 0){ throw new ZipException(""); }
+[PATCH] if(this.name == null){ super.setName(name); } else { throw new IllegalStateException(""); }
+[PATCH] if(( this.name == null)||(this.name!= null)) { throw new IllegalArgumentException(""); }
+[PATCH] if(( this.name == null)||(name.equals(""))){ throw new RuntimeException(""); }
+[PATCH] if(( this.name == null)||(name.length() == 0)) { throw new UnsupportedOperationException(""); }
+[PATCH] if(name!= null){ if(this.name!= null){ throw new UnsupportedOperationException(""); }
+[PATCH] if(name!= null){ if(getName().equals(name)) { throw new IllegalArgumentException(""); }
+[PATCH] if(name!= null){ if(this.name == null){ this.name = name; }
+[PATCH] if(( this.name == null)||(name.length() == 0)) { throw new IOException(""); }
+[PATCH] if(name!= null){ if(this.name == null){ throw new UnsupportedOperationException(""); }
+[PATCH] if(name!= null){ if(this.name!= null){ this.name = false; }
+[PATCH] if(name!= null){ if(this.name!= null){ throw new ZipArchiveException(""); }
+[PATCH] if(this.name == null){ this.name = name; } else { throw new IllegalStateException(""); }
+[PATCH] if(name!= null){ if(this.name!= null){ super.setName(name); }
+[PATCH] if(( entryName == null)||(entryName.length() == 0)) { throw new IllegalStateException(""); }
+[PATCH] if(( entryName == null)||(entryName!= null)) { throw new IllegalArgumentException(""); }
+[PATCH] if(( this.name == null)||(name.length() == 0)) { return; }
+[PATCH] if(this.name == null){ entryName = name; } else { throw new IllegalStateException(""); }
+[PATCH] if(this.name == null){ if(name!= null){ throw new RuntimeException(""); }
+[PATCH] if(name!= null){ if(getName().equals(name)) { throw new RuntimeException(""); }
+[PATCH] if(name!= null){ if(!this.name.equals(name)) { throw new IllegalArgumentException(""); }
+[PATCH] if(name!= null){ if(this.name!= null){ freeExtraFields(); }
+[PATCH] if(this.name!= null){ if(name.equals('/')) { throw new RuntimeException(""); }
+[PATCH] if(this.name!= null){ if(name.length() == 0){ this.name = null; }
+[PATCH] if(this.name!= null){ if(name.length() == 0){ throw new UnsupportedOperationException(""); }
+[PATCH] if(name!= null){ if(this.name!= null){ this.name = new String(name); }
+[PATCH] if(this.name!= null){ if(name.equals("")) { this.name = false; }
+[PATCH] if(name!= null){ if(this.name == null){ throw new ZipArchiveException(""); }
+[PATCH] if(this.name == null){ throw new IllegalArgumentException(""); }
+[PATCH] if(( this.name == null)||(name.equals(""))){ throw new ZipException(""); }
+[PATCH] if(this.name == null){ throw new RuntimeException(""); }
+[PATCH] if(this.name == null){ if(name!= null){ throw new IllegalStateException(""); }
+[PATCH] if(this.name!= null){ if(getName().equals(name)) { throw new IllegalArgumentException(""); }
+[PATCH] if(( this.name == null)||(name.equals(""))){ throw new IllegalStateException(""); }
+[PATCH] if(name!= null){ if(this.name!= null){ this.name = null; }
+[PATCH] if(name!= null){ if(this.name == null){ this.name = new String(name); }
+[PATCH] if(this.name!= null){ if(name.equals("")) { return; }
+[PATCH] if(name!= null){ if(getName().equals(name)) { throw new IllegalStateException(""); }
+[PATCH] if(this.name == null){ throw new IllegalStateException(""); }
+[PATCH] if(this.name!= null){ if(name.equals("\n")) { throw new RuntimeException(""); }
+[PATCH] if(( entryName == null)||(entryName!= null)) { throw new RuntimeException(""); }
+[PATCH] if(name!= null){ if(this.name!= null){ freeEntryName(); }
+[PATCH] if(name!= null){ if(this.name == null){ this.name = null; }
+[PATCH] if(( this.name == null)||(name.length() == 0)) { entryName = null; }
+[PATCH] if(name!= null &&!name.equals("")) { throw new IllegalArgumentException(""); }
+[PATCH] if(( name!= null &&!name.equals(""))){ throw new IllegalArgumentException(""); }
+[PATCH] if(name!= null){ if(this.name!= null){ entryName = false; }
+[PATCH] if(name!= null){ if(this.name == null){ entryName = name; }
+[PATCH] if(name!= null){ if(this.name!= null){ fireEntryChanged(); }
+[PATCH] if(this.name == null){ super.setName(name); }
+[PATCH] if(name!= null){ if(_name!= null){ throw new IllegalArgumentException(""); }
+[PATCH] if(name!= null){ if(this.name!= null){ discardExtraFields(); }
+[PATCH] if(name!= null){ if(_name!= null){ throw new IllegalStateException(""); }
+[PATCH] if(this.name == null){ throw new ZipException(""); }
+[PATCH] if(name!= null){ if(this.name!= null){ closeEntry(); }
+[PATCH] if(name!= null){ if(this.name!= null){ return; }
+[PATCH] if(name!= null){ if(this.name!= null){ invalidate(); }
+[PATCH] if(this.name == null){ throw new ZipArchiveException(""); }
+[PATCH] if(name!= null){ super.setName(name); }
+[PATCH] if(name!= null){ if(""); this.name = null; }
+[PATCH] if(this.name == null){ throw new UnsupportedOperationException(""); }
+[PATCH] if(this.name == null){ name = super.getName(); }
+[PATCH] if(this.name == null){ throw new IOException(""); }
+[PATCH] if(""); if(name!= null){ throw new IllegalArgumentException(""); }
+[PATCH] if(this.name!= null){ throw new IllegalStateException(""); }
+[PATCH] if(name!= null){ throw new IllegalArgumentException(""); }
+[PATCH] if(name!= null){ checkNewName(); }
+[PATCH] if(this.name == null){ return; }
+[PATCH] if(name!= null){ if(""); }
+[PATCH] if(name!= null){
+);
+

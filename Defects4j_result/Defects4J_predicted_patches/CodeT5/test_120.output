@@ -1,0 +1,100 @@
+[PATCH] if(value!= null && value.getType() == Token.FUNCTION){
+[PATCH] if(value!= null && value.getType() == Token.STRING){
+[PATCH] if(value!= null &&!value.isEquivalentTo(n)) {
+[PATCH] if(value!= null && value.getType() == Token.NUMBER){
+[PATCH] if(value!= null &&!value.isNull()){
+[PATCH] if(value!= null && value.getType() == Token.NAME){
+[PATCH] if(value!= null &&!value.isUnknownType()){
+[PATCH] if(value!= null &&!value.isLiteralValue()){
+[PATCH] if(value!= null && value.getType() == Token.String){
+[PATCH] if(value!= null && value.isQualifiedName()){
+[PATCH] if(value!= null &&!value.isNoSideEffectsCall()){
+[PATCH] if(value!= null && value.getType() == Token.NEW){
+[PATCH] if(value!= null &&!value.isEmpty()){
+[PATCH] if(value!= null && value.getType() == Token.ASSIGN){
+[PATCH] if(value!= null &&!value.isImmutableValue()){
+[PATCH] if(value!= null &&!value.isNoNullValue()){
+[PATCH] if(value!= null && value.getType() == Token.DATE){
+[PATCH] if(value!= null &&!value.isUndefined()){
+[PATCH] if(value!= null && value.getType() == Token.VALUE){
+[PATCH] if(value!= null &&!value.isNumber()){
+[PATCH] if(value!= null && value.getType() == Token. STRING){
+[PATCH] if(value!= null && value.getType() == Token.Function){
+[PATCH] if(value!= null &&!value.isQualifiedName()){
+[PATCH] if(value!= null &&!value.isString()){
+[PATCH] if(value!= null && value.getType() == Token.EMPTY){
+[PATCH] if(value!= null &&!value.isQuotedString()){
+[PATCH] if(value!= null && value.getType() == Token.NULL){
+[PATCH] if(value!= null &&!value.isNext()){
+[PATCH] if(value!= null && ValueUtils.isLiteralValue(value)) {
+[PATCH] if(value!= null && value.getType() == Token.INT){
+[PATCH] if(value!= null && value.isString()){
+[PATCH] if(value!= null &&!value.isNoType()){
+[PATCH] if(value!= null && value.getType() == Token.LONG){
+[PATCH] if(value!= null &&!value.isUnquotedString()){
+[PATCH] if(value!= null && value.getType() == Token.string){
+[PATCH] if(value!= null && value.getType() == Token.Literal){
+[PATCH] if(value!= null && value.isNoSideEffectsCall()){
+[PATCH] if(value!= null &&!NodeUtil.isUndefined(value)) {
+[PATCH] if(value!= null &&!value.isVoidValue()){
+[PATCH] if(value!= null &&!value.isUnterminatedString()){
+[PATCH] if(value!= null && value.getType() == Token.RETURN){
+[PATCH] if(value!= null && NodeUtil.isLiteralValue(value)) {
+[PATCH] if(value!= null && value.getType() == Token.toString){
+[PATCH] if(value!= null &&!value.isExprAssign()){
+[PATCH] if(value!= null && value.getType() == Token.LP){
+[PATCH] if(value!= null && value.getType() == Token.Number){
+[PATCH] if(value!= null && value.getType() == Token.VAR){
+[PATCH] if(value!= null &&!value.isUnscopedString()){
+[PATCH] if(value!= null &&!value.isUnwrapped()){
+[PATCH] if(value!= null && value.getType() == Token.FUNCTION){
+[PATCH] if(value!= null && value.isEquivalentTo(n)) {
+[PATCH] if(value!= null && value.getType() == Token. String){
+[PATCH] if(value!= null && value.getType() == Token.TEXT){
+[PATCH] if(value!= null &&!value.isNullable()){
+[PATCH] if(value!= null && value.getType() == Token. VALUE){
+[PATCH] if(value!= null &&!value.isZero()){
+[PATCH] if(value!= null && value.isEquivalentTo(callTarget)) {
+[PATCH] if(value!= null &&!value.isVoidNode()){
+[PATCH] if(value!= null &&!value.isUnmatchedString()){
+[PATCH] if(value!= null &&!value.isUndetectedType()){
+[PATCH] if(value!= null &&!value.isUnboxedString()){
+[PATCH] if(value!= null &&!value.isExprAssign(n)) {
+[PATCH] if(value!= null && value.isLiteralValue()){
+[PATCH] if(value!= null &&!value.isUnstubbedString()){
+[PATCH] if(value!= null &&!value.isUnwrappingString()){
+[PATCH] if(value!= null &&!value.isUnreferencedType()){
+[PATCH] if(value!= null &&Value.getType() == Token.FUNCTION){
+[PATCH] if(value!= null && value.isExprAssign()){
+[PATCH] if(value!= null &&!value.isOptionalArg()){
+[PATCH] if(value!= null && value.getType() == Token. FUNCTION){
+[PATCH] if(value!= null &&!Double.isUndefined(value)) {
+[PATCH] if(value!= null &&!value.isUnwrappedString()){
+[PATCH] if(value!= null &&!value.isUnreachableString()){
+[PATCH] if(value!= null &&!value.isExprNull()){
+[PATCH] if(value!= null && value.getType() == Token.CALL){
+[PATCH] if(value!= null &&!value.isNonNull()){
+[PATCH] if(value!= null && value.getType() == Token.RANGE){
+[PATCH] if(value!= null &&!Double.isNaN(value)) {
+[PATCH] if(value!= null &&!value.isUnresolvedType()){
+[PATCH] if(value!= null &&!value.isUnresolvedString()){
+[PATCH] if(value!= null &&!value.isNoObjectType()){
+[PATCH] if(value!= null && value.isNumber()){
+[PATCH] if(value!= null &&!value.isNoChildren()){
+[PATCH] if(value!= null &&!value.isActual()){
+[PATCH] if(value!= null &&!value.isUnempty()){
+[PATCH] if(value!= null && value.getType() == Token.METHOD){
+[PATCH] if(value!= null && value.isNext()){
+[PATCH] if(value!= null &&!value.isScalarValue()){
+[PATCH] if(value!= null &&!value.isVarArgs()){
+[PATCH] if(value!= null &&!value.isPojo()){
+[PATCH] if(value!= null &&!value.isChildren()){
+[PATCH] if(value!= null &&!value.isVoid()){
+[PATCH] if(value!= null && value.isVarArgs()){
+[PATCH] if(value!= null &&!value.isNew()){
+[PATCH] if(value!= null && value.isNull()){
+[PATCH] if(value!= null && value.isSimpleType()){
+[PATCH] if(value!= null &&!value.isNotNull()){
+[PATCH] if(value!= null &&!value.isThis()){
+[PATCH] if(value!= null && value.isGetProp()){
+[PATCH] if(value!= null && value.isUnwrapped()){

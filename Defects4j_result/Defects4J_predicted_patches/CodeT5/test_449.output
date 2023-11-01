@@ -1,0 +1,100 @@
+[PATCH] if(NodeUtil.mayHaveSideEffects(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.canBeSideEffected(cArg)&&!NodeUtil.mayHaveSideEffects(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.canBeSideEffected(cArg)&&!fnParam.getString().isEmpty()){ return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.canBeSideEffected(cArg)&& hasSideEffects){ return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.canBeSideEffected(cArg)&& fnParam.getString().length() > 1){ return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.canBeSideEffected(cArg)&&!fnParam.getString().equals("call")) { return CanInlineResult.NO; }
+[PATCH] if(!NodeUtil.mayHaveSideEffects(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.canBeSideEffected(cArg)&&!fnParam.getString().equals("apply")) { return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.canBeSideEffected(cArg)&&!fnParam.hasString()){ return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.canBeSideEffected(cArg)&& fnParam.getString().equals("call")) { return CanInlineResult.NO; }
+[PATCH] if(cArg.getType() == Token.NAME && NodeUtil.mayHaveSideEffects(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.mayEffectMutableState(cArg, compiler)) { return CanInlineResult.NO; }
+[PATCH] if(cArg.getType() == Token.NAME){ if(NodeUtil.mayHaveSideEffects(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(hasSideEffects && NodeUtil.mayHaveSideEffects(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.canBeSideEffected(cArg)&&!NodeUtil.isFunctionObjectApply(fnParam)) { return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.canBeSideEffected(cArg)&& fnParam.getString().equals("apply")) { return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.canBeSideEffected(cArg)&&!block.hasChildren()){ return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.mayBeSideEffected(cArg)&&!fnParam.getString().isEmpty()){ return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.canBeSideEffected(cArg)&&!fnParam.getString().equals("arguments")) { return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.canBeSideEffected(cArg)&&!hasSideEffects){ return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.canBeSideEffected(cArg)&& fnParam.getString().length() > 0){ return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.mayBeSideEffected(cArg)&& fnParam.getString().length() > 1){ return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.canBeSideEffected(cArg)&&!fnParam.hasChildren()){ return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.canBeSideEffected(cArg)&&!fnParam.isString().equals("call")) { return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.canBeSideEffected(cArg)&&!block.isEmpty()){ return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.canBeSideEffected(cArg)&& fnParam.getString().length() == 1){ return CanInlineResult.NO; }
+[PATCH] if(cArg.getType() == Token.NAME && NodeUtil.getNameReferenceCount(block, fnParam.getString())> 1){ return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.canBeSideEffected(cArg)&&!fnParam.isString()){ return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.mayEffectMutableState(cArg)&& fnParam.getString().length() > 1){ return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.canBeSideEffected(cArg)&&!fnParam.isString().equals("apply")) { return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.canBeSideEffected(cArg)&&!NodeUtil.mayHaveSideEffects(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(canBeSideEffected(cArg)&& NodeUtil.mayHaveSideEffects(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.canBeSideEffected(cArg)&&!NodeUtil.isExpressionNode(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.mayEffectMutableState(cArg), compiler.getCodingConvention().isExported(fnParam.getString())) { return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.canBeSideEffected(cArg)&&!NodeUtil.mayEffectMutableState(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.canBeSideEffected(cArg)&&!fnParam.getString().equals("prototype")) { return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.canBeSideEffected(cArg)&&!FunctionArgumentInjector.mayHaveSideEffects()){ return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.canBeSideEffected(cArg)&& fnParam.hasString()){ return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.mayBeSideEffected(cArg)&&!NodeUtil.mayHaveSideEffects(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(cArg.getType() == Token.GETPROP){ if(NodeUtil.mayHaveSideEffects(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.canBeSideEffected(cArg)&&!fnParam.getString().endsWith("__")) { return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.mayEffectMutableState(cArg)&&!NodeUtil.canBeSideEffected(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.canBeSideEffected(cArg)&&!this.allowDecomposition){ return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.canBeSideEffected(cArg)&& haveSideEffects){ return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.canBeSideEffected(cArg)&& fnParam.getString().endsWith("__")) { return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.canBeSideEffected(cArg)&& canInlineReferenceDirectly(fnParam)) { return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.mayBeSideEffected(cArg)&& hasSideEffects){ return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.mayBeSideEffected(cArg)&&!fnParam.getString().equals("call")) { return CanInlineResult.NO; }
+[PATCH] if(CArg.getType() == Token.NAME && NodeUtil.mayHaveSideEffects(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.mayEffectMutableState(cArg, compiler)&& fnParam.getString().length() > 1){ return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.canBeSideEffected(cArg)&&! fnParam.getString().isEmpty()){ return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.canBeSideEffected(cArg)&&!fnParam.isVarArgs()){ return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.mayEffectMutableState(cArg)&& hasSideEffects){ return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.mayEffectMutableState(cArg, compiler)&& hasSideEffects){ return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.canBeSideEffected(cArg)&&!fnParam.isQualifiedName()){ return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.canBeSideEffected(cArg)&&!fnParam.mayHaveSideEffects()){ return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.mayEffectEmptyState(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.canBeSideEffected(cArg)&&hasSideEffects){ return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.canBeSideEffected(cArg)&& hasSideEffects()){ return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.canBeSideEffected(cArg)&& true){ return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.canBeSideEffected(cArg)&& mayHaveSideEffects()){ return CanInlineResult.NO; }
+[PATCH] if(hasSideEffects && NodeUtil.canBeSideEffected(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.canBeSideEffected(cArg)&&!NodeUtil.mayHaveSideEffects(cArg)) { return canInlineResult.NO; }
+[PATCH] if(NodeUtil.canBeSideEffected(cArg)== false){ return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.canBeSideEffected(cArg)&&!noSideEffects){ return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.canBeSideEffected(cArg)&& scope.isLocal()){ return CanInlineResult.NO; }
+[PATCH] if(hasSideEffects || NodeUtil.mayHaveSideEffects(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.canBeSideEffected(cArg)&& canInline()){ return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.canBeSideEffected(cArg)&& allowDecomposition){ return CanInlineResult.NO; }
+[PATCH] if(hasSideEffects){ return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.canBeSideEffected(cArg)&& false){ return CanInlineResult.NO; }
+[PATCH] if(!NodeUtil.canBeSideEffected(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.mayEffectUnannotatedChildCount(cArg)> 1){ return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.mayEffectEmptyState(cArg)&& hasSideEffects){ return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.mayEffectMutableState(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.canBeSideEffected(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(cArg.getType() == Token.NAME){ return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.mayHaveSideEffects(cArg)) { return canInlineResult.NO; }
+[PATCH] if(NodeUtil.mayEffectNull(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.mayEffectNullState(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(!NodeUtil.mayEffectMutableState(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.mayEffectNoSideEffects(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.mayNeedSideEffects(cArg)) { return CanInlineResult.NO; }
+[PATCH] if(NodeUtil.mayHaveSideEffects(cArg)) { return CanInlineResults.NO; }
+[PATCH] return CanInlineResult.NO;
+[PATCH] if(mayHaveSideEffects()){ return CanInlineResult.NO; }
+[PATCH] if(this.hasSideEffects){ return CanInlineResult.NO; }
+[PATCH] if(mayHaveSideEffects){ return CanInlineResult.NO; }
+[PATCH] if(noSideEffects){ return CanInlineResult.NO; }
+[PATCH] if(NoSideEffects){ return CanInlineResult.NO; }
+[PATCH] return CanInlineResult.NO; }
+[PATCH] if(CanInlineResult.NO; }
+[PATCH] if(CanInlineResult.NO;
+[PATCH] return CanInlineResult.NO;
+[PATCH] [Delete]
+[PATCH] ;
+[PATCH] }
+);
+*/
+;

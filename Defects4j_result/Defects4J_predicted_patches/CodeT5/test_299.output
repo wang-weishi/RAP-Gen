@@ -1,0 +1,100 @@
+[PATCH] if(read == -1 || inf.finished()){ return -1; }
+[PATCH] if(read > 0 && inf.finished()){ return -1;
+[PATCH] if(read < 0 || inf.finished()){ return -1; }
+[PATCH] if(read > 0 && inf.finished()){ return -1; }
+[PATCH] if(read == -1 &&!inf.finished()){ return -1;
+[PATCH] if(read == -1 || inf.finished()){ return -1;
+[PATCH] if(read == 0 || inf.finished()){ return -1; }
+[PATCH] if(read < 0 && inf.finished()){ return -1; }
+[PATCH] if(read < 0 || inf.finished()){ return -1;
+[PATCH] if(read == -1 && inf.finished()){ return -1;
+[PATCH] if(read < 0 && inf.finished()){ return -1;
+[PATCH] if(read == 0 &&!inf.finished()){ return -1;
+[PATCH] if(read > 0 || inf.finished()){ return -1; }
+[PATCH] if(read == 0 &&!inf.finished()){ return -1; }
+[PATCH] if(!hasDataDescriptor || inf.finished()){ return -1; }
+[PATCH] if(read < 1 || inf.finished()){ return -1; }
+[PATCH] if(read == 0 && inf.finished()){ return -1;
+[PATCH] if(read == -1 &&!hasEFS){ return -1; }
+[PATCH] if(read == -1 &&!hasEFS){ return -1;
+[PATCH] if(read == -1 &&!hasDataDescriptor){ return -1; }
+[PATCH] if(read == -1 &&!def.finished()){ return -1;
+[PATCH] if(read == -1 && inf.finished()){ return -1; }
+[PATCH] if(read == -1 &&! inf.finished()){ return -1;
+[PATCH] if(read == -1 && hasEFS){ return -1; }
+[PATCH] if(read < 1 && inf.finished()){ return -1;
+[PATCH] if(read == -1 &&!crc.finished()){ return -1;
+[PATCH] if(read == -1 && hasEFS){ return -1;
+[PATCH] if(read == 0 && inf.finished()){ return -1; }
+[PATCH] if(read == -1 &&!in.finished()){ return -1;
+[PATCH] if(read < 1 && inf.finished()){ return -1; }
+[PATCH] if(closed || inf.finished()){ return -1; }
+[PATCH] if(!read && inf.finished()){ return -1; }
+[PATCH] if(read == -1 && crc.finished()){ return -1;
+[PATCH] if(read == -1 || inf.finished()){ return -1;
+[PATCH] if(read > 0 || inf.finished()){ return -1;
+[PATCH] if(read == -1 ||inf.finished()){ return -1; }
+[PATCH] if(read == EOF || inf.finished()){ return -1; }
+[PATCH] if(read < 1 || inf.finished()){ return -1;
+[PATCH] if(closeEntry() || inf.finished()){ return -1; }
+[PATCH] if(read == -1 &&!hasEOF){ return -1; }
+[PATCH] if(read == -1 && crc.finished()){ return -1; }
+[PATCH] if(read == -1 &&!fp.finished()){ return -1;
+[PATCH] if(read == -1 || inf.closed()){ return -1; }
+[PATCH] if(!read && inf.finished()){ return -1;
+[PATCH] if(read > 0 && inf.finished()){ return -1;
+[PATCH] if(read == -1 && raf == null){ return -1; }
+[PATCH] if(read == -1 &&!hasDataDescriptor){ return -1;
+[PATCH] if(read > 0 &&inf.finished()){ return -1;
+[PATCH] if(read == -1 &&!Inf.finished()){ return -1;
+[PATCH] if(read == -1 &&!closed){ return -1; }
+[PATCH] if(read == -1 && jp.finished()){ return -1;
+[PATCH] if(read == -1 &&!fin.finished()){ return -1;
+[PATCH] if(read == -1 && this.closed){ return -1; }
+[PATCH] if(read == -1 || inf.done()){ return -1; }
+[PATCH] if( read == -1 || inf.finished()){ return -1; }
+[PATCH] if(read == 0 || inf.finished()){ return -1;
+[PATCH] if(read >= 0 && inf.finished()){ return -1;
+[PATCH] if(read == -1 && entryEncoding.finished()){ return -1;
+[PATCH] if(unreadFromStream || inf.finished()){ return -1; }
+[PATCH] if(read == 0 &&! inf.finished()){ return -1; }
+[PATCH] if(!hasEFS && inf.finished()){ return -1; }
+[PATCH] if(read == 0 &&!def.finished()){ return -1; }
+[PATCH] if(read == -1 &&!ld.finished()){ return -1;
+[PATCH] if(read == 0 &&!hasEFS){ return -1; }
+[PATCH] if(buffer.length < read || inf.finished()){ return -1;
+[PATCH] if(read == -1 &&!ser.finished()){ return -1;
+[PATCH] if(read == -1){ return -1; }
+[PATCH] if(read == -1 &&inf.finished()){ return -1;
+[PATCH] if(hasDataDescriptor || inf.finished()){ return -1; }
+[PATCH] if(read == -1 && needCentralDirectory){ return -1; }
+[PATCH] if(read == -1 && inf.hasErrors()){ return -1;
+[PATCH] if(read == -1 ||inf.finished()){ return -1;
+[PATCH] if(!hasDataDescriptor || inf.finished()){ return -1;
+[PATCH] if(read == -1 && cp.finished()){ return -1;
+[PATCH] if(read < 0 ||inf.finished()){ return -1; }
+[PATCH] if(read == -1 && zz.finished()){ return -1;
+[PATCH] if(read == length && inf.finished()){ return -1; }
+[PATCH] if(read > -1 && inf.finished()){ return -1;
+[PATCH] if(read > 0 &&inf.finished()){ return -1; }
+[PATCH] if(read == 0 &&!hasDataDescriptor){ return -1; }
+[PATCH] if(read == -1 &&!in.available()){ return -1;
+[PATCH] if(read == -1 && isCentralDirectory()){ return -1;
+[PATCH] if(read == -1 &&!dec.finished()){ return -1;
+[PATCH] if(read == -1 || inf.hasFinished()){ return -1;
+[PATCH] if(read> 0 && inf.finished()){ return -1;
+[PATCH] if(!inf.finished()){ return -1; }
+[PATCH] if(read < 0 || inf.finished()){ return -1;
+[PATCH] if(read == -1 && haveEFS){ return -1; }
+[PATCH] if(closed || read == -1){ return -1; }
+[PATCH] if(read - 1!= inf.finished()){ return -1;
+[PATCH] if(read == -1 && isCentralDirectory()){ return -1; }
+[PATCH] if(read == -1 && isEOF()){ return -1; }
+[PATCH] if(read == 0 &&! inf.finished()){ return -1;
+[PATCH] if(read == -1 &&!inf.finished()){ return 0;
+[PATCH] if(read == -1 && closed){ return -1; }
+[PATCH] if(read >0 && inf.finished()){ return -1;
+[PATCH] if(read == -1 && isEOF()){ return -1;
+[PATCH] if(read == 0 && hasEFS){ return -1; }
+[PATCH] if(!crc.finished()){ return -1; }
+[PATCH] if(read == -1 && isInflaterDone()){ return -1;

@@ -1,0 +1,100 @@
+[PATCH] if(currentByte == 0 || currentByte == trailer){ break; }
+[PATCH] if(currentByte == trailer){ break; }
+[PATCH] if(currentByte == 0){ break; }
+[PATCH] if(currentByte == 0){ continue; }
+[PATCH] if(currentByte == 0 || currentByte == trailer){ continue; }
+[PATCH] if(currentByte == 0xFF){ break; }
+[PATCH] if(currentByte == 0 || trailer!= 0){ break; }
+[PATCH] if(currentByte == 0x7F){ break; }
+[PATCH] if(currentByte > 0){ break; }
+[PATCH] if(currentByte == 0 || currentByte > 0){ break; }
+[PATCH] if(currentByte == 0x80){ break; }
+[PATCH] if(currentByte == 0 || currentByte > 255){ break; }
+[PATCH] if(currentByte == 0 && trailer == 0){ break; }
+[PATCH] if(currentByte == 0 || currentByte > trailer){ break; }
+[PATCH] if(currentByte == 0 || currentByte == EOF){ break; }
+[PATCH] if(currentByte == 0 || currentByte > 127){ break; }
+[PATCH] if(currentByte > trailer){ break; }
+[PATCH] if(currentByte == 0 || currentByte == 1){ break; }
+[PATCH] if(currentByte == trailer){ continue; }
+[PATCH] if(currentByte == 0 || currentByte == 127){ break; }
+[PATCH] if(currentByte == 0x10FFFF){ break; }
+[PATCH] if(currentByte == 0xFEFF){ break; }
+[PATCH] if(currentByte == 0 || currentByte == 255){ break; }
+[PATCH] if(currentByte == EOF){ break; }
+[PATCH] if(currentByte == 0x7F){ continue; }
+[PATCH] if(currentByte == NULL){ break; }
+[PATCH] if(currentByte == 0? trailer : currentByte){ break; }
+[PATCH] if(currentByte == 0 || currentByte == byte){ break; }
+[PATCH] if(currentByte == 127){ break; }
+[PATCH] if(currentByte == 0 || currentByte == trail){ break; }
+[PATCH] if(currentByte == 0 || currentByte == '.'){ break; }
+[PATCH] if(currentByte == 0 || currentByte == '-'){ break; }
+[PATCH] if(currentByte == 0 || currentByte == suffix){ break; }
+[PATCH] if(currentByte == 0 | trailer){ break; }
+[PATCH] if(currentByte == 0 || currentByte > 9){ break; }
+[PATCH] if(currentByte == 0|| currentByte == trailer){ break; }
+[PATCH] if(currentByte == '0'){ break; }
+[PATCH] if(currentByte ==0 || currentByte == trailer){ break; }
+[PATCH] if(currentByte == 0 || currentByte == end){ break; }
+[PATCH] if(currentByte == 0xff){ break; }
+[PATCH] if(currentByte == -1){ break; }
+[PATCH] if(currentByte == 0 || currentByte > 128){ break; }
+[PATCH] if(currentByte == 0 || currentByte == QUOTE){ break; }
+[PATCH] if(currentByte == 0 || currentByte == 512){ break; }
+[PATCH] if(currentByte <= 0){ break; }
+[PATCH] if(currentByte == 0 || currentByte == 256){ break; }
+[PATCH] if(currentByte & BYTE_MASK)== 0){ break; }
+[PATCH] if(currentByte == 0xFF){ continue; }
+[PATCH] if(currentByte == 0 || currentByte == ')'){ break; }
+[PATCH] if(currentByte == 0x01){ break; }
+[PATCH] if(currentByte == 0 || currentByte == '}'){ break; }
+[PATCH] if(currentByte == 0 || currentByte == 8){ break; }
+[PATCH] if(currentByte == BYTE_MASK){ break; }
+[PATCH] if(currentByte == 255){ break; }
+[PATCH] if(currentByte == null){ break; }
+[PATCH] if(currentByte == 0){ throw new IOException(""); }
+[PATCH] if(currentByte == 0){ return 0L; }
+[PATCH] if(currentByte == 0 || currentByte == VCF){ break; }
+[PATCH] if(currentByte == 0 && trailer!= 0){ break; }
+[PATCH] if(currentByte == 0x7f){ break; }
+[PATCH] if(currentByte == 0 || trailer){ break; }
+[PATCH] if(currentByte == 0 || currentByte > 0){ continue; }
+[PATCH] if(currentByte == 0 || trailer!= 0){ continue; }
+[PATCH] if(currentByte == 0x800){ break; }
+[PATCH] if(currentByte == 0)break;
+[PATCH] if(currentByte == 0xf){ break; }
+[PATCH] if(currentByte == 0x0){ break; }
+[PATCH] if(currentByte == 0Opcode){ break; }
+[PATCH] if(currentByte == 0byte){ break; }
+[PATCH] if(currentByte == 0 && trailer == 0){ continue; }
+[PATCH] if(currentByte == 0x10000){ break; }
+[PATCH] if(currentByte == 0 || currentByte > trailer){ continue; }
+[PATCH] if(currentByte ==trailer){ break; }
+[PATCH] if(currentByte > 0x7F){ break; }
+[PATCH] if(currentByte == EOF_CHAR){ break; }
+[PATCH] if(currentByte == 0xc0){ break; }
+[PATCH] if(currentByte == '0'){ continue; }
+[PATCH] if(currentByte == 0x80){ continue; }
+[PATCH] if(currentByte == 1){ break; }
+[PATCH] if(currentByte == 0xBF){ break; }
+[PATCH] if(currentByte == 0b){ break; }
+[PATCH] if(currentByte > 127){ break; }
+[PATCH] if(currentByte == 0x00){ break; }
+[PATCH] if(currentByte == 0L){ break; }
+[PATCH] if(currentByte == 0x1){ break; }
+[PATCH] if(currentByte == 0x10){ break; }
+[PATCH] if(currentByte == 0 || currentByte > 255){ continue; }
+[PATCH] if(currentByte == 0)continue;
+[PATCH] if(currentByte == 0 || currentByte == EOF){ continue; }
+[PATCH] if(currentByte == 0xFFFFFFFF){ break; }
+[PATCH] if(currentByte > 255){ break; }
+[PATCH] if(currentByte == 0){ continue; }
+[PATCH] if(currentByte == 0 || currentByte == byte)break;
+[PATCH] if(currentByte == end){ break; }
+[PATCH] if(currentByte == 0){ break; }
+[PATCH] if(currentByte == END_BYTE){ break; }
+[PATCH] if(currentByte == 0 || currentByte == '.'){ continue; }
+[PATCH] if(currentByte == byte){ break; }
+[PATCH] if(currentByte == '.'){ break; }
+[PATCH] if(currentByte == 128){ break; }

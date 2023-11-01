@@ -1,0 +1,100 @@
+[PATCH] while(m.multiply(m)) { m = m.multiply(m);
+[PATCH] if(!m.equals(m)) { m = m.copy(); }
+[PATCH] while(m.getRowDimension() == m.getColumnDimension()){ m = m.multiply(m);
+[PATCH] if(!m.equals(m)) { m = m.clone(); }
+[PATCH] while(m.abs() > 0.0){ m = m.multiply(m);
+[PATCH] while(m.getRowDimension() < m.getColumnDimension()){ m = m.multiply(m);
+[PATCH] if(!m.equals(m)) { m = m.subtract(m); }
+[PATCH] while(m.getRowDimension() > m.getColumnDimension()){ m = m.multiply(m);
+[PATCH] if(!m.equals(m)) { m = m.multiply(this); }
+[PATCH] if(!m.equals(m)) { m = m.invert(); }
+[PATCH] while(m.multiply(RealMatrix.ALL)) { m = m.multiply(RealMatrix.ALL);
+[PATCH] if(!m.equals(m)) { m = m.dup(); }
+[PATCH] if(!m.equals(m)) { m = m.subMatrix(0.0, 0.0); }
+[PATCH] while(Math.abs(m) <= absoluteAccuracy){ m = m.multiply(m);
+[PATCH] while(m.multiply(m))){ m = m.multiply(m);
+[PATCH] while(Math.abs(m)< Math.abs(m)) { m = m.multiply(m);
+[PATCH] while(m.abs() < m.abs()){ m = m.multiply(m);
+[PATCH] while(m.multiply(m)) { m = m.multiply(( RealMatrix)m);
+[PATCH] while(m.multiply(this)) { m = m.multiply(this);
+[PATCH] if(!m.isSquare()){ m = m.multiply(RealMatrix.ALL); }
+[PATCH] if(!m.isSquare()){ m = m.multiply(RealMatrix.ONE); }
+[PATCH] while(m.multiply(m)) { m = m.multiply(( RealMatrixImpl)m);
+[PATCH] if(!m.equals(this.m)) { m = m.multiply(this.m); }
+[PATCH] if(!m.equals(m)) { m = m.getRealMatrix(); }
+[PATCH] while(m.getReal()!= null){ m = m.multiply(m);
+[PATCH] if(!m.equals(m)) { m = m.multiply(( RealMatrixImpl)m); }
+[PATCH] if(!m.isSquare()){ m = m.multiply(( RealMatrixImpl)m); }
+[PATCH] while(m.multiply(m)) { m = m.multiply(m); }
+[PATCH] while(m.multiply(m)) { m = m.subtract(m);
+[PATCH] if(!m.equals(m)) { m = m.multiply(Math.abs(m), m); }
+[PATCH] if(!m.equals(m)) { m = m.inverse(); }
+[PATCH] if(m.isSquare()){ if(!m.equals(m)) { return m; }
+[PATCH] if(!m.equals(m)) { m = m.transpose(); }
+[PATCH] if(!m.equals(m)) { m = m.multiply(RealMatrix.ALL); }
+[PATCH] if(!m.isSquare()){ m = m.copy(); }
+[PATCH] if(!m.isSquare()){ m = m.multiply(( RealMatrix)m); }
+[PATCH] while(m.getColumnDimension() < m.getRowDimension()){ m = m.multiply(m);
+[PATCH] while(m.multiply(m)) { m = m.multiply(( RealMatrix2D)m);
+[PATCH] while(!m.equals(m)) { m = m.multiply(this);
+[PATCH] if(!m.equals(m)) { m = m.multiply(RealMatrix.this); }
+[PATCH] if(m.equals(this.m)) { m = m.multiply(this.m); }
+[PATCH] if(!m.equals(m)) { m = m.multiply(( RealMatrix)m); }
+[PATCH] if(!m.isSquare()){ m = m.multiply(this); }
+[PATCH] if(!m.isSquare()){ m = m.multiply(RealMatrix.this); }
+[PATCH] while(m.getSquareRoot()!= null){ m = m.multiply(m);
+[PATCH] if(m.getRowDimension() == 1){ m = m.getRowDimension(); }
+[PATCH] while(m.abs() > 0.0){ m = m.multiply(( RealMatrix)m);
+[PATCH] if(m.getColumnDimension() == 1){ if(!m.isSquare()){ return m; }
+[PATCH] while(m.abs() > 0.0){ m = m.multiply(( RealMatrixImpl)m);
+[PATCH] if(!m.isSquare()){ m = m.multiply(new RealMatrix(m))); }
+[PATCH] while(m.abs() > 0.0){ m = m.subtract(m);
+[PATCH] while(m.getRows() > m.getCols()){ m = m.multiply(m);
+[PATCH] while(m.abs() < m.abs()){ m = m.subtract(m);
+[PATCH] while(m.getRealValues()!= null){ m = m.multiply(m.getRealValues());
+[PATCH] if(!m.equals(m)) { m = m.multiply(MatrixUtils.dup(m)); }
+[PATCH] while(m.equals(m)) { m = m.multiply(m);
+[PATCH] if(!m.equals(m)) { m = m.multiply(RealMatrix.ONE); }
+[PATCH] while(m.abs() > 0.0){ m = m.multiply(Math.abs(m), m);
+[PATCH] if(!m.isSquare()){ m = m.multiply(Math.abs(m), m); }
+[PATCH] if(!m.equals(m)) { m = m.multiply(( RealMatrix2D)m); }
+[PATCH] if(!m.isSquare()){ m = m.multiply(MatrixUtils.createRealMatrix(m)); }
+[PATCH] while(!m.equals(m)) { m = m.multiply(Math.abs(m), m);
+[PATCH] while(m.zero() > 0.0){ m = m.multiply(m);
+[PATCH] while(m.isSquare()){ m = m.multiply(m);
+[PATCH] if(!m.isSquare()){ m = m.clone(); }
+[PATCH] if(!m.isSquare()){ m = m.multiply(MatrixUtils.dup(m)); }
+[PATCH] if(!m.equals(m)) { m = m.multiply(); }
+[PATCH] if(!m.isSquare()){ m = m.multiply(( RealMatrix2D)m); }
+[PATCH] if(!m.equals(m)) { m = m.multiply(ComplexMatrix.create(m)); }
+[PATCH] if(!m.isSquare()){ m = m.invert(); }
+[PATCH] while(m.getRows() < m.getCols()){ m = m.multiply(m);
+[PATCH] while(m.multiply(m)) { m = m.multiply(this);
+[PATCH] while(m.multiply(RealMatrix.ALL)) { m = m.multiply(RealMatrix.ALL));
+[PATCH] if(!m.isSquare()){ m = m.subtract(m); }
+[PATCH] if(!m.isSquare()){ m = m.getRealMatrix(); }
+[PATCH] if(!m.isSquare()){ m = m.multiply(RealMatrix.ZERO); }
+[PATCH] if(!m.isSquare()){ m = m.multiply(RealMatrix.inverse()); }
+[PATCH] if(!m.equals(m)) { m = m.abs(); }
+[PATCH] if(m.getColumnDimension() == 1){ m = m.multiply(( RealMatrix)m); }
+[PATCH] if(!m.isSquare()){ m = m.transpose(); }
+[PATCH] while(m.abs() < 0.0){ m = m.multiply(m);
+[PATCH] while(m.abs() > 0.0){ m = m.multiply(RealMatrix.ONE);
+[PATCH] if(!m.isReal()){ m = m.copy(); }
+[PATCH] if(!m.isSquare()){ m = m.inverse(); }
+[PATCH] while(m.abs() > 0.0){ m = m.subtract(m.abs());
+[PATCH] if(!m.equals(m)) { m = m.getReal(); }
+[PATCH] if(m.getRowDimension() == 0){ m = m.getRowDimension(); }
+[PATCH] if(!m.isSquare()){ m = m.getReal(); }
+[PATCH] if(!m.isSquare()){ m = m.dup(); }
+[PATCH] while(m.getColumnDimension()!= 0){ m = m.multiply(m);
+[PATCH] if(!m.isSquare()){ m = m.multiply(); }
+[PATCH] Preconditions.checkNotNull(m);
+[PATCH] m = m.multiply(RealMatrix.ALL);
+[PATCH] m = m.copy();
+[PATCH] super();
+[PATCH] epsilon();
+[PATCH] loops();
+[PATCH] clear();
+);
+;

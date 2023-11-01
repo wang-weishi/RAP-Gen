@@ -1,0 +1,100 @@
+[PATCH] if(rowDimension > 0 || columnDimension > 0){ throw new IllegalArgumentException("Matrix must be initialized to perfom this method"); }
+[PATCH] if(rowDimension!= columnDimension){ throw new IllegalArgumentException("Matrix must be initialized to perfom this method"); }
+[PATCH] if(rowDimension!= columnDimension){ throw new IllegalArgumentException("matrix must be initialized to perfom this method"); }
+[PATCH] if(rowDimension * columnDimension!= 0){ throw new IllegalArgumentException("matrix must be initialized to perfom this method"); }
+[PATCH] if(rowDimension > columnDimension){ throw new IllegalArgumentException("Matrix must be initialized to perfom this method"); }
+[PATCH] if(rowDimension * columnDimension!= 0){ throw new IllegalArgumentException("Matrix must be initialized to perfom this method"); }
+[PATCH] if(rowDimension > columnDimension || columnDimension > rowDimension){ throw new IllegalArgumentException("Matrix must be initialized to perfom this method"); }
+[PATCH] if(rowDimension > columnDimension){ throw new IllegalArgumentException("matrix must be initialized to perfom this method"); }
+[PATCH] if(rowDimension > 0 || columnDimension > 0){ throw new IllegalArgumentException("matrix must be initialized to perfom this method"); }
+[PATCH] if(rowDimension > this.columns){ throw new IllegalArgumentException("Matrix must be initialized to perfom this method"); }
+[PATCH] if(rowDimension!= columnDimension){ throw new IllegalArgumentException(""); }
+[PATCH] if(rowDimension * columnDimension > this.rows){ throw new IllegalArgumentException("matrix must be initialized to perfom this method"); }
+[PATCH] if(rowDimension > this.columns){ throw new IllegalArgumentException("matrix must be initialized to perfom this method"); }
+[PATCH] if(rowDimension > columnDimension || columnDimension > rowDimension){ throw new IllegalArgumentException("matrix must be initialized to perfom this method"); }
+[PATCH] if(rowDimension * columnDimension > this.rows){ throw new IllegalArgumentException("Matrix must be initialized to perfom this method"); }
+[PATCH] if(rowDimension > this.columns || columnDimension > this.rows){ throw new IllegalArgumentException(""); }
+[PATCH] if(rowDimension * columnDimension == 0){ throw new IllegalArgumentException("Matrix must be initialized to perfom this method"); }
+[PATCH] if(rowDimension!= 0 || columnDimension!= 0){ throw new IllegalArgumentException("Matrix must be initialized to perfom this method"); }
+[PATCH] if(rowDimension > 1 || columnDimension > 1){ throw new IllegalArgumentException("Matrix must be initialized to perfom this method"); }
+[PATCH] if(rowDimension > columnDimension){ throw new IllegalArgumentException("Matrix size =" + rowDimension +" vs" + columnDimension); }
+[PATCH] if(rowDimension!= columnDimension){ Preconditions.checkArgument(columnDimension > rowDimension); this.columns = columnDimension; }
+[PATCH] if(rowDimension > columnDimension){ throw new IllegalArgumentException(""); }
+[PATCH] if(rowDimension * columnDimension == 0){ throw new IllegalArgumentException("matrix must be initialized to perfom this method"); }
+[PATCH] if(rowDimension > columnDimension || rowDimension!= columnDimension){ throw new IllegalArgumentException("Matrix must be initialized to perfom this method"); }
+[PATCH] Preconditions.checkArgument(rowDimension > 0); Preconditions.checkArgument(columnDimension > 0);
+[PATCH] if(rowDimension > this.columns){ throw new IllegalArgumentException(""); }
+[PATCH] if(rowDimension > columnDimension || columnDimension > rowDimension){ throw new IllegalArgumentException(""); }
+[PATCH] if(rowDimension!= columnDimension){ Preconditions.checkArgument(columnDimension > rowDimension); }
+[PATCH] if(rowDimension * columnDimension > 0){ throw new IllegalArgumentException("matrix must be initialized to perfom this method"); }
+[PATCH] if(rowDimension * columnDimension > 0){ throw new IllegalArgumentException("Matrix must be initialized to perfom this method"); }
+[PATCH] if(rowDimension > 1 || columnDimension > 1){ throw new IllegalArgumentException(""); }
+[PATCH] if(rowDimension!= columnDimension){ throw new IllegalArgumentException("Matrix size =" + rowDimension +" vs" + columnDimension); }
+[PATCH] if(rowDimension % columnDimension == 0){ throw new IllegalArgumentException("Matrix must be initialized to perfom this method"); }
+[PATCH] if(rowDimension > columnDimension){ throw new IllegalArgumentException("Matrix size =" + rowDimension +" rows =" + columnDimension); }
+[PATCH] if(rowDimension!= columnDimension){ throw new IllegalArgumentException("Matrix size =" + rowDimension +" must be the same dimension."); }
+[PATCH] if(rowDimension!= columnDimension){ throw new IllegalArgumentException("Matrix does not support row dimension '" + rowDimension +"'"); }
+[PATCH] if(rowDimension!= columnDimension){ assert(columnDimension > rowDimension); }
+[PATCH] if(rowDimension * columnDimension!= 0){ throw new IllegalArgumentException(""); }
+[PATCH] if(rowDimension * columnDimension > this.rows){ throw new IllegalArgumentException(""); }
+[PATCH] if(rowDimension > columnDimension){ throw new IllegalArgumentException("Matrix does not support row dimension '" + rowDimension +"'"); }
+[PATCH] if(rowDimension > 0 || columnDimension > 0){ throw new IllegalArgumentException(""); }
+[PATCH] if(rowDimension > columnDimension){ Preconditions.checkArgument(columnDimension > rowDimension); this.columns = columnDimension; }
+[PATCH] if(rowDimension > this.columns){ if(columnDimension > this.rows){ throw new IllegalArgumentException(""); }
+[PATCH] if(rowDimension > columnDimension){ throw new IllegalArgumentException("Matrix size =" + rowDimension +" must be the same dimension."); }
+[PATCH] if(rowDimension!= columnDimension){ Preconditions.checkArgument(columnDimension > rowDimension); this.label = new Integer(0); }
+[PATCH] if(rowDimension > columnDimension){ Preconditions.checkArgument(columnDimension > rowDimension); }
+[PATCH] if(rowDimension > columnDimension){ if(columnDimension > rowDimension){ throw new IllegalArgumentException(""); }
+[PATCH] if(rowDimension > this.columns){ throw new IllegalArgumentException("Matrix size =" + rowDimension +" vs" + columnDimension); }
+[PATCH] if(rowDimension!= columnDimension){ throw new IllegalArgumentException("Matrix size =" + rowDimension +" should be the same dimension."); }
+[PATCH] if(rowDimension!= columnDimension){ Preconditions.checkState(columnDimension > rowDimension); this.columns = columnDimension; }
+[PATCH] if(rowDimension!= columnDimension){ throw new IllegalArgumentException("Matrix size =" + rowDimension +" rows =" + columnDimension); }
+[PATCH] if(rowDimension!= columnDimension){ if(columnDimension > rowDimension){ throw new IllegalArgumentException(""); }
+[PATCH] if(rowDimension > 0 || columnDimension > 0){ Preconditions.checkArgument(columnDimension > 0); }
+[PATCH] if(rowDimension!= columnDimension){ throw new IllegalArgumentException("Matrix of size" + rowDimension +" must be the same dimension."); }
+[PATCH] if(rowDimension > 1 || columnDimension > 1){ throw new IllegalArgumentException("Matrix does not support multiple rows or columns"); }
+[PATCH] if(rowDimension!= columnDimension){ throw new IllegalArgumentException("Matrix size =" + rowDimension +" is not the same dimension."); }
+[PATCH] if(rowDimension > 1 || columnDimension > 1){ throw new IllegalArgumentException("Matrix must be a row dimension of 1 or 2."); }
+[PATCH] if(rowDimension > 1 || columnDimension > 1){ throw new IllegalArgumentException("Matrix must be a row dimension of 1 or 2"); }
+[PATCH] if(rowDimension > 0 || columnDimension > 0){ Preconditions.checkArgument(0); }
+[PATCH] if(rowDimension > columnDimension || rowDimension!= columnDimension){ throw new IllegalArgumentException(""); }
+[PATCH] if(rowDimension!= columnDimension){ Preconditions.checkArgument(columnDimension > rowDimension); this.entryCount = 0; }
+[PATCH] if(rowDimension * columnDimension!= 0){ assert(columnDimension == rowDimension); }
+[PATCH] if(rowDimension * columnDimension!= 0){ return this; }
+[PATCH] if(rowDimension * columnDimension == 1){ return this; }
+[PATCH] Preconditions.checkArgument(columnDimension > rowDimension);
+[PATCH] Preconditions.checkArgument(rowDimension <= this.columns);
+[PATCH] if(rowDimension > columns){ throw new IllegalArgumentException(""); }
+[PATCH] Preconditions.checkArgument(rowDimension > columnDimension);
+[PATCH] if(rowDimension!= columnDimension){ return this; }
+[PATCH] Preconditions.checkArgument(rowDimension!= columnDimension);
+[PATCH] Preconditions.checkArgument(!this.isSingular());
+[PATCH] this.labelNames = new HashMap();
+[PATCH] this.features = new Integer(0);
+[PATCH] zeroAll();
+[PATCH] this.init();
+[PATCH] super.zeroAll();
+[PATCH] Collections.sort(this);
+[PATCH] VectorUtils.zeroAll();
+[PATCH] this.zeroAll();
+[PATCH] super.clear();
+[PATCH] this.initialize();
+[PATCH] Statistics.clear();
+[PATCH] super.init();
+[PATCH] init();
+[PATCH] tp.clear();
+[PATCH] setupMatrix();
+[PATCH] ClearMatrix();
+[PATCH] clear();
+[PATCH] initialize();
+[PATCH] initialise();
+[PATCH] zeroOut();
+[PATCH] transpose();
+[PATCH] createMatrix();
+[PATCH] ClearBuffer();
+[PATCH] compose();
+[PATCH] super();
+[PATCH] flush();
+[PATCH] normalize();
+
+);

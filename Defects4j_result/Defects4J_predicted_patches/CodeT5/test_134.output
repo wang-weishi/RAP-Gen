@@ -1,0 +1,100 @@
+[PATCH] if(target!= null && target.getType() == Token.STRING){
+[PATCH] if(target!= null && callee.getType() == Token.STRING &&(( String)target).length() == 2){
+[PATCH] if(target!= null && NodeUtil.isExprAssign(parent)) {
+[PATCH] if(target!= null && NodeUtil.isExprCall(parent)) {
+[PATCH] if(target!= null &&(( NodeUtil.isName(target)&& target.getType() == Token.STRING)) {
+[PATCH] if(target!= null &&(( NodeUtil.isName(target)&& target.getType() == Token.STRING))){
+[PATCH] if(target!= null && callee.getType() == Token.STRING &&(( String)target).hasChildren()){
+[PATCH] if(target!= null &&(( Node)target).getType() == Token.STRING){
+[PATCH] if(target!= null && callee.getType() == Token.NAME){
+[PATCH] if(target!= null && callee.getType() == Token.STRING &&(( String)target).length() == 1){
+[PATCH] if(target!= null &&(( NodeUtil.isExprCall(parent)&& parent.getFirstChild() == callee)) {
+[PATCH] if(target!= null &&(( Token.STRING)target).getType() == Token.STRING){
+[PATCH] if(target!= null &&(( Name)target).getType() == Token.STRING){
+[PATCH] if(target!= null && callee.getType() == Token.STRING &&(( String)target).isQualifiedName()){
+[PATCH] if(target!= null &&(( String)target).getType() == Token.STRING){
+[PATCH] if(target!= null && callee.getType() == Token.GETPROP){
+[PATCH] if(target!= null &&(( Node.isName(target)&& target.getType() == Token.STRING))){
+[PATCH] if(target!= null &&(( Node.isExprCall(parent)&& parent.getFirstChild() == callee)) {
+[PATCH] if(target!= null &&(( functionName).equals(target.getType()))){
+[PATCH] if(target!= null &&(( BasicNode)target).getType() == Token.STRING){
+[PATCH] if(target!= null && callee.getType() == Token.STRING && NodeUtil.isExprAssign(parent)) {
+[PATCH] if(target!= null &&(( Node.isName(target)&& target.getType() == Token.STRING)) {
+[PATCH] if(target!= null && callee.getType() == Token.STRING && target.getString().equals("prototype")) {
+[PATCH] if(target!= null && callee.getType() == Token.STRING && extractClassNameIfGoog(target, functionName)) {
+[PATCH] if(target!= null &&(( target.getType() == Token.STRING && NodeUtil.isLiteralValue(target))){
+[PATCH] if(target!= null && callee.getType() == Token.STRING){
+[PATCH] if(target!= null && callee.getType() == Token.STRING && extractClassNameIfGoog(target, parent)) {
+[PATCH] if(target!= null && NodeUtil.isLiteralValue(target)) {
+[PATCH] if(target!= null && callee.getType() == Token.STRING &&(( NodeNameTest)target).isQualifiedName()){
+[PATCH] if(target!= null && NodeUtil.isLhs(callee, target)) {
+[PATCH] if(target!= null && callee.getType() == Token.STRING && NodeUtil.isGoog(target)) {
+[PATCH] if(target!= null &&(( Node.isExprCall(parent)&& NodeUtil.isName(target))){
+[PATCH] if(target!= null &&(( NodeUtil.isExprCall(parent)&& parent.getFirstChild() == callee))){
+[PATCH] if(target!= null && callee.getType() == Token.STRING &&(( String)target).isQuotedString()){
+[PATCH] if(target!= null && callee.getType() == Token.STRING &&(( String)target).length() == 3){
+[PATCH] if(target!= null && callee.getType() == Token.STRING &&(( String)target).equals("prototype")) {
+[PATCH] if(target!= null &&(( target.getType() == Token.STRING &&!target.isQuotedString())) {
+[PATCH] if(target!= null && callee.getType() == Token.STRING && NodeUtil.isLiteralValue(target)) {
+[PATCH] if(target!= null && callee.getType() == Token.STRING && NodeUtil.isExprCall(parent)) {
+[PATCH] if(target!= null && targetType.getType() == Token.STRING){
+[PATCH] if(target!= null &&(( target.getType() == Token.STRING &&!target.isEmpty())) {
+[PATCH] if(target!= null &&(( NameNode)target).getType() == Token.STRING){
+[PATCH] if(target!= null && callee.getType() == Token.STRING &&(( Name)target).hasChildren()){
+[PATCH] if(target!= null && callee.getType() == Token.STRING &&!target.isQuotedString()){
+[PATCH] if(target!= null &&(( BasicName)target).getType() == Token.STRING){
+[PATCH] if(target!= null &&(( MethodInfo)target).getType() == Token.STRING){
+[PATCH] if(target!= null &&!target.isUnknownType() && NodeUtil.isExprCall(parent)) {
+[PATCH] if(target!= null && sourceName.equals(target.getQualifiedName())) {
+[PATCH] if(target!= null &&(( ProcessingInstruction)target).getType() == Token.STRING){
+[PATCH] if(target!= null &&(( Property)target).getType() == Token.STRING){
+[PATCH] if(target!= null &&(( JsString)target).getType() == Token.STRING){
+[PATCH] if(target!= null &&(( Target)target).getType() == Token.STRING){
+[PATCH] if(target!= null &&TARGET.getType() == Token.STRING){
+[PATCH] if(target!= null && t.getType() == Token.STRING){
+[PATCH] if(target!= null &&!target.isEquivalentTo(callee)) {
+[PATCH] if(target!= null &&(( Token.NAME)target).getType() == Token.STRING){
+[PATCH] if(target!= null && sourceName.equals(target.getString())) {
+[PATCH] if(target!= null && targetClass.getType() == Token.STRING){
+[PATCH] if(target!= null &&!target.isObjectLitKey(qualifiedName)) {
+[PATCH] if(target!= null &&(( Kind.GETPROP | Token.GETELEM)== target)) {
+[PATCH] if(target!= null && NodeUtil.isName(target)) {
+[PATCH] if(target!= null && new Node(Token.STRING, target.getString())) {
+[PATCH] if(target!= null &&(( FunctionNode)target).getType() == Token.STRING){
+[PATCH] if(target!= null &&!target.isUnknownType() && NodeUtil.isExprAssign(parent)) {
+[PATCH] if(target!= null &&(( final Node)target).getType() == Token.STRING){
+[PATCH] if(target!= null && setTarget().getType() == Token.STRING){
+[PATCH] if(target!= null &&(( JSIdentifier)target).getType() == Token.STRING){
+[PATCH] if(target!= null &&((QualifiedName)target).getType() == Token.STRING){
+[PATCH] if(target!= null && setTarget.getType() == Token.STRING){
+[PATCH] if(target!= null &&!target.getType() == Token.FUNCTION){
+[PATCH] if(target!= null &&(( DOMNode)target).getType() == Token.STRING){
+[PATCH] if(target!= null && NodeUtil.isExprLitKey(parent, target)) {
+[PATCH] if(target!= null &&(( Function)target).getType() == Token.STRING){
+[PATCH] if(target!= null &&!target.isUnknownType()){
+[PATCH] if(target!= null &&(( MethodInfo)target).getType() == Token.NAME){
+[PATCH] if(target!= null &&(( NodeNameTest)target).isQualifiedName()){
+[PATCH] if(target!= null &&!target.isLiteralValue()){
+[PATCH] if(target!= null &&!target.isQuotedString()){
+[PATCH] if(target!= null &&!target.isObjectLitKey(callee)) {
+[PATCH] if(target!= null && NodeUtil.isExprGet(target)) {
+[PATCH] if(target!= null &&!target.isQualifiedName()){
+[PATCH] if(target!= null && NodeUtil.isExprCall(parent)) {
+[PATCH] if(target!= null && NodeUtil.isExprAssign(parent)) {
+[PATCH] if(target!= null &&!target.isNoObjectType()){
+[PATCH] if(target!= null && NodeUtil.isExprName(target)) {
+[PATCH] if(target!= null &&(( BasicName)target).isQualifiedName()){
+[PATCH] if(target!= null && NodeUtil.isExprAssign(parent, target)) {
+[PATCH] if(target!= null &&!target.isNoSideEffectsCall()){
+[PATCH] if(target!= null && targets.getType() == Token.STRING){
+[PATCH] if(target!= null &&arget.getType() == Token.STRING){
+[PATCH] if(target!= null &&(( LinkedHashSet)target).hasChildren()){
+[PATCH] if(target!= null && ExpressionContext.isExprCall(parent)) {
+[PATCH] if(target!= null && Token.STRING == target.getType()){
+[PATCH] if(target!= null &&!target.isNoType()){
+[PATCH] if(target!= null && TARGET.getType() == Token.STRING){
+[PATCH] if(target!= null &&(( LinkedHashSet)target).hasOneChild()){
+[PATCH] if(target!= null &&!target.isEmpty()){
+[PATCH] if(target!= null &&!target.isExprAssign()){
+[PATCH] if(target!= null && NodeUtil.isQualifiedName(target)) {
+[PATCH] if(target!= null && NodeUtil.isGetProp(target)) {

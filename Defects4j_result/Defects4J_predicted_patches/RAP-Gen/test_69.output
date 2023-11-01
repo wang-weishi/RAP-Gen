@@ -1,0 +1,100 @@
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.MONTH)== cal2.get(Calendar.MONTH)&& cal1.get(Calendar.DAY_OF_YEAR)== cal2.get(Calendar.DAY_OF_YEAR)&& cal1.get(Calendar.YEAR)== cal2.get(Calendar.YEAR)&&
+[PATCH] cal1.get(Calendar.MONTH)== cal2.get(Calendar.MONTH)&& cal1.get(Calendar.DATE)== cal2.get(Calendar.DAY_OF_YEAR)&& cal1.get(Calendar.YEAR)== cal2.get(Calendar.YEAR)&&
+[PATCH] cal1.get(Calendar.MINUTES_PER_DAY)== cal2.get(Calendar.MINUTES_PER_DAY)&& cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUTES_PER_DAY)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&!Calendar.DAY_OF_YEAR ||!Calendar.DAY_OF_YEAR &&!Calendar.YEAR.isEmpty()){
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINIMUM_MINUTE)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.MILLISECOND)== cal2.get(Calendar.MILLIS_PER_SECOND)&& cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.SECOND_OF_MONTH)== cal2.get(Calendar.SECOND_OF_MONTH)&& cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.MONTH)== cal2.get(Calendar.MONTH)&& cal1.get(Calendar.DATE)== cal2.get(Calendar.DATE)&& cal1.get(Calendar.YEAR)== cal2.get(Calendar.YEAR)&&
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&!Calendar.DAY_OF_YEAR ||!Calendar.DAY_OF_YEAR &&!Calendar.YEAR.isSupported()){
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&& null == cal2.get(Calendar.NULL)&&
+[PATCH] cal1.get(Calendar.SECOND_OF_YEAR)== cal2.get(Calendar.SECOND_OF_YEAR)&& cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.MINUTE)&&
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&!Calendar.DAY_OF_YEAR &&!Calendar.DAY_OF_YEAR &&!Calendar.YEAR.isEmpty()){
+[PATCH] cal1.get(Calendar.MINUTE)+ 1 == cal2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&!Calendar.DAY_OF_YEAR or!Calendar.DAY_OF_YEAR &&!Calendar.YEAR.isEmpty()){
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== calendar2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&!Calendar.DAY_OF_YEAR &&!Calendar.DAY_OF_YEAR &&!Calendar.YEAR.isSupported()){
+[PATCH] cal1.get(Calendar.MINUTE_OF_YEAR)== cal2.get(Calendar.MINUTE_OF_YEAR)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.DAY_OF_MONTH)== cal2.get(Calendar.DAY_OF_MONTH)&& cal1.get(Calendar.YEAR)== cal2.get(Calendar.YEAR)&&
+[PATCH] cal1.get(Calendar.MINUTE)= cal2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.MINUTE) == cal2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.MINUTE_OF_DAY)== cal2.get(Calendar.MINUTE_OF_DAY)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MIN_VALUE)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUSION)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.put(Calendar.MINUTE, cal2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MIN_DAY_OF_YEAR)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUTE')&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINIMUM_DAY_OF_YEAR)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUTE); cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&& c
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&& i == 0;
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MONTH)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.set(Calendar.MINUTE, cal2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&!Calendar.DAY_OF_YEAR? -1 : 1;
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)= cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR) == cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&& }
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] if(cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&& 0 <= 0;
+[PATCH] cal1.get(Calendar.MINUTE, cal2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.MONTH)== cal2.get(Calendar.MONTH)&& cal1.get(Calendar.YEAR)== cal2.get(Calendar.YEAR)&&
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HH)&&
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== c2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.MONTH)== cal2.get(Calendar.MONTH)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MILLISECOND)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&& 0 <= 0x7F;
+[PATCH] cal1.get(Calendar.MINUTE)- 1 == cal2.get(Calendar.MINUTE)+ 1 && cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.MINUTE")== cal2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== l2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUTE)+ 1 && cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.MINUTE)== cal0.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.NEGATIVE)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&& i > 0;
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&& n > 0;
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&& false;
+[PATCH] cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&& n == 0;
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&& //
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&& i == 1 &&
+[PATCH] cal1.set(Calendar.MINUTE, calendar2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&& 0 <= 0x7F);
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== 0 &&
+[PATCH] cal1.set(Calendar.MINUTE, cal2.get(Calendar.MINUTE), cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&& 0 <= 0 < 1){
+[PATCH] cal1.get(Calendar.MINUTE)- cal2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR);
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&& 0 <= 0x10);
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUTE)) && cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.MINUTE, cal2.get(Calendar.MINUTE), cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)) &&
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUTE) && cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.MINUTE), cal1.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR),
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== Calendar.HOUR)&&
+[PATCH] cal1.set(Calendar.MINUTE, Calendar.MINUTE); cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUTE), cal1.get(Calendar.HOUR)&&
+[PATCH] cal1.set(Calendar.MINUTE, 0); cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== 1 &&
+[PATCH] cal1.get(Calendar.MINUTE); cal1.get(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.MINUTE)== cal2.get(Calendar.MINUTE)&& cal1.get(Calendar.HOUR)== null &&
+[PATCH] cal1.set(Calendar.MINUTE, cal2.get(Calendar.MINUTE), cal1.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.MINUTE, cal2.get(Calendar.MINUTE), cal1.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.MILLISECOND)== cal2.get(Calendar.MILLISECOND)&&
+[PATCH] cal1.get(Calendar.MONTH)== cal2.get(Calendar.MONTH)&&
+[PATCH] cal1.get(Calendar.YEAR)== cal2.get(Calendar.YEAR)&&
+[PATCH] cal1.set(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.MONTH)+ 1 == cal2.get(Calendar.MONTH)&&
+[PATCH] cal1.put(Calendar.HOUR)== cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.get(Calendar.HOUR)= cal2.get(Calendar.HOUR)&&
+[PATCH] cal1.set(Calendar.MINUTE, 0);
+[PATCH] cal1.set(Calendar.MINUTE, Calendar.MINUTE);
+[PATCH] cal1.put(Calendar.MINUTE, 0);
+[PATCH] cal1.clear();
+);
+;
+*/
+());

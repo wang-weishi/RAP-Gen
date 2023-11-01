@@ -1,0 +1,100 @@
+[PATCH] if(NodeUtil.isAssignmentOp(thenOp)) {
+[PATCH] if(NodeUtil.isExpressionNode(thenOp)) {
+[PATCH] if(NodeUtil.isExprAssign(thenOp)) {
+[PATCH] if(isExprAssign(thenOp)) {
+[PATCH] if(cond.getType() == Token.NOT){
+[PATCH] if(cond.getType() == Token.NOT &&!mayHaveSideEffects()){
+[PATCH] if(NodeUtil.isExprAssign(elseOp)) {
+[PATCH] if(NodeUtil.isCall(thenOp)) {
+[PATCH] if(isExpressBlock(thenOp)) {
+[PATCH] if(isForInlining(thenOp, elseOp)) {
+[PATCH] if(NodeUtil.isForIn(thenOp)) {
+[PATCH] if(cond.getType() == Token.IF && isExprAssign(elseOp)) {
+[PATCH] if(cond.getType() == Token.IF && NodeUtil.isElse(elseOp)) {
+[PATCH] if(isAssignmentOp(thenOp)) {
+[PATCH] if(isSafeAssign(thenOp)) {
+[PATCH] if(NodeUtil.isExpressBlock(thenOp)) {
+[PATCH] if(NodeUtil.isIf(thenOp)) {
+[PATCH] if(cond.getType() == Token.NOT ||!mayHaveSideEffects()){
+[PATCH] if(cond.getType() == Token.NOT ||!isNodeAttached(thenOp)) {
+[PATCH] if(isExpressionNode(thenOp)) {
+[PATCH] if(cond.getType() == Token.NOT && NodeUtil.isIf(thenOp)) {
+[PATCH] if(isNodeEqual(thenOp, elseOp)&&!mayHaveSideEffects()){
+[PATCH] if(cond.getType() == Token.NOT || isExprAssign(elseOp)) {
+[PATCH] if(nodeType == Token.IF && NodeUtil.isExpressionNode(thenOp)) {
+[PATCH] if(isNodeEqual(thenOp, elseOp)) {
+[PATCH] if(cond.getType() == Token.NOT && NodeUtil.isElse(elseOp)) {
+[PATCH] if(NodeUtil.isAssign(thenOp)) {
+[PATCH] if(isConditionalOp(thenOp)) {
+[PATCH] if(NodeUtil.isExprCall(thenOp)) {
+[PATCH] if(isEquivalentToNoInlining(thenOp, elseOp)) {
+[PATCH] if(cond.getType() == Token.NOT && isExprAssign(elseOp)) {
+[PATCH] if(NodeUtil.isName(thenOp)) {
+[PATCH] if(isForInlining(thenOp)) {
+[PATCH] if(isSafeAssign(thenOp, elseOp)) {
+[PATCH] if(cond.getType() == Token.IF && isSafeAssign(thenOp)) {
+[PATCH] if(isAssignmentOp(thenOp)&& isAssignmentOp(elseOp)) {
+[PATCH] if(cond.getType() == Token.HOOK){
+[PATCH] if(isMethodCallThatTriggersRemoval(thenOp, elseOp)) {
+[PATCH] if(NodeUtil.isConditionalOp(thenOp)) {
+[PATCH] if(isEqualsOp(thenOp, elseOp)) {
+[PATCH] if(isJoinOp(thenOp, elseOp)) {
+[PATCH] if(isObjLitKey(thenOp, elseOp)) {
+[PATCH] if(NodeUtil.isConditionExpression(thenOp)) {
+[PATCH] if(NodeUtil.isLiteralValue(thenOp)) {
+[PATCH] if(isAssign(thenOp)) {
+[PATCH] if(isAndForInlining(thenOp, elseOp)) {
+[PATCH] if(NodeUtil.isVar(thenOp)) {
+[PATCH] if(isExprAssign(elseOp)) {
+[PATCH] if(n.getType() == Token.IF){
+[PATCH] if(NodeUtil.isExprCall(elseOp)) {
+[PATCH] if(isLhs(thenOp, elseOp)) {
+[PATCH] if(isCallSite(thenOp)) {
+[PATCH] if(cond.getType() == Token.IF){
+[PATCH] if(cond.getType() == Token.EXPR_RESULT){
+[PATCH] if(isEqual(thenOp, elseOp)) {
+[PATCH] if(isExpressionTreeUnsafe(thenOp)) {
+[PATCH] if(isNodeAttached(thenOp)) {
+[PATCH] if(isAndNotEqual(thenOp, elseOp)) {
+[PATCH] if(isObjectLitKey(thenOp, elseOp)) {
+[PATCH] if(NodeUtil.isAnd(thenOp)) {
+[PATCH] if(isEnteringNewCfgNode(thenOp)) {
+[PATCH] if(NodeUtil.isCond(thenOp)) {
+[PATCH] if(isEquivalentToNot(thenOp, elseOp)) {
+[PATCH] if(NodeUtil.isStatementBlock(thenOp)) {
+[PATCH] if(isJoinedIf(thenOp, elseOp)) {
+[PATCH] if(isComparison(thenOp, elseOp)) {
+[PATCH] if(isExpressNode(thenOp)) {
+[PATCH] if(isEqualOp(thenOp, elseOp)) {
+[PATCH] if(NodeUtil.isExpressionNode(elseOp)) {
+[PATCH] if(isNotNullOrUndefined(thenOp)) {
+[PATCH] if(NodeUtil.isGetProp(thenOp)) {
+[PATCH] if(isObjLitKey(thenOp)) {
+[PATCH] if(NodeUtil.isValueOp(thenOp)) {
+[PATCH] if(isChildrenEqual(thenOp, elseOp)) {
+[PATCH] if(isEquivalentToNot(thenOp)) {
+[PATCH] if(isEquivalentToElse(thenOp)) {
+[PATCH] if(NodeUtil.isElse(elseOp)) {
+[PATCH] if(isEquivalentToThis(thenOp)) {
+[PATCH] if(cond.getType() == Token.NOT);
+[PATCH] if(isNodeAnyChild(thenOp)) {
+[PATCH] if(isEquivalentToConstant(thenOp)) {
+[PATCH] if(isEffectMutableState(thenOp)) {
+[PATCH] if(isNodeEquivalent(thenOp)) {
+[PATCH] if(isSuffixOfAssign(thenOp)) {
+[PATCH] if(isConditionExpression(thenOp)) {
+[PATCH] if(isJoinOp(thenOp)) {
+[PATCH] if(isAndOrElse(elseOp)) {
+[PATCH] if(isNestedAssign(thenOp)) {
+[PATCH] if(nodeType == Token.IF){
+[PATCH] if(isNodeUnsafe(thenOp)) {
+[PATCH] if(isNodeEmpty(thenOp)) {
+[PATCH] if(isLiteralValue(thenOp)) {
+[PATCH] if(isStatementBlock(thenOp)) {
+[PATCH] if(isKeepLocal(thenOp)) {
+[PATCH] if(isExprCall(thenOp)) {
+[PATCH] if(isBranch(thenOp)) {
+[PATCH] if(isNew(thenOp)) {
+[PATCH] if(isNext()){
+[PATCH] [Delete]
+[PATCH] {

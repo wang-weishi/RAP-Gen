@@ -1,0 +1,100 @@
+[PATCH] Preconditions.checkNotNull(u); Preconditions.checkNotNull(v);
+[PATCH] Preconditions.checkNotNull(u); Validate.notNull(v);
+[PATCH] Preconditions.checkNotNull(u); checkNotNull(v);
+[PATCH] Preconditions.checkNotNull(u,"negative"); Preconditions.checkNotNull(v,"negative");
+[PATCH] Preconditions.checkArgument(u>0 && v > 0);
+[PATCH] Preconditions.checkArgument(u < v || v < 0);
+[PATCH] Validate.notNull(u); Validate.notNull(v);
+[PATCH] u = Math.abs(u); v = Math.abs(v);
+[PATCH] Preconditions.checkState(u > 0); Preconditions.checkState(v > 0);
+[PATCH] assert(u.abs() <= 1 && v.abs() <= 1){
+[PATCH] Preconditions.checkArgument(u!= 0 && v!= 0);
+[PATCH] Preconditions.checkNotNull(u), Preconditions.checkNotNull(v);
+[PATCH] Preconditions.checkNotNull(u); Validate.isNotNull(v);
+[PATCH] Preconditions.checkNotNull(u)|| Preconditions.checkNotNull(v);
+[PATCH] Preconditions.checkArgument(u<0 || v < 0);
+[PATCH] if(u == v){ return 0; }
+[PATCH] Preconditions.checkArgument(u>0 || v>0);
+[PATCH] Preconditions.checkArgument(u > 0 && v > 0);
+[PATCH] Preconditions.checkNotNull(u)|| CheckUtils.isNotNull(v);
+[PATCH] Preconditions.checkArgument(u>0 && v>0);
+[PATCH] Preconditions.checkArgument(u < v); Preconditions.checkArgument(v < 0);
+[PATCH] Preconditions.checkArgument(u0 <= 0 || v0 <= 0){
+[PATCH] assert(u!= 0 && v!= 0);
+[PATCH] if(u==v){ return 0; }
+[PATCH] Preconditions.checkArgument(u!= -1 && v!= -1){
+[PATCH] Preconditions.checkNotNull(u,"Negative values should not be possible", u, v);
+[PATCH] Preconditions.checkNotNull(u)+ Preconditions.checkNotNull(v);
+[PATCH] Preconditions.checkArgument(u<0 || v>0);
+[PATCH] Preconditions.checkNotNull(u)|| Validate.isNotNull(v);
+[PATCH] Preconditions.checkArgument(u > 0 || v > 0);
+[PATCH] Preconditions.checkNotNull(u,"negative"); checkNotNull(v,"negative");
+[PATCH] Preconditions.checkArgument(u < v);
+[PATCH] assert(u.abs() <= 1 && v.abs() <= 1);
+[PATCH] assert(u.abs() <= 1 || v.abs() <= 1){
+[PATCH] Preconditions.checkArgument(u<0)|| Math.isNegative(v);
+[PATCH] Preconditions.checkArgument(u<0)|| Math.isNaN(v);
+[PATCH] Preconditions.checkNotNull(u), Validate.notNull(v);
+[PATCH] Preconditions.checkArgument(u<0)&& v < 0){
+[PATCH] Validate.isTrue(Math.abs(u)< Math.abs(v)));
+[PATCH] Preconditions.checkNotNull(u)+ checkNotNull(v);
+[PATCH] Math.max(0, u); Math.min(0, v);
+[PATCH] checkNegative(u,"negative"); checkNegative(v,"negative");
+[PATCH] checkLimits(u,"negative"); checkLimits(v,"negative");
+[PATCH] Preconditions.checkArgument(u<0)&& v < 0);
+[PATCH] checkDivisor(u, v); checkDivisor(v, 0);
+[PATCH] Preconditions.checkArgument(u>0|| v>0);
+[PATCH] Validate.isTrue(u>0,"Negative values should not be possible", v);
+[PATCH] Preconditions.checkState(u < v);
+[PATCH] Preconditions.checkArgument(u!= -1 && v!= -1);
+[PATCH] Preconditions.checkArgument(u<0 || v > 0);
+[PATCH] Preconditions.checkNotNull(u,"Negative values should not be possible", v);
+[PATCH] Preconditions.checkArgument(!u.equals(v)) {
+[PATCH] Preconditions.checkArgument(u<0|| v < 0);
+[PATCH] Preconditions.checkArgument(u < v || v > 0);
+[PATCH] Preconditions.checkArgument(u!0 && v!= 0);
+[PATCH] if(u * v == 0){ return 0; }
+[PATCH] Preconditions.checkArgument(u<0 || v < 0){
+[PATCH] Preconditions.checkArgument(u * v == 0.0);
+[PATCH] checkPrinter(u); checkPrinter(v);
+[PATCH] Preconditions.checkNotNull(u,"Negative values should not be null.");
+[PATCH] Preconditions.checkArgument(u < v || v < 1);
+[PATCH] Math.abs(u)+ Math.abs(v);
+[PATCH] assert(u>0 && v > 0);
+[PATCH] if(u==v){ return -1; }
+[PATCH] checkDivisor(u, v);
+[PATCH] x = Math.max(u, v);
+[PATCH] assert(u!= -1 && v!= -1);
+[PATCH] assert(u!= -1 && v!= -1){
+[PATCH] check(u, v);
+[PATCH] if(u == v){ return -1; }
+[PATCH] Preconditions.checkNotNull(u,"Negative values should not be possible";
+[PATCH] Preconditions.checkArgument(u < v){
+[PATCH] if(u == v){ return 1; }
+[PATCH] check(u, v,"negative");
+[PATCH] assert(u < v || v < 0);
+[PATCH] sum = Math.max(u, v);
+[PATCH] u = Math.max(u, v);
+[PATCH] if(u == v || v == 0){
+[PATCH] Math.max(u, v);
+[PATCH] assert(u.abs() < v);
+[PATCH] checkYearsAndMonths(u, v);
+[PATCH] check(u, v,"abs");
+[PATCH] checkNotEquals(u, v);
+[PATCH] checkArithmetic(u, v);
+[PATCH] validate(u, v);
+[PATCH] checkEquals(u, v);
+[PATCH] super(u, v);
+[PATCH] assert(u < v);
+[PATCH] normalize(u, v);
+[PATCH] mul(u, v);
+[PATCH] test(u, v);
+[PATCH] checkLenient();
+[PATCH] super();
+[PATCH] checkDecompose();
+[PATCH] checkNotSigned();
+[PATCH] clear();
+[PATCH] initialise();
+[PATCH] check();
+[PATCH] normalize();
+

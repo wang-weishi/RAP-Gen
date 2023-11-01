@@ -1,0 +1,100 @@
+[PATCH] if(functionType.isConstructor() || functionType.isInterface()){ if(!inExtern){ report(t, n, UNSPECIFIED_TYPE, childType.toString()); }
+[PATCH] if(functionType.isConstructor() || functionType.isInterface()){ if(!inExtern){ report(t, n, UNEXPECTED_TOKEN, childType.toString()); }
+[PATCH] if(childType!= null){ if(!functionType.isConstructor() ||!functionType.isInterface()){ report(t, n, UNEXPECTED_TOKEN, childType.toString()); }
+[PATCH] if(childType!= null){ if(!functionType.isConstructor() ||!functionType.isInterface()){ report(t, n, SUPER_TYPE, childType.toString()); }
+[PATCH] if(functionType.isConstructor() || functionType.isInterface()){
+[PATCH] if(childType!= null){ if(!functionType.isConstructor() ||!functionType.isNativeObjectType()){ report(t, n, SUPER_TYPE, childType.toString()); }
+[PATCH] if(functionType.isConstructor()){ if(!inExtern){ report(t, n, OVERRIDING_PROTOTYPE_WITH_NON_OBJECT, childType.toString()); }
+[PATCH] if(childType!= null){ if(!functionType.isInstanceType()){ report(t, n, UNEXPECTED_TOKEN, childType.toString()); }
+[PATCH] if(functionType.isConstructor() || functionType.isInterface()){ if(!inExtern){ report(t, n, NON_GLOBAL_TYPE, childType.toString()); }
+[PATCH] if(childType!= null){ if(!functionType.isConstructor() ||!functionType.isNativeObjectType()){ report(t, n, UNEXPECTED_TOKEN, childType.toString()); }
+[PATCH] if(functionType.isConstructor()){ if(!inExtern){ report(t, n, UNSPECIFIED_TYPE, childType.toString()); }
+[PATCH] if(functionType.isConstructor() || functionType.isInterface()){ if(NodeUtil.isExpressionNode(child)) { report(t, n, GET_CONSTRUCTOR_TYPE, childType.toString()); }
+[PATCH] if(functionType.isConstructor() || functionType.isInterface()){ if(NodeUtil.isExpressionNode(child)) { report(t, n, INVALID_CALLABLE, childType.toString()); }
+[PATCH] if(childType!= null){ if(!functionType.isConstructor() ||!functionType.isInterface()){ report(t, n, ILLEGAL_TYPE, childType.toString()); }
+[PATCH] if(childType.isFunctionType()){ if(!functionType.isConstructor() ||!functionType.isInterface()){ report(t, n, UNEXPECTED_TOKEN, childType.toString()); }
+[PATCH] if(childType!= null){ if(!functionType.isConstructor() ||!functionType.isInterface()){ report(t, n, UNSPECIFIED_TYPE, childType.toString()); }
+[PATCH] if(childType!= null){ if(!functionType.isConstructor() ||!functionType.isInterface()){ report(t, n, INTERFACE_FUNCTION_NOT_EMPTY, childType.toString()); }
+[PATCH] if(functionType.isConstructor() || functionType.isInterface()){ if(!inExtern){ report(t, n, ILLEGAL_TYPE, childType.toString()); }
+[PATCH] if(functionType.isConstructor() || functionType.isInterface()){ if(NodeUtil.isExpressionNode(child)) { report(t, n, SUPER_TYPE, childType.toString()); }
+[PATCH] if(childType!= null){ if(!functionType.isConstructor()){ report(t, n, CONSTRUCTOR_NOT_CALLABLE, childType.toString()); }
+[PATCH] if(childType!= null){ if(!functionType.matchesObjectContext()){ report(t, n, UNEXPECTED_TOKEN, childType.toString()); }
+[PATCH] if(childType.isFunctionPrototype()){ if(!functionType.isConstructor() ||!functionType.isInterface()){ report(t, n, UNEXPECTED_TOKEN, childType.toString()); }
+[PATCH] if(functionType.isConstructor() || functionType.isInterface()){ if(NodeUtil.isExpressionNode(child)) { report(t, n, UNEXPECTED_TOKEN, childType.toString()); }
+[PATCH] if(childType.isFunctionType()){ if(!functionType.isConstructor() ||!functionType.isInterface()){ report(t, n, SUPER_TYPE, childType.toString()); }
+[PATCH] if(childType!= null){ if(!functionType.isInstanceType()){ report(t, n, INVALID_EXPR_TYPE, childType.toString()); }
+[PATCH] if(functionType.isConstructor() || functionType.isInterface()){ if(!inExterns){ report(t, n, UNSPECIFIED_TYPE, childType.toString()); }
+[PATCH] if(functionType.isConstructor() || functionType.isInterface()){ if(!inExtern){ report(t, n, INVALID_EXPR_TYPE, childType.toString()); }
+[PATCH] if(childType!= null){ if(!functionType.isInstanceType()){ report(t, n, UNSPECIFIED_TYPE, childType.toString()); }
+[PATCH] if(functionType.isConstructor() || functionType.isInterface()){ if(!NodeUtil.isExpressionNode(child)) { report(t, n, INVALID_CALLABLE, childType.toString()); }
+[PATCH] if(childType.isOptionalArg()){ if(!inExtern){ report(t, n, UNSPECIFIED_TYPE, childType.toString()); }
+[PATCH] if(childType!= null){ if(!functionType.isConstructor() ||!functionType.isNativeObjectType()){ report(t, n, GET_CONSTRUCTOR_TYPE, childType.toString()); }
+[PATCH] if(functionType.isConstructor() || functionType.isInterface()){ if(!t.inExterns){ report(t, n, UNSPECIFIED_TYPE, childType.toString()); }
+[PATCH] if(functionType.isConstructor() ||!functionType.isInterface()){ if(!inExtern){ report(t, n, UNSPECIFIED_TYPE, childType.toString()); }
+[PATCH] if(functionType.isConstructor()){ if(!inExtern){ report(t, n, UNEXPECTED_TOKEN, childType.toString()); }
+[PATCH] if(childType.isFunctionType()){ if(!functionType.isConstructor() ||!functionType.isNativeObjectType()){ report(t, n, SUPER_TYPE, childType.toString()); }
+[PATCH] if(childType!= null){ if(functionType.isConstructor() ||!functionType.isNativeObjectType()){ report(t, n, SUPER_TYPE, childType.toString()); }
+[PATCH] if(childType!= null){ if(!functionType.isConstructor() ||!functionType.isInterface()){ report(t, n, IS_INTERFACE_TYPE, childType.toString()); }
+[PATCH] if(functionType.isConstructor() || functionType.isInterface()){ if(!typeRegistry.hasType(childType)) { report(t, n, SUPER_TYPE, childType.toString()); }
+[PATCH] if(functionType.isConstructor()){ if(!inExtern){ report(t, n, OVERRIDING_PROTOTYPE_NOT_OBJECT, childType.toString()); }
+[PATCH] if(childType!= null){ if(!functionType.isInstanceType()){ report(t, n, INVALID_TYPE, childType.toString()); }
+[PATCH] if(childType!= null){ if(!functionType.isConstructor() ||!functionType.isInterface()){ report(t, n, FUNCTION_MASKS_VARIABLE, childType.toString()); }
+[PATCH] if(functionType.isConstructor() || functionType.isInterface()){ if(!t.inExterns){ report(t, n, UNEXPECTED_TOKEN, childType.toString()); }
+[PATCH] if(childType.matchesObject()){ if(!functionType.isConstructor() ||!functionType.isInterface()){ report(t, n, UNEXPECTED_TOKEN, childType.toString()); }
+[PATCH] if(functionType.isConstructor() || functionType.isInterface()){ if(NodeUtil.isExpressionNode(child)) { report(t, n, UNSPECIFIED_TYPE, childType.toString()); }
+[PATCH] if(childType.isFunctionPrototype()){ if(!functionType.isConstructor() ||!functionType.isInterface()){ report(t, n, SUPER_TYPE, childType.toString()); }
+[PATCH] if(childType!= null){ if(!functionType.isConstructor()){ report(t, n, SUPER_TYPE, childType.toString()); }
+[PATCH] if(childType.isFunctionType()){ if(!functionType.isConstructor() ||!functionType.isNativeObjectType()){ report(t, n, UNEXPECTED_TOKEN, childType.toString()); }
+[PATCH] if(NodeUtil.isExpressionNode(n)) { if(!functionType.isConstructor() ||!functionType.isInterface()){ report(t, n, UNEXPECTED_TOKEN, childType.toString()); }
+[PATCH] if(childType!= null){ if(!functionType.isConstructor() ||!functionType.isNativeObjectType()){ report(t, n, CONSTRUCTOR_NOT_CALLABLE, childType.toString()); }
+[PATCH] if(functionType.isConstructor() || functionType.isInterface()){ if(NodeUtil.isExpressionNode(child)) { report(t, n, IS_CONSTRUCTOR_TYPE, childType.toString()); }
+[PATCH] if(childType!= null){ if(!functionType.isConstructor() ||!functionType.isInterface()){ report(t, n, IS_CONSTRUCTOR_TYPE, childType.toString()); }
+[PATCH] if(child.getType() == Token.GETPROP){ if(!functionType.isConstructor()){ report(t, n, CONSTRUCTOR_NOT_CALLABLE, childType.toString()); }
+[PATCH] if(functionType.isConstructor() || functionType.isInterface()){ if(!NodeUtil.isExpressionNode(child)) { report(t, n, UNEXPECTED_TOKEN, childType.toString()); }
+[PATCH] if(childType.getType() == Token.FUNCTION){ if(!functionType.isConstructor()){ report(t, n, FUNCTION_NOT_CONSTRUCTOR, childType.toString()); }
+[PATCH] if(functionType.isConstructor() || functionType.isInterface()){ if(!noTypeCheckSection){ report(t, n, UNEXPECTED_TOKEN, childType.toString()); }
+[PATCH] if(childType!= null){ if(!inExtern){ report(t, n, UNSPECIFIED_TYPE, childType.toString()); }
+[PATCH] if(childType.matchesObject()){ if(!functionType.isConstructor() ||!functionType.isInterface()){ report(t, n, SUPER_TYPE, childType.toString()); }
+[PATCH] if(NodeUtil.isExpressionNode(child)) { if(!functionType.isConstructor() ||!functionType.isInterface()){ report(t, n, UNEXPECTED_TOKEN, childType.toString()); }
+[PATCH] if(childType.equals(FUNCTION_EXPRESSION)) { if(!functionType.isConstructor() ||!functionType.isInterface()){ report(t, n, UNEXPECTED_TOKEN, childType.toString()); }
+[PATCH] if(childType!= null){ if(!functionType.isConstructor()){ report(t, n, CONSTRUCTOR_NOT_CONSTRUCTABLE, childType.toString()); }
+[PATCH] if(childType.getType() == Token.FUNCTION){ if(!functionType.isInstanceType()){ report(t, n, FUNCTION_NOT_OBJECT, childType.toString()); }
+[PATCH] if(childType!= null){ if(!functionType.isConstructor()){ report(t, n, INVALID_CALLABLE, childType.toString()); }
+[PATCH] if(functionType.isConstructor() || functionType.isInterface()){ if(!inExtern){ report(t, n, EXPR_TYPE, childType.toString()); }
+[PATCH] if(childType!= null){ if(!functionType.isConstructor()){ report(t, n, UNEXPECTED_TOKEN, childType.toString()); }
+[PATCH] if(childType!= null){ if(!functionType.isConstructor()){ report(t, n, GET_CONSTRUCTOR_TYPE, childType.toString()); }
+[PATCH] if(childType!= null){ if(NodeUtil.isExpressionNode(child)) { report(t, n, CALL_EXPR_TYPE, childType.toString()); }
+[PATCH] if(childType!= null){ if(!functionType.isConstructor() ||!functionType.isInterface()){ report(t, n, INVALID_CALLABLE, childType.toString()); }
+[PATCH] if(childType!= null){ if(!functionType.isInstanceType()){ report(t, n, INVALID_CALLABLE, childType.toString()); }
+[PATCH] if(functionType.isConstructor() || functionType.isInterface()){ if(!NodeUtil.isExpressionNode(child)) { report(t, n, SUPER_TYPE, childType.toString()); }
+[PATCH] if(childType.matchesObject()){ if(!inExtern){ report(t, n, UNSPECIFIED_TYPE, childType.toString()); }
+[PATCH] if(functionType.isConstructor() || functionType.isInterface()){ if(!inExtern){ report(t, n, SUPER_TYPE, childType.toString()); }
+[PATCH] if(childType.isFunctionPrototype()){ if(!functionType.isConstructor() ||!functionType.isNativeObjectType()){ report(t, n, SUPER_TYPE, childType.toString()); }
+[PATCH] if(childType.isFunctionType()){ if(!functionType.isInstanceType()){ report(t, n, UNEXPECTED_TOKEN, childType.toString()); }
+[PATCH] if(functionType.isConstructor() || functionType.isInterface()){ if(!inExtern){ report(t, n, INTERN_TYPE, childType.toString()); }
+[PATCH] if(childType!= null){ if(functionType.isConstructor() ||!functionType.isNativeObjectType()){ report(t, n, SUPER_CONSTRUCTOR_NOT_OBJECT, childType.toString()); }
+[PATCH] if(childType!= null){ if(!functionType.isConstructor() ||!functionType.isNativeObjectType()){ report(t, n, CONSTRUCTOR_NOT_CONSTRUCTABLE, childType.toString()); }
+[PATCH] if(childType!= null){ if(!functionType.isInstanceType()){ report(t, n, SUPER_TYPE, childType.toString()); }
+[PATCH] if(childType!= null){ if(!functionType.canCreateUsingDefault()){ report(t, n, UNEXPECTED_TOKEN, childType.toString()); }
+[PATCH] if(childType!= null){ if(!functionType.matchesObjectContext()){ report(t, n, UNSPECIFIED_TYPE, childType.toString()); }
+[PATCH] if(childType!= null){ if(!functionType.isConstructor()){ report(t, n, CONSTRUCTOR_NOT_STATIC, childType.toString()); }
+[PATCH] if(childType.isFunctionType()){ if(!inExtern){ report(t, n, UNSPECIFIED_TYPE, childType.toString()); }
+[PATCH] if(NodeUtil.isGetProp(n)) { if(!functionType.isConstructor() ||!functionType.isInterface()){ report(t, n, UNEXPECTED_TOKEN, childType.toString()); }
+[PATCH] if(functionType.isConstructor() || functionType.isInterface()){ if(!inExtern){ report(t, n, OVERRIDING_PROTOTYPE_ONLY, childType.toString()); }
+[PATCH] if(NodeUtil.isExpressionNode(child)) { if(!functionType.isConstructor() ||!functionType.isInterface()){ report(t, n, SUPER_TYPE, childType.toString()); }
+[PATCH] if(functionType.isConstructor() || functionType.isInterface()){ if(!NodeUtil.mayHaveSideEffects(n)) { report(t, n, UNEXPECTED_TOKEN, childType.toString()); }
+[PATCH] if(NodeUtil.isExpressionNode(n)) { if(!functionType.isConstructor() ||!functionType.isInterface()){ report(t, n, SUPER_TYPE, childType.toString()); }
+[PATCH] if(childType.isOptionalArg()){ if(!inExtern){ report(t, n, UNEXPECTED_TOKEN, childType.toString()); }
+[PATCH] if(inExterns){ if(NodeUtil.isExpressionNode(child)) { report(t, n, UNSPECIFIED_TYPE, childType.toString()); }
+[PATCH] if(childType!= null){ if(!functionType.isConstructor() ||!functionType.isInterface()){ report(t, n, INVALID_INTERFACE_TYPE, childType.toString()); }
+[PATCH] if(childType!= null){ if(!functionType.matchesObjectContext()){ report(t, n, INVALID_CALLABLE, childType.toString()); }
+[PATCH] if(child.getType() == Token.GETPROP){ if(!inExtern){ report(t, n, UNSPECIFIED_TYPE, childType.toString()); }
+[PATCH] if(functionType.isConstructor()){ if(!inExtern){ report(t, n, NON_CONSTRUCTOR_TYPE, childType.toString()); }
+[PATCH] if(functionType.isConstructor() || functionType.isInterface()){ if(childType == null){ childType = getJSType(n.getFirstChild()); }
+[PATCH] if(functionType.isConstructor() || functionType.isInterface()){ if(!inExtern){ report(t, n, UNEXPECTED_TOKEN, functionName.toString()); }
+[PATCH] if(NodeUtil.isGetProp(n)) { if(!functionType.isConstructor() ||!functionType.isInterface()){ report(t, n, UNEXPECTED_TOKEN, functionName.toString()); }
+[PATCH] child.setJSType(functionType.getReturnType());
+[PATCH] if(childType.getType() == Token.FUNCTION){
+[PATCH] childType = child.getNext();
+[PATCH] childType.detachFromParent();
+[PATCH] child.detachFromParent();

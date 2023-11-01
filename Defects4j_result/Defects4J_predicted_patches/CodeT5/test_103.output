@@ -1,0 +1,100 @@
+[PATCH] while(( pos <= text.length())&&(( c = text.charAt(pos))!='')&&(c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos < text.length())&&(( c = text.charAt(pos))!='')&&(c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&& (( c = text.charAt(pos))!='')&&(c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(( char)text.charAt(pos))!='')&&(c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(pos < text.length() &&(( c = text.charAt(pos))!='')&&(c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(c = text.charAt(pos))!='')&&(c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos >= text.length())&&(( c = text.charAt(pos))!='')&&(c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(c!='')&&(c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(pos <= text.length() &&(( c = text.charAt(pos))!='')&&(c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(( c = text.charAt(pos))!='')&&(c!= '\n')&&(c!= '\r')) {++pos; }
+[PATCH] while(( pos < text.length())&&(( char)text.charAt(pos))!='')&&(c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos < text.length())&& (( c = text.charAt(pos))!='')&&(c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(( c = text.charAt(pos))!='')&&(c!= "\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(( c = text.charAt(pos))!='')&&(c!= '\n')&&(c!= \r')) { ++pos; }
+[PATCH] while(( pos < text.length())&&(c = text.charAt(pos))!='')&&(c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos < text.length())&&(c!='')&&(c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&((c = text.charAt(pos))!='')&&(c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(( c = text.charAt(pos))!='')&&(c!= '\n')&&(c!= "\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(( c = text.charAt(pos))!= (' ')&&(c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(( c = text.charAt(pos))!='')&&(c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(( char)(text.charAt(pos))!='')&&(c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(( c = text.charAt(pos))!='')&&(c!= '\n')&&(c!= '\ r')) { ++pos; }
+[PATCH] while(( pos <= text.length() &&(( c = text.charAt(pos))!='')&&(c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(( c = text.charAt(pos))!='')&&(c!= \n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(( c = text.charAt(pos))!='')&&(c!= '\n', '\r')) { ++pos; }
+[PATCH] if(( pos <= text.length())&&(( c = text.charAt(pos))!='')&&(c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(( c = text.charAt(pos))!='')&&(c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while((pos <= text.length())&&(( c = text.charAt(pos))!='')&&(c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(( c = text.charAt(pos))!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(_charAt(pos)=='')&&(c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(( c = text.charAt(pos))!='')&&(c!= '\n')&&(c!= '\t')) { ++pos; }
+[PATCH] while(( pos< text.length())&&(( c = text.charAt(pos))!='')&&(c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(( c = text.charAt(pos))!='')&&(c!= '\n')&&(c!= '\R')) { ++pos; }
+[PATCH] while(( startPos <= text.length())&&(( c = text.charAt(pos))!='')&&(c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(( c = text.charAt(pos))!='' && c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(( ch = text.charAt(pos))!='')&&(c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(( c = text.charAt(pos))!='')&&(c!= '\ n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(( c = text.charAt(pos))!= '')&&(c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= buffer.length())&&(( c = text.charAt(pos))!='')&&(c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(( c = text.charAt(pos))!='')&&(c!= '\n")&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(( c = text.charAt(pos))!='')&&(c!= '\n)' || c == '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(( c = text.charAt(pos))!='')&&(c!= '\n')&&(c!= '\r'))){ ++pos; }
+[PATCH] while(( pos < text.length())&&(( c = text.charAt(pos))!='')&&(c!= '\n')&&(c!= '\r')) {++pos; }
+[PATCH] while(( pos <= text.length())&&(( c = text.charAt(pos))!= '\r' || c == '\n')&&(c == '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(( c = text.charAt(pos])=='')&&(c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(( c = text.charAt(pos))!='')&&(c!= '\n')&&(c!= '\r')) {++)pos; }
+[PATCH] while(( pos <= text.length())&&(( c = text.charAt(pos))!='')&&(c!= '\n')&&(c!= '\r')) { += pos; }
+[PATCH] while(( pos <= text.length())&& '(c = text.charAt(pos))!='')&&(c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(( c = text.charAt(pos))!='')&&(c!= '\n')&&(c!= '\r')) { ++pos;
+[PATCH] while(( pos <= text.length())&&(( c = text.charAt(pos))!='')&&(c!= '\n'); &&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= size())&&(( c = text.charAt(pos))!='')&&(c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(( c = text.charAt(pos))!= ', ')&&(c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(_charAt(pos)!='')&&(c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] for(( pos <= text.length())&&(( c = text.charAt(pos))!='')&&(c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(( c = text.charAt(pos))!='')&&(c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while((pos < text.length())&&(( c = text.charAt(pos))!='')&&(c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos < text.length())&&(( char)(text.charAt(pos))!='')&&(c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(( c = text.charAt(pos))!='')&&(c!= '\n)')||(c!= '\r')) { ++pos; }
+[PATCH] for(( pos < text.length())&&(( c = text.charAt(pos))!='')&&(c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(( c = text.charAt(pos))!='')&&(c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&=(c = text.charAt(pos))!='')&&(c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(( c = text.charAt(pos)) =='')&&(c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(( char)text.charAt(pos)) =='')&&(c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(( c = text.charAt(pos))!='')&&(-c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= data.length())&&(( c = text.charAt(pos))!='')&&(c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= body.length())&&(( c = text.charAt(pos))!='')&&(c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(( c = text.charAt(pos))!='')&&(c!= '\n')&&(c!= ',r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(( c = text.charAt(pos))!='')&&(c!= '\n')&&(c!= '\r')){ ++pos; }
+[PATCH] while(( pos <= text.length())&&(( c = text.charAt(pos))!='')&&(c!= '\n)' &&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(( c = text.charat(pos))!='')&&(c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(( c = text.charAt(pos))!='')&&('\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(( c = text.charAt(pos))!='')&&(c!= '\n)' || c!= '\r')) { ++pos; }
+[PATCH] while(( pos < text.length())&&(( c = text.charAt(pos))!='')&&(c!= '\n')&&(c!= \r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(c == '\n' || c == '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(( c = text.charAt(pos))!='')&&(c!= '\n')&&(c!= '\r')"){ ++pos; }
+[PATCH] while(( pos <= text.length())&&(( c = text.charAt(pos))!= '\n' && c!= '\r')&&(c!= '\t')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(c!= '\r' || c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(( c = text.charAt(pos))!='')&&(c!= '\n')&&(c!= '\r'); ++pos;
+[PATCH] while(( pos < text.length())&&(( c = text.charAt(pos))!='')&&(c!= '\n')&&(c!= "\r')) { ++pos; }
+[PATCH] while(( pos < text.length())&&(_charAt(pos)!='')&&(c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(_charAt(pos)== '\n')&&(_charAt(pos + 1)== '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(_buffer[pos]!='')&&(c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(_charAt(pos))!='')&&(c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos < text.length())&&(_charAt(pos)=='')&&(c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(( c = text.charAt(pos))!='')&&(c!= '\n')&&(c!= '\r')) { ++pos;
+[PATCH] while(( pos <= text.length())&&(( c = text.charAt(pos))!='')&&(c!= '\n')&&(c!= '\r')) { ++position; }
+[PATCH] while(( pos <= text.length())&&(( c = text.charAt(pos))!='')&&(c!= '\n'); ++pos;
+[PATCH] while(( pos <= text.length())&&(_chars[pos]!='')&&(c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(( c = text.charAt(pos))!='' || c == '\n')&&(c == '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(( c = text.charAt(pos))!='')&&(c!= '\n': '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(( c = text.charAt(pos))!='')&&(c!= '\n'|| c == '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(( c = text.charAt(pos))!='')&&(c!= '\n')) { ++pos; }
+[PATCH] while(( pos < text.length())&&(( c = text.charAt(pos))!='')&&(c!= '\n')&&(c!= '\r'))){ ++pos; }
+[PATCH] while(( pos <= text.length())&&(( c = text.charAt(pos))!= '\n' && c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(c == '\n' || c == '\r')&&(pos!= 0)) { ++pos; }
+[PATCH] while(( pos < text.length())&&(( c = text.charAt(pos))!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(c == '\n' || c == '\r')&&(pos!= startPos)) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(( c = text.charAt(pos))!='')&&(c!= '\n')&&(c!= '\r')) { + pos; }
+[PATCH] while(( pos <= text.length())&&(c!= '\n')&&(c!= '\r')) { ++pos; }
+[PATCH] while(( pos <= text.length())&&(( c = text.charAt(pos))!='')&&(c!= '\n')&&(c!= '\r)'); ++pos;

@@ -1,0 +1,100 @@
+[PATCH] final long TWO_TO_32 = 0x800000000L; if(l >= TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0x1000000000L; if(l > TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0x1000000000L;
+[PATCH] final long TWO_TO_32 = 0x700000000L; if(l > TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0x600000000L; if(l > TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0xFFFFL; if(l >= TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0x800000000L;
+[PATCH] final long TWO_TO_32 = 0xFFFFL; if(l > TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0x100000000L; if(l > TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0L; if(l > TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0xFFFFFFFFL; if(l > TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0x200000000L; if(l > TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0xffffffffL; if(l > TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0x400000000L; if(l > TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0x0100000000L; if(l > TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0x1000000000L; if(l < TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0xFF00000000L; if(l >= TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0xF00000000L; if(l > TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0x800000000L; if(l > TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0x900000000L; if(l > TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0x1000L; if(l >= TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0x1000000000L; if(l >= TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0xFF00000000L; if(l > TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0x10FFFFL; if(l > TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0x10000L; if(l > TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0xFFFFFFL; if(l >= TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0x700000000L; if(l >= TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0x900000000L; if(l < TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0x8000L; if(l >= TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0xFFFFL;
+[PATCH] final long TWO_TO_32 = 0x300000000L; if(l > TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0x600000000L; if(l >= TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0x80000000000L; if(l >= TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0l200000000L; if(l >= TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0x7000000000000000L;
+[PATCH] final long TWO_TO_32 = 0xF0000000L; if(l > TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0xC00000000L; if(l >= TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0x700000000L;
+[PATCH] final long TWO_TO_32 = 0xFFFFFFL; if(l > TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0xFFFFFFFFL; if(l >= TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0l20000L; if(l >= TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0x800000000L; if(l >= BEST_TO_32){
+[PATCH] final long TWO_TO_32 = 0l200000000L; if(l > TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0xc0000L; if(l > TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0x100000000L; if(l < TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0x800000000L; if(l >= ONE_TO_32){
+[PATCH] final long TWO_TO_32 = 0x2800000000L; if(l >= TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0xffffffffL; if(l >= TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0x80000000L; if(l >= TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0x800000000L; if(l >= THIS_TO_32){
+[PATCH] final long TWO_TO_32 = 0xc00000000L; if(l > TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0x1400000000L; if(l > TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0x780000L; if(l >= TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0x700000000L; if(l < TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0xC00000000L; if(l > TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0x800000000L; if(l >= RIGHT_TO_32){
+[PATCH] final long TWO_TO_32 = 0xFFFFL; if(l < TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0x800000000000L;
+[PATCH] final long TWO_TO_32 = 0xffff0000L; if(l > TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0x900000000L; if(l >= TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0x80200000000L; if(l > TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0x600000000L; if(l < TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0x200000000L; if(l < TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0xB00000000L; if(l > TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0xD00000000L; if(l > TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0xFF000000L; if(l >= TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0x80000000L; if(l >= TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0x1700000000L; if(l > TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0x1200000000L; if(l > TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0xC0000000L; if(l >= TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0xFFFEL; if(l >= TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0xF00000000L; if(l >= TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0xffffL; if(l > TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0xFFFFFFFFL; if(l < TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 00000000L; if(l > TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0x700000000000L;
+[PATCH] final long TWO_TO_32 = 0x900000000L;
+[PATCH] final long TWO_TO_32 = 0l; if(l > TWO_TO_32){
+[PATCH] final long TWO_TO_32 = 0xFFFFFFFFL;
+[PATCH] final long TWO_TO_32 = 0x600000000L;
+[PATCH] final long TWO_TO_32 = 0xffffffffL;
+[PATCH] final long TWO_TO_32 = 0xFF00000000L;
+[PATCH] final long TWO_TO_32 = 0xEFBBBFL;
+[PATCH] final long TWO_TO_32 = 0x100000000L + 20000L;
+[PATCH] final long TWO_TO_32 = 0x0100000000L;
+[PATCH] final long TWO_TO_32 = 0x400000000L;
+[PATCH] final long TWO_TO_32 = 0x800000000L; if(l >= TWO_TO_64){
+[PATCH] final long TWO_TO_32 = 0x100000000L + 365L;
+[PATCH] final long TWO_TO_32 = 0x10FFFFL;
+[PATCH] final long TWO_TO_32 = 0x100000000L;
+[PATCH] final long TWO_TO_32 = 0xFF62fff600000000L;
+[PATCH] final long TWO_TO_32 = 0x200000000L;
+[PATCH] final long TWO_TO_32 = 0x100000000000L;
+[PATCH] final long TWO_TO_32 = 0x1000000000L; if(l > TWO_TO_64){
+[PATCH] final long TWO_TO_32 = 0xF00000000L;
+[PATCH] final long TWO_TO_32 = 0x10000L;
+[PATCH] final long TWO_TO_32 = 0x90000L;
+[PATCH] final long TWO_TO_32 = 0x80000000L;
+[PATCH] final long TWO_TO_32 = 0x800000000L; if(l >= TWO_TO_ 32){
+[PATCH] final long TWO_TO_32 = 0xFFFFFFL;

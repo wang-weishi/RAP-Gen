@@ -1,0 +1,100 @@
+[PATCH] if(!type.isSubtype(thisType)) {
+[PATCH] if(!type.isObject()){
+[PATCH] if(!type.isSubtype(registry.getNativeType(ARRAY_TYPE))){
+[PATCH] if(!type.isSubtype(registry.getNativeType(NUMBER_TYPE))){
+[PATCH] if(!type.isSubtype(getNativeType(ARRAY_TYPE))){
+[PATCH] if(!type.isSubtype(registry.getNativeType(VOID_TYPE))){
+[PATCH] if(type == null ||!type.isSubtype(thisType)) {
+[PATCH] if(!type.isSubtype(registry.getNativeType(NO_OBJECT_TYPE))){
+[PATCH] if(type.isSubtype(thisType)) {
+[PATCH] if(type == null || type.isSubtype(thisType)) {
+[PATCH] if(type == null ||!type.isSubtype(getNativeType(ARRAY_TYPE))){
+[PATCH] if(type == null ||!type.isObject()){
+[PATCH] if(!type.isSubtype(getNativeType(NUMBER_TYPE))){
+[PATCH] if(!type.isSubtype(registry.getNativeType(UNKNOWN_TYPE))){
+[PATCH] if(type.isSubtype(registry.getNativeType(ARRAY_TYPE))){
+[PATCH] if(type.isSubtype(thisType)|| type.isSubtype(thisType)) {
+[PATCH] if(!type.isSubtype(registry.getNativeType(NO_TYPE))){
+[PATCH] if(type.isUnknownType() ||!type.isSubtype(thisType)) {
+[PATCH] if(!type.isSubtype(getNativeType(VOID_TYPE))){
+[PATCH] if(type.isPrimitive() ||!type.isSubtype(thisType)) {
+[PATCH] if(type.isPrimitive() || type.isSubtype(thisType)) {
+[PATCH] if(type == null || type.isSubtype(getNativeType(ARRAY_TYPE))){
+[PATCH] if(type == null ||!type.isSubtype(getNativeType(NUMBER_TYPE))){
+[PATCH] if(!type.isSubtype(registry.getNativeType(NULL_TYPE))){
+[PATCH] if(type.isNone() ||!type.isSubtype(thisType)) {
+[PATCH] if(!type.isPrimitive() &&!type.isSubtype(thisType)) {
+[PATCH] if(!type.isSubtype(registry.getNativeType(STRING_TYPE))){
+[PATCH] if(!type.isInstance() &&!type.isSubtype(thisType)) {
+[PATCH] if(type.isObject() &&!type.isSubtype(thisType)) {
+[PATCH] if(type == thisType ||!type.isSubtype(thisType)) {
+[PATCH] if(type.isUnknownType() ||!type.isObject()){
+[PATCH] if(!type.isSubtype(getNativeType(NO_OBJECT_TYPE))){
+[PATCH] if(!objectType.isSubtype(registry.getNativeType(ARRAY_TYPE))){
+[PATCH] if(!type.isSubtype(registry.getNativeType(NUMBER_STRING_BOOLEAN))){
+[PATCH] if(!returnType.isSubtype(registry.getNativeType(ARRAY_TYPE))){
+[PATCH] if(type.isSubtype(getNativeType(ARRAY_TYPE))){
+[PATCH] if(!type.isSubtype(registry.getNativeType(FUNCTION_TYPE))){
+[PATCH] if(type.isUnknownType() || type.isSubtype(thisType)) {
+[PATCH] if(type.isSubtype(registry.getNativeType(NUMBER_TYPE))){
+[PATCH] if(type!= null &&!type.isSubtype(thisType)) {
+[PATCH] if(!type.isSubtype(scope.getNativeType(ARRAY_TYPE))){
+[PATCH] if(!type.isSubtype(getBaseType())) {
+[PATCH] if(type == null || type.isUnknownType()){
+[PATCH] if(!type.isSubtype(getNativeType(NULL_TYPE))){
+[PATCH] if(type.isPrimitive() &&!type.isSubtype(thisType)) {
+[PATCH] if(type.isInstance() &&!type.isSubtype(thisType)) {
+[PATCH] if(type.isUnknownType()){
+[PATCH] if(!isObject ||!type.isSubtype(thisType)) {
+[PATCH] if(type == thisType &&!type.isSubtype(thisType)) {
+[PATCH] if(type instanceof JSType &&!type.isSubtype(thisType)) {
+[PATCH] if(!type.isSubtype(getNativeType(UNKNOWN_TYPE))){
+[PATCH] if(type == thisType || type.isSubtype(thisType)) {
+[PATCH] if(type.isPrimitive() || type.isObject()){
+[PATCH] if(!type.isPrimitive() &&!type.isObject()){
+[PATCH] if(!type.isUnknownType() &&!type.isObject()){
+[PATCH] if(type.isUnknownType() &&!type.isObject()){
+[PATCH] if(type.isPrimitive() ||!type.isObject()){
+[PATCH] if(!type.isSubtype(objectType)) {
+[PATCH] if(type == null || type.isObject()){
+[PATCH] if(type.isPrimitive() &&!type.isObject()){
+[PATCH] if(!type.isNativeType(ARRAY_TYPE)) {
+[PATCH] if(!type.isNativeType(OBJECT_TYPE)) {
+[PATCH] if(type!= null &&!type.isObject()){
+[PATCH] if(!type.isSubtype(returnType)) {
+[PATCH] if(!type.isAssignableFrom(thisType)) {
+[PATCH] if(!type.isUnionType()){
+[PATCH] if(type instanceof JSType &&!type.isObject()){
+[PATCH] if(!type.isUnknownType()){
+[PATCH] if(type.isConstructor() || type.isInterface()){
+[PATCH] if(!type.isPlainType()){
+[PATCH] if(!type.isObjLitType()){
+[PATCH] if(!type.isSubtype(baseType)) {
+[PATCH] if(!type.canAssignTo(thisType)) {
+[PATCH] if("object".equals(type.toString())) {
+[PATCH] if(type == null || type.isPrimitive()){
+[PATCH] if(!type.isPrimitive()){
+[PATCH] if(!type.isInstance()){
+[PATCH] if(!TypeUtils.isObject(type)) {
+[PATCH] if(!type.isSubtype(thisType));
+[PATCH] if(!type.isSubtype(thisType =
+[PATCH] if(type.isObject()){
+[PATCH] if(!type.isRestrictedWithoutNull()){
+[PATCH] if(!type.isContainerType()){
+[PATCH] if(!type.isObjectType()){
+[PATCH] if(!type.isNumericType()){
+[PATCH] if(!type.isNamedType()){
+[PATCH] if(!type.isEnumType()){
+[PATCH] if(!type.isInstanceType()){
+[PATCH] if(!type.isPrimitiveType()){
+[PATCH] if(!type.isNoType()){
+[PATCH] if(!type.isRawType()){
+[PATCH] if(!type.isBasicType()){
+[PATCH] if(type.isNoType()){
+[PATCH] if(!type.isArray()){
+[PATCH] if(type instanceof UnionType){
+[PATCH] if(type.isNone()){
+[PATCH] if(type.isPrimitive()){
+[PATCH] if(type instanceof ObjectType){
+[PATCH] if();
+[PATCH] if

@@ -1,0 +1,100 @@
+[PATCH] _reportError("Can not deserialize empty string value");
+[PATCH] _assertSubtype(STD_TYPE, STD_STRING);
+[PATCH] _assertSubtype(STD_TYPE, String.class);
+[PATCH] if(_kind == STD_STRING){ if(_length == 0){ return null; }
+[PATCH] if(_kind == STD_NULL){ if(_length == 0){ return null; }
+[PATCH] _reportError("Can not find field '"+getClass().getName() +"'");
+[PATCH] _reportError("Can not deserialize empty strings");
+[PATCH] _reportError("Can not find a value");
+[PATCH] _reportError("Can not find field name");
+[PATCH] if(_kind == STD_NULL){ if(_len == 0){ return null; }
+[PATCH] if(_kind == STD_STRING){ if(_len == 0){ return null; }
+[PATCH] _reportError("Failed to deserialize empty string value");
+[PATCH] _assertSubtype(STD_TYPE, STD_OBJECT);
+[PATCH] _reportError("Can not find value for"+getClass().getName());
+[PATCH] if(_kind == STD_STRING){ if(isEmpty()){ return null; }
+[PATCH] if(_kind == STD_WORD){ if(_length == 0){ return null; }
+[PATCH] _reportError("No content to deserialize:"+getClass().getName());
+[PATCH] _reportError("Current token("+_kind+")not followed by a colon");
+[PATCH] if(_kind == STD_STRING){ if(""); }
+[PATCH] _assertSubclass(STD_TYPE, String.class);
+[PATCH] _reportError("Can not deserialize empty string");
+[PATCH] _reportError("Can only construct URIs from strings");
+[PATCH] _reportError("Can not find empty string value");
+[PATCH] _reportError("Can not deserialize empty string of type"+getClass().getName());
+[PATCH] _reportError("Can only construct URIs from empty strings");
+[PATCH] _assertSubtype(STD_STRING, String.class);
+[PATCH] _reportError("Can not read empty string value");
+[PATCH] _reportError("Not a valid representation");
+[PATCH] _reportError("Can not parse empty string value");
+[PATCH] _reportError("Failed to deserialize empty string");
+[PATCH] if(_kind == STD_JAVA_TYPE){ if(""); }
+[PATCH] _reportError("Can not find the empty string value");
+[PATCH] _reportError("Can not find value to deserialize");
+[PATCH] _reportError("Can not find value");
+[PATCH] _reportError("Can not find a URI");
+[PATCH] _reportError("Current token("+_kind+")not suitable");
+[PATCH] _assertSubclass(STD_TYPE, STD_OBJECT);
+[PATCH] _assertSubclass(STD_TYPE, STD_STRING);
+[PATCH] _reportError("Can not find an empty string value");
+[PATCH] _reportError("Can not parse empty string");
+[PATCH] _reportError("Can't deserialize empty string value");
+[PATCH] _reportError("Failed to find empty string value");
+[PATCH] _reportError("Current token("+_kind+")not found");
+[PATCH] _reportError("Missing field name or value");
+[PATCH] _reportError("No content to deserialize from empty string");
+[PATCH] _reportError("Can not find type"+_kind+" entries");
+[PATCH] _reportError("Can not deserialize empty String value");
+[PATCH] _reportError("Can't find a value");
+[PATCH] _reportUnknownType();
+[PATCH] _reportError("Can not convert empty string value into a URI");
+[PATCH] _reportError("Can not read empty string");
+[PATCH] _assertSubtype(STD_TYPE, null);
+[PATCH] _reportError("Can not find a URI value");
+[PATCH] _reportError("Can not find a valid representation");
+[PATCH] _reportError("Unexpected end-of-String");
+[PATCH] _reportError("Could not find a value");
+[PATCH] _assertSubtype(STD_TYPE,"string");
+[PATCH] _reportError("No data to deserialize");
+[PATCH] if(_kind == STD_NAME){ if(""); }
+[PATCH] _checkInvalidCopy(STD_TYPE);
+[PATCH] _reportError("Can't find field name");
+[PATCH] _reportError("Invalid empty string value");
+[PATCH] _reportError("Can not convert empty string value");
+[PATCH] _checkInvalidClass(Object.class);
+[PATCH] _reportError("Can not find an empty string");
+[PATCH] _reportError("Can not convert empty strings");
+[PATCH] _reportError("Can not read the empty string");
+[PATCH] _reportError("Could not find field name");
+[PATCH] _reportUnsupportedOperation();
+[PATCH] _reportError("No value to deserialize");
+[PATCH] _checkInvalidType();
+[PATCH] _reportError("Missing field name");
+[PATCH] _throwInternal();
+[PATCH] _checkInvalid(String.class);
+[PATCH] _reportError("Expected a value");
+[PATCH] _checkInvalidString("");
+[PATCH] _throwUndetectable("");
+[PATCH] _reportInvalidEOF("");
+[PATCH] _reportInvalidType();
+[PATCH] _reportUnknownString();
+[PATCH] _checkInvalidUTF8();
+[PATCH] _reportInvalidState();
+[PATCH] _checkInvalidClass("");
+[PATCH] _checkLenient();
+[PATCH] _reportInvalidClass("");
+[PATCH] _checkInvalidText("");
+[PATCH] _checkInvalidFormat();
+[PATCH] _checkUnknownType();
+[PATCH] _checkInvalidTypes();
+[PATCH] _reportUnknownOperation();
+[PATCH] _checkInvalidState();
+[PATCH] _checkInvalidObject();
+[PATCH] _reportUnknownClass();
+[PATCH] _checkInvalidate();
+[PATCH] _configureParser();
+[PATCH] _assertLenient();
+[PATCH] _reportUnknownKind();
+[PATCH] clear();
+[PATCH] checkInvalidType();
+[PATCH] clearPrefix();

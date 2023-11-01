@@ -1,0 +1,100 @@
+[PATCH] } else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.getFunctionType()); } else { throw new IllegalArgumentException(""); }
+[PATCH] } else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.toFunctionType()); } else { throw new IllegalArgumentException(""); }
+[PATCH] } else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.getFunctionType()); } else { matchUnknownConstraint(); }
+[PATCH] } else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.getFunctionType()); }
+[PATCH] } else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.getFunctionType()); } else { break; }
+[PATCH] } else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.getFunctionType()); } else { return; }
+[PATCH] } else if(constraint.isFunctionType()){ for(JSType type : constraint.toFunctionTypes()){ matchFunctionTypeConstraint(type); }
+[PATCH] } else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.getFunctionType()); } else { matchUnknownConstraint(constraint); }
+[PATCH] } else if(constraint.isFunctionType()){ for(JSType type : constraint.getFunctions()){ matchFunctionTypeConstraint(type); }
+[PATCH] } else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.getFunctionType()); } else { matchAnyProperty(constraint); }
+[PATCH] } else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.getFunctionType().getInstanceType()); }
+[PATCH] } else if(constraint instanceof FunctionType){ matchFunctionTypeConstraint(constraint.toFunctionType()); } else { throw new IllegalArgumentException(""); }
+[PATCH] else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.getFunctionType()); } else { throw new IllegalArgumentException(""); }
+[PATCH] } else if(constraint.isFunctionType()){ matchesFunctionTypeConstraint(constraint.getFunctionType()); } else { throw new IllegalArgumentException(""); }
+[PATCH] } else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.getFunctionType().getInstanceType()); } else { matchUnknownConstraint(); }
+[PATCH] } else if(constraint.isFunctionType()){ matchesFunctionTypeConstraint(constraint.getFunctionType()); } else { matchUnknownConstraint(constraint); }
+[PATCH] } else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.getFunctionType()); } else { matchAllInterfaces(constraint); }
+[PATCH] } else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.getFunctionType().getInstanceType()); } else { break; }
+[PATCH] } else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.toFunctionType()); } else { break; }
+[PATCH] } else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.getFunctionType()); } else { throw new IllegalStateException(""); }
+[PATCH] } else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.getFunctionType()); } else { matchesAny("Object", constraint); }
+[PATCH] } else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.toFunctionType()); } else { matchUnknownConstraint(); }
+[PATCH] } else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.toFunctionType()); }
+[PATCH] } else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.getFunctionType(), constraint.getInstanceType()); }
+[PATCH] } else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.toFunctionType()); } else { matchUnknownConstraint(constraint); }
+[PATCH] } else if(constraint.isFunctionType()){ for(JSType type : constraint.toFunctions()){ matchFunctionTypeConstraint(type); }
+[PATCH] } else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.getFunctionType().getInstanceType()); } else { return; }
+[PATCH] } else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.getFunctionType()); } else { matchAllProperties(); }
+[PATCH] } else if(constraint.isFunctionType()){ for(JSType type : constraint.getFunctions()){ matchFunctionTypeConstraint(type, this); }
+[PATCH] } else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.getFunctionType()); } else { matcherUnknownConstraint(constraint); }
+[PATCH] } else if(constraint.isFunctionType()){ matchesFunctionTypeConstraint(constraint.toFunctionType()); } else { matchUnknownConstraint(constraint); }
+[PATCH] for(int i = 0; i < constraint.getTypes().length; ++i){ if(!constraint.isNominalType()){ break; }
+[PATCH] } else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.getFunctionType()); } else { matchesMismatch(constraint); }
+[PATCH] } else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.toFunctionType().getInstanceType()); }
+[PATCH] } else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.getFunctionType()); } else { matchesAnyObjectProperty(constraint); }
+[PATCH] } else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.toFunctionType()); } else { return; }
+[PATCH] } else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.getFunctionType()); } else { matchesAnyObject(); }
+[PATCH] } else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.toFunctionType()); } else { matchAnyProperty(constraint); }
+[PATCH] } else if(constraint.isFunctionType()){ matchesFunctionTypeConstraint(constraint.getFunctionType()); } else { matchUnknownConstraint(); }
+[PATCH] } else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.getFunctionType()); } else { matchesAny("function", constraint); }
+[PATCH] } else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.toFunctionType().getInstanceType()); } else { matchUnknownConstraint(); }
+[PATCH] } else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.getFunctionType()); } else { matchesExpectation("object")); }
+[PATCH] } else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.getFunctionType()); } else { matchesExpectation("function")); }
+[PATCH] } else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.getFunctionType()); } else { matchesUnknownType(constraint); }
+[PATCH] else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.getFunctionType()); } else { matchUnknownConstraint(); }
+[PATCH] else if(constraint.isFunctionType()){ matchFunctionTypeConstraint(constraint.getFunctionType()); }
+[PATCH] } else if(constraint.isFunctionType()){ throw new IllegalArgumentException(""); }
+[PATCH] matchPrototypeProperty(constraint.getPrototype(), constraint);
+[PATCH] if(!constraint.isEquivalentTo(this)) { throw new IllegalArgumentException(""); }
+[PATCH] matchPrototypeProperty(constraint.getPrototype().getImplicitPrototype(), constraint);
+[PATCH] registry.registerPropertyOnType(this, constraint.toObjectType());
+[PATCH] matchPrototypeProperty(constraint.getPrototype());
+[PATCH] properties.putAll(constraint.getProperties());
+[PATCH] removeImplicitPrototypeProperty(constraint.getImplicitPrototype());
+[PATCH] matchPrototypeProperty(constraint.getPrototype().getImplicitPrototype());
+[PATCH] type = constraint.toObjectType().getInstanceType();
+[PATCH] } else if(constraint == null){ throw new IllegalArgumentException(""); }
+[PATCH] type = constraint.toObjectType().getParameterType(0);
+[PATCH] registry.registerPropertyOnType(this, this);
+[PATCH] matchPrototypeProperties(constraint.toObjectType().properties);
+[PATCH] properties.putAll(constraint.toPropertyNames());
+[PATCH] properties.putAll(constraint.toProperties());
+[PATCH] matchPrototypeProperties(constraint.toPrototype().properties);
+[PATCH] matchImplicitPrototype(constraint.getImplicitPrototype());
+[PATCH] checkState(!constraint.isUnionType());
+[PATCH] matchPrototypeProperty(constraint.getPrototypeType());
+[PATCH] matchImplicitPrototypeFallback(constraint.toObjectType());
+[PATCH] matchImplicitPrototype(constraint.toPrototype());
+[PATCH] matchPrototypeProperty(constraint.toPrototype());
+[PATCH] removeImplicitPrototype();
+[PATCH] checkState(constraint.isFunctionType());
+[PATCH] this.properties.putAll(properties);
+[PATCH] matchPrototypeFallback(constraint.toObjectType());
+[PATCH] matchImplicitPrototypeFallback(constraint);
+[PATCH] externPrototype = getImplicitPrototype();
+[PATCH] greatestCommonRestriction(constraint);
+[PATCH] getImplicitPrototype().match(constraint);
+[PATCH] matchPrototypeFallback(constraint);
+[PATCH] implicitPrototype = getImplicitPrototype();
+[PATCH] removeImplicitPrototype(constraint);
+[PATCH] matchPrototypeProperty(constraint);
+[PATCH] matchImplicitPrototype(constraint);
+[PATCH] removeImplicitPrototype(current);
+[PATCH] matcherPrototypeFallback(constraint);
+[PATCH] addConstraint(constraint);
+[PATCH] removeImplicitPrototypeProperties();
+[PATCH] detachFromParent();
+[PATCH] removeConstraint(constraint);
+[PATCH] addChangeListener(this);
+[PATCH] removeUnknownProperties();
+[PATCH] it.clear();
+[PATCH] return;
+[PATCH] reportChange();
+[PATCH] break;
+[PATCH] reset();
+[PATCH] [Delete]
+[PATCH] sort();
+[PATCH] next();
+[PATCH] pop();
+);

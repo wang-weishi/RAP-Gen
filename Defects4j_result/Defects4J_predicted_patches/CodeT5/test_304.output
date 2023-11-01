@@ -1,0 +1,100 @@
+[PATCH] if(otherComment!= null){ return false; }
+[PATCH] if(otherComment!= null){
+[PATCH] if(otherComment!= null){ if(otherComment!= null){ return false; }
+[PATCH] if(otherComment!= null){ if(otherComment == null){ return false; }
+[PATCH] if(otherComment!= null){ if(otherComment!= ""){ return false; }
+[PATCH] if(otherComment!= null){ if(otherComment!= myComment){ return false; }
+[PATCH] if(other comment!= null){ if(otherComment!= null){ return false; }
+[PATCH] if(otherComment!= null){ if(myComment!= null){ return false; }
+[PATCH] if(otherComment!= null){ for(otherComment : otherComment){ return false; }
+[PATCH] if(otherComment!= null){ if(otherComment){ return false; }
+[PATCH] if(other comment!= null){ return false; }
+[PATCH] return otherComment == null ||!myComment.equals(otherComment)) { return false;
+[PATCH] if(otherComment!= null){ if(otherComment.equals(""); return false; }
+[PATCH] } else if(!myComment.equals(otherComment)) { return false; }
+[PATCH] if(otherComment!= null){ if(otherComment!= null){ return false; }
+[PATCH] if(otherComment!= null){ if(otherComment()!= null){ return false; }
+[PATCH] if(otherComment!= null){ return!myComment.equals(otherComment); }
+[PATCH] if(otherComment!= null){ return false; }
+[PATCH] if(otherComment!= null){ if(othercomment!= null){ return false; }
+[PATCH] if(otherComment!= null){ return true; }
+[PATCH] if(otherComment!= null){ if(other comment!= null){ return false; }
+[PATCH] if(otherComment!= null){ if( otherComment!= null){ return false; }
+[PATCH] if(otherComment!= null){ @SuppressWarnings("resource")return false; }
+[PATCH] if(otherComment!= null){ if(otherComment not null){ return false; }
+[PATCH] if(otherComment!= null){ if(otherComment!""){ return false; }
+[PATCH] if(otherComment!= null)) { return false; }
+[PATCH] if(otherComment!= null){return false; }
+[PATCH] if(otherComment!= null){ return false; } continue; }
+[PATCH] if(otherComment!= null){ return false; } throw new IllegalArgumentException(""); }
+[PATCH] if( otherComment!= null){ return false; }
+[PATCH] if(otherComment!= null){ return false; }
+[PATCH] if(othercomment!= null){ return false; }
+[PATCH] if(otherComment!= null){ if(otherComment); return false; }
+[PATCH] if(otherComment!= null){ return false; } break; }
+[PATCH] if(otherComment!= null){ throw false; }
+[PATCH] if(otherComment!= null){ return false; } - 1 == otherComment.length();
+[PATCH] if(otherComment!= null){ { return false; }
+[PATCH] if(otherComment!= null){ returnfalse; }
+[PATCH] if(otherComment!= null){? false : true; }
+[PATCH] if(otherComment!= null){ if(otherComment = null; }
+[PATCH] if(other Comment!= null){ return false; }
+[PATCH] if(otherComment!= null){ if(otherComment; }
+[PATCH] if(otherComment!= null){ try { return false; }
+[PATCH] if(otherComment!= null){ returned false; }
+[PATCH] if(otherComment!= null){ return FALSE; }
+[PATCH] if(otherComment!= null){ return false; } {
+[PATCH] if(otherComment!= null){ // return false; }
+[PATCH] if(otherComments!= null){ return false; }
+[PATCH] if(otherComment!= null){ return false; }
+[PATCH] if(otherComment!= null){ : return false; }
+[PATCH] if(otherComment!= null){ ret return false; }
+[PATCH] if(otherComment!= null){ return false; }
+[PATCH] if(otherComment!= null){ do { return false; }
+[PATCH] if(otherComment!= null){ ret = false; }
+[PATCH] if(otherCOMMENT!= null){ return false; }
+[PATCH] if(otherComment!= null){ continue; }
+[PATCH] if(otherComment!= null { return false; }
+[PATCH] if(other comment!= null){
+[PATCH] if(otherComment!= null){ result = false; }
+[PATCH] if(othersComment!= null){ return false; }
+[PATCH] if(otherComment!= null'){ return false; }
+[PATCH] if(otherComment!= null){ return false); }
+[PATCH] if(otherComment!= null){ return false; } +
+[PATCH] if(otherRawComment!= null){ return false; }
+[PATCH] if(otherComment!= null){ pass false; }
+[PATCH] if(otherComment!= null){ }
+[PATCH] if(otherComment!= null)return false;
+[PATCH] if(otherComment!= null){ returns false; }
+[PATCH] else if(otherComment!= null){ return false; }
+[PATCH] if(otherComment!= null){ then return false; }
+[PATCH] if(otherComment!= null){ return false;}
+[PATCH] if(otherComment == null){ return false; }
+[PATCH] if(otherComment!= null)) {
+[PATCH] if(otherComment!= null): return false;
+[PATCH] if(otherComment!= null){ false; }
+[PATCH] if(otherComment!= null){ return false; }
+[PATCH] if(otherComment!= null){ true; }
+[PATCH] if()!= otherComment){ return false; }
+[PATCH] if(otherTag!= null){ return false; }
+[PATCH] if(otherText!= null){ return false; }
+[PATCH] if(otherComment!= null); return false;
+[PATCH] if(otherComment!= null){ 0; }
+[PATCH] if(otherComment!= null){ break; }
+[PATCH] if(otherComment!= null){ ret; }
+[PATCH] if(otherComment!= null){ null; }
+[PATCH] else if(otherComment!= null){
+[PATCH] if( otherComment!= null){
+[PATCH] if(otherComment!= null){ {
+[PATCH] if(othercomment!= null){
+[PATCH] if(otherComments!= null){
+[PATCH] if(otherComment!= null){
+[PATCH] if(otherComment!= null){
+[PATCH] if(other Comment!= null){
+[PATCH] if(otherComment!= null {
+[PATCH] if(otherComment!= null){
+[PATCH] return otherComment == null;
+[PATCH] if(otherComment!= null);
+[PATCH] if(""); return false; }
+[PATCH] return otherComment!= null;
+[PATCH] [Delete]

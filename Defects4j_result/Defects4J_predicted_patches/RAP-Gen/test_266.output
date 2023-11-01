@@ -1,0 +1,100 @@
+[PATCH] while(p.nextToken()!= JsonToken.END_ARRAY){ p.skipChildren();
+[PATCH] while(p.nextToken()!= JsonToken.END_ARRAY){ if(!p.skipChildren()){ p.skipChildren();
+[PATCH] while(p.nextToken()!= JsonToken.END_ARRAY){ if(!p.skipChildren()){ p.skipChildren(); }
+[PATCH] while(p.nextToken()!= JsonToken.END_ARRAY){ if(!p.skipChildren()){ throw ctxt.mappingException(""); }
+[PATCH] while(p.nextToken()!= JsonToken.END_ARRAY){ deserialize(p, ctxt);
+[PATCH] while(p.nextToken()!= JsonToken.END_ARRAY){ if(!deserialize(p, ctxt)) { p.skipChildren();
+[PATCH] while(p.nextToken()!= JsonToken.VALUE_NULL){ p.skipChildren();
+[PATCH] while(p.nextToken()!= JsonToken.VALUE_NULL){ if(!p.skipChildren()){ p.skipChildren();
+[PATCH] while(p.nextToken()!= JsonToken.VALUE_NULL){ if(!p.skipChildren()){ p.skipChildren(); }
+[PATCH] while(p.nextToken()!= JsonToken.VALUE_NULL){ if(!deserialize(p, ctxt)) { p.skipChildren();
+[PATCH] while(p.nextToken()!= JsonToken.END_ARRAY){ if(!deserialize(p, ctxt)) { p.skipChildren(); }
+[PATCH] while(p.nextToken()!= JsonToken.VALUE_NULL){ if(!deserialize(p, ctxt)) { p.skipChildren(); }
+[PATCH] while(p.nextToken()!= JsonToken.VALUE_NULL){ if(!p.skipChildren()){ throw ctxt.mappingException(""); }
+[PATCH] while(p.nextToken()!= JsonToken.END_ARRAY || p.nextToken()!= JsonToken.END_OBJECT){ ctxt.skipChildren();
+[PATCH] while(p.nextToken()!= JsonToken.END_ARRAY || p.nextToken()!= JsonToken.END_OBJECT){
+[PATCH] while(p.nextToken()!= JsonToken.END_ARRAY){ if(!p.skipChildren()){ p.skipChildren(); continue; }
+[PATCH] while(p.nextToken()!= JsonToken.END_ARRAY){ if(!p.nextToken().isScalarValue()){ p.skipChildren();
+[PATCH] while(p.nextToken()!= JsonToken.START_OBJECT){ if(!p.nextToken().isScalarValue()){ p.skipChildren();
+[PATCH] while(p.nextToken()!= JsonToken.END_ARRAY){ if(!parseNull(p, ctxt)) { p.skipChildren();
+[PATCH] while(p.nextToken()!= JsonToken.END_ARRAY){ if(!parseBoolean(p, ctxt)) { p.skipChildren();
+[PATCH] while(p.nextToken()!= JsonToken.END_ARRAY){ if(!p.skipChildren()){ return deserialize(p, ctxt); }
+[PATCH] while(p.nextToken()!= JsonToken.END_ARRAY){ if(!deserialize(p, ctxt)) { p.skipChildren(); continue; }
+[PATCH] while(p.nextToken()!= JsonToken.END_ARRAY){ if(!skipChildren()){ p.skipChildren();
+[PATCH] while(p.nextToken()!= JsonToken.END_ARRAY && p.nextToken()!= JsonToken.FIELD_NAME){ ctxt.skipChildren();
+[PATCH] while(p.nextToken()!= JsonToken.VALUE_NULL){ if(!parseNull(p, ctxt)) { p.skipChildren();
+[PATCH] while(p.nextToken()!= JsonToken.FIELD_NAME){ if(!p.skipChildren()){ p.skipChildren();
+[PATCH] while(p.nextToken()!= JsonToken.VALUE_NULL){ deserialize(p, ctxt);
+[PATCH] while(p.nextToken()!= JsonToken.END_ARRAY){ if(!parseNextValue(p, ctxt)) { p.skipChildren();
+[PATCH] while(p.nextToken()!= JsonToken.END_ARRAY){ ctxt.skipChildren();
+[PATCH] while(p.nextToken() == JsonToken.VALUE_NULL){ p.skipChildren();
+[PATCH] while(p.nextToken()!= JsonToken.VALUE_NULL){ if(!deserialize(p, ctxt)) { p.skipChildren(); continue; }
+[PATCH] while(p.nextToken()!= JsonToken.FIELD_NAME){ p.skipChildren();
+[PATCH] while(p.nextToken()!= JsonToken.END_ARRAY){ if(!deserialize(p, ctxt)) { throw ctxt.mappingException(""); }
+[PATCH] while(p.nextToken()!= JsonToken.END_ARRAY){ if(!deserialize(p, ctxt)) { return null; }
+[PATCH] while(p.nextToken()!= JsonToken.END_ARRAY){ super.deserialize(p, ctxt);
+[PATCH] while(p.nextToken()!= JsonToken.END_ARRAY){ if(!skipChildren()){ p.skipChildren(); }
+[PATCH] while(p.nextToken() == JsonToken.VALUE_NULL){ if(!deserialize(p, ctxt)) { p.skipChildren();
+[PATCH] while(p.nextToken()!= JsonToken.END_ARRAY){ if(!parseNull(p, ctxt)) { p.skipChildren(); }
+[PATCH] while(p.nextToken()!= JsonToken.VALUE_NULL){ if(!p.skipChildren()){ return deserialize(p, ctxt); }
+[PATCH] while(p.nextToken()!= JsonToken.VALUE_NULL){ if(!deserialize(p, ctxt)) { return null; }
+[PATCH] while(p.nextToken()!= JsonToken.VALUE_NULL){ if(!parseNull(p, ctxt)) { p.skipChildren(); }
+[PATCH] while(p.nextToken()!= JsonToken.END_ARRAY){ if(!skipChildren()){ throw ctxt.mappingException(""); }
+[PATCH] while(p.nextToken()!= JsonToken.VALUE_NULL){ if(!p.skipChildren()){ p.skipChildren(); continue; }
+[PATCH] while(p.nextToken()!= JsonToken.START_OBJECT){ if(!p.skipChildren()){ p.skipChildren();
+[PATCH] while(p.nextToken()!= JsonToken.END_ARRAY){ if(!p.skipChildren()){ return null; }
+[PATCH] while(p.nextToken()!= JsonToken.END_ARRAY){ if(!isNumeric(p, ctxt)) { p.skipChildren();
+[PATCH] while(p.nextToken()!= JsonToken.END_ARRAY){ if(!parseBoolean(p, ctxt)) { p.skipChildren(); }
+[PATCH] while(p.nextToken() == JsonToken.VALUE_NULL){ if(!deserialize(p, ctxt)) { p.skipChildren(); }
+[PATCH] while(p.nextToken() == JsonToken.VALUE_NULL){ if(!parseNull(p, ctxt)) { p.skipChildren();
+[PATCH] while(p.nextToken()!= JsonToken.FIELD_NAME){ if(!p.skipChildren()){ p.skipChildren(); }
+[PATCH] while(p.nextToken()!= JsonToken.END_ARRAY){ if(!ctxt.inArray()){ p.skipChildren();
+[PATCH] while(p.nextToken()!= JsonToken.END_ARRAY){ if(!parsePrimitive(p, ctxt)) { p.skipChildren();
+[PATCH] while(p.nextToken()!= JsonToken.VALUE_NULL){ if(!readNull(p, ctxt)) { p.skipChildren();
+[PATCH] while(p.nextToken()!= JsonToken.START_OBJECT){ if(!p.skipChildren()){ p.skipChildren(); }
+[PATCH] while(p.nextToken()!= JsonToken.END_ARRAY){ if(!readValue(p, ctxt)) { p.skipChildren();
+[PATCH] while(p.nextToken()!= JsonToken.END_ARRAY){ if(!parseNextValue(p, ctxt)) { p.skipChildren(); }
+[PATCH] while(p.nextToken()!= JsonToken.VALUE_END_ARRAY){ p.skipChildren();
+[PATCH] while(p.nextToken()!= JsonToken.VALUE_NUMBER_INT){ p.skipChildren();
+[PATCH] while(p.nextToken()!= JsonToken.VALUE_NULL){ if(!skipChildren()){ p.skipChildren(); }
+[PATCH] while(p.nextToken()!= JsonToken.VALUE_NULL){ if(!skipChildren()){ p.skipChildren();
+[PATCH] while(p.nextToken()!= JsonToken.START_OBJECT){ if(!deserialize(p, ctxt)) { p.skipChildren();
+[PATCH] while(p.nextToken()!= JsonToken.END_ARRAY){ if(!serialize(p, ctxt)) { p.skipChildren();
+[PATCH] while(p.nextToken() == JsonToken.VALUE_NULL){ if(!parseNull(p, ctxt)) { p.skipChildren(); }
+[PATCH] while(p.nextToken()!= JsonToken.VALUE_NULL){ if(!serialize(p, ctxt)) { p.skipChildren();
+[PATCH] while(p.nextToken()!= JsonToken.VALUE_EMBEDDED_OBJECT){ p.skipChildren();
+[PATCH] while(p.nextToken()!= JsonToken.START_OBJECT){ p.skipChildren();
+[PATCH] while(p.nextToken() == JsonToken.VALUE_NULL){ if(!p.skipChildren()){ p.skipChildren();
+[PATCH] while(p.nextToken()!= JsonToken.VALUE_NULL){ if(!ctxt.hasIgnoreMarker(p)) { p.skipChildren();
+[PATCH] while(p.nextToken()!= JsonToken.VALUE_NULL){ if(!readNull(p, ctxt)) { p.skipChildren(); }
+[PATCH] if(p.getCurrentToken() == JsonToken.VALUE_NULL){ if(ctxt.hasIgnoreMarker(p)) { return null; }
+[PATCH] while(p.nextToken()!= JsonToken.END_ARRAY){ if(!p.isNumeric()){ p.skipChildren();
+[PATCH] while(p.nextToken()!= JsonToken.VALUE_NULL){ if(!skipChildren()){ throw ctxt.mappingException(""); }
+[PATCH] while(p.nextToken() == JsonToken.VALUE_NULL){ if(!p.skipChildren()){ p.skipChildren(); }
+[PATCH] while(p.nextToken()!= JsonToken.START_OBJECT){ if(!deserialize(p, ctxt)) { p.skipChildren(); }
+[PATCH] while(p.nextToken()!= JsonToken.END_ARRAY){ if(!p.skipChildren()){ p.skipChildren(); return null; }
+[PATCH] while(p.nextToken()!= JsonToken.END_ARRAY){
+[PATCH] while(p.nextToken()!= JsonToken.VALUE_NULL){ if(!serialize(p, ctxt)) { p.skipChildren(); }
+[PATCH] while(p.nextToken()!= JsonToken.END_ARRAY){ if(!parsePrimitive(p, ctxt)) { p.skipChildren(); }
+[PATCH] while(p.nextToken() == JsonToken.VALUE_NULL){ if(!deserialize(p, ctxt)) { p.skipChildren(); continue; }
+[PATCH] while(p.nextToken()!= JsonToken.END_ARRAY){ if(!readValue(p, ctxt)) { p.skipChildren(); }
+[PATCH] while(p.nextToken() == JsonToken.VALUE_NULL){ deserialize(p, ctxt);
+[PATCH] while(p.nextToken()!= JsonToken.END_ARRAY){ if(!p.hasChildren()){ p.skipChildren();
+[PATCH] while(p.nextToken()!= JsonToken.END_ARRAY){ if(!ctxt.inArray()){ p.skipChildren(); }
+[PATCH] while(p.nextToken()!= JsonToken.END_ARRAY){ if(!isNumeric(p, ctxt)) { p.skipChildren(); }
+[PATCH] while(p.nextToken()!= JsonToken.END_ARRAY){ if(!serialize(p, ctxt)) { p.skipChildren(); }
+[PATCH] while(p.nextToken()!= JsonToken.END_ARRAY){ parse(p, ctxt);
+[PATCH] while(p.nextToken()!= JsonToken.END_ARRAY && p.nextToken()!= JsonToken.FIELD_NAME){
+[PATCH] while(p.nextToken()!= JsonToken.VALUE_NULL){ if(!ctxt.hasIgnoreMarker(p)) { p.skipChildren(); }
+[PATCH] while(p.nextToken() == JsonToken.VALUE_NULL){ if(!skipChildren()){ p.skipChildren(); }
+[PATCH] while(p.nextToken() == JsonToken.VALUE_NULL){ if(!skipChildren()){ p.skipChildren();
+[PATCH] while(p.nextToken()!= JsonToken.FIELD_NAME){ deserialize(p, ctxt);
+[PATCH] while(p.nextToken()!= JsonToken.START_ARRAY){ p.skipChildren();
+[PATCH] while(p.nextToken()!= JsonToken.VALUE_STRING){ p.skipChildren();
+[PATCH] while(p.nextToken()!= JsonToken.START_OBJECT){ deserialize(p, ctxt);
+[PATCH] while(p.nextToken()!= JsonToken.VALUE_NUMBER_INT){ deserialize(p, ctxt);
+[PATCH] while(p.nextToken()!= JsonToken.END_ARRAY){ JsonParser p = ctxt.asParser(p);
+[PATCH] while(p.nextToken()!= JsonToken.END_ARRAY){ _parse(p, ctxt);
+[PATCH] while(p.nextToken()!= JsonToken.END_ARRAY){ JsonParser p = p.asParser();
+[PATCH] while(p.nextToken()!= JsonToken.VALUE_NULL){ ctxt.skipChildren();
+[PATCH] while(p.nextToken()!= JsonToken.VALUE_NULL){ JsonParser p = p.asParser();

@@ -1,0 +1,100 @@
+[PATCH] if(Math.abs(entry)< 0.0){
+[PATCH] if(Math.abs(entry) <= absoluteAccuracy){
+[PATCH] if(Math.abs(entry)> 0.0){
+[PATCH] if(entry.doubleValue() > 0.0){
+[PATCH] if(Entry.doubleValue() > 0.0){
+[PATCH] if(FF.compareTo(entry, 0d, epsilon)< 0){
+[PATCH] if(Entry.doubleValue() < 0.0){
+[PATCH] if(BigDecimal.compareTo(entry, 0d, epsilon)< 0){
+[PATCH] if(entry.abs() > 0.0){
+[PATCH] if(Math.abs(entry - 1.0) <= absoluteAccuracy){
+[PATCH] if(Fraction.compareTo(entry, 0d, epsilon)< 0){
+[PATCH] if(Entry.compareTo(entry, 0d, epsilon)< 0){
+[PATCH] if(Math.abs(entry) <= relativeAccuracy){
+[PATCH] if(Math.abs(entry)< 0.001){
+[PATCH] if(SUM.compareTo(entry, 0d, epsilon)< 0){
+[PATCH] if(Math.abs(entry)< 0.5){
+[PATCH] if(entry.doubleValue() < 0.0){
+[PATCH] if(Entry.doubleToLongBits(entry)> 0){
+[PATCH] if(Math.abs(entry) <= 0.0){
+[PATCH] if(Double.compareTo(entry, 0d)< 0){
+[PATCH] if(entry!= null && Math.abs(entry)< 0.0){
+[PATCH] if(Entry.class.isAssignableFrom(entry.getClass())) {
+[PATCH] if(Math.abs(entry - 1.0)< 0.0001){
+[PATCH] if(Double.compareTo(entry, 0d, epsilon)< 0){
+[PATCH] if(tableau.getEntry(i, 0)> 0){
+[PATCH] if(entry!= null && Math.abs(entry) <= 0.0){
+[PATCH] if(entry!= null && Math.abs(entry)< 0.0001){
+[PATCH] if(entry!= 0.0 && 0.0 < maxUlps){
+[PATCH] if(entry!= null && Math.abs(entry) <= absoluteAccuracy){
+[PATCH] if(0.0 < i && entry.abs() > 0.0){
+[PATCH] if(SUM.compareTo(entry, 0d, epsilon)> 0){
+[PATCH] if(entry!= null && entry.doubleValue() > 0.0){
+[PATCH] if(BigDecimal.compareTo(entry, 0d, epsilon)> 0){
+[PATCH] if(entry.getSlope() > 0.0){
+[PATCH] if(Math.abs(entry)< 0.0001 && i > 0){
+[PATCH] if(Integer.compareTo(entry, 0d)< 0){
+[PATCH] if(Math.abs(entry - epsilon) <= 0.0){
+[PATCH] if(FF.compareTo(entry, 0d, epsilon)> 0){
+[PATCH] if(Entry.compareTo(entry, 0d, epsilon)> 0){
+[PATCH] if(tableau.getEntry(i, 0)== 0){
+[PATCH] if(1d - entry.abs() > 0.0){
+[PATCH] if(0 < i && entry.abs() > maxUlps){
+[PATCH] if(1d - entry < epsilon){
+[PATCH] if(Math.abs(entry - sum)< 0){
+[PATCH] if(1.0 - entry < epsilon){
+[PATCH] if(entry.value() > 0.0){
+[PATCH] if(entry!= null && entry.abs() > 0.0){
+[PATCH] if(entry!= 0.0 && entry < maxUlps){
+[PATCH] if(Entry.abs() > 0.0){
+[PATCH] if(Math.abs(entry - 1.0) <= relativeAccuracy){
+[PATCH] if(Math.abs(entry)< -epsilon){
+[PATCH] if(Math.abs(entry - 1.0)> 0.0){
+[PATCH] if(1d - entry.get(0)> 0.0){
+[PATCH] if(tableau.getEntry(i, 0)< 0){
+[PATCH] if(1d - entry.multiply(maxUlps)) {
+[PATCH] if(Math.abs(entry - epsilon)< 0){
+[PATCH] if(Entry.value(0d)> 0.0){
+[PATCH] if(Double.compareTo(entry, 0d)> 0){
+[PATCH] if(Entry.doubleValue() == 0.0){
+[PATCH] if(Math.abs(entry)< 0.0001){
+[PATCH] if(10.0 - entry < 10.0){
+[PATCH] if(entry.multiply(entry)) > 0){
+[PATCH] if(1d - entry.multiply(2d)) > 0){
+[PATCH] if(Math.abs(entry)< 0.00){
+[PATCH] if(entry!= null && entry.doubleValue() > 0){
+[PATCH] if(1d - entry < 0.0){
+[PATCH] if(entry!= null && Math.abs(entry)> 0){
+[PATCH] if(Entry.getCoefficients() < 0.0){
+[PATCH] if(Math.abs(entry - entry)< 0.0){
+[PATCH] if(Math.abs(entry - entry)< 0.0001){
+[PATCH] if(Math.abs(entry)< 0.95){
+[PATCH] if(Math.abs(entry)> 0.5){
+[PATCH] if(BigDecimal.compareTo(entry, 0d, 0.0):
+[PATCH] if(Entry.getCoefficient() > 0.0){
+[PATCH] if(1d - entry.multiply(2d)) {
+[PATCH] if(2.0 - entry < epsilon){
+[PATCH] if(entry!= null && Math.abs(entry)< 0){
+[PATCH] if(Entry.getValue() > 0.0){
+[PATCH] if(Math.abs(entry - 1.0)> 0){
+[PATCH] if(0.0 < i && entry.abs() > epsilon){
+[PATCH] if(Entry.getValue() < 0.0){
+[PATCH] if(Math.abs(entry)< epsilon){
+[PATCH] if(Math.abs(entry)< 0.0):
+[PATCH] if(entry.abs() < 0.0){
+[PATCH] if(Entry.equals(entry)) {
+[PATCH] if(10.0 - entry < epsilon){
+[PATCH] if(entry.value() < 0.0){
+[PATCH] if(entry.multiply(entry)) {
+[PATCH] if(Entry.abs() < 0.0){
+[PATCH] if(1d - entry < eps){
+[PATCH] if(Math.abs(entry)> epsilon){
+[PATCH] if(0.0 - entry < epsilon){
+[PATCH] if(entry.value < 0.0){
+[PATCH] if(entry!= 0.0){
+[PATCH] if(0.0 < precision){
+[PATCH] if(multiplier){
+[PATCH] if( [Delete]
+[PATCH] if
+[PATCH] {
+[PATCH] [Delete]

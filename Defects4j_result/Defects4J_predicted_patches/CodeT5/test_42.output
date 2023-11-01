@@ -1,0 +1,100 @@
+[PATCH] try { } catch(MaxIterationsExceededException ex){
+[PATCH] try { return 0.5 *(1.0 + Erf.erf(( dev - 10 * standardDeviation))); } catch(MaxIterationsExceededException ex){ throw ex; }
+[PATCH] try { return 0.5 *(1.0 + Erf.erf(( dev - 20 * standardDeviation))); } catch(MaxIterationsExceededException ex){ throw ex; }
+[PATCH] try { return 0.5 *(1.0 + Erf.erf(( dev - standardDeviation)/(2.0))); } catch(MaxIterationsExceededException ex){ throw ex; }
+[PATCH] try { return 0.5 *(1.0 + Erf.erf(( dev - standardDeviation)/(2.0)))); } catch(MaxIterationsExceededException ex){ throw ex; }
+[PATCH] try { return 0.5 *(1.0 + Erf.erf(( dev - standardDeviation)/ Math.sqrt(2.0)))); } catch(MaxIterationsExceededException ex){ throw ex; }
+[PATCH] try { return 0.5 *(1.0 + Erf.erf(( dev - Math.sqrt(2.0)))); } catch(MaxIterationsExceededException ex){ throw ex; }
+[PATCH] try { return 0.5 *(1.0 + Math.exp(-dev /(standardDeviation * Math.sqrt(2.0)))); } catch(MaxIterationsExceededException ex){ throw ex; }
+[PATCH] try { return 0.5 *(1.0 + Erf.erf(( dev - variance/standardDeviation))); } catch(MaxIterationsExceededException ex){ throw ex; }
+[PATCH] try { return 0.5 *(1.0 + Erf.erf(( dev - Math.sqrt(2.0)) / standardDeviation)); } catch(MaxIterationsExceededException ex){ throw ex; }
+[PATCH] try { return 0.5 *(1.0 + Erf.erf(( dev - 30 * standardDeviation))); } catch(MaxIterationsExceededException ex){ throw ex; }
+[PATCH] try { return 0.5 *(1.0 + Erf.erf(( dev - 60 * standardDeviation))); } catch(MaxIterationsExceededException ex){ throw ex; }
+[PATCH] try { return 0.5 *(1.0 - Erf.erf(( dev - 10 * standardDeviation))); } catch(MaxIterationsExceededException ex){ throw ex; }
+[PATCH] try { return 0.5 *(1.0 + Erf.erf(( dev - variance * Math.sqrt(2.0)))); } catch(MaxIterationsExceededException ex){ throw ex; }
+[PATCH] if(dev >= standardDeviation){ return 0.5 *(1.0 + Erf.erf(( dev - 5.0)/(standardDeviation * Math.sqrt(2.0)))); }
+[PATCH] try { return 0.5 *(1.0 + Math.sqrt(dev)/(standardDeviation * Math.sqrt(2.0)))); } catch(MaxIterationsExceededException ex){ throw ex; }
+[PATCH] try { return 0.5 *(1.0 + Erf.erf(( dev - standardDeviation)/(2.0)))); } catch(MaxIterationsExceededException ex){ throw new IllegalArgumentException(""); }
+[PATCH] try { return 0.5 *(1.0 - Math.exp(-dev /(standardDeviation * Math.sqrt(2.0)))); } catch(MaxIterationsExceededException ex){ throw ex; }
+[PATCH] try { return 0.5 *(1.0 - Erf.erf(( dev - 20 * standardDeviation))); } catch(MaxIterationsExceededException ex){ throw ex; }
+[PATCH] if(dev >= standardDeviation){ return 0.5 *(1.0 + Erf.erf(( dev - 10 * standardDeviation))); } else { throw new ConvergenceException(""); }
+[PATCH] try { return 0.5 *(1.0 + Erf.erf(( dev - sqrt(2.0)))); } catch(MaxIterationsExceededException ex){ throw ex; }
+[PATCH] try { return 0.5 *(1.0 + Erf.erf(( dev - 10 * standardDeviation))); } catch(MaxIterationsExceededException ex){ throw new IllegalArgumentException(""); }
+[PATCH] try { return 0.5 *(1.0 + Erf.erf(( dev - 40 * standardDeviation))); } catch(MaxIterationsExceededException ex){ throw ex; }
+[PATCH] try { return 0.5 *(1.0 + Erf.erf(( dev - standardDeviation)/(2.0))); } catch(MaxIterationsExceededException ex){ throw new IllegalArgumentException(""); }
+[PATCH] if(dev >= standardDeviation){ return 0.5 *(1.0 + Erf.erf(( dev - mean)/(standardDeviation * Math.sqrt(2.0)))); }
+[PATCH] try { return 0.5 *(1.0 + Erf.erf(( dev - standardDeviation)/(2.0)))); } catch(MaxIterationsExceededException ex){ throw new MathException(""); }
+[PATCH] try { return 0.5 *(1.0 + Erf.erf(( dev - 10 * standardDeviation))); } catch(MaxIterationsExceededException ex){ throw new ConvergenceException(""); }
+[PATCH] try { return 0.5 *(1.0 - Erf.erf(( dev - standardDeviation)/(2.0)))); } catch(MaxIterationsExceededException ex){ throw ex; }
+[PATCH] try { return 0.5 *(1.0 + Erf.erf(( dev - variance*standardDeviation))); } catch(MaxIterationsExceededException ex){ throw ex; }
+[PATCH] try { return 0.5 *(1.0 + Erf.erf(( dev - 20 * standardDeviation))); } catch(MaxIterationsExceededException ex){ throw new IllegalArgumentException(""); }
+[PATCH] try { return 0.5 *(dev /(standardDeviation * Math.sqrt(2.0))); } catch(MaxIterationsExceededException ex){ throw ex; }
+[PATCH] try { return 0.5 *(1.0 + Erf.erf(( dev - 10 * standardDeviation))); } catch(MaxIterationsExceededException ex){ throw new MathException(""); }
+[PATCH] try { return 0.5 *(1.0 + Erf.erf(( dev - standardDeviation)/(2.0))); } catch(MaxIterationsExceededException ex){ throw new MathException(""); }
+[PATCH] try { return 0.5 *(1.0 + Erf.erf(( dev - mean)/(standardDeviation * FastMath.sqrt(2.0)))); }
+[PATCH] try { return 0.5 *(dev /(standardDeviation * Math.sqrt(2.0)))); } catch(MaxIterationsExceededException ex){ throw ex; }
+[PATCH] if(dev >= standardDeviation){ return 0.5 *(1.0 + Erf.erf(( dev - 5.0)/(standardDeviation * FastMath.sqrt(2.0)))); }
+[PATCH] if(dev >= standardDeviation){ return 0.5 *(1.0 + Erf.erf(( dev - mean)/(standardDeviation * FastMath.sqrt(2.0)))); }
+[PATCH] if(dev >= standardDeviation){ throw new MaxIterationsExceededException(""); }
+[PATCH] try { } catch(MaxIterationsExceededException ex){ if(x < mean - 20 * standardDeviation){ return 0; }
+[PATCH] try { } catch(MaxIterationsExceededException ex){ if(dev < standardDeviation){ return 0; }
+[PATCH] if(dev >= standardDeviation){ throw new MaxIterationsExceededException("maximum number of iterations reached"); }
+[PATCH] if(dev >= standardDeviation){ throw new MaxIterationsExceededException("maximum number of iterations exceeded"); }
+[PATCH] if(dev >= standardDeviation){ throw ex; }
+[PATCH] if(dev >= standardDeviation){ throw new ConvergenceException(""); }
+[PATCH] try { } catch(MaxIterationsExceededException ex){ throw new ConvergenceException(""); }
+[PATCH] if(dev >= standardDeviation){ throw new MaxIterationsExceededException("max iterations exceeded"); }
+[PATCH] if(dev >= standardDeviation){ throw new MaxIterationsExceededException("max iterations exceeded; }
+[PATCH] if(dev >= standardDeviation){ throw new MaxIterationsExceededException("max iterations reached"); }
+[PATCH] try { if(dev < standardDeviation){ return 0.5; }
+[PATCH] try { } catch(MaxIterationsExceededException ex){ throw new MaxIterationsExceededException(""); }
+[PATCH] if(dev < standardDeviation){ throw new MaxIterationsExceededException(""); }
+[PATCH] if(dev >= standardDeviation){ throw new maxIterationsExceededException(""); }
+[PATCH] try { } catch(maxIterationsExceededException ex){
+[PATCH] try { continue; } catch(MaxIterationsExceededException ex){
+[PATCH] throw new MaxIterationsExceededException("maximum number of iterations reached");
+[PATCH] try { catch(MaxIterationsExceededException ex){ }
+[PATCH] throw new ConvergenceException("maximum number of iterations reached");
+[PATCH] if(dev >= standardDeviation){
+[PATCH] throw new MaxIterationsExceededException("maximum number of iterations exceeded");
+[PATCH] throw new ConvergenceException("maximum number of iterations exceeded");
+[PATCH] try { throw new MaxIterationsExceededException(""); }
+[PATCH] throw new MaxIterationsExceededException("");
+[PATCH] catch(MaxIterationsExceededException ex){
+[PATCH] try { dev /= Math.sqrt(2.0);
+[PATCH] throw new ConvergenceException("");
+[PATCH] try { } catch(ConvergenceException ex){
+[PATCH] try { break; } catch(MaxIterationsExceededException ex){
+[PATCH] if(dev < standardDeviation){ throw ex; }
+[PATCH] try { } catch(MathException ex){
+[PATCH] try { } catch(MAXIterationsExceededException ex){
+[PATCH] throw new ConvergenceException("max iterations exceeded");
+[PATCH] throw new MaxIterationsExceededException("max iterations exceeded");
+[PATCH] try { } catch(MaxIterationsExceededException e){
+[PATCH] } catch(MaxIterationsExceededException ex){
+[PATCH] throw new MaxIterationsExceededException("maximal iterations exceeded");
+[PATCH] try { } catch(MaxIterationsExceededException exception){
+[PATCH] throw new MaxIterationsExceededException("probability argument violated");
+[PATCH] throw new ConvergenceException("probability argument violated");
+[PATCH] Try { } catch(MaxIterationsExceededException ex){
+[PATCH] try { } catch(MaxIterationsExceededException exp){
+[PATCH] try { } catch(Exception ex){
+[PATCH] } else if(dev >= standardDeviation){
+[PATCH] throw new MaxIterationsExceededException("max iterations reached");
+[PATCH] try { catch(MaxIterationsExceededException ex){
+[PATCH] try { } catch(IllegalArgumentException ex){
+[PATCH] try { } catch(IOException ex){
+[PATCH] try {
+[PATCH] try { } finally {
+[PATCH] throw ex;
+[PATCH] try { finally { }
+[PATCH] throw new IllegalArgumentException("");
+[PATCH] finally { }
+[PATCH] try {
+[PATCH] final try {
+[PATCH] finally {
+[PATCH] synchronized(ex);
+[PATCH] clearResult();
+[PATCH] try { });
+[PATCH] continue;
+[PATCH] ;

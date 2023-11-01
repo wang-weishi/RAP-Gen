@@ -1,0 +1,100 @@
+[PATCH] if(doc.childCount() > 0){
+[PATCH] if(doc!= null && doc.childCount() > 0){
+[PATCH] if(doc!= null && doc.childCount() > 1){
+[PATCH] if(doc.childCount() > 1){
+[PATCH] if(doc.getChildCount() > 0){
+[PATCH] if(doc.getChildCount() > 1){
+[PATCH] if(doc!= null && doc.childLength() > 0){
+[PATCH] if(doc!null && doc.childCount() > 0){
+[PATCH] if(doc.nodeType() == Node.ELEMENT_NODE){
+[PATCH] if(doc.nodeType() == Token.ELEMENT_NODE){
+[PATCH] if(doc!= null && doc. childCount() > 0){
+[PATCH] if(doc!= null && doc.childSize() > 0){
+[PATCH] if(doc.elementType() == Node.ELEMENT_NODE){
+[PATCH] if(doc.children().size() > 0){
+[PATCH] if(doc!= null && doc.size() > 0){
+[PATCH] if(doc!= null && doc.elementCount() > 0){
+[PATCH] if(doc.childLength() > 0){
+[PATCH] if(doc.getNodeType() == Node.ELEMENT_NODE){
+[PATCH] if(doc.elementType() == Document.ELEMENT_NODE){
+[PATCH] if(doc.nodeType() == Document.ELEMENT_NODE){
+[PATCH] if(doc!= null && doc.childCount() > 0){
+[PATCH] if(doc.getchildCount() > 0){
+[PATCH] if(doc.getChildNodes().size() > 0){
+[PATCH] if(doc!= null && doc.childcount() > 0){
+[PATCH] if(doc.childNodeCount() > 0){
+[PATCH] if(doc.childNodes().size() > 0){
+[PATCH] if(doc!= null && doc.hasChild(0)) {
+[PATCH] if(doc.nodeType() == Node.DOCUMENT_NODE){
+[PATCH] if(doc.elementType() == Element.ELEMENT_NODE){
+[PATCH] if(doc!null && doc.childCount() > 1){
+[PATCH] if(doc!= null && doc.childSize() > 1){
+[PATCH] if(doc. childCount() > 0){
+[PATCH] if(doc!= null &&Doc.childCount() > 0){
+[PATCH] if(doc!= null && doc.ChildCount() > 0){
+[PATCH] if(doc.getNodeType() == Document.ELEMENT_NODE){
+[PATCH] if(doc.firstChildCount() > 0){
+[PATCH] if(doc.getContent().size() > 0){
+[PATCH] if(doc!= null && doc.childItemCount() > 0){
+[PATCH] if(doc.childNodes().size() > 1){
+[PATCH] if(doc!= null && doc.childCount() >0){
+[PATCH] if(doc!= null &&!doc.isEmpty()){
+[PATCH] if(doc!= null && doc.childNumber() > 0){
+[PATCH] if(doc!= null && doc.ChildCount() > 1){
+[PATCH] if(doc!= null && doc. childCount() > 1){
+[PATCH] if(doc!= null && doc.childCount()> 0){
+[PATCH] if(doc.elementCount() > 0){
+[PATCH] if(doc!= null && doc.hasOneChild()){
+[PATCH] if(doc.childSize() > 0){
+[PATCH] if(doc!= null && doc.length() > 0){
+[PATCH] if(doc.get childCount() > 0){
+[PATCH] if(doc.hasChild(0)) {
+[PATCH] if(doc!= null && doc.level() > 0){
+[PATCH] if(doc.tagName().equals("*")) {
+[PATCH] if(doc!= null && doc.childCount() == 1){
+[PATCH] ifdoc!= null && doc.childCount() > 0){
+[PATCH] if(doc, doc.childCount() > 0){
+[PATCH] if(doc.getNodeType() == Node.DOCUMENT_NODE){
+[PATCH] if(doc!= null && doc.childCount() > 2){
+[PATCH] if(doc.size() > 0){
+[PATCH] if(doc.nodeType() == Document.DOCUMENT_NODE){
+[PATCH] if(doc && doc.childCount() > 0){
+[PATCH] if(doc.getNodeCount() > 0){
+[PATCH] if(doc!= null && doc.hasChildCount()){
+[PATCH] else if(doc.childCount() > 0){
+[PATCH] if(doc!= null && doc.hasChildren()){
+[PATCH] if(doc!= null && doc.childCount() > 1){
+[PATCH] if(doc.getLength() > 0){
+[PATCH] if(doc.getChildNodes() > 0){
+[PATCH] if(doc.getChildNodeCount() > 0){
+[PATCH] if(doc!= null && doc.hasChildNodes()){
+[PATCH] if(doc.childList().size() > 0){
+[PATCH] if(doc!= null &&!doc.isNoNode()){
+[PATCH] if(doc!= null && doc.elementCount() > 1){
+[PATCH] if(doc.elementType() == Node.DOCUMENT_NODE){
+[PATCH] if(doc!= null && doc.tagName()!= null){
+[PATCH] if(doc.childCount() == 1){
+[PATCH] if(doc.itemCount() > 0){
+[PATCH] if(doc.getElementCount() > 0){
+[PATCH] if(doc.children().size() > 1){
+[PATCH] if(doc!= null && doc.childcount() > 1){
+[PATCH] if(doc!= null &&Doc.childCount() > 1){
+[PATCH] if(doc.childElementCount() > 0){
+[PATCH] if(doc.getNodeType() == Document.DOCUMENT_NODE){
+[PATCH] if(doc!= null &&!doc.isNoContent()){
+[PATCH] if(doc.childcount() > 0){
+[PATCH] if(doc.elementType() == Document.DOCUMENT_NODE){
+[PATCH] if(doc.length() > 0){
+[PATCH] if(doc.ChildCount() > 0){
+[PATCH] if(doc!= null && doc.childLength() > 1){
+[PATCH] if(doc!= null &&!doc.isContainer()){
+[PATCH] if(doc.hasChildCount() > 0){
+[PATCH] if(doc.elementNodeCount() > 0){
+[PATCH] if(doc.hasOneChild()){
+[PATCH] if(doc.attributes().size() > 0){
+[PATCH] if(doc!= null && doc.childCount() >1){
+[PATCH] if(doc.nodeType() == Document.TYPE_NODE){
+[PATCH] if(doc.getchildCount() > 1){
+[PATCH] if(doc.level() > 0){
+[PATCH] if(doc.entryCount() > 0){
+[PATCH] if(doc!= null &&!doc.isNoData()){

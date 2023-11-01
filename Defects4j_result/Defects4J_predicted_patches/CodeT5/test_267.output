@@ -1,0 +1,100 @@
+[PATCH] Validate.isTrue(_kind == STD_URL);
+[PATCH] if(_kind == STD_URL){ return new URL(""); }
+[PATCH] if(_kind == STD_URL){ return null; }
+[PATCH] if(_kind == STD_URL){ return""; }
+[PATCH] if(_kind == STD_ROOT){ return null; }
+[PATCH] if(_kind == STD_ERROR){ throw new IOException(""); }
+[PATCH] if(_kind == STD_ERROR){ return null; }
+[PATCH] if(_kind == STD_URL){ return"https:"; }
+[PATCH] if(_kind == STD_OBJECT){ return OBJECT_TYPE; }
+[PATCH] if(_kind == STD_URL){ return new URI(""); }
+[PATCH] if(_kind == STD_URL){ return(""); }
+[PATCH] if(_kind == STD_URL){ return url(); }
+[PATCH] if(_kind == STD_URL){ return getURL(); }
+[PATCH] if(_kind == STD_URL){ return"://"; }
+[PATCH] Validate.notNull(_kind);
+[PATCH] Validate.isTrue(_kind == STD_ROOT);
+[PATCH] if(_kind == STD_URL){ return createURL(""); }
+[PATCH] if(_kind == STD_URL){ return url(""); }
+[PATCH] Validate.isTrue(_kind == STD_NAME);
+[PATCH] if(_kind == STD_ROOT){ return""; }
+[PATCH] if(_kind == STD_PATTERN){ return new StringBuffer(""); }
+[PATCH] if(_kind == STD_URL){ return"url("); }
+[PATCH] if(_kind == STD_URL){ return baseURL(); }
+[PATCH] if(_kind == STD_URL){ return"/"; }
+[PATCH] if(_kind == STD_URL){ return:""; }
+[PATCH] if(_kind == STD_STRING){ return""; }
+[PATCH] _reportInvalidEOF(": was expecting closing quote for a string value");
+[PATCH] if(_kind == STD_URL){ return"localhost:"; }
+[PATCH] Preconditions.checkState(_kind == STD_URL);
+[PATCH] Validate.isTrue(_kind == STD_STRING);
+[PATCH] if(_kind == STD_URL){ return url2(""); }
+[PATCH] throw new IllegalStateException("");
+[PATCH] if(_kind == STD_PREFIX){ return""; }
+[PATCH] if(_kind == STD_URL){ return LOCAL_URL; }
+[PATCH] if(_kind == STD_URL){ return"www."; }
+[PATCH] if(_kind == STD_NULL){ return null; }
+[PATCH] if(_kind == STD_URL){ return href(""); }
+[PATCH] if(_kind == STD_URL){ return"https://"; }
+[PATCH] if(_kind == STD_STRING){ return STRING_VALUE; }
+[PATCH] if(_kind == STD_ROOT){ return ROOT; }
+[PATCH] if(_kind == STD_URL){ return"file"; }
+[PATCH] if(_kind == STD_PATTERN){ return new StringBuffer(); }
+[PATCH] Validate.isTrue(_kind == STD_TYPE);
+[PATCH] Validate.isTrue(_kind == STD_PATTERN);
+[PATCH] Validate.isFalse(_kind == STD_URL);
+[PATCH] Validate.isTrue(_kind == STD_ERROR);
+[PATCH] Validate.isTrue(_kind == STD_CLASS);
+[PATCH] throw new JsonMappingException("");
+[PATCH] Validate.isTrue();
+[PATCH] Validate.notNull(_value);
+[PATCH] Validate.notNull(_body);
+[PATCH] _reportInvalidEOF("Empty String value");
+[PATCH] Validate.notNull(_input);
+[PATCH] _throwInternal();
+[PATCH] _reportUnsupportedOperation();
+[PATCH] Validate.notNull(_token);
+[PATCH] _reportError("Empty String value");
+[PATCH] throw new IllegalArgumentException("");
+[PATCH] Validate.notNull(_fieldName);
+[PATCH] throw new IOException("");
+[PATCH] validateKind(STD_TYPE);
+[PATCH] Validate.isTrue("");
+[PATCH] super._deserializeFromEmptyString();
+[PATCH] _checkInvalidEOF();
+[PATCH] _reportInvalidEOF();
+[PATCH] Util.checkLenient();
+[PATCH] validateKind();
+[PATCH] _checkLenient();
+[PATCH] Validate.isFalse();
+[PATCH] _checkUnsupportedOperation();
+[PATCH] validator.expectEmptyString();
+[PATCH] _checkKind("string");
+[PATCH] assertArgCount(0);
+[PATCH] return URI.create("");
+[PATCH] _checkInvalidURI("");
+[PATCH] _reportInvalidEOF("");
+[PATCH] assertLenient();
+[PATCH] VersionUtil.throwInternal();
+[PATCH] Util.throwInternal();
+[PATCH] _assertLenient();
+[PATCH] _checkInvalidURI();
+[PATCH] _verifyValueInstantiation();
+[PATCH] loadMoreGuaranteed();
+[PATCH] clearPrefix();
+[PATCH] _verifyValueChange();
+[PATCH] _checkInternalName();
+[PATCH] _testInvalidEOF();
+[PATCH] checkLenient();
+[PATCH] _validateKind();
+[PATCH] _checkKind();
+[PATCH] validateState();
+[PATCH] checkNonEmptyString();
+[PATCH] checkKind();
+[PATCH] _validateState();
+[PATCH] stripTrailingQuotes();
+[PATCH] validateType();
+
+);
+;
+*/

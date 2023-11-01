@@ -1,0 +1,100 @@
+[PATCH] } else if(actualTypeArgument!= null){
+[PATCH] } else if(!typeParameter.isActual()){
+[PATCH] } else if(actualTypeArgument!= typeVariable.getReturnType()){
+[PATCH] } else if(!typeParameter.isResolved()){
+[PATCH] } else if(actualTypeArgument!= typeParameter.getBounds()){
+[PATCH] } else if(actualTypeArgument!= typeParameter.getActualTypeArguments()){
+[PATCH] } else if(actualTypeArgument!= typeParameter.getReturnType()){
+[PATCH] } else if(actualTypeArgument!= typeVariable.getActualTypeArguments()){
+[PATCH] } else if(!TypeUtils.isUnknownType(actualTypeArgument)) {
+[PATCH] } else if(!isVoidOrUnknownType(actualTypeArgument)) {
+[PATCH] } else if(!actualTypeArgument.isUnknownType()){
+[PATCH] } else if(!isUnknownType(actualTypeArgument)) {
+[PATCH] } else if(!classType.isAssignableFrom(actualTypeArgument)) {
+[PATCH] } else if(!isSubtype(actualTypeArgument)) {
+[PATCH] } else if(actualTypeArgument!= typeParameter.getUpperBound()){
+[PATCH] } else if(actualTypeArgument!= typeVariable.getUnknownType()){
+[PATCH] } else if(actualTypeArgument!= typeVariable.getImplicitPrototype()){
+[PATCH] } else if(actualTypeArgument!= typeParameter){
+[PATCH] } else if(!TypeUtils.isFunctionType(actualTypeArgument)) {
+[PATCH] } else if(!isActualTypeArgument(actualTypeArgument)) {
+[PATCH] } else if(actualTypeArgument!= typeParameters.getUnknownType()){
+[PATCH] } else if(!TypeUtils.isSubtype(actualTypeArgument)) {
+[PATCH] } else if(actualTypeArgument!= typeParameters.getImplicitPrototype()){
+[PATCH] } else if(!TypeUtil.isUnknownType(actualTypeArgument)) {
+[PATCH] } else if(!typeParameter.isVarArgs()){
+[PATCH] } else if(actualTypeArgument!= typeVariables[i]){
+[PATCH] } else if(!typeParameter.isAssignableFrom(actualTypeArgument)) {
+[PATCH] } else if(actualTypeArgument!= typeParameters.getUpperBound()){
+[PATCH] } else if(!isFunctionTypeDeclaration(actualTypeArgument)) {
+[PATCH] } else if(!TypeUtil.isFunctionType(actualTypeArgument)) {
+[PATCH] } else if(!actualTypeArgument.equals(typeParameter)) {
+[PATCH] } else if(actualTypeArgument!= typeParameters.getNone()){
+[PATCH] } else if(actualTypeArgument!= typeParameters.getNullValue()){
+[PATCH] } else if(!isSubTypeOf(actualTypeArgument, typeParameter)) {
+[PATCH] } else if(!typeParameter.isParameterTypeInferred()){
+[PATCH] } else if(!isFunctionTypeArgument(actualTypeArgument)) {
+[PATCH] } else if(actualTypeArgument!= typeParameters.getReturnType()){
+[PATCH] } else if(!typeParameter.isTypeArguments()){
+[PATCH] } else if(actualTypeArgument!= typeParameter.getUpperBounds()){
+[PATCH] } else if(actualTypeArgument!= typeParameter.getDeclaration()){
+[PATCH] } else if(!typeParameter.getActualTypeArguments().isEmpty()){
+[PATCH] } else if(actualTypeArgument!= typeParameters.getDefaultImpl()){
+[PATCH] } else if(actualTypeArgument!= typeVariable.getNone()){
+[PATCH] } else if(actualTypeArgument!= typeParameter.getUnknownType()){
+[PATCH] } else if(actualTypeArgument!= typeParameters.getRestrictedWithoutNull()){
+[PATCH] } else if(actualTypeArgument!= typeVariable.getUpperBound()){
+[PATCH] } else if(!typeParameter.isVariableInferred()){
+[PATCH] } else if(!typeParameter.getActualTypeArguments().length == 1){
+[PATCH] } else if(!typeParameter.getName().equals(actualTypeArgument)) {
+[PATCH] } else if(actualTypeArgument!= typeParameters.getActualTypeArguments()){
+[PATCH] } else if(actualTypeArgument!= typeParameters[i]){
+[PATCH] } else if(actualTypeArgument!= typeVariable.getInstanceType()){
+[PATCH] } else if(actualTypeArgument!= typeVariable.getNullValue()){
+[PATCH] } else if(actualTypeArgument!= typeParameters){
+[PATCH] } else if(!typeParameter.isInitializingDeclaration()){
+[PATCH] } else if(actualTypeArgument!= typeVariable.getBounds()){
+[PATCH] } else if(!typeArgument.equals(actualTypeArgument)) {
+[PATCH] } else if(actualTypeArgument!= typeParameter.getDescriptor()){
+[PATCH] } else if(actualTypeArgument!= typeParameter.getGenericParameterType()){
+[PATCH] } else if(!typeParameter.isReferenced()){
+[PATCH] } else if(!typeParameter.isVariable()){
+[PATCH] } else if(!typeParameters.containsKey(typeParameter)) {
+[PATCH] } else if(!typeParameters.hasKey(typeParameter)) {
+[PATCH] } else if(actualTypeArgument!= typeParameters.getMinimumSize()){
+[PATCH] } else if(actualTypeArgument!= typeVariable.getPrototype()){
+[PATCH] } else if(actualTypeArgument!= typeParameters.getNull()){
+[PATCH] } else if(!typeParameter.isVarDeclaration()){
+[PATCH] } else if(actualTypeArgument!= typeVariable.getActualReturnType()){
+[PATCH] } else if(actualTypeArgument!= typeVariable.getUpperBounds()){
+[PATCH] } else if(!actualTypeArgument.isVoidType()){
+[PATCH] } else if(actualTypeArgument!= typeParameter.getMaximumTypeArguments()){
+[PATCH] } else if(!typeParameter.isDeclared()){
+[PATCH] } else if(actualTypeArgument!= typeParameters.getNullPointer()){
+[PATCH] } else if(!typeParameter.isQuotedString()){
+[PATCH] } else if(!typeParameter.isConcrete()){
+[PATCH] } else if(!typeParameter.isInitialValue()){
+[PATCH] } else if(!typeParameter.isSimpleType()){
+[PATCH] } else if(!typeParameter.isDefine()){
+[PATCH] } else if(!typeParameter.isSet()){
+[PATCH] } else if(!typeParameter.isTemplateType()){
+[PATCH] } else if(!typeParameter.isQuotedType()){
+[PATCH] } else if(!typeParameter.isVariables()){
+[PATCH] } else if(!typeParameter.isLocal()){
+[PATCH] } else if(!typeParameter.isInitializingType()){
+[PATCH] } else if(!typeParameter.isNamed()){
+[PATCH] } else if(!typeParameter.isRaw()){
+[PATCH] } else if(!typeParameter.isContainerType()){
+[PATCH] } else if(!typeParameter.isWithoutType()){
+[PATCH] } else if(!typeParameter.isConstant()){
+[PATCH] } else if(!typeParameter.isDefaultValue()){
+[PATCH] } else if(!typeParameter.isParameterized()){
+[PATCH] } else if(!typeParameter.isGenericType()){
+[PATCH] } else if( actualTypeArgument!= null){
+[PATCH] } else if(actualTypeArgument!= typeVar){
+[PATCH] } else if(actualTypeArgument!= typeVariable){
+[PATCH] } else if(!asStatic){
+[PATCH] } else if(!{
+[PATCH] } else {
+[PATCH] return;
+[PATCH] continue;

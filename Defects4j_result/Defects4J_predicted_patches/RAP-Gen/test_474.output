@@ -1,0 +1,100 @@
+[PATCH] [Delete]
+[PATCH] if(owner.getType() == Token.ASSIGN){
+[PATCH] if(!leftType.equals(rightType)) {
+[PATCH] [Delete] if(owner.isFunctionPrototypeType()){
+[PATCH] [Delete] } else if(owner!= null){
+[PATCH] [Delete] if(getJSType(owner)!= null){
+[PATCH] [Delete] } else if(owner.isType()){
+[PATCH] if(owner.isFunctionPrototypeType()){
+[PATCH] if(owner.isType()){
+[PATCH] if(owner.isType() == Token.ASSIGN){
+[PATCH] [Delete] if(owner.isType()){
+[PATCH] [Delete].registerMismatch(leftType, rightType);
+[PATCH] [Delete] _union(leftType, rightType);
+[PATCH] [Delete] } else if(owner instanceof FunctionType){
+[PATCH] [Delete] for(Node n : leftType.children()){
+[PATCH] [Delete] } else if(owner.isClass()){
+[PATCH] [Delete] if(owner.isClass()){
+[PATCH] [Delete] } else if(owner.isConstructor()){
+[PATCH] [Delete] else if(owner.isType()){
+[PATCH] [Delete] if(owner.isConstructor()){
+[PATCH] [Delete] else if(owner.isClass()){
+[PATCH] [Delete] if(isConstructor() || isInterface()){
+[PATCH] [Delete] (t, n, owner, propName);
+[PATCH] [Delete] else if(owner instanceof FunctionType){
+[PATCH] [Delete] if(owner instanceof FunctionType){
+[PATCH] [Delete] else if(owner!= null){
+[PATCH] [Delete] } else if(owner instanceof UnionType){
+[PATCH] if(owner.isClass()){
+[PATCH] [Delete] const if(owner.isType()){
+[PATCH] [Delete] } else if(owner!= null){
+[PATCH] if(owner!= null){
+[PATCH] [Delete] } else if(owner instanceof JSType){
+[PATCH] [Delete] else if(owner.isConstructor()){
+[PATCH] if(isConstructor() || isInterface()){
+[PATCH] [Delete] if(owner!= null){
+[PATCH] [Delete] if(owner.isObjectType()){
+[PATCH] [Delete] _INHERITED = true;
+[PATCH] if(owner.isObjectType()){
+[PATCH] if(owner instanceof FunctionType){
+[PATCH] [Delete] _UNKNOWN_TYPE = true;
+[PATCH] if(owner.isInstance()){
+[PATCH] if(owner.isObject()){
+[PATCH] if(owner.isConstructor()){
+[PATCH] if(owner.isNew()){
+[PATCH] [Delete] else if(owner instanceof JSType){
+[PATCH] } else if(owner!= null){
+[PATCH] [Delete] const if(owner!= null){
+[PATCH] [Delete] if(owner instanceof JSType){
+[PATCH] [Delete] ? -1 : 1;
+[PATCH] [Delete] if(owner == null){
+[PATCH] [Delete] if(owner instanceof ObjectType){
+[PATCH] [Delete] if(owner instanceof Constructor){
+[PATCH] [Delete] (JSType.class);
+[PATCH] [Delete] _UNKNOWN_TYPE
+[PATCH] [Delete] (t, n);
+[PATCH] if(owner == null){
+[PATCH] if(owner instanceof JSType){
+[PATCH] [Delete] _EXCEPTION = true;
+[PATCH] [Delete] = true;
+[PATCH] [Delete] _UNKNOWN
+[PATCH] [Delete] = false;
+[PATCH] [Delete] _ONLY
+[PATCH] [Delete] _TYPE
+[PATCH] [Delete] _UNKNOWN :
+[PATCH] [Delete] _TYPES
+[PATCH] [Delete] :
+[PATCH] [Delete] ){
+[PATCH] [Delete]
+[PATCH] [Delete] *
+[PATCH] [Delete] Type
+[PATCH] [Delete] {
+[PATCH] [Delete] s
+[PATCH] [Delete] _*/
+[PATCH] [Delete] :
+[PATCH] [Delete] <?>
+[PATCH] [Delete]':
+[PATCH] [Delete] return;
+[PATCH] [Delete] ?
+[PATCH] [Delete],
+[PATCH] [Delete]?
+[PATCH] [Delete] ;
+[PATCH] [Delete] ,
+[PATCH] [Delete] final
+[PATCH] [Delete] Type
+[PATCH] [Delete] +
+[PATCH] [Delete] //
+[PATCH] [Delete] $
+[PATCH] [Delete]...
+[PATCH] [Delete]!
+[PATCH] [Delete] /
+[PATCH] [Delete] {
+[PATCH] [Delete] static
+[PATCH] [Delete] [
+[PATCH] [Delete]
+[Delete]
+00000);
+), {
+);
+;
+*/

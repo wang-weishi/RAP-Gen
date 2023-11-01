@@ -1,0 +1,100 @@
+[PATCH] if(id.length() >= 4){ bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if(id.length() == 1){ bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if(id.startsWith(bucket.getZone())) { bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if(( id = str.substring(1))!= null){ bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if(id.length() >= 3){ bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if(id.length() >= 2){ bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if(id.equals(str)) { bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if(id.startsWith(str)) { bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if(id.equals(iId)) { bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if(id.equals(iValue)) { bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if(id.startsWith(prefix)) { bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if(id.length() >= 5){ bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if(id.startsWith(bucket.getID())) { bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if(id.length() >= 9){ bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] for(String id : ALL_IDS){ bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if(id.length() > 0){ bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] for(String id : ALL_IDS){ if(id.startsWith(id)) { return position + id.length(); }
+[PATCH] if(( id = ALL_IDS.substring(0))!= null){ bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if(id.startsWith(bucket.getPrefix())) { bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if(ID_PATTERN.equals(str)) { bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if(id.length() >= 4){ Bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if(id.startsWith(ALL_IDS)) { bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if(( id = str.substring(0, 4))!= null){ bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if(id.length() >= 4){ bucket.setZone(DateTimeZone.forID(id)); returnposition + id.length(); }
+[PATCH] if(id.equals(iID)) { bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if(( id = str.substring(0, position))!= null){ bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if(id.startsWith(bucket.getKey())) { bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if(id.startsWith(iId)) { bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if(IDS.contains(id)) { bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if(id.startsWith(iZone)) { bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] for(String id : str.split("\\.")) { if(bucket.setZone(DateTimeZone.forID(id)) return position + id.length(); }
+[PATCH] if(ID_REGEXP.equals(str)) { bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if(id.length() >= 4){ bucket.setZone(DateTimeZone.forId(id)); return position + id.length(); }
+[PATCH] for(String id : str.toCharArray()){ if(bucket.setZone(DateTimeZone.forID(id))){ return position + id.length(); }
+[PATCH] if(( id = str.substring(position+1))!= null){ bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if(id.length() == 4){ bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if(id.startsWith(iType)) { bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if( id.length() >= 4){ bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if(ID_FOR_IDS.equals(id)) { bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if(id.startsWith(iValue)) { bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if(id.length() >= 6){ bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if(str.startsWith(id)) { bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if(( id!= null && id.length() > 0)) { bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if(ID_PREFIX.equals(str)) { bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if(ID_REGEX.equals(str)) { bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if(ids.contains(id)) { bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if(id.len() == 1){ bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if(id.length() >= 10){ bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if(id.length() == 6){ bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if(ID_REGEXP.startsWith(str)) { bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if(id.length() >= 8){ bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if(id.length() == 2){ bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if(id.length() == 0){ bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if(!str.equals("")) { bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if(str.startsWith(iValue)) { bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] for(String id : str.split("\\.")) { if(bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] for(String id : NO_IDS){ bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if(ID.equals(str)) { bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] for(String id : ALL_IDS){ if(bucket.setZone(DateTimeZone.forID(id)) return position + id.length(); }
+[PATCH] if(id.length() >= 4){Bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if(id.length() >= 4){ bucket.setZone(DateTimeZone.forID(id)); return position + 4; }
+[PATCH] if(id.length() >= 4){ bucket.setZone(DateTimeZone.forID(id)); return position + ID.length(); }
+[PATCH] if(id.equals(iType)) { bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] for(String id : ALL_IDS){ if(bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if(id.length() >= 4){ bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if(id.len() >= 4){ bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] for(String id : str.toCharArray()){ if(bucket.setZone(DateTimeZone.forID(id)) return position + id.length(); }
+[PATCH] if(id.isEmpty()){ bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] if(id.length() == 1){ bucket.setZone(DateTimeZone.forID(str)); return position + id.length(); }
+[PATCH] if(id!= null){ bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] for(String id : ALL_IDS){ if(id.equals(str)) return position + id.length(); }
+[PATCH] if(( id = ALL_IDS.substring(0, str.length())); return position + id.length(); }
+[PATCH] for(String id : str.split("[.]")) { if(id.equals(iValue)) return position + id.length(); }
+[PATCH] if(id.length() >= 4){ bucket.setZone(DateTimeZone.forID(id)); return position+id.length(); }
+[PATCH] if(id.length() >= 4){ bucket.setZone(DateTimeZone.forID(id)); return position + ids.length(); }
+[PATCH] for(String id : ALL_IDS){ if(str.startsWith(id)) { return position + id.length(); }
+[PATCH] for(String id : ALL_IDS){ if(id.startsWith(str)) { return position + id.length(); }
+[PATCH] for(String id : ALL_IDS){ if(id.startsWith(id)) return position + id.length(); }
+[PATCH] if(id.length() >= 4){ bucket.setZone(DateTimeZone.forID(id)); return position + name.length(); }
+[PATCH] bucket.setValue(DateTimeZone.forID(id)); return position + id.length();
+[PATCH] bucket.saveField(DateTimeFieldType.year(), str); return position + id.length();
+[PATCH] bucket.setZone(DateTimeZone.forID(str)); return position + id.length();
+[PATCH] if(id.startsWith(bucket.getZone())) { bucket.setZone(DateTimeZone.forID(id)); return position + ids.length(); }
+[PATCH] if(id.length() >= 4){ bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); } else { break; }
+[PATCH] if(id.startsWith(bucket.getZone())) { bucket.setZone(DateTimeZone.forID(id)); return position + ID.length(); }
+[PATCH] bucket.setValue(DateTimeFieldType.forID(id)); return position + id.length();
+[PATCH] if(id.startsWith(bucket.getZone())) { bucket.setZone(DateTimeZone.forID(id)); return position + name.length(); }
+[PATCH] if(id.startsWith(bucket.getZone())) { bucket.setZone(DateTimeZone.forID(id)); return position + str.length(); }
+[PATCH] if(id.startsWith(bucket.getZone())) { bucket.setZone(DateTimeZone.forID(id)); return position + prefix.length(); }
+[PATCH] if(id.length() >= 4){ bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); }
+[PATCH] bucket.setValue(DateTimeFieldType.year()); return position + id.length();
+[PATCH] if(id.length() >= 4){ bucket.setZone(DateTimeZone.forID(id)); return position + id.length(); };
+[PATCH] if(id.equals(str)) return position + id.length();
+[PATCH] if(id.startsWith(bucket.getZone())) { bucket.setZone(DateTimeZone.forID(id)); return position + 1; }
+[PATCH] if(id.startsWith(bucket.getZone())) { bucket.setZone(DateTimeZone.forID(id)); return position + len; }
+[PATCH] for(String id : str.split(",");
+[PATCH] bucket.clearPrefix(); return position + id.length();
+[PATCH] bucket.clearPrefix();
+[PATCH] bucket.clearValue();
+[PATCH] ;

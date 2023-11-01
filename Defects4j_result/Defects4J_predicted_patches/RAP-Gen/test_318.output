@@ -1,0 +1,100 @@
+[PATCH] if(getName().endsWith("/")) {
+[PATCH] if(getName().startsWith("/")) {
+[PATCH] if(getName().equals("/")) {
+[PATCH] if(getName().endsWith("/.")) {
+[PATCH] if(getName().endsWith(".js")) {
+[PATCH] if(getName().endsWith("/")) {
+[PATCH] if(getLinkName().endsWith("/")) {
+[PATCH] if(getLinkName().startsWith("/")) {
+[PATCH] if(getName().contains("/")) {
+[PATCH] if(getName().endsWith("/')) {
+[PATCH] if(getName().endsWith("/)")) {
+[PATCH] if(getName().startsWith("/.")) {
+[PATCH] if(getName().indexOf("/") >= 0){
+[PATCH] if(getName().endsWith("/./")) {
+[PATCH] if(getName().endsWith("\n")) {
+[PATCH] if(getName().endsWith(".")) {
+[PATCH] if(getName().endsWith("/")&& isDir()){
+[PATCH] if(getName().endsWith("/")&& isDirectory()){
+[PATCH] if(getName().endsWith(".java")) {
+[PATCH] if(getName().endsWith("/.")) {
+[PATCH] if(getName().endsWith("\/")) {
+[PATCH] if(getName().endsWith("\.js")) {
+[PATCH] if(getName().startsWith("/")) {
+[PATCH] if(getName().endsWith("/")) {
+[PATCH] if(getName().endWith("/")) {
+[PATCH] if(getName().startsWith(".")) {
+[PATCH] if(getLinkName().equals("/")) {
+[PATCH] if(getlinkName().endsWith("/")) {
+[PATCH] if(getgetName().endsWith("/")) {
+[PATCH] if(getLink().startsWith("/")) {
+[PATCH] if(getLink().endsWith("/")) {
+[PATCH] if(getName().endsWith(".html")) {
+[PATCH] if(getName().endsWith("./")) {
+[PATCH] if(getName().startsWith("\n")) {
+[PATCH] if(getName().endsWith("/'")) {
+[PATCH] if(getName().endsWith("/)) {
+[PATCH] if(getName().endsWith("/")|| isExtended()){
+[PATCH] if(getName().endsWith("/")&& isDir){
+[PATCH] if(getlinkName().startsWith("/")) {
+[PATCH] if(getName().endsWith("/.java")) {
+[PATCH] if(getName().endsWith("\\.")) {
+[PATCH] else if(getName().endsWith("/")) {
+[PATCH] if(getName().endsWith("\\")) {
+[PATCH] if(getName().endsWith(".css")) {
+[PATCH] if(getName().endsWith("\.")) {
+[PATCH] if(( linkFlag & ~LF_DIR)!= 0){
+[PATCH] if(getName().endsWith(".js");
+[PATCH] if(getName().startsWith("/)")) {
+[PATCH] if(getName().startsWith("\/")) {
+[PATCH] if(( linkFlag & ~LF_DIR)== 0){
+[PATCH] if(getName().endsWith(".xml")) {
+[PATCH] if(getName().endsWith(".json")) {
+[PATCH] if(( linkFlag & 0x03)== 0){
+[PATCH] if("/".equals(linkName)) {
+[PATCH] if(getName().startsWith("/")) {
+[PATCH] if(getFileName().endsWith("/")) {
+[PATCH] if(getName().endsWith("/")&& isFolder()){
+[PATCH] if(getName().endsWith("/.js")) {
+[PATCH] if(getName().endsWith("/.+")) {
+[PATCH] if(( linkFlag & ~LF_LINK)== 0){
+[PATCH] if(getName().endsWith("\\/")) {
+[PATCH] if(getName().endsWith('/')) {
+[PATCH] if(( linkFlag & S_IFMT)== 0){
+[PATCH] if(getName().startsWith("/")&& isDirectory()){
+[PATCH] if("/".equals(getName())) {
+[PATCH] if(getName().length() == 1){
+[PATCH] if(getName().endsWith("/.*")) {
+[PATCH] if(getName().endsWith("/")+ 1){
+[PATCH] if(( getName().endsWith("/")) == false){
+[PATCH] if(getName().endsWith("/.js")) {
+[PATCH] if(getFileName().startsWith("/")) {
+[PATCH] if(getName().endsWith("/")&& isdir()){
+[PATCH] if(getName().endsWith("/");
+[PATCH] if(getName().startsWith("/")+1){
+[PATCH] if(getName().endsWith("/:")) {
+[PATCH] if(getName().endsWith("/")+1){
+[PATCH] if(getName().endsWith("/")&& isDir()){
+[PATCH] if(getName().endsWith(".js")&& isDir){
+[PATCH] if(getgetName().startsWith("/")) {
+[PATCH] else if(getName().startsWith("/")) {
+[PATCH] if(getName().startsWith("/')) {
+[PATCH] if(getName().endsWith("/")&& isDirectory){
+[PATCH] if(getName().endsWith("\\")) {
+[PATCH] if(( getName().endsWith("/")) == true){
+[PATCH] if(getLink().equals("/")) {
+[PATCH] if(getName().startWith("/")) {
+[PATCH] if(getName().startsWith("\.")) {
+[PATCH] if(getLink() == LF_LINK){
+[PATCH] if(getLinkFlag() == LF_LINK){
+[PATCH] if(( linkFlag & 1)== 0){
+[PATCH] if(getName().startsWith("/)) {
+[PATCH] if(getName().length() == 0){
+[PATCH] if(getName().length() > 0){
+[PATCH] if(getName().equals(".")) {
+[PATCH] if("/".equals(name)) {
+[PATCH] if(getName().isEmpty()){
+[PATCH] if(getLink() == null){
+[PATCH] if(getName().endsWith("");
+[PATCH] if(getLink());
+[PATCH] if();

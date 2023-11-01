@@ -1,0 +1,100 @@
+[PATCH] if(dataset == null){
+[PATCH] if(dataset == null ||!dataset.getRowCount()){
+[PATCH] if(dataset == null ||!dataset.isVisible()){
+[PATCH] if(dataset == null ||!dataset.hasColumns()){
+[PATCH] if(dataset == null ||!dataset.hasRows()){
+[PATCH] if(( dataset == null)||(index < 0)) {
+[PATCH] if(dataset == null ||!dataset.getCount()){
+[PATCH] if(dataset == null ||!dataset.isValid()){
+[PATCH] if(dataset == null ||!dataset.getColumnCount());
+[PATCH] if(dataset == null ||!dataset.hasWarnings()){
+[PATCH] if(dataset == null ||!dataset.getRows()){
+[PATCH] if(dataset == null || index < 0){
+[PATCH] if(dataset == null ||!dataset.getVisible()){
+[PATCH] if("", index < 0 || dataset == null){
+[PATCH] if(dataset == null ||!dataset.hasTags()){
+[PATCH] if(dataset == null ||!dataset.hasValues()){
+[PATCH] if(dataset == null ||!dataset.setRowCount()){
+[PATCH] if(dataset == null ||!dataset.hasAttributes()){
+[PATCH] if(dataset == null ||!dataset.hasData()){
+[PATCH] if("", index == -1 || dataset == null){
+[PATCH] if(dataset == null {
+[PATCH] if(dataset == null || dataset.isEmpty()){
+[PATCH] if(dataset == null ||!dataset.available()){
+[PATCH] if(dataset== null){
+[PATCH] if(dataset.getColumnCount() == 0){
+[PATCH] if(dataset == null if(dataset == null){
+[PATCH] if("", dataset == null){
+[PATCH] if(_dataset == null){
+[PATCH] if(dataset == null){
+[PATCH] if(dataset == null)) {
+[PATCH] if(dataset == null || index >= 0){
+[PATCH] if(plot == null || dataset == null){
+[PATCH] if(dataset == null){
+[PATCH] if(dataset == null()){
+[PATCH] if(series == null){
+[PATCH] if(dataset if(dataset == null){
+[PATCH] if(( dataset == null)) {
+[PATCH] if( dataset == null){
+[PATCH] if("", index == -1){
+[PATCH] if(dataset == null - 1){
+[PATCH] if(chart == null){
+[PATCH] if(dataset == None.class){
+[PATCH] if(problem || dataset == null){
+[PATCH] if(dataset == null);
+[PATCH] if(dataset < null){
+[PATCH] if("", index < 0){
+[PATCH] if(dataset == false){
+[PATCH] if(data == null){
+[PATCH] if(dataset == -1){
+[PATCH] if(Dataset == null){
+[PATCH] if(dataset == this.plot){
+[PATCH] If(dataset == null){
+[PATCH] if(dataset == null || false){
+[PATCH] if(dataset == null'){
+[PATCH] if(dataset == null -1){
+[PATCH] if(dataset == null)+ 1){
+[PATCH] if(( dataset == null)||"");
+[PATCH] if(dataset == 0){
+[PATCH] if(dataset == null{
+[PATCH] if(dataset = null){
+[PATCH] if(dataset is null){
+[PATCH] if(null == dataset){
+[PATCH] if(dataset == NULL){
+[PATCH] if(dataset ==null){
+[PATCH] if(ds == null){
+[PATCH] if(dataset == null):
+[PATCH] if(_series == null){
+[PATCH] if(dataset == null() {
+[PATCH] if(); dataset == null){
+[PATCH] if(collection == null){
+[PATCH] if(model == null){
+[PATCH] if(-1 == dataset){
+[PATCH] if(sample == null){
+[PATCH] if(dataset == null_){
+[PATCH] if(band == null){
+[PATCH] if(dataset === null){
+[PATCH] if(item == null){
+[PATCH] if(dataset == null :
+[PATCH] if(feature == null){
+[PATCH] if(source == null){
+[PATCH] if("" == index){
+[PATCH] if(date == null){
+[PATCH] if=(dataset == null){
+[PATCH] if(archive == null){
+[PATCH] if(df == null){
+[PATCH] if(image == null){
+[PATCH] if('?' == dataset){
+[PATCH] if(dataset equals null){
+[PATCH] if==dataset == null){
+[PATCH] if(datasets == null){
+[PATCH] if("");
+[PATCH] if(""){
+[PATCH] if(dataset {
+[PATCH] if("";
+[PATCH] if(dataset
+[PATCH] if();
+[PATCH] ;
+[PATCH] {
+
+);
