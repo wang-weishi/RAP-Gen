@@ -2,7 +2,7 @@
 
 This is the official PyTorch implementation for the following FSE 2023 paper from Salesforce Research:
 
-*Title*: [RAP-Gen: Retrieval-Augmented Patch Generation with CodeT5 for Automatic Program Repair](arxiv)
+*Title*: [RAP-Gen: Retrieval-Augmented Patch Generation with CodeT5 for Automatic Program Repair](https://arxiv.org/pdf/2309.06057)
 
 *Authors*: [Weishi Wang](https://www.linkedin.com/in/weishi-wang/)\*, [Yue Wang](https://yuewang-cuhk.github.io/)
 \*, [Shafiq Joty](https://raihanjoty.github.io/), and [Steven C.H. Hoi](https://sites.google.com/view/stevenhoi/home) (*
@@ -189,12 +189,22 @@ We follow [CodeT5+](https://github.com/salesforce/CodeT5/tree/main/CodeT5%2B/cod
 # Citation
 
 ```bibtex
-@inproceedings{wang2023rap,
- title = {RAP-Gen: Retrieval-Augmented Patch Generation with CodeT5 for Automatic Program Repair},
- booktitle = {Proceedings of FSE},
- year = {2023},
- author = {Weishi Wang and Yue Wang and Shafiq Joty, and Steven C.H. Hoi},
- url = {https://arxiv.org/abs/2309.06057},
+@inproceedings{10.1145/3611643.3616256,
+author = {Wang, Weishi and Wang, Yue and Joty, Shafiq and Hoi, Steven C.H.},
+title = {RAP-Gen: Retrieval-Augmented Patch Generation with CodeT5 for Automatic Program Repair},
+year = {2023},
+isbn = {9798400703270},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3611643.3616256},
+doi = {10.1145/3611643.3616256},
+abstract = {Automatic program repair (APR) is crucial to reduce manual debugging efforts for developers and improve software reliability. While conventional search-based techniques typically rely on heuristic rules or a redundancy assumption to mine fix patterns, recent years have witnessed the surge of deep learning (DL) based approaches to automate the program repair process in a data-driven manner. However, their performance is often limited by a fixed set of parameters to model the highly complex search space of APR. To ease such burden on the parametric models, in this work, we propose a novel Retrieval-Augmented Patch Generation framework (RAP-Gen) by explicitly leveraging relevant fix patterns retrieved from a codebase of previous bug-fix pairs. Specifically, we build a hybrid patch retriever to account for both lexical and semantic matching based on the raw source code in a language-agnostic manner, which does not rely on any code-specific features. In addition, we adapt a code-aware language model CodeT5 as our foundation model to facilitate both patch retrieval and generation tasks in a unified manner. We adopt a stage-wise approach where the patch retriever first retrieves a relevant external bug-fix pair to augment the buggy input for the CodeT5 patch generator, which synthesizes a ranked list of repair patch candidates. Notably, RAP-Gen is a generic APR framework that can flexibly integrate different patch retrievers and generators to repair various types of bugs. We thoroughly evaluate RAP-Gen on three benchmarks in two programming languages, including the TFix benchmark in JavaScript, and Code Refinement and Defects4J benchmarks in Java, where the bug localization information may or may not be provided. Experimental results show that RAP-Gen significantly outperforms previous state-of-the-art (SoTA) approaches on all benchmarks, e.g., boosting the accuracy of T5-large on TFix from 49.70\% to 54.15\% (repairing 478 more bugs) and repairing 15 more bugs on 818 Defects4J bugs. Further analysis reveals that our patch retriever can search for relevant fix patterns to guide the APR systems.},
+booktitle = {Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering},
+pages = {146–158},
+numpages = {13},
+keywords = {Automated program repair, Neural networks, Pretrained language models, Retrieval-augmented generation},
+location = {San Francisco, CA, USA},
+series = {ESEC/FSE 2023}
 }
 ```
 
